@@ -16,3 +16,6 @@
 | 交易战术与图表工具 | `memory/themes/trading-tactics-tools.md` |
 
 首次批量分类：2026-09-13
+
+## 元数据
+- 首次来源索引：`memory/episodes/2026-09-13-sources-index.md`

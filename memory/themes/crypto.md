@@ -6,3 +6,6 @@
   - BTC 大单/深度：Coinglass 等常需付费 API；可降级用免费站/浏览器
   - 关注预测市场叙事（如 Robinhood–Crypto.com 相关）
   - 长线 BTC/ETH 水位观点会跟踪特定 X 账号（额度不足时改为浏览器）
+
+## 相邻叙事（neocloud）
+- IREN：Serenity（@aleabitoreddit）早期轻多，约 60 亿 ATM 增发后转坚定看空（嫌稀释与融资质量），偏好 NBIS
