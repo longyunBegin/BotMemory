@@ -8,6 +8,7 @@
 | 身份与偏好 | `memory/profile/identity-preferences.md` |
 | 账号与工具 | `memory/profile/accounts-tools.md` |
 | 持续记录政策 | `memory/profile/standing-policy.md` |
+| 跨 bot 记忆能力 | `memory/profile/cross-bot-memory.md` |
 | 交易总则与持仓 | `memory/themes/trading-holdings.md` |
 | SIVE 投资研究 | `memory/themes/sive-investment.md` |
 | 光互连产业学习 | `memory/themes/optical-interconnect-learning.md` |
@@ -24,4 +25,4 @@
 - 首次来源索引：`memory/episodes/2026-09-13-sources-index.md`
 - 增量同步 2026-09-14：`memory/episodes/2026-09-14-sync.md`
 - 引用强化同步 2026-09-14：`memory/episodes/2026-09-14-cited-sync.md`
-| 跨 bot 记忆能力 | `memory/profile/cross-bot-memory.md` |
+- 日常同步 2026-09-15 00:00 Asia/Shanghai：`memory/episodes/2026-09-15-midnight-sync.md`
