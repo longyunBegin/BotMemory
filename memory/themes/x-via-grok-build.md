@@ -11,5 +11,7 @@
 - 与旧约定关系：此前「X MCP 常 $0 → 浏览器抓取」仍可作备用，但**默认路径改为 Grok Build CLI**
 - 订阅前提：文档写明面向 SuperGrok / X Premium Plus 订阅用户
 
-## 未决
-- 账号登录是否已在本机完成（以 `~/.grok/auth.json` 是否存在且可用为准）
+## 登录状态（2026-09-14）
+- 已用设备码流程完成：`grok login --device-auth`
+- 签入邮箱：`ly1653812264@gmail.com`（与既有邮箱记忆一致）
+- `~/.grok/auth.json` 已存在；无头探测 `grok -p` 返回正常
