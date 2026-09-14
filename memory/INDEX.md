@@ -1,6 +1,7 @@
 # BotMemory 索引
 
 按**内容主题**分类（不按机器人）。来源为各助手本地记忆文件的提炼，日期以原文为准。
+写入标准：重要信息须**详细**且尽量带**引用**（来源助手 + `agents/<id>/memory/...` 路径 + 事实日期）。见 `memory/profile/standing-policy.md`。
 
 | 主题 | 路径 |
 |------|------|
@@ -22,3 +23,4 @@
 ## 元数据 / 同步 episode
 - 首次来源索引：`memory/episodes/2026-09-13-sources-index.md`
 - 增量同步 2026-09-14：`memory/episodes/2026-09-14-sync.md`
+- 引用强化同步 2026-09-14：`memory/episodes/2026-09-14-cited-sync.md`
