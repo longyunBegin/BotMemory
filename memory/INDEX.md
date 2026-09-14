@@ -21,3 +21,4 @@
 - 首次来源索引：`memory/episodes/2026-09-13-sources-index.md`
 
 | 持续记录政策 | `memory/profile/standing-policy.md` |
+| X 经 Grok Build CLI | `memory/themes/x-via-grok-build.md` |

@@ -11,3 +11,11 @@
 - SIVE：工作日 09:00 Asia/Shanghai 日研摘要
 - X：工作日 09:00 关注人投资研究早报（仅聊天交付）
 - 光互连：ECOC 2026 日报，9/20–24 每晚 20:00 Asia/Shanghai（有限期限）
+
+## X 访问路径（强制，2026-09-14）
+- **以后凡涉及 X（Twitter）链接与查询**：在记忆系统电脑安装 **Grok Build**（`grok` CLI），用 Yun Long 的账号登录；**一律走 Grok Build CLI**，不再优先用浏览器抓取或 X API/MCP。
+- 安装：`curl -fsSL https://x.ai/cli/install.sh | bash`（本机已装 `grok 1.0.30`，路径 `/home/box/.grok/bin/grok`）
+- 登录：`grok login`（默认 OAuth）或无浏览器环境用 `grok login --device-auth`
+- 凭据存于 `~/.grok/auth.json`（勿复制到聊天/共享目录）
+- 无头调用示例：`grok -p "…含 x.com 链接或要查的帖…"`
+- 账号上下文仍以 @lyAtomic / Premium Plus 或 SuperGrok 订阅为前提（Grok Build 面向该类订阅）
