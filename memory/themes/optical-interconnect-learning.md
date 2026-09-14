@@ -15,3 +15,9 @@
 ## 展会节奏
 - CIOE 2026（深圳）：关注 NPO 作 CPO 桥、800G 放量 / 1.6T 待配套等
 - ECOC 2026（马拉加，约 9/20–24）：SIVE booth 2106；曾订阅 9/20–24 每日短摘要（上海时间 20:00）
+
+## Ayar Labs 融资与 SIVE 暗示（约 2026-09-12）
+- Ayar Labs 约 2026-09 Series E 追加融资约 **$150M**（当年主融资累计约 **$650M**）
+- 新战略股东含 **Wiwynn**；既有叙事股东含 AMD、Alchip、Intel、MediaTek、NVIDIA
+- 公开叙事含 SuperNova 远程 ELS 进入 Wiwynn 机架级光互连；**未点名 SIVE**
+- 对 SIVE 含义：生态 + Wiwynn 机架路径抬升远程多波长 ELS **可选性**，但融资 ≠ PO；多源采购风险仍在；SIVE–Ayar 公开关系仍偏历史 CW DFB 阵列 / NRE·预量产，非已披露大批量订单
