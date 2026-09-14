@@ -24,3 +24,4 @@
 - 首次来源索引：`memory/episodes/2026-09-13-sources-index.md`
 - 增量同步 2026-09-14：`memory/episodes/2026-09-14-sync.md`
 - 引用强化同步 2026-09-14：`memory/episodes/2026-09-14-cited-sync.md`
+| 跨 bot 记忆能力 | `memory/profile/cross-bot-memory.md` |
