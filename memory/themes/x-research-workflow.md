@@ -24,3 +24,7 @@
 ## ESMT / NOR·SLC 叙事（2026-09-14）
 - (2026-09-14，X) 白话解读 Serenity（@aleabitoreddit）引用 TrendForce 2026-09 NOR/SLC NAND 价格展望：≥256Mb NOR 严重短缺、H2 涨幅约 **+90–110%**；SLC H2 约 **+70–75%**（更慢）。 〔引用：agents/55a49dcf-1e7b-4f26-9ba5-2035a1741690/memory/log/2026-09.md〕
 - (2026-09-14，X) 帖子用以推 **$ESMT（晶豪科）** 作高密度 NOR/SLC 受益者 vs 同业；助手定调为**二手价格展望 + 仓位 thesis**，关键核对点仍是**产品结构与 ASP 能否兑现**。 〔引用：agents/55a49dcf-1e7b-4f26-9ba5-2035a1741690/memory/log/2026-09.md〕
+
+## 2026-09-15 X 早报窗口
+- (2026-09-15，X) 浏览器只读抓取 Following：**60** 条帖；落盘 `/workspace/x-following-digest-2026-09-15.json`。 〔引用：agents/55a49dcf-1e7b-4f26-9ba5-2035a1741690/memory/log/2026-09.md〕
+- (2026-09-15，X) 主题摘录：NOR Flash 定价、Rubin Ultra **HBM 功耗**约束、美国破产潮、人民币中间价、AI 基建资本开支、韩国主权 AI、AVGO 目标价、加密/FOMC。 〔引用：agents/55a49dcf-1e7b-4f26-9ba5-2035a1741690/memory/log/2026-09.md〕

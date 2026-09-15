@@ -48,6 +48,20 @@
 - (2026-09-14，SIVE) 股本仍以公司登记 **356,740,332** 为准；StockAnalysis 等仍滞后约 339.39M → 市值口径常偏低（例：StockAnalysis mcap ~10.28B SEK vs IR 份额隐含 ~10.81B）。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
 - (2026-09-14，SIVE) **2026-09-05–14 无新公司 IR/PR**；最新 headline 仍是 9/3 Glasgow ~$30M / >1 亿颗 CW DFB（第三方 optics.org 9/8、Silicon Scotland 9/7 多为复述）。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
 
+
+## 行情与空头（2026-09-15 日更）
+- (2026-09-15，SIVE) SIVE.ST 收盘（周一 2026-09-14）：**SEK 27.38**（−9.64% vs 30.30；日区间 **26.94–28.44**；成交 StockAnalysis/Yahoo约 **561.6 万** vs DI约 **574.7 万**，口径冲突已记录）。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+- (2026-09-15，SIVE) OTC SIVEF：**USD 2.80**（约 −8.1%；成交 StockAnalysis约 **177 万** vs Yahoo约 **50 万**，口径冲突）。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+- (2026-09-15，SIVE) FI 合计空头 **4.42%**（截至 2026-09-11）；D.E. Shaw **0.76%**（截至 9/11，自 0.87% 回落）、Arrowstreet **0.68%**（截至 8/18）；Citadel 仍 <0.5% 公开门槛。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+- (2026-09-15，SIVE) 市值口径：StockAnalysis约 **9.29B SEK**（滞后份额 ~339.39M）vs DI约 **9,768 MSEK** / IR 份额 **356,740,332**。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+- (2026-09-15，SIVE) **2026-09-05–15 仍无新公司 IR/PR**；最新 headline 仍是 9/3 Glasgow ~$30M / >1 亿颗 CW DFB；DI 另列 DNB Carnegie **coverage discontinuation**（非公司 PR）。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+- (2026-09-15，Trade) 结构复盘（9/14 收）：跌破支撑带 **27.5–27.8**（日内低 **26.94**），价在 EMA20(~**31.1**) 下方；量约 **0.75×** 近 20 日均量（缩量重挫，非恐慌砸盘）。**9/10–11 反弹支撑假设已证伪**；下一眼 **25.82**，再坏看 **22**。 〔引用：agents/a8ee710b-bc09-4245-8946-75cf0d5647e6/memory/log/2026-09.md〕
+- (2026-09-15，SIVE) 观测窗口：2026-09-14–15 **未见** @aleabitoreddit 新的 SIVE/Sivers/SIVEF 帖；最新相关仍约 **9/11**（Innolight ASP / 「Sivers powers Innolight」投机叙事）。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+
+## Serenity 估值框架对照（2026-09-15）
+- (2026-09-15，SIVE) Serenity 模型口径（约 2026-04–05 框架）：忽略 TTM，按 **2027** 产能/客户/管道定价；Glasgow >100M CW DFB/yr ÷ 8 × 历史 ASP **$50–100**/array → 示意产能收入 **$625M–$1.25B**（非指引）；市场锚点约入场 **$1.3–1.4B**（3 月）、「今日合理 ~$30B」（4/30）、「一年内 $100B」（4/26）、LITE 式天花板 **$600–800B+**；引 CPO 激光 GM **55–65%**；读法约 **2028 Q4** 收入可到 **$500M+**。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+- (2026-09-15，SIVE) 用户以 Serenity 模型对照现价：SEK **27.38**（约 **$1.03B** mcap，按 ~356.7M 股）相对 Serenity 近端锚约 SEK **80**（$30B）与一年锚约 SEK **266**（$100B）呈大幅折价表述；助手注明 **PE 要等数亿美元级收入与利润（约 2028+）才有意义**，且锚点为高弹性叙事而非 IR。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+
 ## Serenity / 渠道核对叙事（2026-09-07–11）
 - (2026-09-14，SIVE) **CIOE 深圳渠道**（@aleabitoreddit 约 9/8，status/2097563877273989456，~30 万+浏览）：Sivers 正接触中国可插拔模组厂；激光涨价、供应紧；**70mW CW** 因 800G 需求尤其紧；引用 @SUOHA_AI、@awodias。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
 - (2026-09-14，SIVE) **Innolight 渠道**（约 9/11，status/2098358633960726788）：确认 70–200mW 激光 **ASP 上行**，Sivers 自述涨价 → 叙事支持可能的利润率扩张（二手展会/渠道核对，非产能公告）。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
