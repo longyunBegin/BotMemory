@@ -11,6 +11,7 @@
 | 跨 bot 记忆能力 | `memory/profile/cross-bot-memory.md` |
 | 交易总则与持仓 | `memory/themes/trading-holdings.md` |
 | SIVE 投资研究 | `memory/themes/sive-investment.md` |
+| Serenity（@aleabitoreddit）X 蒸馏 | `memory/themes/serenity-aleabitoreddit.md` |
 | 光互连产业学习 | `memory/themes/optical-interconnect-learning.md` |
 | 美股宏观与期权 | `memory/themes/us-macro-options.md` |
 | 加密货币 | `memory/themes/crypto.md` |
@@ -26,3 +27,4 @@
 - 增量同步 2026-09-14：`memory/episodes/2026-09-14-sync.md`
 - 引用强化同步 2026-09-14：`memory/episodes/2026-09-14-cited-sync.md`
 - 日常同步 2026-09-15 00:00 Asia/Shanghai：`memory/episodes/2026-09-15-midnight-sync.md`
+- Serenity X 蒸馏入库 2026-09-15：`memory/episodes/2026-09-15-serenity-distill.md`

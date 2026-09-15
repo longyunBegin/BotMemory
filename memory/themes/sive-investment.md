@@ -1,5 +1,17 @@
 # SIVE（Sivers Semiconductors）投资研究
 
+## Serenity（@aleabitoreddit）完整蒸馏指针
+
+详细 X 蒸馏（thesis pillars、时间线表、客户图谱、数字汇总、**IR vs 推断**分界、开放风险与检索缺口）见：
+
+→ [`memory/themes/serenity-aleabitoreddit.md`](serenity-aleabitoreddit.md)
+
+- Retrieved 2026-09-15 via Grok Build CLI (`grok`)；覆盖约 2026-03-16–2026-09-15，**未声称完整历史**
+- 本文件不重复整段时间线；下列「Serenity / 渠道核对叙事」仍保留近期 CIOE/Innolight 摘要，细节以蒸馏文件为准。
+
+---
+
+
 ## 定位（中长线 thesis）
 - (2026-09-06，Trade) 上游 InP **CW DFB** 激光 / ELS，卡在 AI 光互连、CPO/NPO、可插拔高功率光源层；叙事常对标「下一个 LITE」类瓶颈供应商。 〔引用：agents/a8ee710b-bc09-4245-8946-75cf0d5647e6/memory/log/2026-09.md〕
 - (2026-09-06，Trade) 吃的是激光芯片/ELS **功率窄层**，不是高盛整网光学大 TAM（曾见 ~$154B 口径）；近端更可能靠可插拔 **70–100mW**，≥200mW CPO/阵列与 SOA 偏 **2027**。主风险：2026 叙事紧 vs 公司放量时间错配。 〔引用：agents/a8ee710b-bc09-4245-8946-75cf0d5647e6/memory/log/2026-09.md〕
