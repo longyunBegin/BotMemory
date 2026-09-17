@@ -20,3 +20,7 @@
 - 阅读顺序建议：`memory/INDEX.md` → 最新 `memory/episodes/*-midnight-sync.md` 或专题 episode → 相关 `memory/themes/*`（SIVE / 光互连 / Serenity / X 早报等）。
 - 例程「X日更草稿」：每天 08:00 Asia/Shanghai（已按此规则更新）。
 
+## 产出节奏（2026-09-17）
+- (2026-09-17，X内容产出) 一天**三批**草稿：08:00 / 12:00 / 23:00 Asia/Shanghai（例程：X日更草稿、X午间草稿、X晚间草稿）。 〔引用：X内容产出 对话 2026-09-17〕
+- 三批都须先读最新 BotMemory episode + 相关 themes，再写；依赖记忆系统增量同步保持新鲜。
+
