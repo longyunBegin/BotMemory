@@ -14,3 +14,9 @@
 - 品牌与一人公司：`memory/themes/solopreneur-brand.md`
 - 身份偏好：`memory/profile/identity-preferences.md`
 - 研究向 X 流程（晨报消费侧）：`memory/themes/x-research-workflow.md`
+
+## 日更素材来源（2026-09-17 补充）
+- (2026-09-17，X内容产出) 日更草稿**必须先读** BotMemory/记忆系统里 Yun Long **当天或近几日**研究学习内容，再揉进框架帖；不能只写常青空话。 〔引用：X内容产出 对话 2026-09-17〕
+- 阅读顺序建议：`memory/INDEX.md` → 最新 `memory/episodes/*-midnight-sync.md` 或专题 episode → 相关 `memory/themes/*`（SIVE / 光互连 / Serenity / X 早报等）。
+- 例程「X日更草稿」：每天 08:00 Asia/Shanghai（已按此规则更新）。
+
