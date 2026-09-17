@@ -36,3 +36,6 @@
 
 ## 未决 / 开放问题
 - (2026-09-14，美股) 是否用 QQQ 月度 DCA 替代单票加仓？现金约 5k RMB 约束下如何排期？ 〔引用：agents/c5e37a16-bf66-475b-80ce-5a17fa1cb527/memory/log/2026-09.md〕
+
+## 2026-09-16 持仓观察（9/15 收盘，SIVE 日更交叉）
+- (2026-09-16，SIVE) **SIVE** 收 **27.00 SEK**（−1.39% vs 27.38；量约 **334 万**）；FI 空头合计 **4.38%**（截至 9/14）。OTC SIVEF **USD 2.73**（−2.64%）。细节与 Serenity 9/15 六帖见 `sive-investment.md`。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕

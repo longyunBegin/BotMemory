@@ -28,3 +28,14 @@
 ## 2026-09-15 X 早报窗口
 - (2026-09-15，X) 浏览器只读抓取 Following：**60** 条帖；落盘 `/workspace/x-following-digest-2026-09-15.json`。 〔引用：agents/55a49dcf-1e7b-4f26-9ba5-2035a1741690/memory/log/2026-09.md〕
 - (2026-09-15，X) 主题摘录：NOR Flash 定价、Rubin Ultra **HBM 功耗**约束、美国破产潮、人民币中间价、AI 基建资本开支、韩国主权 AI、AVGO 目标价、加密/FOMC。 〔引用：agents/55a49dcf-1e7b-4f26-9ba5-2035a1741690/memory/log/2026-09.md〕
+
+## 2026-09-16 X 早报窗口
+- (2026-09-16，X 早报产物) Following 窗口整理约 **49** 条实质帖（约过去 24h；广告/低信息已滤）；落盘 `/workspace/x-following-digest-2026-09-16-report.md`（X agent `memory/log` 当日未追加条目，本轮按 workspace 产物补录）。 〔引用：/workspace/x-following-digest-2026-09-16-report.md〕
+- (2026-09-16，X 早报产物) 主题摘录：@aleabitoreddit 谈 Credo **1.6T** 光收发器与 DustPhotonics/CRDO/高β光通信利率·空头压力；@PhotonCap 称 $MRVL 构建内存互连栈（重定时器→CXL 交换机→内存扩展）并与 Intel 互操作演示；SENKO/Advantest/VIAVI 合作 CPO 模块自动化测试（每通道 **200Gbps**、月产能超 **2.8 万**单元）；@SemiAnalysis_ 称 AMD MI355X 在代理推理性能/TCO 上缩小与 GB300 差距；人民币中间价至约 **2023-02-03** 以来最强；中国 1–8 月社零累计同比约 **+1.1%** 继续放缓。 〔引用：/workspace/x-following-digest-2026-09-16-report.md〕
+
+## 2026-09-17 X 早报窗口
+- (2026-09-17，X 早报产物) Following 窗口约过去 **19h**；筛选后约 **45** 条实质帖；X MCP 额度 **$0.00**，用已登录浏览器 @lyAtomic；落盘 `/workspace/x-following-digest-2026-09-17.json` + report。 〔引用：/workspace/x-following-digest-2026-09-17-report.md〕
+- (2026-09-17，X 早报产物) **加息落地**：美联储 **+25bp**，联邦基金目标区间升至 **3.75%–4.00%**；关注流称光通信相关（$AXTI/$LITE/$COHR/$AAOI/$CRDO 等）夜盘/盘后仍偏强，叙事「加息≠科技必跌」。 〔引用：/workspace/x-following-digest-2026-09-17-report.md〕
+- (2026-09-17，X 早报产物) **CW 激光瓶颈再强化（二手）**：转帖称富士康确认连续波激光是光子学最大瓶颈之一并愿投资保供；另有讨论 CPO 路径下用高功率 CW 替代复杂 EML、质疑 $LITE 护城河——对 $SIVE/InP 上游叙事偏加分，但仍需一手交叉验证。 〔引用：/workspace/x-following-digest-2026-09-17-report.md〕
+- (2026-09-17，X 早报产物) **NOR 整合**：华邦电子拟全现金约 **USD 11.2B** 收购英飞凌 NOR Flash / F-RAM，拟以 Spansion 品牌独立运营，目标约 **2027 H2** 交割（待监管）。 〔引用：/workspace/x-following-digest-2026-09-17-report.md〕
+- (2026-09-17，X 早报产物) 其他摘录：TrendForce 转述 SMIC 或因 EUV 受限推进 N7/N5 **BSPD**；韩国沉积设备关键零部件交期由约 4 个月拉长至最长约 **10** 个月；光智科技 6 英寸 InP 衬底获头部客户订单/批量交付（二手）；人民币中间价预估约 **6.7241**。 〔引用：/workspace/x-following-digest-2026-09-17-report.md〕

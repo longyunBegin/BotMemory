@@ -19,6 +19,7 @@
 | X 信息源与研究流程 | `memory/themes/x-research-workflow.md` |
 | 交易战术与图表工具 | `memory/themes/trading-tactics-tools.md` |
 | X 经 Grok Build CLI | `memory/themes/x-via-grok-build.md` |
+| X 内容产出（发帖） | `memory/themes/x-content-output.md` |
 
 首次批量分类：2026-09-13
 
@@ -29,5 +30,5 @@
 - 日常同步 2026-09-15 00:00 Asia/Shanghai：`memory/episodes/2026-09-15-midnight-sync.md`
 - Serenity X 蒸馏入库 2026-09-15：`memory/episodes/2026-09-15-serenity-distill.md`
 - 日常同步 2026-09-16 00:00 Asia/Shanghai：`memory/episodes/2026-09-16-midnight-sync.md`
-| X 内容产出（发帖） | `memory/themes/x-content-output.md` |
-| 2026-09-17 同步失败说明 | `memory/episodes/2026-09-17-midnight-sync-failed.md` |
+- 2026-09-17 同步失败说明（已由 catchup 替代）：`memory/episodes/2026-09-17-midnight-sync-failed.md`
+- 补跑增量同步 2026-09-17 catchup（替代失败午夜）：`memory/episodes/2026-09-17-catchup-sync.md`

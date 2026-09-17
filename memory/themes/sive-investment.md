@@ -69,3 +69,15 @@
 - (2026-09-10，SIVE) Citi 将激光/光纤比作「下一个 HBM」，点名 SIVE 与 LITE/AAOI/COHR/MTSI（@aleabitoreddit 9/9 帖，约 30–44 万浏览量级）；GS 光学模块预测上修（CPO 2026 出货砍 −33%、2027/28 +35%/+105%；光学 TAM $67.7B/$131.4B/$148.5B for 2026–28）亦被用来支撑 CW 名。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
 - (2026-09-04，SIVE) @aleabitoreddit 对 Glasgow >100M 产能的示意性收入天花板：**USD 625M–1.25B**/年（历史 ASP $50–100 per 8-laser array，**非指引**）；并引 TrendForce 全球 CW/EML 年产能约 **608.4M**。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
 - (2026-09-14，SIVE) 观测窗口：2026-09-12–14 **未见**新的实质性 @aleabitoreddit SIVE/光子学帖；最新相关约 9/11。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+
+## 行情与空头（2026-09-16 日更）
+- (2026-09-16，SIVE) SIVE.ST 收盘（周一 2026-09-15）：**SEK 27.00**（−1.39% vs 27.38；日区间 StockAnalysis约 **26.70–27.98** / Yahoo 低 **26.68** 冲突；成交 **3,339,142**）。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+- (2026-09-16，SIVE) OTC SIVEF：StockAnalysis 收 **USD 2.730**（−2.64%，成交 **728,144**）；Yahoo 图表仍显示 Sep 14 收 **2.804**、Sep 15 空值冲突。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+- (2026-09-16，SIVE) FI 合计空头 **4.38%**（截至 2026-09-14）；D.E. Shaw **0.76%**（截至 9/11）、Arrowstreet **0.68%**（截至 8/18）；Citadel 仍 <0.5% 公开门槛。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+- (2026-09-16，SIVE) 市值口径：StockAnalysis约 **9.16B SEK**（滞后份额 ~339.39M）vs IR 股本 **356,740,332**。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+- (2026-09-16，SIVE) **2026-09-05–16 仍无新公司 IR/PR**；最新 headline 仍是 9/3 Glasgow ~$30M / >1 亿颗 CW DFB。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+
+## Serenity / 渠道核对叙事（2026-09-15 帖，入库于 9/16 digest）
+- (2026-09-16，SIVE) @aleabitoreddit 于 **2026-09-15** 发六条实质 SIVE/光子学帖（status/2099962794015866924、2099968728180068647、2099984263823478830、2100008575229976995、2100009535264194890、2100011635884892576）：Digitimes CIOE 报道 + T1 激光同业 framing（约 **71k** 浏览）；TrendForce 产能相关；**CRDO 1.6T** 需外购 CW 激光 → 叙事上 SIVE 为供应商而非竞争对手；NBIS/AAOI 类比 2027 inflection；另有低证据 meme。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+- (2026-09-16，SIVE) Digitimes 文章已核对：digitimes.com/news/a20260914VL219（2026-09-15）。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+- (2026-09-16，SIVE) 观测：2026-09-16 当日未见新的 @aleabitoreddit SIVE 相关帖；最新匹配约 9/15 **16:59**。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
