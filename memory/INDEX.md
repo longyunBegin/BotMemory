@@ -32,3 +32,4 @@
 - 日常同步 2026-09-16 00:00 Asia/Shanghai：`memory/episodes/2026-09-16-midnight-sync.md`
 - 2026-09-17 同步失败说明（已由 catchup 替代）：`memory/episodes/2026-09-17-midnight-sync-failed.md`
 - 补跑增量同步 2026-09-17 catchup（替代失败午夜）：`memory/episodes/2026-09-17-catchup-sync.md`
+| AI 硬件研究网址清单 | `memory/themes/ai-hardware-research-sites.md` |

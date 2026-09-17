@@ -33,3 +33,7 @@
 - 身份偏好：`memory/profile/identity-preferences.md`
 - 研究向 X 流程：`memory/themes/x-research-workflow.md`
 - Serenity 蒸馏：`memory/themes/serenity-aleabitoreddit.md`
+
+## 必读外部研究站（2026-09-17）
+- (2026-09-17，Yun Long) 日更推文须参考 `memory/themes/ai-hardware-research-sites.md` 所列网址中的内容（来源帖 https://x.com/youngstockuser/status/2100243563686605005）。 〔引用：用户指令 2026-09-17〕
+
