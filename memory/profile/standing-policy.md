@@ -22,3 +22,9 @@
 
 ## 跨 bot 能力（2026-09-14）
 - 所有聊天 bot 须具备与记忆系统一致的记忆能力；详见 `memory/profile/cross-bot-memory.md`。
+
+## 同步时效（2026-09-17）
+- BotMemory 日常同步目标：每天 00:00 Asia/Shanghai。
+- 若 midnight 失败或明显延迟：记忆系统应在**白天尽快 catchup**，写出新 episode，供「X内容产出」08/12/23 三批日更使用。
+- 「X内容产出」缺新硬点时可请求补同步/摘要。
+
