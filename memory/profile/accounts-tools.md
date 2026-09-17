@@ -19,3 +19,9 @@
 - 凭据存于 `~/.grok/auth.json`（勿复制到聊天/共享目录）
 - 无头调用示例：`grok -p "…含 x.com 链接或要查的帖…"`
 - 账号上下文仍以 @lyAtomic / Premium Plus 或 SuperGrok 订阅为前提（Grok Build 面向该类订阅）
+
+## X 内容产出例程（2026-09-17，已入库 themes）
+- (2026-09-17，X内容产出) @lyAtomic 日更三批：**08:00 / 12:00 / 23:00** Asia/Shanghai；须先读最新 BotMemory 研究硬点再写；须参考 `memory/themes/ai-hardware-research-sites.md`。 〔引用：`memory/themes/x-content-output.md`；commits `a8cb095` / `6d4367a`〕
+
+## 持仓邮件脚手架（2026-09-17 白天，box 产物）
+- (2026-09-17，云服务机器人) box 上新建 `/workspace/portfolio-brief-bot`：拟工作日 **10:00** 邮件推送持仓收盘涨跌 HTML（腾讯云 SCF Timer + GLM 生成；当前 `brokerService` / `config/stocks.json` 为 **mock A 股示例**，**不是** Yun Long 实盘 MU/SNDK/SIVE 等持仓）。含 IBKR OAuth 尝试痕迹——**凭据勿入库**。 〔引用：`/workspace/portfolio-brief-bot/README.md`；目录 mtime 2026-09-17〕
