@@ -18,7 +18,7 @@
 | 一人公司与个人品牌 | `memory/themes/solopreneur-brand.md` |
 | X 信息源与研究流程 | `memory/themes/x-research-workflow.md` |
 | 交易战术与图表工具 | `memory/themes/trading-tactics-tools.md` |
-| X 经 Grok Build CLI | `memory/themes/x-via-grok-build.md` |
+| X 工具路径（Grok Build 已停用） | `memory/themes/x-via-grok-build.md` |
 | X 内容产出（发帖） | `memory/themes/x-content-output.md` |
 | AI 硬件研究网址清单 | `memory/themes/ai-hardware-research-sites.md` |
 

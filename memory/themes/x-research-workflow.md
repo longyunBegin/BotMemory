@@ -39,3 +39,5 @@
 - (2026-09-17，X 早报产物) **CW 激光瓶颈再强化（二手）**：转帖称富士康确认连续波激光是光子学最大瓶颈之一并愿投资保供；另有讨论 CPO 路径下用高功率 CW 替代复杂 EML、质疑 $LITE 护城河——对 $SIVE/InP 上游叙事偏加分，但仍需一手交叉验证。 〔引用：/workspace/x-following-digest-2026-09-17-report.md〕
 - (2026-09-17，X 早报产物) **NOR 整合**：华邦电子拟全现金约 **USD 11.2B** 收购英飞凌 NOR Flash / F-RAM，拟以 Spansion 品牌独立运营，目标约 **2027 H2** 交割（待监管）。 〔引用：/workspace/x-following-digest-2026-09-17-report.md〕
 - (2026-09-17，X 早报产物) 其他摘录：TrendForce 转述 SMIC 或因 EUV 受限推进 N7/N5 **BSPD**；韩国沉积设备关键零部件交期由约 4 个月拉长至最长约 **10** 个月；光智科技 6 英寸 InP 衬底获头部客户订单/批量交付（二手）；人民币中间价预估约 **6.7241**。 〔引用：/workspace/x-following-digest-2026-09-17-report.md〕
+
+- (2026-09-18，Yun Long) **停用 Grok Build**；晨报/单帖/链接一律优先浏览器（或有额度时的 X MCP），不再调用 `grok` CLI。 〔引用：用户指令 2026-09-18〕
