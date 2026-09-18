@@ -40,4 +40,15 @@
 - (2026-09-17，X 早报产物) **NOR 整合**：华邦电子拟全现金约 **USD 11.2B** 收购英飞凌 NOR Flash / F-RAM，拟以 Spansion 品牌独立运营，目标约 **2027 H2** 交割（待监管）。 〔引用：/workspace/x-following-digest-2026-09-17-report.md〕
 - (2026-09-17，X 早报产物) 其他摘录：TrendForce 转述 SMIC 或因 EUV 受限推进 N7/N5 **BSPD**；韩国沉积设备关键零部件交期由约 4 个月拉长至最长约 **10** 个月；光智科技 6 英寸 InP 衬底获头部客户订单/批量交付（二手）；人民币中间价预估约 **6.7241**。 〔引用：/workspace/x-following-digest-2026-09-17-report.md〕
 
+
+## 2026-09-18 X 早报窗口
+- (2026-09-18，X 早报产物) Following 窗口约过去 **20h**；筛选后约 **52** 条实质帖；X MCP 额度 **$0.00**，用已登录浏览器 @lyAtomic；落盘 `/workspace/x-following-digest-2026-09-18.json` + raw + report。X agent `55a49dcf…/memory/log` 仍停在 9/15，本轮按 workspace 产物补录。 〔引用：/workspace/x-following-digest-2026-09-18-report.md〕
+- (2026-09-18，X 早报产物) **存储短缺公开化（二手）**：@aleabitoreddit 周 TLDR——英特尔 CEO 称**部分内存**价格已涨 **5–7 倍**，并警告短缺或在 **2027 年恶化**；叙事受益点名 **$SNDK / $MU / 三星**；同帖另提 $GFS 与 $MRVL 扩展 **SiGe** 协议（可插拔/NPO/CPO）。@damnang2 呼应「自定义内存 / 内存墙」从观点走向峰会公开讨论（模型规模约每两年 ×240 vs 内存带宽/容量）。涨价倍数与「2027 恶化」仍是高管口头+二手汇总，需按 HBM/NAND/legacy 分品类核对。原帖 https://x.com/aleabitoreddit/status/2100735673561174047 〔引用：同 report；serenity-check-20260918.txt〕
+- (2026-09-18，X 早报产物) **CPO vs 高端 CCL 时间表（情绪 vs 基本面）**：@freearkshaw 转述大摩——CPO 是长期演进风险，**2026–2028** 受成本/良率/可靠性/散热制约，难以全面替代 AI 系统高端高速 CCL；另帖称 PCB 利空逻辑上伤 CCL、现实上约 2 年影响有限 → 短期资金更愿往「光」迁移。 〔引用：同 report；https://x.com/freearkshaw/status/2100741630802473224 等〕
+- (2026-09-18，X 早报产物) **InP 上游长约显性化**：$COHR 与 $AXTI 签署约 **3 年、6 英寸 InP** 协议（承诺约 **USD 2.23 亿** 保供扩产）；转述 $LITE 锁定 InP 供应至 **2031**。关注称昨夜 $AXTI/$LITE/$COHR 相对强势；$ALMU 约 **−14%** 提醒主题内部分化。 〔引用：同 report〕
+- (2026-09-18，X 早报产物) **CPO 测试瓶颈**：$FORM / $AEHR / $KEYS 被点名；回看 @damnang2 相关转帖称 $AEHR 拿下约 **USD 4100 万** 历史级生产订单（老化/测试从故事到订单验证）。 〔引用：同 report〕
+- (2026-09-18，X 早报产物) **设备交期**：转述芯片设备组件交货期翻倍有余，部分长达约 **40 个月**（与 $AMAT/$ASML/$LRCX 等工具交付延长同向）。SMIC N7/N5 **BSPDN** 线索延续（仍为二手）。 〔引用：同 report〕
+- (2026-09-18，X 早报产物) 其他：@Gaetano2026 可插拔→NPO/CPO 入门文点名含 **$SIVE**；@Pep_Invest 定制硅+光互连+内存支撑 $MRVL；日美芯片厂据称纳入约 **USD 5500 亿** 投资谈判框架（日经/路透二手）。 〔引用：同 report〕
+- (2026-09-18，X 早报产物 / Research 核对) Serenity 个人页复查两次（约 15:42 与 17:48 Asia/Shanghai）：**RESULT: NOTHING_NEW**——最新原创帖仍为 status/2100735673561174047（内存 5–7× TLDR）；无更新于该基线的帖/回复/转发。 〔引用：/workspace/serenity-check-result.txt；/workspace/serenity-check-20260918.txt〕
+
 - (2026-09-18，Yun Long) **停用 Grok Build**；晨报/单帖/链接一律优先浏览器（或有额度时的 X MCP），不再调用 `grok` CLI。 〔引用：用户指令 2026-09-18〕

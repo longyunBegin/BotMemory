@@ -34,3 +34,4 @@
 - 2026-09-17 同步失败说明（已由 catchup 替代）：`memory/episodes/2026-09-17-midnight-sync-failed.md`
 - 补跑增量同步 2026-09-17 catchup（替代失败午夜）：`memory/episodes/2026-09-17-catchup-sync.md`
 - 日常同步 2026-09-18 00:00 Asia/Shanghai（薄量核对）：`memory/episodes/2026-09-18-midnight-sync.md`
+- 日常同步 2026-09-19 00:00 Asia/Shanghai（含 9/18 X 早报补录）：`memory/episodes/2026-09-19-midnight-sync.md`

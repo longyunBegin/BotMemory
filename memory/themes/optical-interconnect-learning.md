@@ -30,3 +30,11 @@
 
 ## 相邻标的笔记
 - (2026-09-11，光互连) Aeva（AEVA）：FMCW lidar + 2026-08 Optical Connectivity（片上激光/ELSFP 面向 NPO/CPO）；具名云客户 JDA，初量 ~2027H2、爬坡 ~2028；2026Q2 收入仍约 **$6.1M**，持续大亏，6 月融资后流动性约 **$303M**（JDA/预量产阶段）。 〔引用：agents/e4a94e78-5384-42b4-acbb-1417fc731a9d/memory/log/2026-09.md〕
+
+## 2026-09-18 产业链增量（X 早报 + 晚间草稿硬点）
+- (2026-09-18，X 早报产物) **InP 衬底保供**：$COHR–$AXTI 约 **3 年 / 6″ InP**，承诺约 **USD 2.23 亿**；转述 $LITE InP 长约至 **2031**——上游「抢衬底」与 CW/激光卡点同属短缺叙事。 〔引用：/workspace/x-following-digest-2026-09-18-report.md〕
+- (2026-09-18，X 早报产物) **CPO 时间表辩论**：大摩（经转述）认为 2026–2028 CPO 难全面替代高端高速 CCL（成本/良率/可靠性/散热）；情绪上「PCB 利空 → 资金往光走」——封装形态与铜互连可并存交易，勿混成单一涨跌开关。 〔引用：同 report〕
+- (2026-09-18，X 早报产物) **测试/老化层**：$FORM / $AEHR / $KEYS；$AEHR 约 **USD 41M** 生产订单回响（二手回看）。设备组件交期部分至约 **40 个月**。 〔引用：同 report〕
+- (2026-09-18，X内容产出) ECOC 马拉加临近：议程把**封装形态**（CPO「From Industry Promise to Reality」等）与**光源形态**（Light Sources for AI Datacenters；Soitec 硅光 workshop 9/22 含 $LITE 高功率多波长 / CW-WDM MSA / OCI MSA）拆开读——两层时间线可错开。 〔引用：/workspace/x-drafts/2026-09-18-evening.md；$COHR 2026-09-08 PR 等公开议程〕
+- (2026-09-18，X内容产出) **$COHR POLS**（2026-09-17 PR 语境）：Pluggable Optical Line System 扩至全 C-band、QSFP、面向 800G ZR/ZR+，单纤对最多约 **32** 波长、宣称最高约 **25.6 Tbps**、链路约 **2–200 km**；公司称一般可供/大批量，ECOC booth **#2100**——属园区/DCI 线系统层，**不是**机柜内 CPO 同一格。 〔引用：/workspace/x-drafts/2026-09-18-evening.md〕
+- (2026-09-18，X内容产出) Needham（SEMICON Taiwan 后公开报道语境）把 CPO  freemium为 AI 网络至约 **2028** 的重要过渡，受益叠层至少点到 **$AXTI**（衬底）、**$COHR**、**$LITE**——强调分层（衬底→激光/器件→模块），非点单一赢家。 〔引用：同 draft〕

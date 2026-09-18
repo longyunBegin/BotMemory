@@ -39,3 +39,8 @@
 
 ## 2026-09-16 持仓观察（9/15 收盘，SIVE 日更交叉）
 - (2026-09-16，SIVE) **SIVE** 收 **27.00 SEK**（−1.39% vs 27.38；量约 **334 万**）；FI 空头合计 **4.38%**（截至 9/14）。OTC SIVEF **USD 2.73**（−2.64%）。细节与 Serenity 9/15 六帖见 `sive-investment.md`。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+
+## 2026-09-18 叙事交叉（X 早报 → 持仓）
+- (2026-09-18，X 早报产物) **$MU / $SNDK / DRAM 主题**：Serenity 转述 AI Infra Summit——英特尔 CEO 称部分内存涨价 **5–7×**、短缺或 **2027 恶化**，叙事受益点名 $SNDK/$MU/Samsung；与持仓清单及量能观察池中的 MU/SNDK/DRAM **同向**。落地前须拆 HBM/NAND/legacy 与合约价，勿把「部分内存」听成全品类。 〔引用：/workspace/x-following-digest-2026-09-18-report.md；https://x.com/aleabitoreddit/status/2100735673561174047〕
+- (2026-09-18，X 早报产物) **$MRVL**：同 TLDR 提 $GFS–$MRVL **SiGe** 扩容（可插拔/NPO/CPO）；@Pep_Invest 重申定制硅+光互连+内存长期逻辑——与既有「光互连 β 核心暴露」读法一致，仍非新财报指引。 〔引用：同 report〕
+- (2026-09-18，同步注) Trade / 美股 agent `memory/log` 自 9/15 后**无新收盘价条目**；本轮不虚构 9/17–18 个股价位。
