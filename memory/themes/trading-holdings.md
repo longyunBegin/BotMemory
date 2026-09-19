@@ -44,3 +44,9 @@
 - (2026-09-18，X 早报产物) **$MU / $SNDK / DRAM 主题**：Serenity 转述 AI Infra Summit——英特尔 CEO 称部分内存涨价 **5–7×**、短缺或 **2027 恶化**，叙事受益点名 $SNDK/$MU/Samsung；与持仓清单及量能观察池中的 MU/SNDK/DRAM **同向**。落地前须拆 HBM/NAND/legacy 与合约价，勿把「部分内存」听成全品类。 〔引用：/workspace/x-following-digest-2026-09-18-report.md；https://x.com/aleabitoreddit/status/2100735673561174047〕
 - (2026-09-18，X 早报产物) **$MRVL**：同 TLDR 提 $GFS–$MRVL **SiGe** 扩容（可插拔/NPO/CPO）；@Pep_Invest 重申定制硅+光互连+内存长期逻辑——与既有「光互连 β 核心暴露」读法一致，仍非新财报指引。 〔引用：同 report〕
 - (2026-09-18，同步注) Trade / 美股 agent `memory/log` 自 9/15 后**无新收盘价条目**；本轮不虚构 9/17–18 个股价位。
+
+
+## 2026-09-19 叙事交叉（X 早报 → 持仓）
+- (2026-09-19，X 早报产物) **$MU / $SNDK**：读法从「现货涨价曲线」细化到**锁价池 vs 浮动池**——若多年供应协议占比高，现货弹性对报表不再 1:1；与 9/18「部分内存 5–7× / 2027 短缺」叙事同链但框架更深一层。仍非公司 IR 披露的锁价占比。 〔引用：/workspace/x-following-digest-2026-09-19-report.md；午间草稿 `/workspace/x-drafts/2026-09-19-noon.md`〕
+- (2026-09-19，X 早报产物) **$MRVL**：二手称数据中心营收约 **¾+**、挂钩 1.6T 光学——与既有「光互连 β 核心暴露」一致；与周一 ECOC「可插拔/NPO/CPO」议程是**另一层**（收入结构 vs 封装形态怎么卖）。仍非新分部指引。 〔引用：同 report〕
+- (2026-09-19，同步注) Trade / 美股 / SIVE agent `memory/log` 自 9/15–16 后**仍无新收盘价**；本轮不虚构周末个股价位。

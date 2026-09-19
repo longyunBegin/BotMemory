@@ -11,3 +11,8 @@
 
 ## 相邻叙事（neocloud）
 - (2026-09-06，Trade) IREN：Serenity（@aleabitoreddit）早期轻多，约 **60 亿** ATM 增发后转坚定看空（嫌稀释与融资质量），偏好 **NBIS**；对照其 SIVE「重仓卡点」叙事。 〔引用：agents/a8ee710b-bc09-4245-8946-75cf0d5647e6/memory/log/2026-09.md〕
+
+
+## 2026-09-19 关注流摘录（薄）
+- (2026-09-19，X 早报产物) Cathie Wood 反驳「BTC 死猫跳」，强调 AI×比特币叙事。 〔引用：/workspace/x-following-digest-2026-09-19-report.md；https://x.com/CathieDWood/status/2101107549814620659〕
+- (2026-09-19，X 早报产物) @KillaXBT 个人多空路径披露（曾在约 123k→80k 等区间做空，现约 **62.6k** 做多并在约 **76.4k** 子账户加多）——个人仓位非共识。 〔引用：同 report〕

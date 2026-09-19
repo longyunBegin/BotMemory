@@ -38,3 +38,12 @@
 - (2026-09-18，X内容产出) ECOC 马拉加临近：议程把**封装形态**（CPO「From Industry Promise to Reality」等）与**光源形态**（Light Sources for AI Datacenters；Soitec 硅光 workshop 9/22 含 $LITE 高功率多波长 / CW-WDM MSA / OCI MSA）拆开读——两层时间线可错开。 〔引用：/workspace/x-drafts/2026-09-18-evening.md；$COHR 2026-09-08 PR 等公开议程〕
 - (2026-09-18，X内容产出) **$COHR POLS**（2026-09-17 PR 语境）：Pluggable Optical Line System 扩至全 C-band、QSFP、面向 800G ZR/ZR+，单纤对最多约 **32** 波长、宣称最高约 **25.6 Tbps**、链路约 **2–200 km**；公司称一般可供/大批量，ECOC booth **#2100**——属园区/DCI 线系统层，**不是**机柜内 CPO 同一格。 〔引用：/workspace/x-drafts/2026-09-18-evening.md〕
 - (2026-09-18，X内容产出) Needham（SEMICON Taiwan 后公开报道语境）把 CPO  freemium为 AI 网络至约 **2028** 的重要过渡，受益叠层至少点到 **$AXTI**（衬底）、**$COHR**、**$LITE**——强调分层（衬底→激光/器件→模块），非点单一赢家。 〔引用：同 draft〕
+
+
+## 2026-09-19 产业链增量（X 早报 + 三批日更硬点）
+- (2026-09-19，X内容产出·早) **ECOC 周一公开议程**：`$MRVL` Product Focus **2026-09-21 11:55**（Lian Qin）——Near-Packaged Optics for AI Scale-up Networks，显式对比**可插拔 / NPO / CPO**（带宽密度、功耗、部署弹性、可维护性、生态、TCO）。行业公开保留 NPO 中间格。 〔引用：/workspace/x-drafts/2026-09-19-morning.md；公司 ECOC 活动页〕
+- (2026-09-19，X内容产出·早) **测试层工序拆分（连续主题）**：探针/接触偏 `$FORM`、晶圆级老化偏 `$AEHR`（公司站 2026 年对领先硅光客户有 FOX-XP 全自动多晶圆 burn-in follow-on PR）、光电计量偏 `$KEYS`——勿合成单一「测试概念股」。 〔引用：同 morning draft；9/18 digest 测试层〕
+- (2026-09-19，X 早报产物) **$CIEN / 传输层**：目标价上调转述（见 `x-research-workflow`）→ 地图提醒：机柜内 CPO/NPO 是一格；园区、DCI、线系统与传输设备是另一格（与 9/18 `$COHR` POLS 分层同向）。 〔引用：/workspace/x-following-digest-2026-09-19-report.md；noon draft〕
+- (2026-09-19，X内容产出·晚) **ECOC 前夜听四层**（非一个「光学」词）：①封装形态（可插拔/NPO/CPO）；②光源形态（Light Sources for AI Datacenters workshop）；③拉远/相干层（`$COHR` Beyond 1.6T coherent-lite、scale-up/out/**scale-across**、DCI）；④标准与互通（周二「So Co-Packaged Optics here, let’s now talk about OCI」、CW-WDM 等）。 〔引用：/workspace/x-drafts/2026-09-19-evening.md；ecocexhibition.com Market Focus 时间表；$COHR 2026-09-08 ECOC PR〕
+- (2026-09-19，X内容产出·晚) **远程 ELS 再强化**：Light Sources workshop 口径——许多可扩展 Si/SiN/TFLN PIC 片上激光仍跟不上分立件 → 多数仍要**外置激光**；Ayar Labs × 纬颖（Wiwynn）公开合作：TeraPHY + SuperNova **远程**光源、**ELSFP** 形态（激光托盘与 ASIC 封装分开，强调可冷却/可维修/光纤管理）；当年融资累计约 **$650M**（含纬颖入股）抬生态可选性 ≠ PO。CPO/NPO = 光引擎贴不贴封装；ELS = 光子从哪来、坏了怎么换——两时钟可错开。 〔引用：同 evening draft；既有 9/12 Ayar Series E 笔记〕
+- (2026-09-19，X内容产出·晚) **「AI 需求」拆两钟**：实验室/买方**付钱与融资时钟**（OpenAI 媒体口径 2026–2030 负 FCF ~**$278B** / 算力基建 ~**$856B**）vs GPU/光模块/内存的 **BOM 与交期时钟**——需求叙事强 ≠ 设备商出货现金同步到位。 〔引用：同 evening draft；Reuters/FT 2026-09-18 转述〕

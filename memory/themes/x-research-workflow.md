@@ -52,3 +52,15 @@
 - (2026-09-18，X 早报产物 / Research 核对) Serenity 个人页复查两次（约 15:42 与 17:48 Asia/Shanghai）：**RESULT: NOTHING_NEW**——最新原创帖仍为 status/2100735673561174047（内存 5–7× TLDR）；无更新于该基线的帖/回复/转发。 〔引用：/workspace/serenity-check-result.txt；/workspace/serenity-check-20260918.txt〕
 
 - (2026-09-18，Yun Long) **停用 Grok Build**；晨报/单帖/链接一律优先浏览器（或有额度时的 X MCP），不再调用 `grok` CLI。 〔引用：用户指令 2026-09-18〕
+
+
+## 2026-09-19 X 早报窗口
+- (2026-09-19，X 早报产物) Following 窗口约过去 **21–22h**（周五→周六）；筛选后约 **44** 条实质帖；X MCP 额度 **$0.00**，用已登录浏览器 @lyAtomic；落盘 `/workspace/x-following-digest-2026-09-19.json` + raw + report。X agent `55a49dcf…/memory/log` 仍停在 **9/15**，本轮按 workspace 产物补录。周六交易日增量偏少，宏观与 AI 实验室叙事占比更高。 〔引用：/workspace/x-following-digest-2026-09-19-report.md〕
+- (2026-09-19，X 早报产物) **存储：合约结构 vs 现货**：@cherryPayment 强调 $SNDK 相当比例营收被**多年供应协议**锁量锁价 → 现货跌/涨对利润传导被削弱；并红旗流传「企业级 SSD 单季营收」量级（对照全球 NAND 年约 **700–800 亿**、企业级 SSD 年约 **245–280 亿**，精确亿美元二手数常不合理）。$MU/$SNDK「补涨」仍属交易情绪。关键帖 https://x.com/cherryPayment/status/2101111372566167910 等。 〔引用：同 report〕
+- (2026-09-19，X 早报产物) **$MRVL 定位重述（二手）**：同一作者梳理 Matt Murphy 并购（Cavium/Inphi/Innovium），称数据中心已占营收约 **¾+**；驱动挂钩超大规模 capex + **1.6T** 光模块；Inphi 作电光/DSP 发动机；另有 CSP 2026 capex「奔向 **6000 亿**以上」等顺风口推断——需对财报分部核对。 〔引用：同 report；https://x.com/cherryPayment/status/2101105676047012118〕
+- (2026-09-19，X 早报产物) **CPO/硅光测试瓶颈连续**：@PhotonCap 再次把 KGD 测试链指向 **$FORM / $AEHR / $KEYS**，光学侧 **$LITE / $COHR**——与 9/18 测试层主题连续而非新赛道。 〔引用：同 report；https://x.com/PhotonCap/status/2100712331978387809〕
+- (2026-09-19，X 早报产物) **$CIEN 目标价上调（转述）**：@Gaetano2026 称 Northland **$500→$550**、Barclays **$475→$548**、MS **$425→$450**，并称「昨天新闻」强化长期盈利框架——具体新闻原文未在样本展开；提醒园区/传输层与机柜 CPO/NPO 分开定价。 〔引用：同 report；https://x.com/Gaetano2026/status/2100710136595595516〕
+- (2026-09-19，X 早报产物) **AI 实验室双线**：FT 转述 OpenAI 至 **2030** 或烧掉约 **2800 亿美元**且严重负现金流（晚间草稿另引 Reuters/FT：**2026–2030** 累计负 FCF 约 **$278B**、算力/基建支出口径约 **$856B**——媒体转述、非审计）；Anthropic 侧「IPO 前发新模型」「IPO 或拖到中期选举后」「年底前约 **5GW** 算力」等多口径并存，需交叉验证。 〔引用：同 report；/workspace/x-drafts/2026-09-19-evening.md〕
+- (2026-09-19，X 早报产物) **SemiAnalysis 方法论**：@cattttang 转访 Dylan Patel——传统卖方难答「AI 实验室合计约 **3 万亿** ARR 从哪来」、CoWoS 产量与下一关注行业 → 供应链信息差仍在加深。 〔引用：同 report〕
+- (2026-09-19，X 早报产物) **中美会面名单舆情**：@_FORAB 汇总中方随访猜测含**中际旭创刘圣**等，美方国宴侧含黄仁勋、马斯克、库克、贝索斯、Sam Altman 等——媒体/猜测拼盘，名单可能变动；对光模块或有短期情绪催化想象。 〔引用：同 report；https://x.com/_FORAB/status/2101106427423281632〕
+- (2026-09-19，同步注) 本窗口**未见** @aleabitoreddit 新实质帖记入 digest；Serenity 基线仍停在 9/18 status/2100735673561174047（内存 5–7× TLDR）；9/19 **无**新的 serenity-check 产物。
