@@ -81,3 +81,9 @@
 - (2026-09-16，SIVE) @aleabitoreddit 于 **2026-09-15** 发六条实质 SIVE/光子学帖（status/2099962794015866924、2099968728180068647、2099984263823478830、2100008575229976995、2100009535264194890、2100011635884892576）：Digitimes CIOE 报道 + T1 激光同业 framing（约 **71k** 浏览）；TrendForce 产能相关；**CRDO 1.6T** 需外购 CW 激光 → 叙事上 SIVE 为供应商而非竞争对手；NBIS/AAOI 类比 2027 inflection；另有低证据 meme。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
 - (2026-09-16，SIVE) Digitimes 文章已核对：digitimes.com/news/a20260914VL219（2026-09-15）。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
 - (2026-09-16，SIVE) 观测：2026-09-16 当日未见新的 @aleabitoreddit SIVE 相关帖；最新匹配约 9/15 **16:59**。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/log/2026-09.md〕
+
+
+## 2026-09-20 叙事增量（非 IR / 非收盘）
+- (2026-09-20，X 早报产物 / Serenity) @aleabitoreddit 抛出 `$AVGO` **多年锁定** `$SIVE` 剩余商用 CW/DFB 激光产能的情景推演：可能无意卡住同依赖外购激光的 ASIC/CPO 路径（点名 `$MRVL` Celestial、AlChip、联发科、GUC/Ayar）；@cherryPayment 附和稀缺加剧。**框架推演，非订单/指引披露**；待核：客户结构、Broadcom/ASIC 侧公开采购线索、渠道价。原帖 https://x.com/aleabitoreddit/status/2101402656845808007 〔引用：/workspace/x-following-digest-2026-09-20-report.md；晚间草稿〕
+- (2026-09-20，X内容产出·午) ECOC 周双钟重申（公开时间线）：近端可插拔 70/100 mW + Jabil 1.6T beta ~Q4’26 / 量产 ~H1’27；远端 Glasgow 更高功率阵列/CPO·ELS ~2027 Q4；展会硬信号 booth **2106**（无 Market Focus 演讲）。 〔引用：/workspace/x-drafts/2026-09-20-noon.md〕
+- (2026-09-20，同步注) SIVE agent `memory/log` 最新仍停在 **2026-09-16**（收盘 SEK 27.00 / FI 空头 4.38%）；本轮无新收盘价、无新公司 IR/PR 文件。

@@ -64,3 +64,14 @@
 - (2026-09-19，X 早报产物) **SemiAnalysis 方法论**：@cattttang 转访 Dylan Patel——传统卖方难答「AI 实验室合计约 **3 万亿** ARR 从哪来」、CoWoS 产量与下一关注行业 → 供应链信息差仍在加深。 〔引用：同 report〕
 - (2026-09-19，X 早报产物) **中美会面名单舆情**：@_FORAB 汇总中方随访猜测含**中际旭创刘圣**等，美方国宴侧含黄仁勋、马斯克、库克、贝索斯、Sam Altman 等——媒体/猜测拼盘，名单可能变动；对光模块或有短期情绪催化想象。 〔引用：同 report；https://x.com/_FORAB/status/2101106427423281632〕
 - (2026-09-19，同步注) 本窗口**未见** @aleabitoreddit 新实质帖记入 digest；Serenity 基线仍停在 9/18 status/2100735673561174047（内存 5–7× TLDR）；9/19 **无**新的 serenity-check 产物。
+
+
+## 2026-09-20 X 早报窗口
+- (2026-09-20，X 早报产物) Following 窗口约过去 **12h**（周六→周日；继续下拉出现 9/16 旧帖故短于完整 24h）；筛选后约 **54** 条实质帖；X MCP 额度 **$0.00**，用已登录浏览器 @lyAtomic；落盘 `/workspace/x-following-digest-2026-09-20.json` + raw + report。X agent `55a49dcf…/memory/log` 仍停在 **9/15**，本轮按 workspace 产物补录。周日交易日增量偏少。 〔引用：/workspace/x-following-digest-2026-09-20-report.md〕
+- (2026-09-20，X 早报产物) **$SIVE 激光锁定博弈（框架推演，非订单）**：@aleabitoreddit status/2101402656845808007——若 `$AVGO` 为自用激光需求**多年锁定** `$SIVE` 剩余商用 CW/DFB 产能，可能无意卡住同依赖外购激光的 ASIC/CPO 路径（点名 `$MRVL` Celestial、AlChip、联发科、GUC/Ayar 等常与 `$NVDA` 部署同向）；建议语气是「用零花钱锁剩余商用供应」。@cherryPayment 跟帖：若 AVGO 也抢则「稀缺无法想象」。**情景推演 / 产业博弈提醒，非成交披露**。 〔引用：同 report；https://x.com/aleabitoreddit/status/2101402656845808007；https://x.com/cherryPayment/status/2101479837575610875〕
+- (2026-09-20，X 早报产物) **存储短缺叙事对撞（两池）**：上游/AI 侧——@PhotonCap 汇总 NVDA CFO 称内存价格「极端」、或延续至 **2028** 并压缩短期毛利率至约 **71–72%**；SK 海力士 HBM 份额约 **50%**、供需平衡或难早于 **2030**；`$MU` **2026 HBM 已售罄**、转述市盈率约 **6.6**。PC/OEM 侧——@jukan05 长转宏碁董事长陈俊圣：驳「涨价喊到 2027」为寡头公开信号、否认永久短缺（中国产能进入）、预计宏碁 **2027** 年 SSD/内存成本低于今年、组件价或 **2027 年中**触顶后趋稳。读法：**HBM/服务器级 vs PC/消费级 DRAM·SSD 可并存为不同池子**。 〔引用：同 report；https://x.com/PhotonCap/status/2101471412376735999；https://x.com/jukan05/status/2101475403949023306〕
+- (2026-09-20，X 早报产物) **拥挤交易**：@KobeissiLetter 引美银 **9/4–9/10** 调查——**53%** 全球基金经理视「做多全球半导体」为最拥挤交易（连续第 **4** 个月第一）；**33%** 称公司过度投资（创纪录）；「做空港储」首次升至第二（**18%**）。 〔引用：同 report；https://x.com/KobeissiLetter/status/2101444654059118729〕
+- (2026-09-20，X 早报产物) **联邦 AI 绿灯 vs 地方 DC 暂停**：特朗普口径（多账号转述）设「AI 部队」/AI 沙皇、明确不放缓 AI、并称 AI 或占美 GDP 约 **25%**；@SemiAnalysis_：过去 **18** 个月超 **300** 个美国地方政府投票暂停数据中心建设，今夏加速——多为争取时间的临时许可冻结，不伤存量。 〔引用：同 report；https://x.com/SemiAnalysis_/status/2101419225474814214；https://x.com/outliercapx/status/2101453425669988672〕
+- (2026-09-20，X 早报产物) **AI 资本开支 / 诉讼噪音**：Druckenmiller（via unusual_whales）警告或处盈利泡沫；@PhotonCap 称 Anthropic/OpenAI/xAI/Google 遭反垄断诉讼、指控协调减缓 AI——**待核原始诉状与媒体原文**。 〔引用：同 report〕
+- (2026-09-20，X 早报产物) 其他半导薄摘：@PhotonCap 再推 Hybrid Bonding 地图（`$BESI`/`$BESIY`、`$ASMPT`、`$AMAT`、`$KLIC` 等）；@cherryPayment 将 `$INTC` 叙事升至 Agentic AI 下 CPU 角色上升（训练时代 CPU:GPU≈**1:8** 对照）。 〔引用：同 report〕
+- (2026-09-20，同步注) Serenity **有**新实质帖（AVGO×SIVE 锁定推演，见上）；无独立 serenity-check 文件（基线文件仍停在 9/18），本轮以 digest 原帖为准。
