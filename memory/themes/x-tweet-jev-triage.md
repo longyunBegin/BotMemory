@@ -3,7 +3,7 @@
 ## 政策
 - (2026-09-21，Yun Long) 接入 **Jev**（TypeSafe System One）；各 bot 检索 X 推文时须能判断**主题、是否水文、质量**。 〔引用：用户指令 2026-09-21〕
 - MCP：共享电脑上的 `user-jev`（`npx -y jev-mcp`）。密钥：`TYPESAFE_API_KEY` / `/home/box/.config/typesafe/key`（勿写入本仓库）。
-- 配套 skill：[X 推文 Jev 质检](sand-workflow:x-tweet-jev-triage)（若 pill 未刷新，skill id 以 workflows 目录为准）。
+- 配套 skill：[X 推文 Jev 质检](sand-workflow:x-jev)（若 pill 未刷新，skill id 以 workflows 目录为准）。
 - 仍禁止 Grok Build（见 `x-via-grok-build.md` / standing-policy）。
 
 ## 标准三题（一次 `jev_ask`）
