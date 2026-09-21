@@ -79,15 +79,6 @@
 
 
 ## 2026-09-21 X 早报窗口
-- (2026-09-21，X 早报产物) Following 窗口约一夜至周一早间；筛选后约 **24** 条实质帖（下拉较早出现 9/19 艺术/噪音帖，故短于完整 24h，与周日早报少量重叠）；X MCP 额度 **$0.00**，用已登录浏览器 @lyAtomic；落盘 `/workspace/x-following-digest-2026-09-21.json` + raw + report + meta。X agent `55a49dcf…/memory/log` 仍停在 **9/15**，本轮按 workspace 产物补录。周一开盘前增量偏叙事延续。 〔引用：/workspace/x-following-digest-2026-09-21-report.md；meta.txt〕
-- (2026-09-21，X 早报产物) **$INTC + Agentic CPU**：见 `trading-holdings` / 要点——CPU:GPU 1:8→1:4/1:1 推演；AMD EPYC ~30 周交货；Intel 配额~40%；$107→$117 技术路径。原帖 https://x.com/cherryPayment/status/2101418367190237538 〔引用：同 report〕
-- (2026-09-21，X 早报产物) **NeoCloud MW 执行折扣**：Nscale S-1 活跃 ~**55MW**；应对 $NBIS/$CRWV/$IREN 给执行折扣。原帖 https://x.com/cherryPayment/status/2101837532509929588 〔引用：同 report〕
-- (2026-09-21，X 早报产物) **光互连架构差**：PhotonLink（波长复用+模块共享带宽）vs $AAOI 制造端垂直整合；$AAOI 横盘 vs 售至 2027H2+。 〔引用：同 report〕
-- (2026-09-21，X 早报产物) **政策双轨 + 美中 AI 对话**：300+ 地方暂停令延续；贝森特 AI 对话；Polymarket 前沿放缓协议 ~**6%**。 〔引用：同 report〕
-- (2026-09-21，Research) **Serenity 核对** `serenity-check-20260921.txt`：**NEW_CONTENT**；baseline 自 2100735673561174047 推进至 newest **2101821887877959762**；实质帖含 AI 冒充负面 $SIVE（2101818303216013812）、中/英评论差+ECOC 关注（2101730902615486643）；9/20 AVGO×SIVE 锁定推演仍在清单。多数当日帖为非实质回复。 〔引用：/workspace/serenity-check-20260921.txt〕
-- (2026-09-21，同步注) 周日 AVGO×SIVE 锁定推演**未**在 9/21 关注流再现；无新的独立 ECOC 光互连 20:00 摘要文件。
-
-## 2026-09-21 X 早报窗口
 - (2026-09-21，X 早报产物) Following 窗口约一夜至周一早间（下拉后较早触到 9/19 艺术/噪音帖，故短于完整 24h，与周日早报少量重叠）；筛选后约 **24** 条实质帖；X MCP 额度 **$0.00**，用已登录浏览器 @lyAtomic；落盘 `/workspace/x-following-digest-2026-09-21.json` + raw + report + meta。X agent `55a49dcf…/memory/log` 仍停在 **9/15**，本轮按 workspace 产物补录。周一开盘前增量偏「叙事延续」。 〔引用：/workspace/x-following-digest-2026-09-21-report.md；meta.txt〕
 - (2026-09-21，X 早报产物) **$INTC + Agentic CPU（框架推演）**：@cherryPayment 长帖——训练时代 CPU:GPU≈**1:8**，Agent 时代外部 API/向量库/工作流/序列化/审计等顺序逻辑或把比例推向 **1:4** 乃至 **1:1**；转述 AMD 数据中心营收同比翻倍、EPYC 交货约 **30** 周且涨价，Intel 分销配额约仅满足 **40%**、18A/Xeon 节点或拖到 **2027**；技术面侧有人看突破 **$107** 后填补 **$117** 缺口；作者另给 **180 / 300** 目标价量级——**推演成分高，非订单披露**。对光互连主线交叉：若 Agentic 真抬 CPU，服务器 BOM/板级互连带宽结构会变，**不自动等于** CW-DFB 激光短缺加剧。关键帖 https://x.com/cherryPayment/status/2101418367190237538 、https://x.com/cherryPayment/status/2101837797082402962 〔引用：同 report〕
 - (2026-09-21，X 早报产物) **NeoCloud「纸面 MW vs 实际交付」折扣**：Nscale S-1 活跃约 **55MW**、指引曲线极陡；@cherryPayment 同意 55→百 MW 级几乎无人一次做对，公开市场应对 `$NBIS`/`$CRWV`/`$IREN` 同类执行风险给估值折扣——与 SemiAnalysis **300+** 地方 DC 暂停令同一条风险链（**MW 指引可信度**）。关键帖 https://x.com/cherryPayment/status/2101837532509929588 〔引用：同 report〕

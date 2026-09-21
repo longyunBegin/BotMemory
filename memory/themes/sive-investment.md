@@ -97,8 +97,3 @@
 - (2026-09-21，X 早报产物) 周日「AVGO 锁 SIVE」推演在 **9/21 关注流未再出现**（仍以 9/20 status/2101402656845808007 为基线）。 〔引用：/workspace/x-following-digest-2026-09-21-report.md〕
 - (2026-09-21，同步注) SIVE agent `memory/log` 最新仍停在 **2026-09-16**（收盘 SEK 27.00 / FI 空头 4.38%）；本轮无新收盘价、无新公司 IR/PR 文件。
 
-## 2026-09-21 叙事增量（非 IR / 非收盘）
-- (2026-09-21，X内容产出·午) **芯片刻度（公开报道）**：Electronics Weekly 2026-09-16——`$SIVE` 于 CIOE 亮 **100 mW** O-band CW DFB 单芯片，波长 **1270 / 1290 / 1310 / 1330 nm**，工作温区约 **20–75°C**、偏非气密封装；另有八通道阵列 **每通道 100 mW** CW、中心约 **1300 nm**、标 CW-WDM MSA。读法：毫瓦/波长/通道是一层；平台揭幕夜是另一层——先记刻度。 〔引用：/workspace/x-drafts/2026-09-21-noon.md；Electronics Weekly 2026-09-16〕
-- (2026-09-21，X内容产出·晚) **光源层叠在 $MRVL 带宽台阶下**：可插拔/NPO/CPO 路径许多仍吃 merchant CW/DFB；`$SIVE` 作公开标尺之一（CIOE 100 mW 级 + ECOC booth **2106**；近端 70/100 mW + Jabil 1.6T beta ~Q4’26）——**非订单披露**；演示比特率钟 ≠ 激光毫瓦/交期钟。 〔引用：/workspace/x-drafts/2026-09-21-evening.md〕
-- (2026-09-21，Research / Serenity 核对) @aleabitoreddit status/2101818303216013812：**实质性**——AI 低成本自主代理使 X/RDDT 等平台更脆弱；电话/IP/账户年龄验证无法解决 LLM 成本；并称有人用 AI 生成冒充传播 **$SIVE 负面信息**（信息战/声誉风险侧记，非基本面 IR）。另 status/2101730902615486643：关注 Bessent/何立峰会谈及 ECOC 上 **$LITE/$MRVL/$SIVE** 时，疑惑中文帖 2K+ 评论 vs 英文帖约 50——平台分发观察。AVGO×SIVE 锁定帖（2101402656845808007）已在 9/20 入库，本轮仅更新核对基线 **NEWEST_COVERED_ID=2101821887877959762**。 〔引用：/workspace/serenity-check-20260921.txt〕
-- (2026-09-21，同步注) SIVE agent `memory/log` 最新仍停在 **2026-09-16**（收盘 SEK 27.00 / FI 空头 4.38%）；本轮无新收盘价、无新公司 IR/PR 文件。

@@ -62,7 +62,3 @@
 - (2026-09-21，X内容产出) **Jev 实操样例**（午/晚批公开 PR 摘录质检，均 theme=`optical_cpo`、非水文）：MACOM PR quality≈**2.55**；OIF/Converge Digest≈**2.05**；SIVE/Electronics Weekly≈**2.61**；$MRVL ECOC PR quality≈**2.33**（shuiwen≈0.11）——均 ≥1.5 门槛保留。题库见 `x-tweet-jev-triage.md`（白天 commit `8485508`）。 〔引用：noon/evening 草稿素材段〕
 - (2026-09-21，X内容产出) 晚间指定主题（agent 记忆）：整批围绕 `$MRVL` ECOC 演示 / Product Focus——**1.6T→3.2T**，并写清与 `$SIVE` merchant CW/DFB 供给层关联。 〔引用：evening.md 素材段〕
 
-## 2026-09-21 三批产出（已落盘）
-- (2026-09-21，X内容产出) 三批均完成并落盘：`/workspace/x-drafts/2026-09-21-morning.md`（约 08:12）、`…-noon.md`（约 12:07）、`…-evening.md`（约 23:40）；各批附配图（morning: demand-vs-supply / photonlink-scorecard / mrvl-two-layers；noon: macom-underlayer / oif-eei-power / sive-chip-dial；evening: 16t-to-32t / npo-theater / two-layers-path）。X MCP 全天 **$0.00**；午/晚对公开 PR 摘录跑过 Jev（均 `optical_cpo`、非水文、quality≥2.0）。 〔引用：上述草稿路径；stat mtime Asia/Shanghai〕
-- (2026-09-21，X内容产出) 当日刻意轮换：早=需求暂停头条 vs 激光/CPO 供给两钟 / PhotonLink Day-1 记分卡 / `$MRVL` 卖什么 vs 激光从哪来；午=MACOM 模拟层+铜 / OIF EEI 功耗菜单 / `$SIVE` 芯片刻度 vs 平台夜；晚=`$MRVL` 1.6T→3.2T 带宽台阶 / Product Focus 台上封装剧场 vs 台下激光钟 / 可插拔·NPO·CPO 上下两层——避开 9/20 已用的 scale-across、OCI、OIF 39 计数、AVGO×SIVE 锁激光细讲、存储两池、周一三间房标题等。 〔引用：各草稿「本批刻意避开」段〕
-- (2026-09-21，X内容产出) 晚间指定主题（agent 记忆）：整批围绕 `$MRVL` ECOC 演示 / Product Focus 的 **1.6T→3.2T** 带宽升级，并写清与 `$SIVE` merchant CW/DFB 供给层关联。 〔引用：evening.md 素材段〕
