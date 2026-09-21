@@ -52,3 +52,9 @@ Levels（低→高，index 0–3）:
 ## 用法提示
 - 拉帖仍走浏览器或有额度时的 X MCP；**拉完用 Jev 过滤**再写早报/入库。
 - 大批量：`jev_triage`（path/text 逐条）。
+
+## 2026-09-21 午/晚公开 PR 质检样例（X内容产出）
+- (2026-09-21，X内容产出) MACOM ECOC demo PR 摘录 → theme=`optical_cpo`、非水文、quality≈**2.55**（保留）。 〔引用：/workspace/x-drafts/2026-09-21-noon.md〕
+- (2026-09-21，X内容产出) OIF/Converge Digest EEI 摘录 → theme=`optical_cpo`、非水文、quality≈**2.05**（保留）。 〔引用：同 noon draft〕
+- (2026-09-21，X内容产出) SIVE/Electronics Weekly 100 mW 摘录 → theme=`optical_cpo`、非水文、quality≈**2.61**（保留）。 〔引用：同 noon draft〕
+- (2026-09-21，X内容产出) `$MRVL` ECOC 2nm demos PR 摘录 → theme=`optical_cpo`、shuiwen≈**0.11**、quality≈**2.33**（≥1.5 门槛，保留）。 〔引用：/workspace/x-drafts/2026-09-21-evening.md〕

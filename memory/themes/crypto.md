@@ -22,3 +22,9 @@
 - (2026-09-20，X 早报产物) BTC：加息落地后自约 **75K** 弹至约 **82K** 附近但未有效突破；@Dragonhau66 看 82K 下方空单堆积；@KillaXBT 维持区间、对冲移至 **82–84K**，同时承认强势「难忽视」（利空叙事下扫低后约 **+6%** 日阳）。 〔引用：/workspace/x-following-digest-2026-09-20-report.md；https://x.com/KillaXBT/status/2101425900608688135〕
 - (2026-09-20，X 早报产物) @Morris_LT 长文框架：机构占收费节点、AI Agent 交易、加密作 AI 价值层、山寨→资产代币化——框架向，非短线信号。 〔引用：同 report〕
 - (2026-09-20，X 早报产物) Kalshi 称特斯拉与 SpaceX **2028** 前合并概率约 **70%**——情绪/娱乐口径。 〔引用：同 report〕
+
+
+## 2026-09-21 关注流摘录（薄）
+- (2026-09-21，X 早报产物) PancakeSwap 高滑点 / 另换 DEX（@PhD_CDS）——微观流动性噪音。 〔引用：/workspace/x-following-digest-2026-09-21-report.md〕
+- (2026-09-21，X 早报产物) Polygon 故障致 Polymarket 仅取消模式——周末条目延续。 〔引用：同 report〕
+- (2026-09-21，X 早报产物) Grok 评 Peter Schiff 反 BTC 与 SchiffGold 利益绑定——人物侧记。 〔引用：同 report〕

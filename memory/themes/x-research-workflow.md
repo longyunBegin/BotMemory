@@ -76,3 +76,23 @@
 - (2026-09-20，X 早报产物) 其他半导薄摘：@PhotonCap 再推 Hybrid Bonding 地图（`$BESI`/`$BESIY`、`$ASMPT`、`$AMAT`、`$KLIC` 等）；@cherryPayment 将 `$INTC` 叙事升至 Agentic AI 下 CPU 角色上升（训练时代 CPU:GPU≈**1:8** 对照）。 〔引用：同 report〕
 - (2026-09-20，同步注) Serenity **有**新实质帖（AVGO×SIVE 锁定推演，见上）；无独立 serenity-check 文件（基线文件仍停在 9/18），本轮以 digest 原帖为准。
 - (2026-09-21，Yun Long) 检索 X 推文后须用 **Jev** 判断主题/水文/质量；题库见 `memory/themes/x-tweet-jev-triage.md`；MCP `user-jev`。 〔引用：用户指令 2026-09-21〕
+
+
+## 2026-09-21 X 早报窗口
+- (2026-09-21，X 早报产物) Following 窗口约一夜至周一早间；筛选后约 **24** 条实质帖（下拉较早出现 9/19 艺术/噪音帖，故短于完整 24h，与周日早报少量重叠）；X MCP 额度 **$0.00**，用已登录浏览器 @lyAtomic；落盘 `/workspace/x-following-digest-2026-09-21.json` + raw + report + meta。X agent `55a49dcf…/memory/log` 仍停在 **9/15**，本轮按 workspace 产物补录。周一开盘前增量偏叙事延续。 〔引用：/workspace/x-following-digest-2026-09-21-report.md；meta.txt〕
+- (2026-09-21，X 早报产物) **$INTC + Agentic CPU**：见 `trading-holdings` / 要点——CPU:GPU 1:8→1:4/1:1 推演；AMD EPYC ~30 周交货；Intel 配额~40%；$107→$117 技术路径。原帖 https://x.com/cherryPayment/status/2101418367190237538 〔引用：同 report〕
+- (2026-09-21，X 早报产物) **NeoCloud MW 执行折扣**：Nscale S-1 活跃 ~**55MW**；应对 $NBIS/$CRWV/$IREN 给执行折扣。原帖 https://x.com/cherryPayment/status/2101837532509929588 〔引用：同 report〕
+- (2026-09-21，X 早报产物) **光互连架构差**：PhotonLink（波长复用+模块共享带宽）vs $AAOI 制造端垂直整合；$AAOI 横盘 vs 售至 2027H2+。 〔引用：同 report〕
+- (2026-09-21，X 早报产物) **政策双轨 + 美中 AI 对话**：300+ 地方暂停令延续；贝森特 AI 对话；Polymarket 前沿放缓协议 ~**6%**。 〔引用：同 report〕
+- (2026-09-21，Research) **Serenity 核对** `serenity-check-20260921.txt`：**NEW_CONTENT**；baseline 自 2100735673561174047 推进至 newest **2101821887877959762**；实质帖含 AI 冒充负面 $SIVE（2101818303216013812）、中/英评论差+ECOC 关注（2101730902615486643）；9/20 AVGO×SIVE 锁定推演仍在清单。多数当日帖为非实质回复。 〔引用：/workspace/serenity-check-20260921.txt〕
+- (2026-09-21，同步注) 周日 AVGO×SIVE 锁定推演**未**在 9/21 关注流再现；无新的独立 ECOC 光互连 20:00 摘要文件。
+
+## 2026-09-21 X 早报窗口
+- (2026-09-21，X 早报产物) Following 窗口约一夜至周一早间（下拉后较早触到 9/19 艺术/噪音帖，故短于完整 24h，与周日早报少量重叠）；筛选后约 **24** 条实质帖；X MCP 额度 **$0.00**，用已登录浏览器 @lyAtomic；落盘 `/workspace/x-following-digest-2026-09-21.json` + raw + report + meta。X agent `55a49dcf…/memory/log` 仍停在 **9/15**，本轮按 workspace 产物补录。周一开盘前增量偏「叙事延续」。 〔引用：/workspace/x-following-digest-2026-09-21-report.md；meta.txt〕
+- (2026-09-21，X 早报产物) **$INTC + Agentic CPU（框架推演）**：@cherryPayment 长帖——训练时代 CPU:GPU≈**1:8**，Agent 时代外部 API/向量库/工作流/序列化/审计等顺序逻辑或把比例推向 **1:4** 乃至 **1:1**；转述 AMD 数据中心营收同比翻倍、EPYC 交货约 **30** 周且涨价，Intel 分销配额约仅满足 **40%**、18A/Xeon 节点或拖到 **2027**；技术面侧有人看突破 **$107** 后填补 **$117** 缺口；作者另给 **180 / 300** 目标价量级——**推演成分高，非订单披露**。对光互连主线交叉：若 Agentic 真抬 CPU，服务器 BOM/板级互连带宽结构会变，**不自动等于** CW-DFB 激光短缺加剧。关键帖 https://x.com/cherryPayment/status/2101418367190237538 、https://x.com/cherryPayment/status/2101837797082402962 〔引用：同 report〕
+- (2026-09-21，X 早报产物) **NeoCloud「纸面 MW vs 实际交付」折扣**：Nscale S-1 活跃约 **55MW**、指引曲线极陡；@cherryPayment 同意 55→百 MW 级几乎无人一次做对，公开市场应对 `$NBIS`/`$CRWV`/`$IREN` 同类执行风险给估值折扣——与 SemiAnalysis **300+** 地方 DC 暂停令同一条风险链（**MW 指引可信度**）。关键帖 https://x.com/cherryPayment/status/2101837532509929588 〔引用：同 report〕
+- (2026-09-21，X 早报产物) **光互连架构分化**：PhotonLink 被描述为光纤上波长复用、模块共享带宽的平台架构（@ADLXBT via cherryPayment），刻意与「就是 WDM」区分；同账号澄清 `$AAOI` 垂直整合偏**制造端**。@Gaetano2026：$AAOI 股价约三周横盘，但管理层可见度已售至 **明年下半年及以后**——**价量背离待核**（优先核订单取消/延期与 ASP）。关键帖 https://x.com/cherryPayment/status/2101836910167536074 、https://x.com/Gaetano2026/status/2101414639863201826 〔引用：同 report〕
+- (2026-09-21，X 早报产物) **政策双轨延续**：@beauty_oe 整理特朗普反减速论（AI Force / AI 沙皇）；@SemiAnalysis_ 再量化 **300+** 美国地方暂停令（多为临时许可冻结、不伤存量）。Polymarket 转述财长贝森特：美中同意建 AI 对话；「2026 同意控制前沿步伐」定价约 **6%**——**对话 ≠ 放缓协议**。 〔引用：同 report；https://x.com/SemiAnalysis_/status/2101419225474814214；https://x.com/Polymarket/status/2101835701478105317〕
+- (2026-09-21，X 早报产物) **大科技性价比（个人仓位节奏）**：@darrencao2024 按 2027E PE 称 Meta≈**19**、谷歌≈**23**、亚马逊≈**24**、微软≈**25**，更偏爱亚马逊（AWS）并计划回落后加仓；谷歌 **320–340** 区间积累——非一致预期。 〔引用：同 report；https://x.com/darrencao2024/status/2101835786211434607〕
+- (2026-09-21，X 早报产物) 其他薄摘：家庭金融资产股票占比约 **49%**（美联储 via unusual_whales，与 9/20 同口径再出现）；台湾隔夜拆借开盘 **0.805%** 持平；WSJ 石油高管「燃料危机已至」；Tesla Optimus Gen 3 宁波供应链审计 + **$20k** 售价目标（二手待核）；杨安泽 ROI 担忧 + 年底泡沫破裂 Polymarket 约 **9%**；Bloomberg 转述五角大楼调查过度依赖 Palantir Maven 等与 2026-02-28 伊朗米纳布误击相关——AI 军用治理尾部。 〔引用：同 report〕
+- (2026-09-21，同步注) 周日「AVGO 锁 SIVE」推演今日关注流**未再出现**；Serenity 独立核对见 `serenity-check-20260921.txt`（RESULT: **NEW_CONTENT**，基线推进至 2101821887877959762）。

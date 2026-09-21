@@ -287,3 +287,15 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 
 本次工具单次条数有限，**未声称拉全时间线**。已覆盖 2026-03-16 起主要 $SIVE / CPO / 激光 / Innolight / Ayar / GFS SCALE / IREN 帖，以及 2026-09 内存/ESMT/Cramer 近帖。  
 **没有**检索到：完整 2025 年 $LITE/$AAOI 初帖原文、SIVE 更早 OMX 时期长文、IREN 2025 完整 thesis 原文、GF SCALE 技术白皮书级拆解。上表只收录已取回的主键与日期。
+
+
+---
+
+## 7. 增量核对（2026-09-21）
+
+- (2026-09-21，Research) `serenity-check-20260921.txt`：**RESULT: NEW_CONTENT**；`BASELINE_WAS=2100735673561174047` → `NEWEST_COVERED_ID=2101821887877959762`；核对时刻约 **09:43** Asia/Shanghai。 〔引用：/workspace/serenity-check-20260921.txt〕
+- (2026-09-21，Research) **实质帖**：
+  - status/2101818303216013812（原创）：AI 近零成本自主代理使 X/RDDT 更脆弱；现有验证挡不住 LLM 成本；有人用 AI 冒充传播 **$SIVE 负面**——声誉/信息战侧记。
+  - status/2101730902615486643（引用）：关注 Bessent/何立峰会谈及 ECOC 上 **$LITE/$MRVL/$SIVE** 时，对比中文帖 2K+ 评论 vs 英文帖约 50，并问该用哪家中国平台。
+  - status/2101402656845808007（9/20 原创，本轮复查覆盖）：AVGO 锁 SIVE 商用激光产能博弈——**已于 9/20–21 午夜同步入库**，此处不重写。
+- (2026-09-21，Research) **非实质**（已标 substantive=no，不入库硬点）：RDDT/World 虹膜短回复、Jev+Minecraft 引用、粉丝感谢/少回评论策略、格陵兰引用、量子供应链订阅帖等。

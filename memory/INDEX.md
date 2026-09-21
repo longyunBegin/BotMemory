@@ -21,6 +21,7 @@
 | X 工具路径（Grok Build 已停用） | `memory/themes/x-via-grok-build.md` |
 | X 内容产出（发帖） | `memory/themes/x-content-output.md` |
 | AI 硬件研究网址清单 | `memory/themes/ai-hardware-research-sites.md` |
+| X 推文 Jev 质检题库 | `memory/themes/x-tweet-jev-triage.md` |
 
 首次批量分类：2026-09-13
 
@@ -37,4 +38,4 @@
 - 日常同步 2026-09-19 00:00 Asia/Shanghai（含 9/18 X 早报补录）：`memory/episodes/2026-09-19-midnight-sync.md`
 - 日常同步 2026-09-20 00:00 Asia/Shanghai（含 9/19 X 早报与三批日更硬点）：`memory/episodes/2026-09-20-midnight-sync.md`
 - 日常同步 2026-09-21 00:00 Asia/Shanghai（含 9/20 X 早报与三批日更硬点）：`memory/episodes/2026-09-21-midnight-sync.md`
-| X 推文 Jev 质检题库 | `memory/themes/x-tweet-jev-triage.md` |
+- 日常同步 2026-09-22 00:00 Asia/Shanghai（含 9/21 X 早报与三批日更硬点）：`memory/episodes/2026-09-22-midnight-sync.md`

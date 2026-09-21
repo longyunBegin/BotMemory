@@ -54,3 +54,15 @@
 - (2026-09-20，X内容产出) 三批均完成并落盘：`/workspace/x-drafts/2026-09-20-morning.md`（约 08:13）、`…-noon.md`（约 12:07）、`…-evening.md`（约 23:04）；各批附配图（morning: scale-across / oci-after-cpo / two-weeks；noon: sun-mon / oif-interop / sive-two-clocks；evening: two-clocks-lock / memory-two-pools / monday-three-rooms）。X MCP 全天 **$0.00**。 〔引用：上述草稿路径；stat mtime Asia/Shanghai〕
 - (2026-09-20，X内容产出) 当日刻意轮换：早=scale-across 第三词 / OCI 互通格 / 马拉加 vs 峰会名单；午=周日光源日 vs 周一封装剧场 / OIF 39 家 booth #2126 / $SIVE 可插拔 vs Glasgow 双钟+booth 2106；晚=AVGO×SIVE 锁激光两钟 / 存储两池对撞 / 周一 Market Focus 三间房——避开 9/19 已用的 ECOC 四层总览、远程 ELS、OpenAI 两钟、CPO vs CCL、MRVL 三格、测试层 FORM/AEHR/KEYS、SNDK 锁价池、CIEN PT 等。 〔引用：各草稿「本批刻意避开」段〕
 - (2026-09-20，X内容产出) 草稿内部素材注明吃到 `2026-09-20-midnight-sync` episode + optical / sive / workflow themes；对外正文仍禁写关注流/digest/早报字样（延续 9/19–20 口径）。 〔引用：各草稿素材段；x-content-output 对外口径节〕
+
+
+## 2026-09-21 三批产出（已落盘）
+- (2026-09-21，X内容产出) 三批均完成并落盘：`/workspace/x-drafts/2026-09-21-morning.md`（约 08:12）、`…-noon.md`（约 12:07）、`…-evening.md`（约 23:40）；各批附配图（morning: demand-vs-supply / photonlink-scorecard / mrvl-two-layers；noon: macom-underlayer / oif-eei-power / sive-chip-dial；evening: 16t-to-32t / npo-theater / two-layers-path）。X MCP 全天 **$0.00**。 〔引用：上述草稿路径；stat mtime Asia/Shanghai〕
+- (2026-09-21，X内容产出) 当日刻意轮换：早=需求暂停 vs 激光/CPO 供给两钟 / PhotonLink Day-1 记分卡 / $MRVL 卖什么 vs 激光从哪来；午=MACOM 模拟层+铜 / OIF EEI 功耗菜单 / $SIVE 芯片刻度 vs 平台夜；晚=$MRVL 1.6T→3.2T 带宽台阶 / Product Focus NPO 剧场 / 三列封装上下两层——避开 9/20 已用的 scale-across、OCI、OIF 39 计数、AVGO×SIVE 锁激光细讲、存储两池、周一三间房标题等。 〔引用：各草稿「本批刻意避开」段〕
+- (2026-09-21，X内容产出) **Jev 实操样例**（午/晚批公开 PR 摘录质检，均 theme=`optical_cpo`、非水文）：MACOM PR quality≈**2.55**；OIF/Converge Digest≈**2.05**；SIVE/Electronics Weekly≈**2.61**；$MRVL ECOC PR quality≈**2.33**（shuiwen≈0.11）——均 ≥1.5 门槛保留。题库见 `x-tweet-jev-triage.md`（白天 commit `8485508`）。 〔引用：noon/evening 草稿素材段〕
+- (2026-09-21，X内容产出) 晚间指定主题（agent 记忆）：整批围绕 `$MRVL` ECOC 演示 / Product Focus——**1.6T→3.2T**，并写清与 `$SIVE` merchant CW/DFB 供给层关联。 〔引用：evening.md 素材段〕
+
+## 2026-09-21 三批产出（已落盘）
+- (2026-09-21，X内容产出) 三批均完成并落盘：`/workspace/x-drafts/2026-09-21-morning.md`（约 08:12）、`…-noon.md`（约 12:07）、`…-evening.md`（约 23:40）；各批附配图（morning: demand-vs-supply / photonlink-scorecard / mrvl-two-layers；noon: macom-underlayer / oif-eei-power / sive-chip-dial；evening: 16t-to-32t / npo-theater / two-layers-path）。X MCP 全天 **$0.00**；午/晚对公开 PR 摘录跑过 Jev（均 `optical_cpo`、非水文、quality≥2.0）。 〔引用：上述草稿路径；stat mtime Asia/Shanghai〕
+- (2026-09-21，X内容产出) 当日刻意轮换：早=需求暂停头条 vs 激光/CPO 供给两钟 / PhotonLink Day-1 记分卡 / `$MRVL` 卖什么 vs 激光从哪来；午=MACOM 模拟层+铜 / OIF EEI 功耗菜单 / `$SIVE` 芯片刻度 vs 平台夜；晚=`$MRVL` 1.6T→3.2T 带宽台阶 / Product Focus 台上封装剧场 vs 台下激光钟 / 可插拔·NPO·CPO 上下两层——避开 9/20 已用的 scale-across、OCI、OIF 39 计数、AVGO×SIVE 锁激光细讲、存储两池、周一三间房标题等。 〔引用：各草稿「本批刻意避开」段〕
+- (2026-09-21，X内容产出) 晚间指定主题（agent 记忆）：整批围绕 `$MRVL` ECOC 演示 / Product Focus 的 **1.6T→3.2T** 带宽升级，并写清与 `$SIVE` merchant CW/DFB 供给层关联。 〔引用：evening.md 素材段〕

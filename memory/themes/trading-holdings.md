@@ -57,3 +57,17 @@
 - (2026-09-20，X 早报产物) **$MU / $SNDK / DRAM**：从 9/18「部分内存 5–7×」与 9/19「锁价池 vs 浮动池」再推进到**上下游口径对撞**——NVDA/SK/MU HBM 紧到 2028–2030 叙事 vs 宏碁董事长否认永久短缺、看 2027 中 PC 侧成本峰值。交易含义：勿用 PC OEM「不永久缺」直接否 HBM/多年定价，也勿把 AI 侧口径当成全品类短缺开关。 〔引用：同 report；evening draft〕
 - (2026-09-20，X 早报产物) **$MRVL**：仍在「被外购激光卡脖子」情景名单内（Celestial 等），与 9/19「DC 营收约 ¾+」是不同层——收入结构 vs 激光供给博弈。 〔引用：同 report〕
 - (2026-09-20，同步注) Trade / 美股 / SIVE agent `memory/log` 自 9/15–16 后**仍无新收盘价**；本轮不虚构周末个股价位。
+
+
+## 2026-09-21 叙事交叉（X 早报 + 三批日更 → 持仓）
+- (2026-09-21，X 早报产物) **$INTC**：叙事从「存储洽谈」升到 **Agentic CPU 瓶颈**——@cherryPayment 推演 Agentic AI 把 CPU:GPU 从训练时代约 **1:8** 推向 **1:4** 乃至 **1:1**；转述 AMD DC 营收同比翻倍、EPYC 交货约 **30 周**且涨价；Intel 分销配额约仅满足 **40%**、18A/Xeon 节点或拖到 **2027**；技术面有人看站稳 **$107**→填补 **$117** 缺口。属**框架推演 + 图表观点**，非订单；对主线光互连含义是服务器 BOM/板级互连结构可能变，**不自动等于** CW-DFB 短缺加剧。 〔引用：/workspace/x-following-digest-2026-09-21-report.md；https://x.com/cherryPayment/status/2101418367190237538〕
+- (2026-09-21，X 早报产物) **$AAOI**：制造端垂直整合澄清 + 情绪「约三周横盘 vs 售罄至 2027H2+」——持仓池观察票；优先核订单取消/延期与 ASP，而非只看图表。 〔引用：同 report；https://x.com/Gaetano2026/status/2101414639863201826〕
+- (2026-09-21，X内容产出·早/晚) **$MRVL 两行记账**：①卖什么——定制硅 / 光互连 DSP / AI 网络 + ECOC Product Focus NPO（booth **#2002**）；②激光从哪来——若仍外购 CW/DFB，产能锁定情景可卡供给层（与 9/20 AVGO×SIVE 博弈名单同链）。高 DC 收入占比 **≠** 激光自供。晚间再叠公开 **1.6T→3.2T** 演示台阶（见 optical-interconnect）。 〔引用：/workspace/x-drafts/2026-09-21-morning.md；evening.md〕
+- (2026-09-21，X 早报产物) **NeoCloud 执行折扣**：$NBIS / $CRWV / $IREN 同类——Nscale S-1 活跃约 **55MW**、指引陡至 27–28 年；纸面 MW vs 实际交付 gap → 估值应给执行折扣。与 300+ 地方 DC 暂停令同一风险链（MW 指引可信度）。 〔引用：同 report；https://x.com/cherryPayment/status/2101837532509929588〕
+- (2026-09-21，同步注) Trade / 美股 / SIVE agent `memory/log` 自 9/15–16 后**仍无新收盘价**；本轮不虚构个股价位。
+
+## 2026-09-21 叙事交叉（X 早报 + 三批日更 → 持仓）
+- (2026-09-21，X内容产出·早/晚) **$MRVL**：强迫分两行——①「卖什么」：定制硅 / 光互连 DSP·电光 / AI 网络；ECOC booth **#2002**，Product Focus Near-Packaged Optics（可插拔/NPO/CPO）；公开 PR 带宽台阶 **1.6T→3.2T**（2nm **400G/lane** PAM4、「通往 3.2T」；2nm **1.6T** ZR + O-band coherent-lite；2nm **800G** ZR/ZR+ + MACsec；CPO 平台演示 **102.4 Tbps**、**200G/lane** 硅光；约 **38** 项演示）。②「激光从哪来」：若路径仍外购 CW/DFB，产能被谁先锁走是供给层情景——**非订单/非断供断言**；高 DC 收入占比 ≠ 激光自供。 〔引用：/workspace/x-drafts/2026-09-21-morning.md；evening.md；$MRVL ECOC PR / 活动页〕
+- (2026-09-21，X 早报产物) **$AAOI**：制造端垂直整合澄清 + 情绪帖「约三周横盘 vs 管理层售罄至 **2027H2+**」——价量背离时优先核取消/延期与 ASP，勿只看图表。 〔引用：/workspace/x-following-digest-2026-09-21-report.md〕
+- (2026-09-21，X 早报产物) **$INTC / NeoCloud**：Agentic CPU 比例推演与 Nscale **55MW** 执行折扣属相邻叙事层——对持仓主线是交叉观察（服务器 BOM/电力交付可信度），不是新 IR。 〔引用：同 report〕
+- (2026-09-21，同步注) Trade / 美股 / SIVE agent `memory/log` 自 9/15–16 后**仍无新收盘价**；本轮不虚构 9/17–21 个股价位（周一开盘后亦无 bot 落盘）。
