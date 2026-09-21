@@ -75,3 +75,4 @@
 - (2026-09-20，X 早报产物) **AI 资本开支 / 诉讼噪音**：Druckenmiller（via unusual_whales）警告或处盈利泡沫；@PhotonCap 称 Anthropic/OpenAI/xAI/Google 遭反垄断诉讼、指控协调减缓 AI——**待核原始诉状与媒体原文**。 〔引用：同 report〕
 - (2026-09-20，X 早报产物) 其他半导薄摘：@PhotonCap 再推 Hybrid Bonding 地图（`$BESI`/`$BESIY`、`$ASMPT`、`$AMAT`、`$KLIC` 等）；@cherryPayment 将 `$INTC` 叙事升至 Agentic AI 下 CPU 角色上升（训练时代 CPU:GPU≈**1:8** 对照）。 〔引用：同 report〕
 - (2026-09-20，同步注) Serenity **有**新实质帖（AVGO×SIVE 锁定推演，见上）；无独立 serenity-check 文件（基线文件仍停在 9/18），本轮以 digest 原帖为准。
+- (2026-09-21，Yun Long) 检索 X 推文后须用 **Jev** 判断主题/水文/质量；题库见 `memory/themes/x-tweet-jev-triage.md`；MCP `user-jev`。 〔引用：用户指令 2026-09-21〕
