@@ -39,3 +39,5 @@
 - 日常同步 2026-09-20 00:00 Asia/Shanghai（含 9/19 X 早报与三批日更硬点）：`memory/episodes/2026-09-20-midnight-sync.md`
 - 日常同步 2026-09-21 00:00 Asia/Shanghai（含 9/20 X 早报与三批日更硬点）：`memory/episodes/2026-09-21-midnight-sync.md`
 - 日常同步 2026-09-22 00:00 Asia/Shanghai（含 9/21 X 早报与三批日更硬点）：`memory/episodes/2026-09-22-midnight-sync.md`
+- 日常同步 2026-09-23 00:00 Asia/Shanghai（含 9/22 三批日更与量能/Serenity）：`memory/episodes/2026-09-23-midnight-sync.md`
+

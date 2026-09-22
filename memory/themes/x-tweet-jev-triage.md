@@ -58,3 +58,10 @@ Levels（低→高，index 0–3）:
 - (2026-09-21，X内容产出) OIF/Converge Digest EEI 摘录 → theme=`optical_cpo`、非水文、quality≈**2.05**（保留）。 〔引用：同 noon draft〕
 - (2026-09-21，X内容产出) SIVE/Electronics Weekly 100 mW 摘录 → theme=`optical_cpo`、非水文、quality≈**2.61**（保留）。 〔引用：同 noon draft〕
 - (2026-09-21，X内容产出) `$MRVL` ECOC 2nm demos PR 摘录 → theme=`optical_cpo`、shuiwen≈**0.11**、quality≈**2.33**（≥1.5 门槛，保留）。 〔引用：/workspace/x-drafts/2026-09-21-evening.md〕
+
+## 2026-09-22 早/午/晚公开 PR 质检样例（X内容产出）
+- (2026-09-22，X内容产出·早) `$LITE` ELSFP PR 摘录 → theme=`optical_cpo`、shuiwen≈0.06、quality≈**2.74**（保留）。 〔引用：/workspace/x-drafts/2026-09-22-morning.md〕
+- (2026-09-22，X内容产出·早) Genuine Optics 6.4T NPO → `optical_cpo`、0.10、**2.51**（保留）。 〔引用：同 morning〕
+- (2026-09-22，X内容产出·早) @cherryPayment INTC Agentic → `servers_power_storage`、0.12、**1.92**（≥1.5 保留）。 〔引用：同 morning〕
+- (2026-09-22，X内容产出·午) `$COHR` 周二议程 → `optical_cpo`、0.10、**2.51**；CUbIQ×COHR QKD → 0.11、**2.34**；VCSEL/UHP/FlexConnect → 0.14、**2.28**（均保留）。 〔引用：/workspace/x-drafts/2026-09-22-noon.md〕
+- (2026-09-22，X内容产出·晚) OIF 周三议程 → `optical_cpo`、0.08、**2.66**；`$AXTI`–Lumentum InP → 0.08、**2.78**；`$SIVE` booth 2106 双钟 → 0.08、**2.73**（均保留）。 〔引用：/workspace/x-drafts/2026-09-22-evening.md〕

@@ -97,3 +97,9 @@
 - (2026-09-21，X 早报产物) 周日「AVGO 锁 SIVE」推演在 **9/21 关注流未再出现**（仍以 9/20 status/2101402656845808007 为基线）。 〔引用：/workspace/x-following-digest-2026-09-21-report.md〕
 - (2026-09-21，同步注) SIVE agent `memory/log` 最新仍停在 **2026-09-16**（收盘 SEK 27.00 / FI 空头 4.38%）；本轮无新收盘价、无新公司 IR/PR 文件。
 
+## 2026-09-22 叙事 / 价位增量
+- (2026-09-22，Trade 量能产物) **SIVE.ST** 2026-09-21 收盘 **SEK 34.2**（**+10.32%**）；量比约 **0.62×**（缩量反弹）；相对 EMA20 在上；笔记「**收上阻力 32**」（突破既有约 30–32 观察区上沿）。OTC **SIVEF** 收 **USD 3.47**（**+8.78%**，量比约 0.22×）。 〔引用：/workspace/volume_report_analyzed.json；mtime ~2026-09-22 10:18 Asia/Shanghai〕
+- (2026-09-22，Research / Serenity) @aleabitoreddit status/2102062423499047004：同日盘面「CPU / 激光 / 内存 / 计算」齐动，点名 `$SIVE` **+10.32%**、`$AAOI` **+3.39%**、ams OSRAM **+24.61%** 等，归因叙述含 CPU:GPU 比率预期 + ECOC（如 `$MRVL` PR）——**舆情归因，非 IR**。 〔引用：/workspace/serenity-x-check.txt；https://x.com/aleabitoreddit/status/2102062423499047004〕
+- (2026-09-22，Research / Serenity) status/2102067535915123156（回复）：对 `$SIVE`/`$AAOI`「针对 **2027**」细微差别——Sivers 侧叙事约 **1 亿** CW DFB 产能 + **2** 家外部代工厂（合计或至约 **3 亿**），供应链映射指向更大超大规模；AAOI 侧约 **USD 4.71 亿** 收发器收入 + **40 万** ELS 单元、针对 **2028**……——**作者口径，非公司指引**。 〔引用：同 serenity-x-check〕
+- (2026-09-22，X内容产出·晚) **ECOC 收口硬信号**：公司日历 ECOC **9/21–23** booth **#2106**；公开 Market Focus **无** Sivers 演讲槽——硬信号看展位演示与共展商。双钟重申：近端可插拔 **70/100 mW** + Jabil 1.6T beta ~**Q4’26** / 量产 ~**H1’27**；远端 Glasgow ~**USD 30M**、年产能 **>1 亿** CW DFB、工程 **2026 H2**→投产 ~**2027 Q4**。 〔引用：/workspace/x-drafts/2026-09-22-evening.md〕
+- (2026-09-22，同步注) SIVE agent `memory/log` 最新仍停在 **2026-09-16**（当时收盘 SEK 27.00 / FI 空头 4.38%）；本轮收盘价来自 Trade 量能 JSON，**非** SIVE 助手日记；未见新公司 IR/PR 文件。

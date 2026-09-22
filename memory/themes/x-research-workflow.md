@@ -87,3 +87,8 @@
 - (2026-09-21，X 早报产物) **大科技性价比（个人仓位节奏）**：@darrencao2024 按 2027E PE 称 Meta≈**19**、谷歌≈**23**、亚马逊≈**24**、微软≈**25**，更偏爱亚马逊（AWS）并计划回落后加仓；谷歌 **320–340** 区间积累——非一致预期。 〔引用：同 report；https://x.com/darrencao2024/status/2101835786211434607〕
 - (2026-09-21，X 早报产物) 其他薄摘：家庭金融资产股票占比约 **49%**（美联储 via unusual_whales，与 9/20 同口径再出现）；台湾隔夜拆借开盘 **0.805%** 持平；WSJ 石油高管「燃料危机已至」；Tesla Optimus Gen 3 宁波供应链审计 + **$20k** 售价目标（二手待核）；杨安泽 ROI 担忧 + 年底泡沫破裂 Polymarket 约 **9%**；Bloomberg 转述五角大楼调查过度依赖 Palantir Maven 等与 2026-02-28 伊朗米纳布误击相关——AI 军用治理尾部。 〔引用：同 report〕
 - (2026-09-21，同步注) 周日「AVGO 锁 SIVE」推演今日关注流**未再出现**；Serenity 独立核对见 `serenity-check-20260921.txt`（RESULT: **NEW_CONTENT**，基线推进至 2101821887877959762）。
+
+## 2026-09-22 窗口（无 Following digest；日更 + Serenity）
+- (2026-09-22，同步注) **无** `/workspace/x-following-digest-2026-09-22*` 落盘；X agent `55a49dcf…/memory/log` 仍停在 **9/15**。本轮产业硬点来自 X内容产出三批公开 PR/公司日历（见 `optical-interconnect-learning` / `x-content-output`），不虚构早报。X MCP 额度仍 **$0.00**（各草稿素材段一致）。
+- (2026-09-22，Research) Serenity 个人页核对：`serenity-x-check.txt` → **NOTHING_NEW**（基线=newest `2102202555015295321`）；相对 BotMemory 仍有未入库实质帖，已摘入 `serenity-aleabitoreddit.md` §7b。 〔引用：/workspace/serenity-x-check.txt〕
+- (2026-09-22，X内容产出) 日更素材路径延续：BotMemory 昨夜 episode + 公开 IR/PR + Jev；对外正文仍禁写关注流/digest/早报字样。 〔引用：/workspace/x-drafts/2026-09-22-*.md〕
