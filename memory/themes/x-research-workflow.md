@@ -92,3 +92,19 @@
 - (2026-09-22，同步注) **无** `/workspace/x-following-digest-2026-09-22*` 落盘；X agent `55a49dcf…/memory/log` 仍停在 **9/15**。本轮产业硬点来自 X内容产出三批公开 PR/公司日历（见 `optical-interconnect-learning` / `x-content-output`），不虚构早报。X MCP 额度仍 **$0.00**（各草稿素材段一致）。
 - (2026-09-22，Research) Serenity 个人页核对：`serenity-x-check.txt` → **NOTHING_NEW**（基线=newest `2102202555015295321`）；相对 BotMemory 仍有未入库实质帖，已摘入 `serenity-aleabitoreddit.md` §7b。 〔引用：/workspace/serenity-x-check.txt〕
 - (2026-09-22，X内容产出) 日更素材路径延续：BotMemory 昨夜 episode + 公开 IR/PR + Jev；对外正文仍禁写关注流/digest/早报字样。 〔引用：/workspace/x-drafts/2026-09-22-*.md〕
+
+
+## 2026-09-23 X 早报窗口
+- (2026-09-23，X 早报产物) Following 窗口约 **2026-09-22 21:00–2026-09-23 09:20** Asia/Shanghai；筛选后约 **20** 条实质帖；X MCP 额度 **$0.00**，浏览器 @lyAtomic；落盘 `/workspace/x-following-digest-2026-09-23.json` + raw + report + meta。X agent `55a49dcf…/memory/log` 仍停在 **9/15**，本轮按 workspace 产物补录。隔夜密度偏低；增量主线偏 **Open CPX / SiPh+InP 开放代工 / EMIB 良率 / 科创板 IPO 结构**。 〔引用：/workspace/x-following-digest-2026-09-23-report.md；meta.txt〕
+- (2026-09-23，X 早报产物) **Open CPX / Passage L20 BiDi**（@PhotonCap 转 Lightmatter 9/17 PR）——规格见 `optical-interconnect-learning`；厂商 PR+规格解读，非客户导入。关键帖 https://x.com/PhotonCap/status/2102566017360949665 〔引用：同 report〕
+- (2026-09-23，X 早报产物) **GF×SMART ↔ `$SIVE` 叙事边界**（@dubidubabap via SoFire）——见 `sive-investment`；代工 PR ≠ 锁单/断供。关键帖 https://x.com/dubidubabap/status/2102548669178531993 〔引用：同 report〕
+- (2026-09-23，X 早报产物) **Intel EMIB 基板良率**（@trendforce 二手）：上季度约 **30%→45%**，供应链目标 **2027Q1** 约 **60%**；外部客户兴趣↑——过程指标，量产/ASP 未到；待核官方/供应商口径。关键帖 https://x.com/trendforce/status/2102565998591344960 〔引用：同 report〕
+- (2026-09-23，X 早报产物) **科创板半导体 IPO 60 日**（@SemiAnalysis_，自 2025-01 追踪 **13** 家）：四家芯片设计自首日收盘起均跌但未破发行价；封测 **4** 家中 **3** 家上涨——中国本地「封装溢价 / 设计折价」情绪对照。关键帖 https://x.com/SemiAnalysis_/status/2102564302544638461 〔引用：同 report〕
+- (2026-09-23，X 早报产物) **`$AAOI` 弱信号**（@MoleLabs / Echo Analysis via SoFire，Jev quality≈1.59 review）：800G 量「翻倍」+ 售罄至 **2027 中** + 图表目标约 **+63%**——与 9/21「横盘 vs 售罄」同主题，**无新硬披露**。关键帖 https://x.com/MoleLabs/status/2102550189466628596 〔引用：同 report〕
+- (2026-09-23，X 早报产物) **`$AMD` 万亿市值**：9/21 收盘突破约 **USD 1T**（约 **+9.95%** 至约 **$615.52**）——行情事实，对光互连主线交叉弱。 〔引用：同 report；https://x.com/NEWS2082680/status/2102386835255410751〕
+- (2026-09-23，同步注) Serenity 在 digest 有 AI 时间线薄帖；独立核对见 9/24 `serenity-x-check*`（仍 **NOTHING_NEW**）。宏观/加密（韩美会晤、Polymarket 柴油出口禁令约 **28%**、Willy Woo BTC 抵押品澄清、台湾隔夜拆借 **0.804%**）密度低，本轮不单开 `us-macro-options` / `crypto`。
+
+## 2026-09-24 窗口（无 Following digest；午晚日更 + Serenity）
+- (2026-09-24，同步注) **无** `/workspace/x-following-digest-2026-09-24*` 落盘；**无** `2026-09-24-morning.md`（上午日更例程 failed）。产业硬点来自午/晚 X日更公开 PR/议程（见 `optical-interconnect-learning` / `x-content-output`）。X MCP 仍 **$0.00**。
+- (2026-09-24，Research) Serenity：`serenity-x-check-now.txt` → **NOTHING_NEW**（newest `2102839769374011497` anime PFP reply）；详见 `serenity-aleabitoreddit.md` §7c。 〔引用：/workspace/serenity-x-check-now.txt〕
+- (2026-09-25，同步注) **9/24 午夜 BotMemory 例程 failed**（约 **00:41**，无 commit）→ 本 episode 作 9/23–9/24 catchup；失败留痕见 `memory/episodes/2026-09-24-midnight-sync-failed.md`。

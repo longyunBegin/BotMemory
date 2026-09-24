@@ -65,3 +65,15 @@ Levels（低→高，index 0–3）:
 - (2026-09-22，X内容产出·早) @cherryPayment INTC Agentic → `servers_power_storage`、0.12、**1.92**（≥1.5 保留）。 〔引用：同 morning〕
 - (2026-09-22，X内容产出·午) `$COHR` 周二议程 → `optical_cpo`、0.10、**2.51**；CUbIQ×COHR QKD → 0.11、**2.34**；VCSEL/UHP/FlexConnect → 0.14、**2.28**（均保留）。 〔引用：/workspace/x-drafts/2026-09-22-noon.md〕
 - (2026-09-22，X内容产出·晚) OIF 周三议程 → `optical_cpo`、0.08、**2.66**；`$AXTI`–Lumentum InP → 0.08、**2.78**；`$SIVE` booth 2106 双钟 → 0.08、**2.73**（均保留）。 〔引用：/workspace/x-drafts/2026-09-22-evening.md〕
+
+
+## 2026-09-23 早/午/晚公开 PR 质检样例（X内容产出）
+- (2026-09-23，X内容产出·早) Lessengers glass NPO → theme=`optical_cpo`、shuiwen≈0.15、quality≈**2.13**（保留）。 〔引用：/workspace/x-drafts/2026-09-23-morning.md〕
+- (2026-09-23，X内容产出·早) `$COHR` 周三 PIC/VCSEL 议程 → `optical_cpo`、0.07、**2.94**（保留）。 〔引用：同 morning〕
+- (2026-09-23，X内容产出·早) OIF 现场互通墙 → `optical_cpo`、0.07、**2.65**（保留）。 〔引用：同 morning〕
+- (2026-09-23，X内容产出·午) Lightmatter Open CPX → `optical_cpo`、0.05、**2.95**；GF×SMART → 0.12、**2.40**；NewPhotonics×Tower → 0.07、**2.78**（均保留）。 〔引用：/workspace/x-drafts/2026-09-23-noon.md〕
+- (2026-09-23，X内容产出·晚) `$MRVL` ECOC PR → `optical_cpo`、shuiwen≈**0.14**、quality≈**2.28**；`$COHR` PhotonLink → **0.09**、**2.75**；`$SIVE` CW DFB 公开事实 → **0.09**、**2.48**（均保留）。 〔引用：/workspace/x-drafts/2026-09-23-evening.md〕
+
+## 2026-09-24 午/晚公开 PR 质检样例（X内容产出；缺 morning）
+- (2026-09-24，X内容产出·午) Photon Bridge DWDM → `optical_cpo`、shuiwen≈**0.10**、quality≈**2.60**；`$COHR` 周四会场日历 → **0.08**、**2.70**；FlexConnect 光纤装配 → **0.16**、**2.06**（均 ≥1.5 保留）。 〔引用：/workspace/x-drafts/2026-09-24-noon.md〕
+- (2026-09-24，X内容产出·晚) `$MRVL` 400G/lane 摘录 → `optical_cpo`、**0.11**、**2.62**；Furukawa Snap-Beam → **0.08**、**2.55**；`$SIVE` 100 mW → **0.09**、**2.69**（均保留）。 〔引用：/workspace/x-drafts/2026-09-24-evening.md〕

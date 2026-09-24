@@ -103,3 +103,11 @@
 - (2026-09-22，Research / Serenity) status/2102067535915123156（回复）：对 `$SIVE`/`$AAOI`「针对 **2027**」细微差别——Sivers 侧叙事约 **1 亿** CW DFB 产能 + **2** 家外部代工厂（合计或至约 **3 亿**），供应链映射指向更大超大规模；AAOI 侧约 **USD 4.71 亿** 收发器收入 + **40 万** ELS 单元、针对 **2028**……——**作者口径，非公司指引**。 〔引用：同 serenity-x-check〕
 - (2026-09-22，X内容产出·晚) **ECOC 收口硬信号**：公司日历 ECOC **9/21–23** booth **#2106**；公开 Market Focus **无** Sivers 演讲槽——硬信号看展位演示与共展商。双钟重申：近端可插拔 **70/100 mW** + Jabil 1.6T beta ~**Q4’26** / 量产 ~**H1’27**；远端 Glasgow ~**USD 30M**、年产能 **>1 亿** CW DFB、工程 **2026 H2**→投产 ~**2027 Q4**。 〔引用：/workspace/x-drafts/2026-09-22-evening.md〕
 - (2026-09-22，同步注) SIVE agent `memory/log` 最新仍停在 **2026-09-16**（当时收盘 SEK 27.00 / FI 空头 4.38%）；本轮收盘价来自 Trade 量能 JSON，**非** SIVE 助手日记；未见新公司 IR/PR 文件。
+
+
+## 2026-09-23–24 叙事增量（非 IR / 非新收盘）
+- (2026-09-23，X内容产出·午 / X 早报) **GF × SMART 开放代工 ≠ `$SIVE` 锁单或断供**：SMART×GF（**2026-09-21**）SiPh+InP 开放代工、GA ~**2027H2**；X 侧（@dubidubabap via SoFire）标成「关于 `$SIVE` 的供应链变化」。边界：确认=代工产品化与时间窗；推断才是分流/替代 CW-DFB。Sivers 偏自有 InP 产能与客户直供，SMART/GF 是开放代工——可并存很久；**代工 PR ≠ 具名 PO / 断供新闻**。勿因转帖下调或上调仓位逻辑。 〔引用：/workspace/x-drafts/2026-09-23-noon.md；/workspace/x-following-digest-2026-09-23-report.md；https://x.com/dubidubabap/status/2102548669178531993〕
+- (2026-09-23，X内容产出·晚) **闭幕三只钟**：① `$MRVL` DSP/车道率（2nm **400G/lane**、CPO **102.4T** @ **200G/lane**）；② `$COHR` PhotonLink 平台交付（接触数 + **Q4’26** 收入爬坡）；③ merchant 光源——`$SIVE` booth **#2106** / 公开 **100 mW** 级 O-band CW DFB（Electronics Weekly **2026-09-16**）。演示周可同时热，**交期日历不必同周同步**。 〔引用：/workspace/x-drafts/2026-09-23-evening.md〕
+- (2026-09-24，X内容产出·午) Photon Bridge 点名 **multi-source InP** 作 scale-up DWDM 架构战场——是光源架构尺子，**不是**「谁赢了激光订单」；`$SIVE` 仍作 merchant CW/DFB 公开标尺之一，与多源叙事可并存。 〔引用：/workspace/x-drafts/2026-09-24-noon.md〕
+- (2026-09-24，X内容产出·晚) **保车道数 3.2T（8×400G）≠ 激光交期清零**；四域里 PAM4/外置激光 CPO·NPO 常仍吃 merchant CW/DFB，ZR/coherent-lite 另走相干钟；`$SIVE` #2106 / 100 mW 仍是公开标尺（非订单披露）。 〔引用：/workspace/x-drafts/2026-09-24-evening.md〕
+- (2026-09-25，同步注) SIVE agent `memory/log` 最新仍停在 **2026-09-16**；量能 JSON 仍为 **2026-09-21** 收盘（SEK **34.2** 已于 9/23 episode 入库）——本轮**无**更新收盘、**无**新公司 IR/PR 文件。

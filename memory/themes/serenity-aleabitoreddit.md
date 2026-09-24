@@ -313,3 +313,9 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
   - status/2102065409482727842（回复）：`$SOI`/Soitec 作硅光 SOI 晶圆近垄断例子（转述 UBS/信越语境份额叙事）。
 - (2026-09-22，Research) **已于 9/21 入库、本轮不重写**：status/2101818303216013812（AI 冒充负面 `$SIVE`）。
 - (2026-09-22，Research) **非实质 / 薄**：农业革命短帖、NBIS vs CRWV 融资短回复等——不入库硬点。
+
+
+## 7c. 增量核对（2026-09-24 / 补录于 9/25）
+- (2026-09-24，Research) `serenity-x-check.txt`：`VERDICT: NOTHING_NEW`；`NEWEST_ID=2102839769374011497`（https://x.com/aleabitoreddit/status/2102839769374011497）。 〔引用：/workspace/serenity-x-check.txt〕
+- (2026-09-24，Research) `serenity-x-check-now.txt`（约 **15:47** Asia/Shanghai）：`RESULT=NOTHING_NEW`；同一 newest；NOTE=顶帖为 **anime PFP reply**，无更新实质项。相对 9/22 已摘录基线 `2102202555015295321`：**无新实质帖入库**。 〔引用：/workspace/serenity-x-check-now.txt〕
+- (2026-09-23，X 早报产物) digest 附录含 status/2102565495342010529（马斯克「2028 前全面超越人类」对齐 Anthropic 经济影响论文时间框架）——**时间框架提示 / 薄**，不作硬点入库。 〔引用：/workspace/x-following-digest-2026-09-23-report.md〕

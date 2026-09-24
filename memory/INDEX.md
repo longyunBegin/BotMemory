@@ -40,4 +40,5 @@
 - 日常同步 2026-09-21 00:00 Asia/Shanghai（含 9/20 X 早报与三批日更硬点）：`memory/episodes/2026-09-21-midnight-sync.md`
 - 日常同步 2026-09-22 00:00 Asia/Shanghai（含 9/21 X 早报与三批日更硬点）：`memory/episodes/2026-09-22-midnight-sync.md`
 - 日常同步 2026-09-23 00:00 Asia/Shanghai（含 9/22 三批日更与量能/Serenity）：`memory/episodes/2026-09-23-midnight-sync.md`
-
+- 2026-09-24 同步失败说明（已由 9/25 catchup 替代）：`memory/episodes/2026-09-24-midnight-sync-failed.md`
+- 日常同步 2026-09-25 00:00 Asia/Shanghai（补录 9/23–9/24）：`memory/episodes/2026-09-25-midnight-sync.md`
