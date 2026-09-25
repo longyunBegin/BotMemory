@@ -319,3 +319,12 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (2026-09-24，Research) `serenity-x-check.txt`：`VERDICT: NOTHING_NEW`；`NEWEST_ID=2102839769374011497`（https://x.com/aleabitoreddit/status/2102839769374011497）。 〔引用：/workspace/serenity-x-check.txt〕
 - (2026-09-24，Research) `serenity-x-check-now.txt`（约 **15:47** Asia/Shanghai）：`RESULT=NOTHING_NEW`；同一 newest；NOTE=顶帖为 **anime PFP reply**，无更新实质项。相对 9/22 已摘录基线 `2102202555015295321`：**无新实质帖入库**。 〔引用：/workspace/serenity-x-check-now.txt〕
 - (2026-09-23，X 早报产物) digest 附录含 status/2102565495342010529（马斯克「2028 前全面超越人类」对齐 Anthropic 经济影响论文时间框架）——**时间框架提示 / 薄**，不作硬点入库。 〔引用：/workspace/x-following-digest-2026-09-23-report.md〕
+
+
+## 7d. 增量核对（2026-09-25）
+- (2026-09-25，Research / 浏览器页痕) 无新 `serenity-x-check*.txt` 落盘；可见 `/workspace/.playwright-mcp/page-2026-09-25T{07-33,09-36,11-28}-*.yml`（个人页 + `from:aleabitoreddit`）。 〔引用：上述 page yml mtime Asia/Shanghai〕
+- (2026-09-25，Research) **可见帖（非产业实质，不入库硬点）**：
+  - status/2103350532777943281：粉丝数体感 + 中秋问候（约 18万+ 观看量级）——个人向。
+  - status/2103353556724293650：回复 @shanhai188，旧金山人口 vs 百万粉丝情绪——个人向。
+  - status/2103352098557690351：短回复「告诉他们我说了你好！」——薄。
+- (2026-09-25，同步注) 相对 9/24 基线 newest `2102839769374011497`：**有新帖 ID**，但内容**非** `$SIVE`/CPO/激光硬点 → 记 ID 备查、**不**推进产业实质基线叙事。

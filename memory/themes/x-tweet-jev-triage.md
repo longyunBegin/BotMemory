@@ -77,3 +77,12 @@ Levels（低→高，index 0–3）:
 ## 2026-09-24 午/晚公开 PR 质检样例（X内容产出；缺 morning）
 - (2026-09-24，X内容产出·午) Photon Bridge DWDM → `optical_cpo`、shuiwen≈**0.10**、quality≈**2.60**；`$COHR` 周四会场日历 → **0.08**、**2.70**；FlexConnect 光纤装配 → **0.16**、**2.06**（均 ≥1.5 保留）。 〔引用：/workspace/x-drafts/2026-09-24-noon.md〕
 - (2026-09-24，X内容产出·晚) `$MRVL` 400G/lane 摘录 → `optical_cpo`、**0.11**、**2.62**；Furukawa Snap-Beam → **0.08**、**2.55**；`$SIVE` 100 mW → **0.09**、**2.69**（均保留）。 〔引用：/workspace/x-drafts/2026-09-24-evening.md〕
+
+
+## 2026-09-25 早/午/晚公开 PR 质检样例（X内容产出）
+- (2026-09-25，X内容产出·早) `$MU` HBM 产能摘录 → theme=`memory_hbm`、shuiwen≈**0.05**、quality≈**2.81**（保留）。 〔引用：/workspace/x-drafts/2026-09-25-morning.md〕
+- (2026-09-25，X内容产出·早) `$SNDK` NBM → `memory_hbm`、**0.08**、**2.16**（action=abstain；≥1.5 保留并标 IR）。 〔引用：同 morning〕
+- (2026-09-25，X内容产出·早) HBM 晶圆税 → `memory_hbm`、**0.08**、**2.49**（保留）。 〔引用：同 morning〕
+- (2026-09-25，X内容产出·午) EMIB-T/Humufish → theme=`foundry_packaging`、shuiwen≈**0.10**、quality≈**2.03**（action=review；≥1.5 保留并标行业转述）。 〔引用：/workspace/x-drafts/2026-09-25-noon.md〕
+- (2026-09-25，X内容产出·午) `$AMKR` Arizona PR → `foundry_packaging`、**0.05**、**2.84**；SPIL 斗六+`$TSM` CoWoS → **0.05**、**2.86**（均保留）。 〔引用：同 noon〕
+- (2026-09-25，X内容产出·晚) `$AVGO` Davisson → theme=`optical_cpo`、shuiwen≈**0.06**、quality≈**2.85**；`$CRDO` ZeroFlap → **0.05**、**2.85**（theme action=review，仍 ≥1.5）；`$SIVE` Q2/Glasgow → **0.06**、**2.84**（均非水文、保留）。 〔引用：/workspace/x-drafts/2026-09-25-evening.md〕

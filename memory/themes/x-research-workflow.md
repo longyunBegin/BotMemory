@@ -108,3 +108,9 @@
 - (2026-09-24，同步注) **无** `/workspace/x-following-digest-2026-09-24*` 落盘；**无** `2026-09-24-morning.md`（上午日更例程 failed）。产业硬点来自午/晚 X日更公开 PR/议程（见 `optical-interconnect-learning` / `x-content-output`）。X MCP 仍 **$0.00**。
 - (2026-09-24，Research) Serenity：`serenity-x-check-now.txt` → **NOTHING_NEW**（newest `2102839769374011497` anime PFP reply）；详见 `serenity-aleabitoreddit.md` §7c。 〔引用：/workspace/serenity-x-check-now.txt〕
 - (2026-09-25，同步注) **9/24 午夜 BotMemory 例程 failed**（约 **00:41**，无 commit）→ 本 episode 作 9/23–9/24 catchup；失败留痕见 `memory/episodes/2026-09-24-midnight-sync-failed.md`。
+
+
+## 2026-09-25 窗口（无 Following digest；三批日更 + Serenity 个人向）
+- (2026-09-25，同步注) **无** `/workspace/x-following-digest-2026-09-25*` 落盘；X agent `55a49dcf…/memory/log` 仍停在 **9/15**。本轮产业硬点来自 X内容产出三批公开 IR/PR（见 `trading-holdings` / `optical-interconnect-learning` / `sive-investment` / `x-content-output`），不虚构早报。X MCP 额度仍 **$0.00**（各草稿素材段一致）。
+- (2026-09-25，Research) Serenity 浏览器页痕：粉丝/中秋个人帖（status/2103350532777943281 等）——**非产业实质**；详见 `serenity-aleabitoreddit.md` §7d。无新 `serenity-x-check*.txt`。 〔引用：/workspace/.playwright-mcp/page-2026-09-25T*.yml〕
+- (2026-09-25，X内容产出) 日更素材路径延续：BotMemory 昨夜 episode + 公开 IR/PR + Jev；主桶早②内存 / 午③代工封装 / 晚①光互连重平衡；对外正文仍禁写关注流/digest/早报字样。 〔引用：/workspace/x-drafts/2026-09-25-*.md〕

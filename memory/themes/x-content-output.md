@@ -77,3 +77,10 @@
 - (2026-09-24，X内容产出) **上午「X日更草稿」例程 failed**——**无** `/workspace/x-drafts/2026-09-24-morning.md`。午/晚完成：`…-noon.md`（配图 photonbridge-dwdm / booth-vs-paper / fiber-attach）、`…-evening.md`（约 **23:10** mtime；配图 400g-lane-step / four-domains / snapbeam-320）。X MCP **$0.00**。 〔引用：上述草稿路径；stat mtime Asia/Shanghai〕
 - (2026-09-24，X内容产出) 当日轮换：午=Photon Bridge DWDM 架构战场 / 展厅闭≠论文钟 / FlexConnect 装配层；晚=`$MRVL` 400G/lane 保车道台阶 / 四域拆分 / Snap-Beam 320——避开 9/23 三批与近批 `$LITE`/Genuine/`$AXTI`/`$SIVE` #2106 双钟主对等。晚间站立指定仍挂 `$MRVL` ECOC / 通往 3.2T + `$SIVE` 光源层关联。 〔引用：各草稿素材段〕
 - (2026-09-24，X内容产出) **Jev 实操样例**：午 Photon Bridge≈**2.60** / `$COHR` 周四日历≈**2.70** / FlexConnect≈**2.06**；晚 `$MRVL` 400G≈**2.62** / Snap-Beam≈**2.55** / `$SIVE` 100 mW≈**2.69**（均 `optical_cpo`、≥1.5 保留）。 〔引用：noon/evening 草稿素材段〕
+
+
+## 2026-09-25 三批产出（已落盘）
+- (2026-09-25，X内容产出) 三批均完成并落盘：`/workspace/x-drafts/2026-09-25-morning.md`（约 **08:10**）、`…-noon.md`（约 **12:16**）、`…-evening.md`（约 **22:55**）；各批附配图（morning: mu-hbm-100k / sndk-nbm-floor / hbm-wafer-tax；noon: emib-cowos-backup / amkr-arizona-12b / spil-tsm-two-clocks；evening: avgo-davisson-els / crdo-zeroflap / sive-constraint-vs-capacity）。X MCP 全天 **$0.00**。 〔引用：上述草稿路径；stat mtime Asia/Shanghai〕
+- (2026-09-25，X内容产出) 当日刻意轮换（主桶重平衡）：早=②内存（`$MU` 100k / `$SNDK` $93.9B / HBM 晶圆税）；午=③代工/先进封装（EMIB-T 备胎 / `$AMKR` $12B / SPIL–`$TSM` 两只钟）；晚=①光互连（`$AVGO` Davisson / `$CRDO` ZeroFlap / `$SIVE` 约束 vs 扩产）——避开 9/23–24 展会末日复读角与近批 Photon Bridge / `$MRVL` 400G / Snap-Beam / 玻璃 NPO / GF×SMART 等。 〔引用：各草稿「本批刻意避开」段〕
+- (2026-09-25，X内容产出) **Jev 实操样例**（均 ≥1.5、非水文）：早 `memory_hbm` — `$MU`≈**2.81** / `$SNDK`≈**2.16**（action=abstain 仍保留并标 IR）/ HBM 晶圆税≈**2.49**；午 `foundry_packaging` — EMIB-T≈**2.03**（review）/ `$AMKR`≈**2.84** / SPIL–TSM≈**2.86**；晚 `optical_cpo` — Davisson≈**2.85** / ZeroFlap≈**2.85** / `$SIVE` Q2≈**2.84**。 〔引用：各草稿素材段；题库 `x-tweet-jev-triage.md`〕
+- (2026-09-25，X内容产出) 草稿内部素材注明吃到 `2026-09-25-midnight-sync` episode + 相关 themes；对外正文仍禁写关注流/digest/早报字样。 〔引用：各草稿素材段〕

@@ -99,3 +99,10 @@
 - (2026-09-24，X内容产出·晚) **`$MRVL` 演示墙四域拆分**（Converge Digest）：① **PAM4** 高量 scale-out 可插拔；② **CPO** 高密度织物（**102.4T** @ **200G/lane**）；③ **coherent-lite** 更短距 **1.6T** O-band；④ **ZR/ZR+** 机房间 scale-across（**800G** / **1.6T**）。读法：PAM4/外置激光 CPO·NPO 常仍吃 merchant CW/DFB；ZR/coherent-lite 偏相干光源——**一门 2nm 演示周 ≠ 一种激光短缺故事**。 〔引用：同 evening draft〕
 - (2026-09-24，X内容产出·晚) **Furukawa/Lightera Snap-Beam**（PR Newswire **2026-09-22**）：获 ECOC Fibre Infrastructure Innovation Award；Lightera booth **#1058**；周四 **11:15–11:30** Room **2.2** 讲 **8×40=320** 通道 gang connector（一次接通 **320** 路）；口径含 expanded-beam、磁吸自动对接、可回流。读法：高密度可拆光纤面 = 装配/运维尺子；与 `$MRVL` 电光台阶、`$SIVE` 光源交期钟三只尺子可同周热、交期不必同步。 〔引用：同 evening draft〕
 - (2026-09-24，同步注) **无** `2026-09-24-morning.md`（上午「X日更草稿」例程 failed，午/晚草稿自述）；光互连 agent log 仍停 **9/12**；未见独立 ECOC 9/24 20:00 摘要。
+
+
+## 2026-09-25 产业链增量（展览后回桶；晚间日更硬点）
+- (2026-09-25，X内容产出·晚) **`$AVGO` Tomahawk 6 – Davisson**（GlobeNewswire **2025-10-08**，BCM78919）：第三代 CPO 以太网交换；光学启用 **102.4 Tbps**；**16 × 6.4 Tbps** Davisson DR 光引擎；**200 Gbps**/lane（相对 TH5-Bailly 翻倍）；规格表写 **Field-Replaceable ELSFP**；宣称光学互连功耗相对传统可插拔约降 **70%**；Availability 写 early access **sampling**——「shipping」口号与取样窗口分开记。硬边界：**CPO 交换可带可更换光源笼子出货 ≠ merchant CW/DFB 交期清零**。 〔引用：/workspace/x-drafts/2026-09-25-evening.md〕
+- (2026-09-25，X内容产出·晚) **`$CRDO` ZeroFlap 1.6T**（Business Wire **2026-09-15**）：**224G**/lane 光 DSP + **Kfir200** SiPho PIC + **PILOT** 诊断；形态 **2xDR4 / 2xFR4 / DR8**；OCP 遥测 / SONiC 等。Cignal AI 引述：**2026** 出货预测超 **1100 万**只、**2027** 再翻倍以上——**分析师预测，非公司指引**。硬结论：**可靠性栈清不掉 BOM 上的 CW 激光交期**。 〔引用：同 evening draft〕
+- (2026-09-25，X内容产出·晚) **三只钟收口**：① CPO 交换规格/出货叙事（`$AVGO` Davisson）；② 1.6T 可靠性/DSP+PIC（`$CRDO`）；③ merchant CW 约束（`$SIVE` CEO 原话，见 `sive-investment`）。展览厅已关，**不复读** 9/24 `$MRVL` 400G/Snap-Beam / Photon Bridge。 〔引用：同 evening draft〕
+- (2026-09-25，同步注) 光互连 agent `e4a94e78…/memory/log` 仍停在 **9/12**；本轮硬点来自 X日更公开 IR/PR 摘录，非独立 ECOC 摘要。
