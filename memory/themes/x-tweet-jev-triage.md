@@ -86,3 +86,10 @@ Levels（低→高，index 0–3）:
 - (2026-09-25，X内容产出·午) EMIB-T/Humufish → theme=`foundry_packaging`、shuiwen≈**0.10**、quality≈**2.03**（action=review；≥1.5 保留并标行业转述）。 〔引用：/workspace/x-drafts/2026-09-25-noon.md〕
 - (2026-09-25，X内容产出·午) `$AMKR` Arizona PR → `foundry_packaging`、**0.05**、**2.84**；SPIL 斗六+`$TSM` CoWoS → **0.05**、**2.86**（均保留）。 〔引用：同 noon〕
 - (2026-09-25，X内容产出·晚) `$AVGO` Davisson → theme=`optical_cpo`、shuiwen≈**0.06**、quality≈**2.85**；`$CRDO` ZeroFlap → **0.05**、**2.85**（theme action=review，仍 ≥1.5）；`$SIVE` Q2/Glasgow → **0.06**、**2.84**（均非水文、保留）。 〔引用：/workspace/x-drafts/2026-09-25-evening.md〕
+
+## 2026-09-26 早/午/晚公开 PR 质检样例（X内容产出）
+- (2026-09-26，X内容产出·早) 三星 HBM4 良率/份额摘录 → theme=`memory_hbm`、shuiwen≈**0.04**、quality≈**2.80**（保留）。 〔引用：/workspace/x-drafts/2026-09-26-morning.md〕
+- (2026-09-26，X内容产出·早) TrendForce HBM 年约 vs DDR5 → `memory_hbm`、**0.05**、**2.78**（保留）。 〔引用：同 morning〕
+- (2026-09-26，X内容产出·早) eSSD 48% + CXMT R&D → `memory_hbm`、**0.05**、**2.71**（保留）。 〔引用：同 morning〕
+- (2026-09-26，X内容产出·午) CoWoS/SoIC/CoPoS 三只钟 → theme=`foundry_packaging`、shuiwen≈**0.04**、quality≈**2.71**；N3 缺口 → **0.04**、**2.80**；`$ASX` CapEx/LEAP/FOPLP → **0.03**、**2.96**（均保留）。 〔引用：/workspace/x-drafts/2026-09-26-noon.md〕
+- (2026-09-26，X内容产出·晚) `$LITE` Spectrum-6/UHP → theme=`optical_cpo`、shuiwen≈**0.09**、quality≈**2.44**（≥1.5 保留；quality action=abstain，正文标会谈转述≠指引）；`$COHR` PhotonLink 量产钟 → **0.08**、**2.62**；Win Semi PD vs CW → **0.05**、**2.87**（均非水文、保留）。 〔引用：/workspace/x-drafts/2026-09-26-evening.md〕
