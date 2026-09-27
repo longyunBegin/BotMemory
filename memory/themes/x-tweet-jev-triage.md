@@ -93,3 +93,15 @@ Levels（低→高，index 0–3）:
 - (2026-09-26，X内容产出·早) eSSD 48% + CXMT R&D → `memory_hbm`、**0.05**、**2.71**（保留）。 〔引用：同 morning〕
 - (2026-09-26，X内容产出·午) CoWoS/SoIC/CoPoS 三只钟 → theme=`foundry_packaging`、shuiwen≈**0.04**、quality≈**2.71**；N3 缺口 → **0.04**、**2.80**；`$ASX` CapEx/LEAP/FOPLP → **0.03**、**2.96**（均保留）。 〔引用：/workspace/x-drafts/2026-09-26-noon.md〕
 - (2026-09-26，X内容产出·晚) `$LITE` Spectrum-6/UHP → theme=`optical_cpo`、shuiwen≈**0.09**、quality≈**2.44**（≥1.5 保留；quality action=abstain，正文标会谈转述≠指引）；`$COHR` PhotonLink 量产钟 → **0.08**、**2.62**；Win Semi PD vs CW → **0.05**、**2.87**（均非水文、保留）。 〔引用：/workspace/x-drafts/2026-09-26-evening.md〕
+
+
+## 2026-09-27 早/午/晚公开 PR 质检样例（X内容产出）
+- (2026-09-27，X内容产出·早) CoWoS 分配摘录 → theme=`foundry_packaging`、shuiwen≈**0.08**、quality≈**2.41**（保留；quality action=abstain）。 〔引用：/workspace/x-drafts/2026-09-27-morning.md〕
+- (2026-09-27，X内容产出·早) 亚利桑那封装地理 → `foundry_packaging`、**0.10**、**2.51**（保留；action=review）。 〔引用：同 morning〕
+- (2026-09-27，X内容产出·早) 非 `$TSM` spillover ~110k → `foundry_packaging`、**0.08**、**2.62**（保留；action=review）。 〔引用：同 morning〕
+- (2026-09-27，X内容产出·午) 2Q26 DRAM 营收 → theme=`memory_hbm`、shuiwen≈**0.03**、quality≈**2.82**（保留；action=act）。 〔引用：/workspace/x-drafts/2026-09-27-noon.md〕
+- (2026-09-27，X内容产出·午) Rubin Ultra HBM 降配评估 → `memory_hbm`、**0.05**、**2.71**（保留；action=review）。 〔引用：同 noon〕
+- (2026-09-27，X内容产出·午) eSSD CSP 上修/QLC → `memory_hbm`、**0.14**、**1.72**（≥1.5 保留；action=review）。 〔引用：同 noon〕
+- (2026-09-27，X内容产出·晚) `$TSM` PIC/COUPE → theme=`optical_cpo`、shuiwen≈**0.00**、quality≈**2.80**（保留）。 〔引用：/workspace/x-drafts/2026-09-27-evening.md〕
+- (2026-09-27，X内容产出·晚) Spectrum-X / Bailly 三闸门 → `optical_cpo`、**0.00**、**2.71**（保留）。 〔引用：同 evening〕
+- (2026-09-27，X内容产出·晚) `$AAOI` 1.6T 订单 → `optical_cpo`、**0.00**、**2.75**（保留）。 〔引用：同 evening〕

@@ -338,3 +338,13 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (2026-09-26，Research) **搜索窗补记（相对仓内未按 ID 入库的实质转述）**：
   - status/2102763548715753927：`$LITE` + Win Semi（标 `$SIVE` 代工厂）更新——Lumentum@ECOC×Stifel：Spectrum-6 CPO UHP 需求↑；NPO>CPO + 多波长外置激光抬 ASP（读透 Sivers 多波长 DFB 阵列）；UHP 需求>供应；并点 Win Semi 扩 CW。**转述/读透，非指引**。详见 `sive-investment` 9/26 节。
 - (2026-09-26，同步注) 相对 9/25 已记中秋帖：newest 推进到 **2103490181525631382**，但顶帖**非**产业硬点 → 记 ID 备查、**不**推进产业实质基线叙事。
+
+
+## 7f. 增量核对（2026-09-27）
+- (2026-09-27，Research / 浏览器页痕) 无新 `serenity-x-check*.txt` 落盘；可见 `/workspace/.playwright-mcp/page-2026-09-27T01-*.yml`（个人页加载 + Sivers/`$SIVE` 搜索）与少量 `T14-*.yml`。 〔引用：上述 page yml mtime Asia/Shanghai〕
+- (2026-09-27，Research) **可见顶帖 ID（偏个人/薄，不入库产业硬点）**：
+  - status/2103232350348001701：页痕出现为 newest 可见 ID，正文未在 YAML 文本层稳定提取（或媒体/引用帖）——记 ID 备查。
+  - status/2103161145934963178：可见片段为态度/个人向短帖（“loser attitude…”类）——非 `$SIVE`/CPO/激光硬点。
+  - status/2102790422007550083：转述/引用韩国小盘股研究兴趣——薄兴趣点，不作主线硬点。
+  - status/2102763548715753927：`$LITE`/Win Semi Spectrum-6 转述——**已于 9/26 §7e / `sive-investment` 入库**，本轮不重写。
+- (2026-09-27，同步注) 相对 9/26 newest **2103490181525631382**：本轮可见时间线另有更高 ID（**2103232350348001701** 等）但**无**可提取产业实质 → 记 ID 备查、**不**推进产业实质基线叙事。

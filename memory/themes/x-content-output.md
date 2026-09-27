@@ -110,3 +110,10 @@
 ### 对照金句（Research t38）
 - 存储：Agent 不只租显卡；粘住的还租永不下班的书桌 → 书桌吃服务器 DDR5（Micron / SK hynix）。
 - 光互连：个人 Agent 不掐死光周期，是在喂它——让 GPU 更忙、升级日程更早被拉过来（Lumentum / NVIDIA Spectrum-6）。
+
+
+## 2026-09-27 三批产出（已落盘）
+- (2026-09-27，X内容产出) 三批均完成并落盘：`/workspace/x-drafts/2026-09-27-morning.md`（约 **08:10**）、`…-noon.md`（约 **12:05**）、`…-evening.md`（约 **22:58**）+ `evening-memory-fact.txt`；各批附配图 morning/noon/evening-1/2/3.png（共 9 张）。X MCP 全天 **$0.00**。 〔引用：上述草稿路径；stat mtime Asia/Shanghai〕
+- (2026-09-27，X内容产出) 当日刻意轮换（主桶）：早=③代工/先进封装（`$NVDA`/`$AVGO` CoWoS 分配 / AZ Fab≠封装钟 / `$TSM` vs OSAT spillover）；午=②内存（2Q26 DRAM 营收钟 / Rubin Ultra HBM 降配 / eSSD CSP 上修·QLC）；晚=①光互连（`$TSM` PIC·COUPE / Spectrum-X·Bailly 三闸门 / `$AAOI` 1.6T 近端 vs CPO 远端）——避开 9/26 三批已用角（三星 HBM4 / CoWoS·SoIC·CoPoS / `$ASX` CapEx / `$LITE` Spectrum-6·UHP / `$COHR` PhotonLink 量产钟 / Win Semi PD·CW）与近批 `$MU` 100k / `$SNDK` NBM / Davisson·ZeroFlap·`$SIVE` 约束等。 〔引用：各草稿「本批刻意避开」段〕
+- (2026-09-27，X内容产出) **Jev 实操样例**（均 ≥1.5、非水文）：早 `foundry_packaging` — CoWoS 分配≈**2.41**（action=abstain）/ AZ 封装≈**2.51**（review）/ OSAT spillover≈**2.62**（review）；午 `memory_hbm` — 2Q26 DRAM≈**2.82**（act）/ Rubin Ultra≈**2.71**（review）/ eSSD·QLC≈**1.72**（≥1.5 review）；晚 `optical_cpo` — `$TSM` PIC/COUPE≈**2.80** / Spectrum-X·Bailly≈**2.71** / `$AAOI` 1.6T≈**2.75**（shuiwen 均≈0.00）。 〔引用：各草稿素材段；题库 `x-tweet-jev-triage.md`〕
+- (2026-09-27，X内容产出) 晚批已对齐同日写入的**范文骨架**（洞见→白话因果→积极读法→可观察锚点→两家地图钉+「我的看法」）；早/午批仍偏地图注/硬边界壳——后续批次继续强制对齐。草稿内部素材注明吃到 `2026-09-27-midnight-sync` episode + 相关 themes；对外正文仍禁写关注流/digest/早报字样。 〔引用：evening.md；`x-content-output` 读者体验节（commit `507e997`）〕
