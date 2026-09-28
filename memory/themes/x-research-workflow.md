@@ -126,3 +126,11 @@
 - (2026-09-27，SIVE) 周日日更素材落盘 `/workspace/sive-digest-2026-09-27-quotes.md`（~09:15–09:20 Asia/Shanghai；无 Grok Build / 无 X API）：钉 **9/25** 收盘 SEK **32.78** / SIVEF **3.33**、FI **4.98%**、9/24 领导层 PR；官方无新于 9/24 之后的 PR。详见 `sive-investment`。 〔引用：同 quotes.md〕
 - (2026-09-27，Research) Serenity 浏览器页痕：顶帖可见 ID 偏个人/薄（status/2103232350348001701 等）——**非产业实质**；Win Semi/`$LITE` 转述帖已于 9/26 入库。详见 `serenity-aleabitoreddit.md` §7f。无新 `serenity-x-check*.txt`。 〔引用：/workspace/.playwright-mcp/page-2026-09-27T*.yml〕
 - (2026-09-27，X内容产出) 日更素材路径延续：BotMemory 昨夜 episode + 公开 IR/行业稿 + Jev；主桶早③代工封装 / 午②内存 / 晚①光互连；晚批对齐读者体验范文骨架；对外正文仍禁写关注流/digest/早报字样。 〔引用：/workspace/x-drafts/2026-09-27-*.md〕
+
+
+## 2026-09-28 窗口（无 Following digest；三批日更 + Serenity 个人向）
+- (2026-09-28，同步注) **无** `x-following-digest-2026-09-28*`（连续多日缺 Following 早报：9/24–9/28）。产业硬点主来自 X日更三批公开 IR/行业稿摘录。 〔引用：workspace 检索；`/workspace/x-drafts/2026-09-28-*.md`〕
+- (2026-09-28，X内容产出) X MCP `get_usage_credits` = **$0.00** → 三批均**未**调用付费 search/timeline；热点走公开行业稿 + BotMemory。 〔引用：各草稿素材段〕
+- (2026-09-28，Research) Serenity 浏览器核对多次（~09:13–19:xx Asia/Shanghai 页痕）；顶帖个人/薄，无新产业实质——见 `serenity-aleabitoreddit` §7g。 〔引用：`.playwright-mcp/page-2026-09-28T*.yml`〕
+- (2026-09-28，Yun Long → X内容产出) 午/晚补充日更产出标准（价值·引用·窄钉；勿固定模板壳）——已由白天 docs 提交写入 `x-content-output`（`bf49fad` / `0b11318`），本窗口只记落点。 〔引用：共享记忆；theme 文件〕
+- (2026-09-28，工具) 仍禁 Grok Build；Jev MCP（user-jev）继续质检公开稿摘录（非 X 帖）。BotMemory git author 记为 longyunBegin（`87770de`）。

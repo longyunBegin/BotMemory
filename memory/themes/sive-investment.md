@@ -132,3 +132,8 @@
 - (2026-09-27，SIVE digest) **公司领导层 PR（2026-09-24，Non Regulatory）**：Marc Pegulu → Managing Director Wireless，生效 **2026-09-28**（ex Semtech/Qorvo）；Harish Krishnaswamy → Chief Strategy Officer（原 MD Wireless / MixComm 联合创始人）；David Clark → VP Engineering Photonics，生效 **2026-10-31**；Andrew McKee（Photonics CTO）退休、过渡支持至 **2026 年底**。Cision 列表截至 digests 抓取时**无更新于 9/24 之后的公司 PR**（次级 NewsCase 9/26 为同一领导层改写，非新披露）。 〔引用：同 quotes.md；公司 / Cision / PR Newswire〕
 - (2026-09-27，X内容产出) **日更刻意避开 `$SIVE` 主对**：早③代工分配/AZ/OSAT；午② DRAM/HBM/eSSD；晚① `$TSM` PIC·COUPE / Spectrum-X·Bailly / `$AAOI` 两只钟——不复读 9/25 CEO 约束原话 vs Glasgow、#2106、Win Semi 代工侧。 〔引用：/workspace/x-drafts/2026-09-27-{morning,noon,evening}.md〕
 - (2026-09-27，同步注) SIVE agent `memory/log` 最新仍停在 **2026-09-16**；本轮收盘/空头/领导层以 workspace digest 为准，**非** SIVE 助手日记。
+
+
+## 2026-09-28 叙事增量（非 IR / 非新收盘；日更刻意避主对）
+- (2026-09-28，同步注) **无** `sive-digest-2026-09-28*`；价位/FI/领导层仍以 9/27 digest 钉 **9/25** 收盘为准（SIVE.ST **32.78** / SIVEF **3.33** / FI **4.98%** / 9/24 领导层 PR）——本轮**不**重写。 〔引用：/workspace/sive-digest-2026-09-27-quotes.md；`sive-investment` 9/27 节〕
+- (2026-09-28，X内容产出) 三批日更**刻意避开** `$SIVE` 主对（早内存 / 午代工 / 晚光互连换华为 NPO·Eugenlight·`$GFS`×`$MRVL`）；晚批 ELSFP 段仅旁提 merchant CW/DFB 交期可另走一只钟（`$SIVE` 作公开标尺之一，**非订单**）。 〔引用：/workspace/x-drafts/2026-09-28-{morning,noon,evening}.md〕

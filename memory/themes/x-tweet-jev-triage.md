@@ -105,3 +105,15 @@ Levels（低→高，index 0–3）:
 - (2026-09-27，X内容产出·晚) `$TSM` PIC/COUPE → theme=`optical_cpo`、shuiwen≈**0.00**、quality≈**2.80**（保留）。 〔引用：/workspace/x-drafts/2026-09-27-evening.md〕
 - (2026-09-27，X内容产出·晚) Spectrum-X / Bailly 三闸门 → `optical_cpo`、**0.00**、**2.71**（保留）。 〔引用：同 evening〕
 - (2026-09-27，X内容产出·晚) `$AAOI` 1.6T 订单 → `optical_cpo`、**0.00**、**2.75**（保留）。 〔引用：同 evening〕
+
+
+## 2026-09-28 早/午/晚公开 PR 质检样例（X内容产出）
+- (2026-09-28，X内容产出·早) SK M15X/龙仁/供需 56vs50 → theme=`memory_hbm`、shuiwen≈**0.06**、quality≈**2.44**（保留；action=review）。 〔引用：/workspace/x-drafts/2026-09-28-morning.md〕
+- (2026-09-28，X内容产出·早) 消费级挤出 + CXMT 10% → `memory_hbm`、**0.06**、**2.47**（保留；action=abstain）。 〔引用：同 morning〕
+- (2026-09-28，X内容产出·早) 4Q26 eSSD +23–28% / NAND +15–20% → `memory_hbm`、**0.07**、**2.44**（保留；action=abstain）。 〔引用：同 morning〕
+- (2026-09-28，X内容产出·午) EMIB 基板良率阶梯 → theme=`foundry_packaging`、shuiwen≈**0.05**、quality≈**2.52**（保留；action=review）。 〔引用：/workspace/x-drafts/2026-09-28-noon.md〕
+- (2026-09-28，X内容产出·午) `$TSM` N2/N3 mid-2027 台阶 → `foundry_packaging`、**0.06**、**2.86**（保留；action=act）。 〔引用：同 noon〕
+- (2026-09-28，X内容产出·午) 三星 SF4 过半→HBM4 base die → 机判 theme=`memory_hbm`（含 HBM 份额句）、shuiwen≈**0.08**、quality≈**2.28**（≥1.5 保留；**对外角度钉 Foundry 座位分配**）。 〔引用：同 noon〕
+- (2026-09-28，X内容产出·晚) 华为 7.2T NPO → theme=`optical_cpo`、shuiwen≈**0.07**、quality≈**2.61**（保留；action=review）。 〔引用：/workspace/x-drafts/2026-09-28-evening.md〕
+- (2026-09-28，X内容产出·晚) Eugenlight ELSFP → `optical_cpo`、**0.08**、**2.71**（保留；action=review）。 〔引用：同 evening〕
+- (2026-09-28，X内容产出·晚) `$GFS`×`$MRVL` SiGe → `optical_cpo`、**0.07**、**2.57**（保留；action=review；foundry_packaging 次概率≈0.11）。 〔引用：同 evening〕

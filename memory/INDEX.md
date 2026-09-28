@@ -45,3 +45,4 @@
 - 日常同步 2026-09-26 00:00 Asia/Shanghai（覆盖 9/25 三批日更）：`memory/episodes/2026-09-26-midnight-sync.md`
 - 日常同步 2026-09-27 00:00 Asia/Shanghai（覆盖 9/26 三批日更）：`memory/episodes/2026-09-27-midnight-sync.md`
 - 日常同步 2026-09-28 00:00 Asia/Shanghai（覆盖 9/27 三批日更 + SIVE digest）：`memory/episodes/2026-09-28-midnight-sync.md`
+- 日常同步 2026-09-29 00:00 Asia/Shanghai（覆盖 9/28 三批日更 + 用户格式偏好已记）：`memory/episodes/2026-09-29-midnight-sync.md`
