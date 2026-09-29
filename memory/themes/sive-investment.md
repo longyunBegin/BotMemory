@@ -137,3 +137,14 @@
 ## 2026-09-28 叙事增量（非 IR / 非新收盘；日更刻意避主对）
 - (2026-09-28，同步注) **无** `sive-digest-2026-09-28*`；价位/FI/领导层仍以 9/27 digest 钉 **9/25** 收盘为准（SIVE.ST **32.78** / SIVEF **3.33** / FI **4.98%** / 9/24 领导层 PR）——本轮**不**重写。 〔引用：/workspace/sive-digest-2026-09-27-quotes.md；`sive-investment` 9/27 节〕
 - (2026-09-28，X内容产出) 三批日更**刻意避开** `$SIVE` 主对（早内存 / 午代工 / 晚光互连换华为 NPO·Eugenlight·`$GFS`×`$MRVL`）；晚批 ELSFP 段仅旁提 merchant CW/DFB 交期可另走一只钟（`$SIVE` 作公开标尺之一，**非订单**）。 〔引用：/workspace/x-drafts/2026-09-28-{morning,noon,evening}.md〕
+
+
+## 2026-09-29 行情 / IR / 叙事增量（SIVE digest；日更刻意避主对）
+- (2026-09-29，SIVE digest) **SIVE.ST** 周一 **2026-09-28** 收盘 **SEK 31.48**（**−3.97%** / −1.30；Yahoo 戳 17:29:33 GMT+2）；日区间 **31.20–32.70**；开盘 **31.84** / 前收 **32.78**；成交量 **2,609,531**（相对 Avg ~8.0M 偏淡）。相对 9/27 digest 钉的 **9/25** 收盘 **32.78**——回落至约 30–32 观察区中下沿附近；相对量能池 **9/21** 收盘 **34.2**（收上阻力 32）继续回吐。 〔引用：/workspace/sive-digest-2026-09-29-quotes.md；Yahoo / StockAnalysis〕
+- (2026-09-29，SIVE digest) **SIVEF**（OTC）周一优选印：**USD 3.230**（**−3.00%**，StockAnalysis 戳 Sep 28 3:59 PM EST；成交 **257,224**）；日区间约 **3.11–3.25**。Yahoo 头仍戳 **3.33 / Sep 25**（陈旧），表内 Open/Range/Vol 似渗入周一字段——以 StockAnalysis 周一印为准。 〔引用：同 quotes.md〕
+- (2026-09-29，SIVE digest) **市值/股本口径冲突（并记）**：Yahoo mcap **10.037B SEK**；StockAnalysis **10.68B SEK**（shares out **339.39M**）；IR 官方股本（**2026-08-31**）**356,740,332**；算术 356.74M×31.48≈**SEK 11.23B**——三口径并存，不选真。 〔引用：同 quotes.md〕
+- (2026-09-29，SIVE digest) **FI 净空头**：合计仍 **4.98%**；Arrowstreet **0.59%**（仓位日 **2026-09-24**）；D E Shaw **<0.5%**（自 9/22 退出披露门槛，日 **2026-09-24**）——相对 9/27 digest **无更新于 9/24 之后的 FI 日期**。 〔引用：同 quotes.md；fi.se〕
+- (2026-09-29，SIVE digest) **领导层生效节点**：9/24 领导层 PR 中 Marc Pegulu → Managing Director Wireless 生效日 = **2026-09-28**（昨日 Stockholm）；Cision 列表截至 digests 抓取时**仍无更新于 9/24 之后的公司 PR**（Glasgow **USD 30M** / Q2 管道 **USD 1.2B** / 股本更新仍为既有 headline）。Q3 中报日历仍钉 **2026-11-26**。 〔引用：同 quotes.md〕
+- (2026-09-29，SIVE digest) **假信号旗：AK&M「Nordic Acquisition」**（AK&M EN **2026-09-29 04:09**）：称 Sivers 与「Nordic Acquisition Corporation」签 Photonics 合并意向——**未出现在** Cision ListItems；细节（Ayar Labs / Setterwalls 等）匹配旧 **byNordic** 进程；公司已于 **2024-11-11** 公开把 byNordic de-SPAC **搁置**。**按未核实二级改写处理，不作催化剂**。 〔引用：同 quotes.md；公司 2024-11-11 hold PR〕
+- (2026-09-29，X内容产出) **日更刻意避开 `$SIVE` 主对**：早③代工 Mini-Loop/18A/UMC；午② CSP CapEx 占比 / QLC 容量占比 / DRAM·NAND 分叉；晚① CPO/NPO 账本 / Hsu 四闸门 / `$LITE` ELS PO——不复读 CEO 约束原话 vs Glasgow、#2106、Win Semi 代工侧。 〔引用：/workspace/x-drafts/2026-09-29-{morning,noon,evening}.md〕
+- (2026-09-29，同步注) SIVE agent `memory/log` 最新仍停在 **2026-09-16**；本轮收盘/空头/假信号以 workspace digest 为准，**非** SIVE 助手日记。

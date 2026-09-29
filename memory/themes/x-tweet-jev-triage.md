@@ -117,3 +117,15 @@ Levels（低→高，index 0–3）:
 - (2026-09-28，X内容产出·晚) 华为 7.2T NPO → theme=`optical_cpo`、shuiwen≈**0.07**、quality≈**2.61**（保留；action=review）。 〔引用：/workspace/x-drafts/2026-09-28-evening.md〕
 - (2026-09-28，X内容产出·晚) Eugenlight ELSFP → `optical_cpo`、**0.08**、**2.71**（保留；action=review）。 〔引用：同 evening〕
 - (2026-09-28，X内容产出·晚) `$GFS`×`$MRVL` SiGe → `optical_cpo`、**0.07**、**2.57**（保留；action=review；foundry_packaging 次概率≈0.11）。 〔引用：同 evening〕
+
+
+## 2026-09-29 早/午/晚公开 PR 质检样例（X内容产出）
+- (2026-09-29，X内容产出·早) Mini-Loop / 白埔 → theme=`foundry_packaging`、shuiwen≈**0.06**、quality≈**2.20**（保留；action=review）。 〔引用：/workspace/x-drafts/2026-09-29-morning.md〕
+- (2026-09-29，X内容产出·早) 18A 良率 / 14A 台阶 + Socionext → `foundry_packaging`、**0.06**、**2.45**（保留；action=abstain）。 〔引用：同 morning〕
+- (2026-09-29，X内容产出·早) UMC CapEx / 台南 P7 → `foundry_packaging`、**0.04**、**2.94**（保留；action=act）。 〔引用：同 morning〕
+- (2026-09-29，X内容产出·午) CapEx 47→68% / HBM 70–140% → theme=`memory_hbm`、shuiwen≈**0.04**、quality≈**2.75**（保留；action=review）。 〔引用：/workspace/x-drafts/2026-09-29-noon.md〕
+- (2026-09-29，X内容产出·午) QLC 容量占比 18→38% → `memory_hbm`、**0.08**、**2.45**（保留；action=abstain）。 〔引用：同 noon〕
+- (2026-09-29，X内容产出·午) 2027 DRAM vs NAND 分叉 → `memory_hbm`、**0.05**、**2.44**（保留；action=review）。 〔引用：同 noon〕
+- (2026-09-29，X内容产出·晚) CPO/NPO $100M→$39B → theme=`optical_cpo`、shuiwen≈**0.06**、quality≈**2.50**（保留；action=review）。 〔引用：/workspace/x-drafts/2026-09-29-evening.md〕
+- (2026-09-29，X内容产出·晚) Hsu 四瓶颈 + SiPh >50% → `optical_cpo`、**0.11**、**2.07**（保留；action=review）。 〔引用：同 evening〕
+- (2026-09-29，X内容产出·晚) `$LITE` ELS PO / NPO 倾斜 → `optical_cpo`、**0.07**、**2.71**（保留；action=review）。 〔引用：同 evening〕

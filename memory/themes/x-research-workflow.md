@@ -134,3 +134,11 @@
 - (2026-09-28，Research) Serenity 浏览器核对多次（~09:13–19:xx Asia/Shanghai 页痕）；顶帖个人/薄，无新产业实质——见 `serenity-aleabitoreddit` §7g。 〔引用：`.playwright-mcp/page-2026-09-28T*.yml`〕
 - (2026-09-28，Yun Long → X内容产出) 午/晚补充日更产出标准（价值·引用·窄钉；勿固定模板壳）——已由白天 docs 提交写入 `x-content-output`（`bf49fad` / `0b11318`），本窗口只记落点。 〔引用：共享记忆；theme 文件〕
 - (2026-09-28，工具) 仍禁 Grok Build；Jev MCP（user-jev）继续质检公开稿摘录（非 X 帖）。BotMemory git author 记为 longyunBegin（`87770de`）。
+
+
+## 2026-09-29 窗口（无 Following digest；三批日更 + SIVE digest + Serenity 个人向）
+- (2026-09-29，同步注) **无** `/workspace/x-following-digest-2026-09-29*` 落盘（连续多日缺 Following 早报：9/24–9/29）；X agent `55a49dcf…/memory/log` 仍停在 **9/15**。本轮产业硬点来自 X内容产出三批公开 IR/行业稿 + SIVE digest，不虚构早报。X MCP 额度仍 **$0.00**（各草稿素材段一致）。
+- (2026-09-29，SIVE) 周二日更素材落盘 `/workspace/sive-digest-2026-09-29-quotes.md`（~09:14–09:25 Asia/Shanghai；无 Grok Build / 无 X API）：钉 **9/28** 收盘 SEK **31.48**（−3.97%）/ SIVEF 优选 **3.230**、FI 仍 **4.98%**、Pegulu MD Wireless 生效 **9/28**；官方无新于 9/24 之后的 PR；标 AK&M「Nordic Acquisition」为未核实假信号。详见 `sive-investment`。 〔引用：同 quotes.md〕
+- (2026-09-29，Research) Serenity 浏览器页痕：新帖 ID **2104698369591706069** / **2104709202891735244** 偏个人健康/薄——**非产业实质**；`since:2026-09-26 until:2026-09-30` SIVE/光子学搜索**无结果**。详见 `serenity-aleabitoreddit.md` §7h。无新 `serenity-x-check*.txt`。 〔引用：/workspace/.playwright-mcp/page-2026-09-29T*.yml〕
+- (2026-09-29，X内容产出) 日更素材路径延续：BotMemory 昨夜 episode（覆盖 9/28）+ 公开 IR/行业稿 + Jev；主桶早③代工封装 / 午②内存 / 晚①光互连；对齐价值·引用·窄钉与灵活格式；对外正文仍禁写关注流/digest/早报字样。 〔引用：/workspace/x-drafts/2026-09-29-*.md〕
+- (2026-09-29，工具) 仍禁 Grok Build；Jev MCP（user-jev）继续质检公开稿摘录（非 X 帖）。
