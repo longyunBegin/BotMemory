@@ -148,3 +148,9 @@
 - (2026-09-29，SIVE digest) **假信号旗：AK&M「Nordic Acquisition」**（AK&M EN **2026-09-29 04:09**）：称 Sivers 与「Nordic Acquisition Corporation」签 Photonics 合并意向——**未出现在** Cision ListItems；细节（Ayar Labs / Setterwalls 等）匹配旧 **byNordic** 进程；公司已于 **2024-11-11** 公开把 byNordic de-SPAC **搁置**。**按未核实二级改写处理，不作催化剂**。 〔引用：同 quotes.md；公司 2024-11-11 hold PR〕
 - (2026-09-29，X内容产出) **日更刻意避开 `$SIVE` 主对**：早③代工 Mini-Loop/18A/UMC；午② CSP CapEx 占比 / QLC 容量占比 / DRAM·NAND 分叉；晚① CPO/NPO 账本 / Hsu 四闸门 / `$LITE` ELS PO——不复读 CEO 约束原话 vs Glasgow、#2106、Win Semi 代工侧。 〔引用：/workspace/x-drafts/2026-09-29-{morning,noon,evening}.md〕
 - (2026-09-29，同步注) SIVE agent `memory/log` 最新仍停在 **2026-09-16**；本轮收盘/空头/假信号以 workspace digest 为准，**非** SIVE 助手日记。
+
+## 2026-09-30 叙事增量（无 digest / 无新收盘；日更刻意避主对）
+- (2026-09-30，同步注) **无** `sive-digest-2026-09-30*`；价位/FI/领导层/假信号仍以 9/29 digest 钉 **9/28** 收盘为准（SIVE.ST **31.48** / SIVEF **3.230** / FI **4.98%** / Pegulu 生效 **9/28** / AK&M Nordic 假信号旗）——本轮**不**重写。 〔引用：/workspace/sive-digest-2026-09-29-quotes.md；`sive-investment` 9/29 节〕
+- (2026-09-30，X内容产出) 三批日更**刻意避开** `$SIVE` 主对（早②内存 ASP/8-Hi / 午③代工席位·良率·尺寸 / 晚① Micro LED·PhotonLink 接触数）；晚批地图钉仅旁提 `$COHR`/`$LITE`/`$NVDA`，**非** `$SIVE` 订单披露。 〔引用：/workspace/x-drafts/2026-09-30-{morning,noon,evening}.md〕
+- (2026-09-30，同步注) SIVE agent `memory/log` 最新仍停在 **2026-09-16**；9/30 有浏览器/图资产活动，但无独立 quotes digest 落盘。
+

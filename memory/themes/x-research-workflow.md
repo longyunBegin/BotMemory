@@ -142,3 +142,12 @@
 - (2026-09-29，Research) Serenity 浏览器页痕：新帖 ID **2104698369591706069** / **2104709202891735244** 偏个人健康/薄——**非产业实质**；`since:2026-09-26 until:2026-09-30` SIVE/光子学搜索**无结果**。详见 `serenity-aleabitoreddit.md` §7h。无新 `serenity-x-check*.txt`。 〔引用：/workspace/.playwright-mcp/page-2026-09-29T*.yml〕
 - (2026-09-29，X内容产出) 日更素材路径延续：BotMemory 昨夜 episode（覆盖 9/28）+ 公开 IR/行业稿 + Jev；主桶早③代工封装 / 午②内存 / 晚①光互连；对齐价值·引用·窄钉与灵活格式；对外正文仍禁写关注流/digest/早报字样。 〔引用：/workspace/x-drafts/2026-09-29-*.md〕
 - (2026-09-29，工具) 仍禁 Grok Build；Jev MCP（user-jev）继续质检公开稿摘录（非 X 帖）。
+
+## 2026-09-30 窗口（无 Following digest；三批日更 + Serenity AMZN 帖 + Jabil 摘要）
+- (2026-09-30，同步注) **无** `/workspace/x-following-digest-2026-09-30*` 落盘（连续多日缺 Following 早报：9/24–9/30）；X agent `55a49dcf…/memory/log` 仍停在 **9/15**。本轮产业硬点来自 X内容产出三批公开 IR/行业稿 + 光互连 Jabil 摘要 + Serenity 叙事帖，不虚构早报。X MCP 额度仍 **$0.00**（各草稿素材段一致）。
+- (2026-09-30，SIVE) **无** `sive-digest-2026-09-30*`；价位仍钉 9/29 digest 的 **9/28** 收盘。详见 `sive-investment`。
+- (2026-09-30，Research) Serenity 浏览器页痕：新帖 status/**2105151002760679706**（`$AMZN`→Gold Circuit **$49.8M** + 半导体权益名单叙事）——作者读法，须另核披露；详见 `serenity-aleabitoreddit.md` §7i。无新 `serenity-x-check*.txt`。 〔引用：/workspace/.playwright-mcp/page-2026-09-30T11-30-27-467Z.yml〕
+- (2026-09-30，光互连) Jabil FY26 Q4 / 投资者简报中文摘要落盘附件（SiPho 收发 + CPO/共封装铜定位）——见 `optical-interconnect-learning`。 〔引用：`e4a94e78…/attachments/5734770….md`〕
+- (2026-09-30，X内容产出) 日更素材路径延续：BotMemory 昨夜 episode（覆盖 9/29）+ 公开 IR/行业稿 + Jev；主桶早②内存 / 午③代工封装 / 晚①光互连；对齐价值·引用·窄钉与灵活格式；**14:11** 起强制引用≤5天（`597d54d`）；午批部分素材超窗（晚批自注）；对外正文仍禁写关注流/digest/早报字样。 〔引用：/workspace/x-drafts/2026-09-30-*.md〕
+- (2026-09-30，工具) 仍禁 Grok Build；Jev MCP（user-jev）继续质检公开稿摘录（非 X 帖）。
+

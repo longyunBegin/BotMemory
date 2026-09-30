@@ -129,3 +129,15 @@ Levels（低→高，index 0–3）:
 - (2026-09-29，X内容产出·晚) CPO/NPO $100M→$39B → theme=`optical_cpo`、shuiwen≈**0.06**、quality≈**2.50**（保留；action=review）。 〔引用：/workspace/x-drafts/2026-09-29-evening.md〕
 - (2026-09-29，X内容产出·晚) Hsu 四瓶颈 + SiPh >50% → `optical_cpo`、**0.11**、**2.07**（保留；action=review）。 〔引用：同 evening〕
 - (2026-09-29，X内容产出·晚) `$LITE` ELS PO / NPO 倾斜 → `optical_cpo`、**0.07**、**2.71**（保留；action=review）。 〔引用：同 evening〕
+
+## 2026-09-30 早/午/晚公开 PR 质检样例（X内容产出）
+- (2026-09-30，X内容产出·早) HBM Blended ASP +121% → theme=`memory_hbm`、shuiwen≈**0.06**、quality≈**2.20**（保留；action=review）。 〔引用：/workspace/x-drafts/2026-09-30-morning.md〕
+- (2026-09-30，X内容产出·早) 8-Hi per-Gb 10–20% → `memory_hbm`、**0.06**、**2.34**（保留；action=review）。 〔引用：同 morning〕
+- (2026-09-30，X内容产出·早) HBM4 mix + HBM4e 2H27 → `memory_hbm`、**0.05**、**2.28**（保留；action=review）。 〔引用：同 morning〕
+- (2026-09-30，X内容产出·午) CoWoS-S vs L / Maia·MTIA → theme=`foundry_packaging`、shuiwen≈**0.09**、quality≈**1.97**（≥1.5 保留；action=review）。 〔引用：/workspace/x-drafts/2026-09-30-noon.md〕
+- (2026-09-30，X内容产出·午) SF2 良率门 vs Qualcomm ~70% → `foundry_packaging`、**0.08**、**2.40**（保留；action=review；正文标行业估计≠公司 IR）。 〔引用：同 noon〕
+- (2026-09-30，X内容产出·午) 14× ≈ 10+20 HBM / 2028 → `foundry_packaging`、**0.08**、**2.51**（保留；action=review）。 〔引用：同 noon〕
+- (2026-09-30，X内容产出·晚) Micro LED CPO 2H28 / $848M → theme=`optical_cpo`、shuiwen≈**0.09**、quality≈**2.26**（保留；action=review）。 〔引用：/workspace/x-drafts/2026-09-30-evening.md〕
+- (2026-09-30，X内容产出·晚) Starksemi 2500 MHz / 20× → `optical_cpo`、**0.09**、**2.43**（保留；action=review）。 〔引用：同 evening〕
+- (2026-09-30，X内容产出·晚) PhotonLink >10/>10 + `$NVDA` LTA + NPO/CPO 取舍 → `optical_cpo`、**0.11**、**2.35**（保留；action=review）。 〔引用：同 evening〕
+
