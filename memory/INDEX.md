@@ -49,3 +49,4 @@
 - 日常同步 2026-09-30 00:00 Asia/Shanghai（覆盖 9/29 三批日更 + SIVE digest）：`memory/episodes/2026-09-30-midnight-sync.md`
 - 日常同步 2026-10-01 00:00 Asia/Shanghai（覆盖 9/30 三批日更 + Serenity AMZN 帖 + Jabil 摘要）：`memory/episodes/2026-10-01-midnight-sync.md`
 
+- 日常同步 2026-10-02 00:00 Asia/Shanghai（覆盖 10/1 早午日更 + `$MU`/`$LITE`/`$SIVE` 特稿 + unsponsored ADR）：`memory/episodes/2026-10-02-midnight-sync.md`

@@ -151,3 +151,10 @@
 - (2026-09-30，X内容产出) 日更素材路径延续：BotMemory 昨夜 episode（覆盖 9/29）+ 公开 IR/行业稿 + Jev；主桶早②内存 / 午③代工封装 / 晚①光互连；对齐价值·引用·窄钉与灵活格式；**14:11** 起强制引用≤5天（`597d54d`）；午批部分素材超窗（晚批自注）；对外正文仍禁写关注流/digest/早报字样。 〔引用：/workspace/x-drafts/2026-09-30-*.md〕
 - (2026-09-30，工具) 仍禁 Grok Build；Jev MCP（user-jev）继续质检公开稿摘录（非 X 帖）。
 
+
+## 2026-10-01 窗口（无 Following digest；早/午日更 + `$MU`/`$LITE`/`$SIVE` 特稿 + unsponsored ADR 研究）
+- (2026-10-01，同步注) **无** `/workspace/x-following-digest-2026-10-01*` 落盘（连续缺 Following 早报：9/24–10/1）；X agent `55a49dcf…/memory/log` 仍停在 **9/15**。本轮产业硬点来自 X内容产出早/午公开稿 + `$MU` 财报特稿 + `$LITE`/`$SIVE` 对照特稿 + `sive-adr/` EDGAR 抓取，不虚构早报。X MCP 额度仍 **$0.00**。
+- (2026-10-01，SIVE/Research) **无** `sive-digest-2026-10-01*`；价位改钉特稿 **10/1** 收盘 **31.38**；新增 unsponsored ADR（DB 9/29 + JPM 9/30，1:3）与 EGM 10/22 交叉——详见 `sive-investment`。基率材料：`/workspace/sive-adr/baserate/`（Apr–Sep 2026）。
+- (2026-10-01，Research) Serenity 浏览器页痕：新帖 **2105397070681248021**（模型测评/个人向）——非产业实质；AMZN/Gold Circuit 帖仍可见但不重写。详见 `serenity-aleabitoreddit.md` §7j。
+- (2026-10-01，X内容产出) 日更路径：BotMemory 昨夜 episode（覆盖 9/30）+ 公开 IR/行业稿 + Jev；主桶早②内存 / 午③代工；**缺晚①例程**；**11:50** 起强制数字/日期/引语回原文核对（`c82060b`）；特稿承接 `$MU` 财报与 `$LITE`/`$SIVE` 对照。对外正文仍禁写关注流/digest/早报字样。 〔引用：/workspace/x-drafts/2026-10-01-*.md〕
+- (2026-10-01，工具) 仍禁 Grok Build；Jev MCP（user-jev）继续质检公开稿摘录与特稿定稿（非 X 帖）。

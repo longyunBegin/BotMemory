@@ -154,3 +154,13 @@
 - (2026-09-30，X内容产出) 三批日更**刻意避开** `$SIVE` 主对（早②内存 ASP/8-Hi / 午③代工席位·良率·尺寸 / 晚① Micro LED·PhotonLink 接触数）；晚批地图钉仅旁提 `$COHR`/`$LITE`/`$NVDA`，**非** `$SIVE` 订单披露。 〔引用：/workspace/x-drafts/2026-09-30-{morning,noon,evening}.md〕
 - (2026-09-30，同步注) SIVE agent `memory/log` 最新仍停在 **2026-09-16**；9/30 有浏览器/图资产活动，但无独立 quotes digest 落盘。
 
+
+## 2026-10-01 行情 / ADR / EGM / 特稿对照（无独立 SIVE digest）
+- (2026-10-01，X内容产出·特稿) **SIVE.ST** 周四 **2026-10-01** 收盘 **SEK 31.38**（**−0.32%** / −0.10；Yahoo 戳 17:29:56 GMT+2）。相对 9/29 digest 钉的 **9/28** 收盘 **31.48** 微跌；仍落在用户观察区 **30–32 SEK** 内。盘中历史高 **110.00 SEK**（**2026-06-03**）→ 距高点约 **−71.5%**；从 **9/2** 低点 **22.10 SEK** 反弹约 **+42.0%**；回到盘中高点推算约需 **+250%**。 〔引用：/workspace/x-drafts/2026-10-01-lite-vs-sive.md；2026-10-01-sive-expect.md；Yahoo / Nasdaq Nordic〕
+- (2026-10-01，Research/workspace `sive-adr`) **未赞助 ADR（unsponsored）双存托行新开立**（SEC EDGAR；助手 10/1 抓取分类）：
+  - Deutsche Bank **F-6EF** adsh **0001104659-26-111655**，日期 **2026-09-29**；ratio **1 ADS = 3 ordinary**；CIK **2157475**（SIVERS SEMICONDUCTORS AB/ADR）；`new_program=true`；`first_filing=2026-09-29`
+  - JPMorgan Chase Bank **F-6EF** adsh **0001193805-26-001301**，日期 **2026-09-30**；ratio **three**；同 CIK；分类 `unsponsored`（filing 含 Issuer is not a party 等标志）
+  - 基率对照（Apr–Sep 2026）：全市场 F-6EF **230** 件 / unsponsored **218**；其中「新 ADR 实体」**115**（BNY 48 / Citi 41 / DB 16 / JPM 10）——Sivers 落在 9 月新开窗。硬边界：**unsponsored ADR ≠ 公司赞助双重上市**；与 EGM「潜在美股双重上市 H1’27」是两只钟。 〔引用：/workspace/sive-adr/baserate/{classified2.json,counts.md,README.md}；jpm_idx.html / db_idx.html；e665811_f6ef-ss.txt〕
+- (2026-10-01，公司 IR / 特稿交叉) **EGM 2026-10-22**：拟提前终止 Deloitte、选举 **Ernst & Young AB** 为审计师至下次 AGM；提名委员会口径——为公司成长、国际存在与**潜在美股双重上市**（预期 **2027 上半年**完成）建立长期审计关系（**非**会计分歧）。另：P11 长期激励最多 **7,280,000** 新期权（约 **2.0%** 稀释；与既有合计 ≤约 **6.1%**）；行权价 **110%** 五日前 VWAP、三年归属。公告日 **2026-09-29**（PR Newswire / MFN）。 〔引用：/workspace/sive-adr/notice-to-attend-…txt；lite-vs-sive 核对表 #19〕
+- (2026-10-01，X内容产出·特稿) **`$LITE` vs `$SIVE` 双时钟叙事**（非 IR）：同一 AI 光互连激光链——`$LITE` 已兑现营收 vs `$SIVE` 仍偏期权（TTM 营收 Yahoo **277.86M SEK** ≈ **$28M**；官网标准品仍在 qualification）；市值快照 `$LITE` ~**$95B** vs `$SIVE` ~**10.0B SEK**（~$1.0B 推算）。用户框架观察区仍 **30–32 SEK**；触发清单：CW DFB 量产订单/点名 AI 客户 PR、10/22 EGM、激光供给紧窗口。NFA。 〔引用：lite-vs-sive.md；sive-expect.md〕
+- (2026-10-01，同步注) **无** `sive-digest-2026-10-01*`；SIVE agent `memory/log` 仍停在 **2026-09-16**；本轮价位/ADR/EGM 以 workspace 特稿与 `sive-adr/` 抓取为准，**非** SIVE 助手日记。早/午例程日更仍**刻意避开** `$SIVE` 主对（内存/代工桶）；特稿承担对照层。

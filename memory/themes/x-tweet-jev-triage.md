@@ -141,3 +141,14 @@ Levels（低→高，index 0–3）:
 - (2026-09-30，X内容产出·晚) Starksemi 2500 MHz / 20× → `optical_cpo`、**0.09**、**2.43**（保留；action=review）。 〔引用：同 evening〕
 - (2026-09-30，X内容产出·晚) PhotonLink >10/>10 + `$NVDA` LTA + NPO/CPO 取舍 → `optical_cpo`、**0.11**、**2.35**（保留；action=review）。 〔引用：同 evening〕
 
+
+## 2026-10-01 早/午公开 PR + 特稿质检样例（X内容产出）
+- (2026-10-01，X内容产出·早) 4Q26 涨速 vs 紧缺阶梯 → theme=`memory_hbm`、shuiwen≈**0.12**、quality≈**2.32**（保留；action=review）。 〔引用：/workspace/x-drafts/2026-10-01-morning.md〕
+- (2026-10-01，X内容产出·早) eSSD 唯一加速 / >80% YoY → `memory_hbm`、**0.37**、**2.20**（保留；action=review）。 〔引用：同 morning〕
+- (2026-10-01，X内容产出·早) HBM 晶圆份额 20%→30% + ~3× → `memory_hbm`、**0.11**、**2.32**（保留；action=review）。 〔引用：同 morning〕
+- (2026-10-01，X内容产出·午) Foundry 2.0 / OSAT / CoWoS gap → theme=`foundry_packaging`、shuiwen≈**0.05**、quality≈**2.75**（保留；action=review）。 〔引用：/workspace/x-drafts/2026-10-01-noon.md〕
+- (2026-10-01，X内容产出·午) 嘉义 +5→10 厂阶梯 → `foundry_packaging`、**0.06**、**2.54**（保留；action=review）。 〔引用：同 noon〕
+- (2026-10-01，X内容产出·午) Samsung 份额 5.9% vs HPC 28% → `foundry_packaging`、**0.04**、**2.73**（保留；action=review）。 〔引用：同 noon〕
+- (2026-10-01，X内容产出·特稿) `$MU` FQ4 合同化/RPO → theme=`earnings_analysis`、shuiwen≈**0.03**、quality≈**3.92**（保留）。 〔引用：/workspace/x-drafts/2026-10-01-mu-earnings.md〕
+- (2026-10-01，X内容产出·特稿) `$LITE` vs `$SIVE` 双时钟 → theme=`relative_valuation_divergence`、shuiwen≈**0.07**、quality≈**3.9**（保留）。 〔引用：/workspace/x-drafts/2026-10-01-lite-vs-sive.md〕
+- (2026-10-01，X内容产出·特稿) `$SIVE` 走 `$LITE` 路的期望 → theme=`recovery_expectation`、shuiwen≈**0.10**、quality≈**3.79**（保留）。 〔引用：/workspace/x-drafts/2026-10-01-sive-expect.md〕
