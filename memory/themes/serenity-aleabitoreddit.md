@@ -382,3 +382,18 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
   - status/**2105397070681248021**：Gemini 4 Argon 基准对比 GPT-6 Astra / Anthropic Fable——**模型测评/个人健康向**（咳嗽、稍后评财报），**非** `$SIVE`/CPO/激光产业硬点。
   - status/**2105151002760679706**（`$AMZN`→Gold Circuit **$49.8M**）：已于 9/30 §7i 入库——本轮仍可见，**不重写**。
 - (2026-10-01，同步注) 相对 9/30：**有更高新帖 ID**，但内容非产业实质 → 记 ID 备查、**不**推进产业实质基线叙事。
+
+## 7k. 增量核对（2026-10-02）
+- (2026-10-02，Research / 浏览器页痕) 无新 `serenity-x-check*.txt` 落盘；可见 `/workspace/.playwright-mcp/page-2026-10-02T{01,03,05,07,09}-*.yml`（个人页 / AAOI 归档浏览 / 展开长帖；部分会话仍撞 `x.com/tos`）。 〔引用：上述 page yml；展开全文见 `page-2026-10-02T01-16-46-670Z.yml`〕
+- (2026-10-02，Research / Serenity) **实质帖（产业叙事向，作者读法≠监管成文 / 公司 IR）**：
+  - status/**2105709782854435274**（https://x.com/aleabitoreddit/status/2105709782854435274）：X UI 显示 **2026-10-02 上午1:21** Asia/Shanghai（页痕归档按钮另写 **2026-10-01 17:21 UTC**）。长帖标题句：*Potential FCC rules on optical transceivers more likely to come at 3.2T* — 点名 `$LITE`, `$AAOI`, `$COHR`, `$SIVE`。正文要点（页痕英文展开层可核）：
+    1. Morgan Stanley 与华盛顿官员会面；
+    2. 限制**很可能从中国制造的 3.2T 模块开始**（**800G/1.6T would be left alone**）；
+    3. 潜在限制或使激光市场保持紧张——结合美国 DSP + 激光可满足 MS 所称 **65%** 美国价值门槛；中国模块若 BOM **65%** 为美国内容或可合格；使用美国 DSP+激光的中国模块已接近该水平；
+    4. 分析师预期对**激光定价**的正面影响，比光模块市场份额再分配更重要；
+    5. **不**预期这会卡住 hyperscaler AI 建设；关键变量点名 **InP 衬底供给**（hello `$AXTI`）；
+    6. 作者 TLDR：组件供应商整体偏正；点名 `$SMTC`（TIA/driver）、或许 `$MXL`（DSP）、`$AAOI` 大受益；`$SIVE` 称「tremendous capacity」上线、指向美国 foundry（未正式披露地点），并称既往幻灯为 **2 家美国 + 1 家台湾（Win Semi）** 合作产能，且 CIOE channel checks 似开始接触中国 pluggable；`$LITE`/`$COHR` 「会高兴」；西方激光/DSP/TIA 等供应链已瓶颈，**合格产能**更重要。
+  - 互动快照（同页痕）：约 **88** 回复 / **81** 转帖 / **~941–942** 喜欢 / **275** 书签 / 观看约 **19.5万–195k**。
+  - 同窗可见配图抓取 `/workspace/HTj9SgLakAA1v8M_*.jpg` 与 `x_post_2105711409271292255_*`：Sivers 幻灯「Company A/B/C」InP foundry 产能表（含 H1 2024 qualification 旧日历句）——作作者「2 US + 1 TW」读法旁证，**非**新 IR。
+- (2026-10-02，Research) **非实质 / 已记**：status/**2105397070681248021**（Gemini 测评/咳嗽）已于 §7j；`$AMZN`→Gold Circuit 帖已于 §7i——本轮不重写。
+- (2026-10-02，同步注) 相对 10/1 §7j：**有更高新产业实质帖 ID**（**2105709782854435274**）→ 推进产业实质基线；硬边界必须保留「MS 会晤转述 / 作者读法」，不得写成 FCC 已落地规则。

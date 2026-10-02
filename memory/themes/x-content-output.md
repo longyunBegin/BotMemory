@@ -172,3 +172,9 @@
 - (2026-10-01，X内容产出) **Jev 实操样例**：早 `memory_hbm` — 涨速阶梯≈**2.32** / eSSD≈**2.20** / 晶圆份额≈**2.32**（shuiwen≈0.11–0.37）；午 `foundry_packaging` — Foundry 2.0≈**2.75** / 嘉义≈**2.54** / 三星份额≈**2.73**（shuiwen≈0.04–0.06）；特稿 — `$MU` 财报 `earnings_analysis` quality≈**3.92**；`$LITE` vs `$SIVE` `relative_valuation_divergence`≈**3.9**；`$SIVE` 期望 `recovery_expectation`≈**3.79**（均非水文）。 〔引用：各草稿 Jev 段；题库 `x-tweet-jev-triage.md`〕
 - (2026-10-01，Yun Long → X内容产出，11:50) **事实核对**硬规已白天入库（commit `c82060b`）——本轮**不复写**政策段。操作注：`$MU` 特稿核对 **23** 项属实、**6** 处措辞收紧、**2** 处逻辑修正；午批亦有 factcheck 备份于 `_meta/*.bak-before-factcheck`。 〔引用：`x-content-output`「事实核对」节；mu-earnings.md〕
 - (2026-10-01，X内容产出) 正文对齐价值·引用·窄钉 / 灵活格式 / 引用≤5天 / 数字属实；草稿内部注明吃到 `2026-10-01-midnight-sync` episode（覆盖 9/30）+ 相关 themes；对外正文仍禁写关注流/digest/早报字样。 〔引用：各草稿〕
+
+
+## 2026-10-02 产出（缺三批例程；仅 FCC 配图残留）
+- (2026-10-02，X内容产出) **无** `/workspace/x-drafts/2026-10-02-{morning,noon,evening}.md` 落盘；亦无对应 memory-fact。可见配图残留 `2026-10-02-fcc-3p2t.png`（无定稿正文）——推断曾围绕 Serenity FCC/3.2T 选题起稿但**未交付可贴稿**。 〔引用：`/workspace/x-drafts/` 目录列举；stat 可见 png〕
+- (2026-10-02，同步注) 10/2 白天政策 docs 已入库：口语化/拟人化（`8a9b6a8`）、全局言简意赅（`91021f8`）——本轮**不复写**政策段。事实核对 / 引用≤5天 / 价值·引用·窄钉 / 灵活格式照旧有效。
+- (2026-10-02，工具) X MCP `get_usage_credits` → **total_balance=$0.00**（本轮记忆同步拉帖亦 402 credits depleted）；仍禁 Grok Build。

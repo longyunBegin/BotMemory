@@ -164,3 +164,9 @@
 - (2026-10-01，公司 IR / 特稿交叉) **EGM 2026-10-22**：拟提前终止 Deloitte、选举 **Ernst & Young AB** 为审计师至下次 AGM；提名委员会口径——为公司成长、国际存在与**潜在美股双重上市**（预期 **2027 上半年**完成）建立长期审计关系（**非**会计分歧）。另：P11 长期激励最多 **7,280,000** 新期权（约 **2.0%** 稀释；与既有合计 ≤约 **6.1%**）；行权价 **110%** 五日前 VWAP、三年归属。公告日 **2026-09-29**（PR Newswire / MFN）。 〔引用：/workspace/sive-adr/notice-to-attend-…txt；lite-vs-sive 核对表 #19〕
 - (2026-10-01，X内容产出·特稿) **`$LITE` vs `$SIVE` 双时钟叙事**（非 IR）：同一 AI 光互连激光链——`$LITE` 已兑现营收 vs `$SIVE` 仍偏期权（TTM 营收 Yahoo **277.86M SEK** ≈ **$28M**；官网标准品仍在 qualification）；市值快照 `$LITE` ~**$95B** vs `$SIVE` ~**10.0B SEK**（~$1.0B 推算）。用户框架观察区仍 **30–32 SEK**；触发清单：CW DFB 量产订单/点名 AI 客户 PR、10/22 EGM、激光供给紧窗口。NFA。 〔引用：lite-vs-sive.md；sive-expect.md〕
 - (2026-10-01，同步注) **无** `sive-digest-2026-10-01*`；SIVE agent `memory/log` 仍停在 **2026-09-16**；本轮价位/ADR/EGM 以 workspace 特稿与 `sive-adr/` 抓取为准，**非** SIVE 助手日记。早/午例程日更仍**刻意避开** `$SIVE` 主对（内存/代工桶）；特稿承担对照层。
+
+
+## 2026-10-02 叙事增量（无 digest；Serenity FCC 读法；价仍钉 10/1）
+- (2026-10-02，同步注) **无** `sive-digest-2026-10-02*`；Yahoo/yf 最新收盘仍 **2026-10-01** **SEK 31.38**（workspace 未见 10/2 刷新）→ 价位**不**改写。SIVE agent `memory/log` 仍停在 **2026-09-16**。 〔引用：`/workspace/yf2_SIVE.ST.json`；`us_vol_stats.json` date=2026-10-01〕
+- (2026-10-02，Research·Serenity) **激光受益读法（作者，非 IR）**：status/**2105709782854435274** 在 FCC/3.2T 叙事下称 `$SIVE` 有「tremendous capacity」上线、产能伙伴指向**美国 foundry**（公司未正式披露地点）；作者称既往幻灯为 **2 家美国 + 1 家台湾（Win Semi）**；并称 CIOE channel checks 似开始接触中国 pluggable——作「若 65% 美内容门槛抬激光紧度，则合格产能更值钱」的作者推演。硬边界：**≠** 订单/指引/地点披露；与既有「主跌浪反弹 / 30–32 观察区 / Glasgow 2027 / unsponsored ADR / EGM 10/22」分层记账。 〔引用：同 FCC 页痕；`serenity-aleabitoreddit` §7k〕
+- (2026-10-02，页痕旁注) 回复链可见「SIVERS … 2026 EXTRAORDINARY GENERAL MEETING Vote by **08-OCT-2026**」通知截图类文本——与仓内已记 EGM **10/22** 为同一会议窗的投票截止旁证；**不**另开新会议。 〔引用：`page-2026-10-02T01-16-15-554Z.yml`〕

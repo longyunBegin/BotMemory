@@ -139,3 +139,14 @@
 - (2026-10-01，X内容产出·午) **三星代工份额 5.9% vs HPC 结构 28%**（Korea Herald **2026-09-30**，TrendForce 晶圆代工口径≠Foundry 2.0）：2Q 代工营收 **+1.8% QoQ**、全球份额 **5.9%**；`$TSM` **72.5%**；HPC 占代工营收 **28%**（2017 **5%**），高管 Noh：2029 期望**远超一半**；平泽 4nm 满载；Qualcomm 两款旗舰 Snapdragon 仍走 `$TSM` 2nm。硬读法：第二来源窗口≠赢家换人。相对 9/30 午 SF2 良率门——本条换份额 vs 结构。 〔引用：同 noon draft〕
 - (2026-10-01，X内容产出·特稿) **`$MU` FQ4 FY26（季末 2026-09-03）合同化尺子**（Micron IR / Benzinga 实录 / Reuters / CNBC，均 **2026-09-30** 窗）：FQ4 营收 **$54.23B**（+31% QoQ / +379% YoY）；Non-GAAP GM **87.0%** / EPS **$33.42**；FY26 营收 **$133.19B**（+256%）；SCA **16→26** 份；客户财务承诺 **$220B→$320B**（多为 cash deposits）；RPO 约 **$1,000B→$1,500B**（CFO：committed volumes + minimum pricing，inherently conservative）；FQ1 FY27 指引营收 **$61.5B ± $1.5B**、Non-GAAP GM ~**86.25%**、EPS **$38.15 ± $1.00**；FQ1 额外成本约 **$10B**（奖金库存化等）；CFO：FQ1=FY27 GM 底部；CEO：CY27/28 供需更紧、「看不到」何时平衡；**2027 >75%** 产出已承诺（日历/财年口径媒体不一）。HBM：FQ4 增速快于整体但**未披露具体金额/份额**；CY2027 HBM 位元「绝大部分」已签约；业界首个定制 HBM4E 与 `$NVDA`。盘后股价来源互相矛盾→只能写**基本持平**。 〔引用：/workspace/x-drafts/2026-10-01-mu-earnings.md〕
 - (2026-10-01，同步注) Trade / 美股 agent `memory/log` 自 9/15 后**仍无新收盘价池**；`volume_report_analyzed.json` 仍 **2026-09-21** → 本轮**不**重写美股量能池；**SIVE.ST** 价位改以特稿钉的 **10/1** 收盘更新（见 `sive-investment`）。
+
+
+## 2026-10-02 量能池补录（覆盖交易日 2026-10-01；无 10/2 日更交叉）
+- (2026-10-02，Trade/workspace) **观察池收盘**落在 `/workspace/us_vol_stats.json`（date 字段均为 **2026-10-01**，除 SIVEF=**2026-09-30**）。相对上轮午夜同步仍引用的 `volume_report_analyzed.json`（**2026-09-21**）为增量；旧 JSON **未**更新。关键点：
+  - 指数：SPY **763.99**（+0.18%，平淡）/ QQQ **742.03**（+0.31%）/ DIA **508.62**（+0.01%）
+  - `$MU` **1097.39**（+3.03%，vol_x **1.82**）/ `$SNDK` **1787.69**（+2.75%）/ `$NVDA` **230.86**（+1.09%，缩量反弹）/ `$MSFT` **512.8**（−0.02%）/ `$IBKR` **85.81**（+0.46%）
+  - `$MRVL` **268.08**（+1.46%；tag **缩量假突破**；broke_hi=true；vol_x **1.08**）
+  - `$AAOI` **107.32**（+8.12%；vol_x **1.63**）
+  - SIVE.ST **31.38**（−0.32%；vol_x **0.77**；与特稿一致）/ SIVEF **3.12**（**9/30**，−2.04%，重挫但量未放大，vol_x **0.26**）
+  - 池内**无** `$LITE` 行；旁证 Yahoo `$LITE` **10/1** 收约 **1061.56–1063.03**（两份 yf JSON 微差）。 〔引用：`/workspace/us_vol_stats.json`；`/workspace/yf2_LITE.json`〕
+- (2026-10-02，同步注) Trade agent `memory/log` 仍停在 **9/15**；本轮价池以 workspace `us_vol_stats` 为准，**非**助手日记。无 10/2 例程日更交叉 → 不另开内存/代工叙事段。`volume_report_analyzed.json` 仍 9/21，勿与 `us_vol_stats` 混读。
