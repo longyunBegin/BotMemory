@@ -397,3 +397,12 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
   - 同窗可见配图抓取 `/workspace/HTj9SgLakAA1v8M_*.jpg` 与 `x_post_2105711409271292255_*`：Sivers 幻灯「Company A/B/C」InP foundry 产能表（含 H1 2024 qualification 旧日历句）——作作者「2 US + 1 TW」读法旁证，**非**新 IR。
 - (2026-10-02，Research) **非实质 / 已记**：status/**2105397070681248021**（Gemini 测评/咳嗽）已于 §7j；`$AMZN`→Gold Circuit 帖已于 §7i——本轮不重写。
 - (2026-10-02，同步注) 相对 10/1 §7j：**有更高新产业实质帖 ID**（**2105709782854435274**）→ 推进产业实质基线；硬边界必须保留「MS 会晤转述 / 作者读法」，不得写成 FCC 已落地规则。
+
+## 7l. 增量核对（2026-10-03）
+- (2026-10-03，Research / 浏览器页痕) 无新 `serenity-x-check*.txt` 落盘（`serenity-x-check-now.txt` 仍旧基线）；可见 `/workspace/.playwright-mcp/page-2026-10-03T01-{15..32}-*.yml`（约 **09:15–09:32** Asia/Shanghai）。查询框含 `($SIVE OR SIVE.ST OR SIVEF)`、`from:aleabitoreddit (SIVE OR Sivers OR SIVEF)`、`from:aleabitoreddit (… LITE OR "under shipping" OR "70%")`、`Sivers since:2026-10-02`。 〔引用：上述 page yml〕
+- (2026-10-03，Research / Serenity) **实质帖（产业叙事向；帖发于 10/2 下午，本轮页痕首次稳定摘录入库）**：
+  - status/**2105943565918703696**（https://x.com/aleabitoreddit/status/2105943565918703696）：雪花戳 **2026-10-02 16:50** Asia/Shanghai；点名 `$LITE`。X UI **中文译层**转述首席执行官口述——明年随 **2027** 年 CPO 和 NPO 到来，估计将供不应求…… **70%**（「真的是 70%」），所以只能供应 **30%**，供应侧措手不及；到 **2029–2030** 达到某种平衡水平。来源标「全球光子经济论坛第一天 (7:57:15 - 7:58:00)」。作者收束：任何其他拥有激光产能的参与者上线后，可能很快就会获得更多市场关注。配图 2 张（页痕 photo/1·2）。硬边界：**论坛口述 + X 译层 ≠ `$LITE` IR 指引原文**；相对 §7k FCC/3.2T 帖——本条换**激光供需日历尺子**。
+  - status/**2105944591551914344**（@Sofigoodboy，引用链；原帖标 **10月2日**）：称 Omdia 上传约 **40** 页《活动回顾：CIOE 2026》，「InP 和供应链」类目提及 `$SIVE`——(1) 专注半导体侧光源供应商（对比平台/垂直整合如 Intel）；(2) 不与客户直接竞争。UI 截断后续要点 → **只记已见两点**；互动快照约 **28** 喜欢 / **5** 书签 / ~**5.5k** 观看。硬边界：三级幻灯转述 ≠ 公司 IR。
+- (2026-10-03，Research) **已于 §7k 入库、本轮不重写**：status/**2105709782854435274**（FCC/3.2T）。
+- (2026-10-03，薄 / 不升格）：@durr0_0 status/**2106176614333583721**（「CPO vs pluggables… Both need lasers」）；@Omer231ew「至少一年回 SEK 100」价位意见；足球账号 `@Sivers_7` 噪音。
+- (2026-10-03，同步注) 相对 §7k：**有更高新产业实质帖 ID**（**2105943565918703696**）→ 推进产业实质基线；同时记 Omdia/`$SIVE` 定位旁证。

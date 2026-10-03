@@ -170,3 +170,9 @@
 - (2026-10-02，同步注) **无** `sive-digest-2026-10-02*`；Yahoo/yf 最新收盘仍 **2026-10-01** **SEK 31.38**（workspace 未见 10/2 刷新）→ 价位**不**改写。SIVE agent `memory/log` 仍停在 **2026-09-16**。 〔引用：`/workspace/yf2_SIVE.ST.json`；`us_vol_stats.json` date=2026-10-01〕
 - (2026-10-02，Research·Serenity) **激光受益读法（作者，非 IR）**：status/**2105709782854435274** 在 FCC/3.2T 叙事下称 `$SIVE` 有「tremendous capacity」上线、产能伙伴指向**美国 foundry**（公司未正式披露地点）；作者称既往幻灯为 **2 家美国 + 1 家台湾（Win Semi）**；并称 CIOE channel checks 似开始接触中国 pluggable——作「若 65% 美内容门槛抬激光紧度，则合格产能更值钱」的作者推演。硬边界：**≠** 订单/指引/地点披露；与既有「主跌浪反弹 / 30–32 观察区 / Glasgow 2027 / unsponsored ADR / EGM 10/22」分层记账。 〔引用：同 FCC 页痕；`serenity-aleabitoreddit` §7k〕
 - (2026-10-02，页痕旁注) 回复链可见「SIVERS … 2026 EXTRAORDINARY GENERAL MEETING Vote by **08-OCT-2026**」通知截图类文本——与仓内已记 EGM **10/22** 为同一会议窗的投票截止旁证；**不**另开新会议。 〔引用：`page-2026-10-02T01-16-15-554Z.yml`〕
+
+## 2026-10-03 行情 / 叙事增量（无 digest；补 10/2 收盘 + Omdia/Serenity）
+- (2026-10-03，同步·Yahoo chart) **SIVE.ST** 周五 **2026-10-02** 收盘 **SEK 33.28**（相对 10/1 **31.38** 约 **+6.05%**；成交量 **7,204,271**）。日收上用户观察区 **30–32** 上沿之外；相对 9/21 池内曾见 **34.2** 仍低一截。**SIVEF** **USD 3.25**（相对 10/1 **3.13** 约 **+3.83%**）。10/3 周六休市 → 无当日收盘。 〔引用：Yahoo `v8/finance/chart/SIVE.ST`·`SIVEF` 本轮同步拉取；非 `us_vol_stats.json`（仍 date=10/1）〕
+- (2026-10-03，同步注) **无** `sive-digest-2026-10-03*`；SIVE agent `memory/log` 仍停在 **2026-09-16**；本轮价位以 Yahoo API 为准，**非** SIVE 助手日记。FI/ADR/EGM 条款仍以 10/1 节为准——**不**因社区复述重写。
+- (2026-10-03，社区/研究页痕·Omdia) @Sofigoodboy status/**2105944591551914344**（10/2）：Omdia《活动回顾：CIOE 2026》约 **40** 页幻灯，在「InP 和供应链」提及 `$SIVE`——半导体侧光源供应商（非 Intel 式平台/垂直整合）、**不与客户直接竞争**。UI 截断后续 → 只记两点。硬边界：三级幻灯转述 ≠ IR/订单。 〔引用：同 10/3 playwright；`serenity-aleabitoreddit` §7l〕
+- (2026-10-03，Research·Serenity) **激光产能关注读法（作者，非 IR）**：status/**2105943565918703696** 在 `$LITE` CEO「70% 短缺 / 只能供 30% / 平衡 2029–30」口述后收束——其他激光产能上线或更快获市场关注；与 §7k「tremendous capacity / US foundry」作者读法同层、**不**升格为订单。 〔引用：同 §7l〕

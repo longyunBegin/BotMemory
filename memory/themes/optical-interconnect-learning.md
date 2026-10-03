@@ -150,3 +150,7 @@
 ## 2026-10-02 产业链增量（无例程日更；Serenity/MS FCC 转述）
 - (2026-10-02，Research·Serenity 转述) **潜在 FCC 光模块规则更可能落在 3.2T**（@aleabitoreddit status/**2105709782854435274**；X UI **2026-10-02 01:21** Asia/Shanghai；称 Morgan Stanley 会晤华盛顿官员）：限制或从**中国制造 3.2T** 模块起刀，**800G/1.6T 不动**；达标路径写 **65%** 美国 BOM 价值（美国 DSP+激光或可凑门槛）；分析师读法偏「激光定价紧」优于「模块份额大洗牌」；**不**预期卡住 hyperscaler AI 建设，关键变量点 **InP 衬底**（`$AXTI`）。地图钉 `$LITE` / `$COHR` / `$AAOI` / `$SIVE` / `$SMTC` / `$MXL`。硬边界：**券商-官员会晤转述 ≠ FCC 成文 / 生效日 / 公司指引**；本条供框架观察，不作合规定论。 〔引用：`/workspace/.playwright-mcp/page-2026-10-02T01-16-46-670Z.yml`；`serenity-aleabitoreddit` §7k〕
 - (2026-10-02，同步注) **无** `2026-10-02-{morning,noon,evening}.md` 例程日更；仅见配图残留 `x-drafts/2026-10-02-fcc-3p2t.png`（无定稿 md）。光互连 agent `memory/log` 仍停在 **9/12**；本轮光学硬点来自 Serenity 页痕，非 X日更公开 IR 三对。
+
+## 2026-10-03 产业链增量（无例程日更；Serenity `$LITE` 论坛口述）
+- (2026-10-03，Research·Serenity 转述) **`$LITE` CEO：2027 CPO/NPO 约 70% 供不应求 / 只能供 30%**（@aleabitoreddit status/**2105943565918703696**；雪花 **2026-10-02 16:50** Asia/Shanghai；X UI 中文译层）：口述称明年随 **2027** CPO 与 NPO 到来，估计供不应求约 **70%**，故只能供应约 **30%**，供应措手不及；平衡水平约 **2029–2030**。出处「全球光子经济论坛第一天 (7:57:15–7:58:00)」。作者读法：其他激光产能上线或获更多市场关注。地图钉 `$LITE`（旁及激光供给链 `$COHR`/`$SIVE`/`$AAOI`）。硬边界：**论坛口述转述 ≠ 公司 IR 指引**；相对 10/2 FCC/3.2T 叙事——本条换供需日历尺子。 〔引用：`/workspace/.playwright-mcp/page-2026-10-03T01-31-50-269Z.yml` 等；`serenity-aleabitoreddit` §7l〕
+- (2026-10-03，同步注) **无** `2026-10-03-{morning,noon,evening}.md`；光互连 agent `memory/log` 仍停在 **9/12**；本轮光学硬点来自 Serenity 页痕，非 X日更公开 IR 三对。

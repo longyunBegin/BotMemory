@@ -51,4 +51,4 @@
 
 - 日常同步 2026-10-02 00:00 Asia/Shanghai（覆盖 10/1 早午日更 + `$MU`/`$LITE`/`$SIVE` 特稿 + unsponsored ADR）：`memory/episodes/2026-10-02-midnight-sync.md`
 - 日常同步 2026-10-03 00:00 Asia/Shanghai（覆盖 10/2：Serenity FCC/3.2T + 10/1 量能池；缺三批日更/Following）：`memory/episodes/2026-10-03-midnight-sync.md`
-
+- 日常同步 2026-10-04 00:00 Asia/Shanghai（覆盖 10/3：Serenity `$LITE` CEO 70%/30% + Omdia/`$SIVE` + 10/2 收盘；缺三批日更/Following）：`memory/episodes/2026-10-04-midnight-sync.md`
