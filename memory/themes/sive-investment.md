@@ -176,3 +176,13 @@
 - (2026-10-03，同步注) **无** `sive-digest-2026-10-03*`；SIVE agent `memory/log` 仍停在 **2026-09-16**；本轮价位以 Yahoo API 为准，**非** SIVE 助手日记。FI/ADR/EGM 条款仍以 10/1 节为准——**不**因社区复述重写。
 - (2026-10-03，社区/研究页痕·Omdia) @Sofigoodboy status/**2105944591551914344**（10/2）：Omdia《活动回顾：CIOE 2026》约 **40** 页幻灯，在「InP 和供应链」提及 `$SIVE`——半导体侧光源供应商（非 Intel 式平台/垂直整合）、**不与客户直接竞争**。UI 截断后续 → 只记两点。硬边界：三级幻灯转述 ≠ IR/订单。 〔引用：同 10/3 playwright；`serenity-aleabitoreddit` §7l〕
 - (2026-10-03，Research·Serenity) **激光产能关注读法（作者，非 IR）**：status/**2105943565918703696** 在 `$LITE` CEO「70% 短缺 / 只能供 30% / 平衡 2029–30」口述后收束——其他激光产能上线或更快获市场关注；与 §7k「tremendous capacity / US foundry」作者读法同层、**不**升格为订单。 〔引用：同 §7l〕
+
+## 2026-10-04 研究落盘 / 社区备查（非 IR；周末无新收盘；年报未逐页核验）
+- (2026-10-04，Research/SIVE) **研究落盘（工作流事实，非公司 IR 事件）**：观察到 workspace 目录 `/workspace/sive-bill/`（mtime 约 **18:03–18:06** Asia/Shanghai）。清单：Sivers Semiconductors **2025 Annual Report** 摘录（`ar.pdf` / `ar.txt`）；美国法案文本（`4713note.htm` = 41 U.S.C. **§4713**；`hr8800.htm` / `hr8800eh.htm`；`hr9541.pdf`；`s4784.htm`；`bill.htm`）；Sivers 站点 Alabama 搜索页（`s1.htm`）；`tweet.jpg`。**本轮未能打开原文逐页核验**（本环境亦无该目录可复读）→ **不**记 CHIPS 合同金额、雇员人数、或年报中的 DFB 产能数字。定性：AR 2025 + 美国供应链半导体禁购的**政策背景**（§4713 / HR8800 / S.4784 / HR9541——美国采购风险缓释 / covered articles），**≠** SIVE IR 事件。Alabama 搜索页只出现在落盘清单；未另发现有效命中 → 按**可能为空 / 无有效命中**处理，**不**记 Alabama 业务事实。`tweet.jpg` 本轮未读。Glasgow **>1 亿**颗 CW DFB / **USD 30M** 已在仓（**2026-09-03** PR；见本文件 2026-09-04 与 2026-09-25 节）——本轮只作既有引用，**不**当成年度报告新发现重写。 〔引用：父任务对 `/workspace/sive-bill/` 的清单观察；本环境 `ls` 无该目录；`sive-investment` 既有 Glasgow 条〕
+- (2026-10-04，Research·社区 X·备查) 浏览器扫描约 **09:07–09:10** Asia/Shanghai（playwright `page-2026-10-04T01-*.yml`；本环境无该页痕可复读）。下列均为**社区帖 ≠ 公司产能指引 / ≠ IR**：
+  1. @growthrapidly / Joel（status/**2106538294003560943** 及同串；其余 sibling status id 本任务未给出，**不补编**）：InP CW DFB；朝年产能 **100M+**；可插拔 / CPO / SiPh；激光为 AI 瓶颈。方向与仓内 9/3 PR「>1 亿颗」同向，**仍标社区**，不升格为新产能指引。
+  2. @GusPaschal91721（status/**2106542536412233737**）：帖面印 `$LITE` **$1.01B**、同比 **+109%**；InP 建产不够快、日本产能；读法需求>供给对 `$SIVE` 有利。社区帖面数字，**未**对照公司 IR 复核。
+  3. @FinanceMajor_23（status/**2106491731785232822**）：InP 主权对冲；与中国相关产能约 **35%**；Glasgow 在中国出口许可体制之外；持仓约 **SEK 30**。社区 / 个人仓位意见。
+  4. FinX YTD / millionaire 向炒作——**未入库**（只记见过，不采数字、不升格）。
+  〔引用：上述 status id；Research 浏览器窗〕
+- (2026-10-04，同步注) **无** `sive-digest-2026-10-04*`。日历：10/3 周六、10/4 周日，北欧/美股休市 → **无 10/3、无 10/4 收盘**。最近收盘仍为已入库的交易日 **10/2**（SIVE.ST **33.28** / SIVEF **3.25**）——**不**改写、**不**虚构休市日价格。SIVE agent `memory/log` 仍停在 **≤2026-09**（先前钉 **2026-09-16**）。`$LITE` CEO 70%/30% 与 Omdia `$SIVE` 定位已于 2026-10-03 节入库——**不**重写。 〔引用：本文件 2026-10-03 节；`trading-holdings` 2026-10-03 节〕

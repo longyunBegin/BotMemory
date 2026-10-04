@@ -175,3 +175,12 @@
 - (2026-10-03，X内容产出) **缺**早/午/晚三批例程 md（连续 10/2–10/3）。
 - (2026-10-03，Trade/workspace) `us_vol_stats.json` 仍 **10/1**；本轮观察池以 Yahoo chart **10/2** 补录（见 `trading-holdings`）；`volume_report_analyzed.json` 仍 **2026-09-21**。
 - (2026-10-03，工具) 仍禁 Grok Build；X MCP 额度 **$0.00**；Jev MCP 可用但本窗口无日更定稿可质检。
+
+## 2026-10-04 窗口（无 Following digest；无三批日更；sive-bill 研究落盘未逐页核验；社区备查；周末无新收盘）
+- (2026-10-04，同步注) **无** `/workspace/x-following-digest-2026-10-04*`（连续缺 Following 早报：**9/24–10/4**）；X agent `55a49dcf…/memory/log` 仍停在 **≤2026-09**（先前钉 **9/15**）。不虚构早报。各助手 log 本轮仍按 **≤2026-09** 记（无 10 月新日期条目可核）。
+- (2026-10-04，Research/SIVE) 观察到 `/workspace/sive-bill/`（mtime 约 **18:03–18:06** Asia/Shanghai）：AR 2025 摘录 + 美国采购 / 半导体禁购法案背景文本（§4713 / HR8800 / S.4784 / HR9541）+ Alabama 搜索页 + `tweet.jpg`。**原文未逐页核验**；定性为研究落盘 / 政策背景，**≠** SIVE IR。详见 `sive-investment` 2026-10-04。本环境无该目录可复读。
+- (2026-10-04，SIVE) **无** `sive-digest-2026-10-04*`。10/3–10/4 休市，最近收盘仍钉交易日 **10/2**——不改写。
+- (2026-10-04，Research) 浏览器扫描约 **09:07–09:10** Asia/Shanghai（`page-2026-10-04T01-*.yml`）：**无新 Serenity 工业帖**；同窗社区 InP / 100M+、`$LITE` 帖面 **$1.01B**、约 SEK **30** 持仓意见仅备查（status **2106538294003560943** / **2106542536412233737** / **2106491731785232822**）。详见 `serenity-aleabitoreddit` §7m 与 `sive-investment`。
+- (2026-10-04，X内容产出) **缺**早/午/晚三批例程 md（连续 **10/2–10/4**）。
+- (2026-10-04，Trade/workspace) `us_vol_stats.json` 仍 **10/1**；`volume_report_analyzed.json` 仍 **2026-09-21**。周末**不**补虚构收盘。
+- (2026-10-04，工具) 仍禁 Grok Build；X MCP 额度 **total_balance=$0.00**；Jev MCP 本窗口无日更定稿可质检。
