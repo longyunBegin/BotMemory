@@ -154,3 +154,9 @@
 ## 2026-10-03 产业链增量（无例程日更；Serenity `$LITE` 论坛口述）
 - (2026-10-03，Research·Serenity 转述) **`$LITE` CEO：2027 CPO/NPO 约 70% 供不应求 / 只能供 30%**（@aleabitoreddit status/**2105943565918703696**；雪花 **2026-10-02 16:50** Asia/Shanghai；X UI 中文译层）：口述称明年随 **2027** CPO 与 NPO 到来，估计供不应求约 **70%**，故只能供应约 **30%**，供应措手不及；平衡水平约 **2029–2030**。出处「全球光子经济论坛第一天 (7:57:15–7:58:00)」。作者读法：其他激光产能上线或获更多市场关注。地图钉 `$LITE`（旁及激光供给链 `$COHR`/`$SIVE`/`$AAOI`）。硬边界：**论坛口述转述 ≠ 公司 IR 指引**；相对 10/2 FCC/3.2T 叙事——本条换供需日历尺子。 〔引用：`/workspace/.playwright-mcp/page-2026-10-03T01-31-50-269Z.yml` 等；`serenity-aleabitoreddit` §7l〕
 - (2026-10-03，同步注) **无** `2026-10-03-{morning,noon,evening}.md`；光互连 agent `memory/log` 仍停在 **9/12**；本轮光学硬点来自 Serenity 页痕，非 X日更公开 IR 三对。
+
+## 2026-10-04 政策背景 / AR 2025 激光供给叙事（无例程日更）
+- (2026-10-04，Research·政策) **S. 5548**（参议院 **2026-09-24**）：*Securing National Security Systems from Chinese Optical Transceivers Act of 2026*——拟把 **covered optical transceivers** 纳入 41 U.S.C. **§4713** note（NDAA FY2023 §5949）联邦采购禁购框架；covered optical transceiver 禁令写在颁布后**五年**生效。同批另拉 HR8800 / S.4784 / HR9541 / §4713 note 文本。硬边界：**法案文本 ≠ 公司 guidance / ≠ 已生效规则**；作美国联邦光模块/光器件采购风险缓释背景。 〔引用：`/workspace/sive-bill/tweet.jpg`；`bill.htm`；`optical` 旁注见 `sive-investment` 10/4〕
+- (2026-10-04，AR 2025·`$SIVE` Photonics 段) 年报称与 hyperscaler / pluggable 厂商讨论指向未来数年 **CW 激光供给短缺**（800G→1.6T→3.2T 带宽迁移语境）；并写采样 CW DFB、预期子集 **2027+** 给生产承诺。硬边界：**AR 2025 公司叙事 ≠ 2026 新 IR 订单**；与仓内 `$LITE` 论坛口述 70%/30%（10/3）分层记账。 〔引用：`/workspace/sive-bill/ar.txt` Photonics ~L627–637〕
+- (2026-10-04，同步注) **无** `2026-10-04-{morning,noon,evening}.md`；光互连 agent log 仍停在 **9/12**。
+
