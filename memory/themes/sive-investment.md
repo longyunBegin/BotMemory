@@ -191,3 +191,9 @@
   4. FinX YTD / millionaire 炒作——**未入库**。
   〔引用：上述 status id；页痕 yml〕
 - (2026-10-04，同步注) **无** `sive-digest-2026-10-04*`。10/3–10/4 休市 → **无新收盘**；最近仍 **10/2**（SIVE.ST **33.28** / SIVEF **3.25**）不改写。SIVE log 仍 **≤2026-09**。`$LITE` CEO 70%/30% 与 Omdia `$SIVE` 定位已于 10/3 节——不重写。 〔引用：本文件 2026-10-03 节〕
+
+## 2026-10-05 收盘 / IR 无新稿 / EGM 程序细节补全
+- (2026-10-05，记忆系统·Yahoo) **SIVE.ST 收 34.50**（+3.67% vs 10/2 33.28；高 34.64 / 低 32.66；量 3.48M 缩量）；站回用户框架观察区 **30–32** 上方。X内容产出特稿称 SIVE.ST 距 **6/3** 高 **110** 约 −69%（推断）。 〔引用：Yahoo chart API；/workspace/x-drafts/2026-10-05-nasdaq-ath.md〕
+- (2026-10-05，workspace 抓取 ~09:10 Asia/Shanghai) MFN 列表最新公司 PR 仍为 **2026-09-29 18:51** EGM 通知（之前 9/24 领导层、9/3 Glasgow USD 30M）——**10/5 早无新 IR**。MFN 日历：EGM **2026-10-22**、Q3 报告 **2026-11-26 07:00**（与仓内一致）。 〔引用：/workspace/mfn.html、/workspace/cision.html〕
+- (2026-10-05，公司 IR 原文补细节，公告日 9/29) EGM：**10/22 16:00** Setterwalls（Sturegatan 10, Stockholm），允许邮寄投票；股权登记日 **10/14**，参会/邮寄投票通知截止 **10/16**（托管户须在 10/16 前完成临时投票权登记——与 10/2 页痕「Vote by 08-OCT-2026」为券商侧更早截止，不冲突）；截至 9/29 普通股 **356,740,332** 股，公司自持 **12,872,916** 股不得表决，无 C 股。审计轮换依据：Deloitte 已任 **10 年**，EU 537/2014 第 17 条公众利益实体一般不超 10 年，审计委员会建议、提名委员会**一致**通过（另含双重上市 H1’27 准备理由，已在 10/1 节）。提名委员会：Jorgen Durban（主席，代表 Erik Fallstrom/Achilles Capital）、Todd Thomson（Kairos Ventures）、Andre Netzen Orn（Cicero Fonder）、Bami Bastani（董事会主席）。P11 可授予 **美国/苏格兰/瑞典/印度/中国** 员工，非雇员董事不参与；议程另含 C 股定向发行与回购授权（为社保费用对冲）。 〔引用：/workspace/egm.html（MFN「Notice to attend an Extraordinary General Meeting」2026-09-29）〕
+- (2026-10-05，同步注) **无** `sive-digest-2026-10-05*`；SIVE log 仍 ≤2026-09。P11 规模/稀释/行权价已在 10/1 节——不重写。

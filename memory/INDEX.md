@@ -53,3 +53,4 @@
 - 日常同步 2026-10-03 00:00 Asia/Shanghai（覆盖 10/2：Serenity FCC/3.2T + 10/1 量能池；缺三批日更/Following）：`memory/episodes/2026-10-03-midnight-sync.md`
 - 日常同步 2026-10-04 00:00 Asia/Shanghai（覆盖 10/3：Serenity `$LITE` CEO 70%/30% + Omdia/`$SIVE` + 10/2 收盘；缺三批日更/Following）：`memory/episodes/2026-10-04-midnight-sync.md`
 - 日常同步 2026-10-05 00:00 Asia/Shanghai（覆盖 10/4：AR 2025 硬点 + S.5548 政策背景 + 社区备查；无新 Serenity 工业帖；缺三批日更/Following；周末无新收盘）：`memory/episodes/2026-10-05-midnight-sync.md`
+- 日常同步 2026-10-06 00:00 Asia/Shanghai（覆盖 10/5：纳指盘中新高特稿 27,403.57 + 非农/加息概率；SIVE.ST 收 34.50 + EGM 程序细节；无新 IR / Serenity 工业帖；缺三批日更/Following）：`memory/episodes/2026-10-06-midnight-sync.md`
