@@ -197,3 +197,22 @@
 - (2026-10-05，workspace 抓取 ~09:10 Asia/Shanghai) MFN 列表最新公司 PR 仍为 **2026-09-29 18:51** EGM 通知（之前 9/24 领导层、9/3 Glasgow USD 30M）——**10/5 早无新 IR**。MFN 日历：EGM **2026-10-22**、Q3 报告 **2026-11-26 07:00**（与仓内一致）。 〔引用：/workspace/mfn.html、/workspace/cision.html〕
 - (2026-10-05，公司 IR 原文补细节，公告日 9/29) EGM：**10/22 16:00** Setterwalls（Sturegatan 10, Stockholm），允许邮寄投票；股权登记日 **10/14**，参会/邮寄投票通知截止 **10/16**（托管户须在 10/16 前完成临时投票权登记——与 10/2 页痕「Vote by 08-OCT-2026」为券商侧更早截止，不冲突）；截至 9/29 普通股 **356,740,332** 股，公司自持 **12,872,916** 股不得表决，无 C 股。审计轮换依据：Deloitte 已任 **10 年**，EU 537/2014 第 17 条公众利益实体一般不超 10 年，审计委员会建议、提名委员会**一致**通过（另含双重上市 H1’27 准备理由，已在 10/1 节）。提名委员会：Jorgen Durban（主席，代表 Erik Fallstrom/Achilles Capital）、Todd Thomson（Kairos Ventures）、Andre Netzen Orn（Cicero Fonder）、Bami Bastani（董事会主席）。P11 可授予 **美国/苏格兰/瑞典/印度/中国** 员工，非雇员董事不参与；议程另含 C 股定向发行与回购授权（为社保费用对冲）。 〔引用：/workspace/egm.html（MFN「Notice to attend an Extraordinary General Meeting」2026-09-29）〕
 - (2026-10-05，同步注) **无** `sive-digest-2026-10-05*`；SIVE log 仍 ≤2026-09。P11 规模/稀释/行权价已在 10/1 节——不重写。
+
+## 2026-10-06 收盘 / 新增 BNY·Citi F-6EF / EPFL 论文帖 / 第一性原理拆解
+- (2026-10-06，记忆系统·Yahoo chart API 10/7 00:2x 拉取) **SIVE.ST 10/6 收 35.34**（+2.43% vs 10/5 34.50；高 36.34 / 低 34.06；量 **3.35M**，约 20 日均量 **0.63×**，继续缩量）；20 日收盘高 35.78、20 日低 26.68；EMA20 ≈ 32.29。**SIVEF** 美东 10/6 ~12:08 盘中 **3.54**（+2.91%，非收盘）。 〔引用：query1.finance.yahoo.com/v8/finance/chart/SIVE.ST、SIVEF；/workspace/vol.py 口径〕
+- (2026-10-06，workspace `sive-adr/` 16:38 抓取，SEC EDGAR) **又有两家存托行提交 F-6EF**（均标「As filed with the SEC on **October 5, 2026**」，Rule 466 **立即生效**）：
+  - **The Bank of New York Mellon**：登记 **50,000,000 ADS**，Receipt 写明 **1 ADS = 3 股**；律师 Emmet, Marvin & Martin（Brian D. Obergfell）。
+  - **Citibank, N.A.**：登记 **50,000,000 ADS**，**每 ADS = 3 股普通股**；律师 Mayer Brown（Jason W. Parsont）。
+  - 加上 9/29 Deutsche Bank、9/30 JPMorgan，已知 **4 家**存托行开 Sivers ADR 通道（比例均 1:3）。本轮**未逐条核验** BNY/Citi 两件是否同为 unsponsored（9/29–9/30 两件已确认 unsponsored）；硬边界照旧：**存托行 F-6 ≠ 公司赞助的美股双重上市**（公司口径 H1’27）。 〔引用：/workspace/sive-adr/{bny_f6.htm,bny_receipt.htm,citi_f6.htm,citi_ex99a.htm}；对照本文件 10/1 节〕
+- (2026-10-06，X 帖·作者解读非 IR) **@Pep_Invest** status/**2107430594959364443**（2026-10-06 11:19 UTC = 19:19 北京；35 赞 / 5 转 / 2,947 浏览，抓取时）：EPFL 新发 *Nature Photonics* 论文「Endlessly self-injection-locked photonic integrated lasers」实验用了 **`$SIVE` DFB 激光** + 高 Q 氮化硅光路，实现持续自注入锁定、本征线宽 **<10 Hz**；作者自己强调 **<10 Hz 来自整套架构，不是 SIVE DFB 单独**。作者解读：SIVE InP 激光在相干通信、LiDAR、精密传感、量子等方向有外延价值。硬边界：学术实验用料 **≠** 订单/收入。 〔引用：/workspace/pep/fx.json（fxtwitter）、/workspace/pep/article.html（Nature Photonics 页）〕
+- (2026-10-07 00:11，trade 仓库 `ideas/sive-fundamentals.md`，commit **`44e137e`**；推断由「新想法」助手撰写) **SIVE 第一性原理基本面拆解**（20 个来源 S1–S20，均 IR/财报/电话会原文链接；推算与「未找到」均标注）。要点：
+  - 收入结构（Q2 报告重述口径）：2025 净销售 **SEK 302.8m**（年报口径 306.6m；Q4 电话会「product revenue」85.7m 与重述表硬件 128.1m **对不上、原因未找到**）；Wireless 208.5（NRE 174.1）/ Photonics 94.3；H1 2026 **115.6m（−20%）**；过去 12 个月 274.1m，其中 Photonics 仅 **84.1m**（推算）。Q2 2026 收入 53.8m（−12%），硬件 +13%，NRE 35.5→24.6m。
+  - 2025 年 **3 家客户 = 183.4m ≈ 60%**（A 79.4 / B 55.2 / C 48.7），**全在 Wireless**。
+  - 利润率：2025 毛利率 5.8%；H1 2026 **−4.5%**；Q2 **−36.6%**；Q2 EBIT 含 62.7m 一次性（期权 50.3m，其中社保费重估 42.9m；美国双重上市准备 12.4m）。
+  - 现金：6/30 **SEK 62.7m**；+700m 定增（每股 57 SEK）+7.5m 认股权证 −USD 5m 还贷 → **备考 ≈ SEK 7.2 亿**（推算）；Glasgow capex USD 30m ≈ SEK 3 亿；跑道约 **6–8 个季度**（推算）。2025 年报审计带**持续经营重大不确定性**提示（融资前）。股本一年多 **+24.9%**（285.66M→356.74M）。7 月定增 120 天不发新股锁定约 11 月到期（推算）。
+  - 公司路径：USD 50–55m 年收入、产品占 65% 时现金流平衡（~2 年）；长期 CAGR 25–30%、毛利 ~65%、EBITDA ~30%；Q2 改口「2028 年起执行长期模型」。pipeline **USD 1.2B = 2026–2030 五年累计**非约束性（≠年收入）。
+  - 量：Jabil 1.6T alpha 完成、**Q4 2026 beta → H1 2027 量产订单 → H2 2027 爬坡**；另 3 家评估 alpha、3 家技术评估；LiDAR 战略客户 2026–2030 非约束 **USD 23–58m**；SemiNex USD 3.4m（2H 2027）；ALL.SPACE USD 8.2m；Tachyon USD 3m；Glasgow >1 亿颗/年 **2027 Q4** 投产；自有:代工 = 1:2。激光 ASP **未披露**。
+  - 现价反推（推算）：市值 ≈ **SEK 126 亿 ≈ USD 12.6 亿**（35.34 × 356.74M），市值/TTM 收入 ≈ 46×、/Photonics TTM ≈ 150×；r=12–15%、2030 P/E 20–30× → 2030 收入需 **USD 3.6–6.1 亿**（2025 约 USD 0.3 亿的 12–20 倍，CAGR 约 68–82%），远高于公司 25–30% 目标。
+  - 要盯：① **Q3 报告 2026-11-26**（Q4 拐点前瞻、毛利率能否转正、季末现金）② 订单 PR（LiDAR 量产、Jabil beta→量产、6 家模组厂具名）③ **10/22 EGM** 结果与锁定期后股本动作。截至 10/7 ~00:10 MFN 最新 PR 仍 **9/29** EGM 通知。
+  〔引用：https://github.com/longyunBegin/trade/blob/main/ideas/sive-fundamentals.md（commit 44e137e）；/workspace/sive-fund/、/workspace/sive1006/ 抓取〕
+- (2026-10-06，同步注) **无** `sive-digest-2026-10-06*`；SIVE 助手 log 仍 ≤2026-09。

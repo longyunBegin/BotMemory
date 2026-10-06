@@ -166,3 +166,7 @@
 - (2026-10-05，X内容产出·Yahoo 盘中) `$LITE` ~**1083.12**，盘中高 / 52 周高 **1124.40**（距高约 −3.7%，推断）；`$COHR` ~**330**，距 **6/3** 高 **440** 约 −25%；`$AAOI` ~**113.25**，距 **5/13** 高 **233.67** 约 −51%（均为美东 ~11:15 盘中，非收盘）。 〔引用：/workspace/x-drafts/2026-10-05-nasdaq-ath.md 核对表〕
 - (2026-10-05，记忆系统·Yahoo chart API 10/6 00:13 拉取) **SIVE.ST 10/5 收 34.50**（开 33.10 / 高 34.64 / 低 32.66；量 **3.48M**，约为 10/2 **7.20M** 的一半）；较 10/2 收 33.28 **+3.67%**。SIVEF 10/5 美股未收。 〔引用：query1.finance.yahoo.com/v8/finance/chart/SIVE.ST?range=5d&interval=1d〕
 - (2026-10-05，同步注) `us_vol_stats.json` 仍 **10/1**；`volume_report_analyzed.json` 仍 **9/21**；Trade agent log 仍 ≤2026-09。
+
+## 2026-10-06
+- (2026-10-06，workspace `mrvl/` 23:09 抓取；Investing.com 2026-10-06「Marvell Technology stock rallies following ambitious investor day targets」+ CNA「Marvell raises 2028 revenue forecast…」) **MRVL Investor Day（10/6）**：CEO Matt Murphy 称 2030 年 **TAM $400B**；目标 **FY2028 总收入约 $20B**、**FY2031 $70–90B**；会前共识 FY2027 **$12.05B**、FY2028 **$18.2B**；FY2026 基数 **$8.2B**。股价会初一度 −3%，随后最多 +10%，抓取时 **+7.5%～+7.91%**（盘中，非收盘）。CFO Dan Durn 强调 AI 基建规模与速度持续。对照 Trade 9/12「近端催化剂 10/6 Investor Day」与 9/15 支撑带 200–210。 〔引用：/workspace/mrvl/90f2e3.html、babf3a.html、f1b1af.html（MRVL IR 新闻页）〕
+- (2026-10-06，记忆系统·Yahoo) **SIVE.ST 10/6 收 35.34**（+2.43%，量 3.35M ≈0.63× 均量）；SIVEF 盘中 3.54。美股 10/6 收盘待下轮。 〔引用：Yahoo chart API〕
