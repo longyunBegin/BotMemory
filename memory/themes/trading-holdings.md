@@ -169,4 +169,6 @@
 
 ## 2026-10-06
 - (2026-10-06，workspace `mrvl/` 23:09 抓取；Investing.com 2026-10-06「Marvell Technology stock rallies following ambitious investor day targets」+ CNA「Marvell raises 2028 revenue forecast…」) **MRVL Investor Day（10/6）**：CEO Matt Murphy 称 2030 年 **TAM $400B**；目标 **FY2028 总收入约 $20B**、**FY2031 $70–90B**；会前共识 FY2027 **$12.05B**、FY2028 **$18.2B**；FY2026 基数 **$8.2B**。股价会初一度 −3%，随后最多 +10%，抓取时 **+7.5%～+7.91%**（盘中，非收盘）。CFO Dan Durn 强调 AI 基建规模与速度持续。对照 Trade 9/12「近端催化剂 10/6 Investor Day」与 9/15 支撑带 200–210。 〔引用：/workspace/mrvl/90f2e3.html、babf3a.html、f1b1af.html（MRVL IR 新闻页）〕
+- (2026-10-06，Research 推文稿·对话补录) **MRVL Investor Day 补充**：FY28 目标 ~$20B 对比 8 月给的 $18B；FY31 中值 $80B vs 分析师原预期 **$46.85B**；**定制芯片 FY29 >$12B（FY28 的 3 倍多）**，Murphy 原话 "not a single customer"。Research 自注：「FY29 >$12B」只见于 StockNow 会议转录，未见官方新闻稿，发帖前应等 IR 幻灯片或删；「最多涨约 10%」为盘中，收盘后再核。 〔引用：Research 对话 2026-10-06（Reuters/CNA、Investing.com、StockNow 转录）〕
+- (2026-10-06 10:08，Trade 美股量能·10/5 收盘) **QQQ 756.20**（+0.88%，量 0.75×）收上 20 日高 754.54；**NVDA 238.90**（+2.12%，1.15×）、**MSFT 525.18**（+1.48%，1.25×）、**AAOI 121.57**（+5.17%，1.24×，三连阳）均收上 20 日高；**MRVL 271.25**：盘中 279.48 在 20 日高 280 被拒；SIVE.ST 34.50（0.64×）需放量过 36。全组无 ≥1.5× 放量突破。 〔引用：Trade 对话 2026-10-06 美股量能播报〕
 - (2026-10-06，记忆系统·Yahoo) **SIVE.ST 10/6 收 35.34**（+2.43%，量 3.35M ≈0.63× 均量）；SIVEF 盘中 3.54。美股 10/6 收盘待下轮。 〔引用：Yahoo chart API〕

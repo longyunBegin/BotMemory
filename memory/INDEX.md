@@ -56,3 +56,4 @@
 - 日常同步 2026-10-05 00:00 Asia/Shanghai（覆盖 10/4：AR 2025 硬点 + S.5548 政策背景 + 社区备查；无新 Serenity 工业帖；缺三批日更/Following；周末无新收盘）：`memory/episodes/2026-10-05-midnight-sync.md`
 - 日常同步 2026-10-06 00:00 Asia/Shanghai（覆盖 10/5：纳指盘中新高特稿 27,403.57 + 非农/加息概率；SIVE.ST 收 34.50 + EGM 程序细节；无新 IR / Serenity 工业帖；缺三批日更/Following）：`memory/episodes/2026-10-06-midnight-sync.md`
 - 日常同步 2026-10-07 00:00 Asia/Shanghai（覆盖 10/6：BNY·Citi 新 F-6EF（4 家存托行）+ SIVE.ST 收 35.34 + EPFL 论文帖 + SIVE 第一性原理拆解 + MRVL Investor Day FY28 ~$20B；无新助手；无对话读取工具为缺口）：`memory/episodes/2026-10-07-midnight-sync.md`
+| 2026-10-07 对话补录（10/6） | memory/episodes/2026-10-07-transcript-catchup.md |

@@ -32,3 +32,6 @@
 
 ## Jev（TypeSafe）X 推文质检（2026-09-21）
 - (2026-09-21，Yun Long) 共享 MCP `user-jev`（`npx -y jev-mcp`）；用于主题/水文/质量打分，不写文案。题库与门槛：`memory/themes/x-tweet-jev-triage.md`。密钥在本机 Typesafe key 文件（**勿入库**）。 〔引用：用户指令 2026-09-21；commits `8485508`/`41416b6`〕
+
+## 持仓邮件 IBKR 授权（2026-10-06，云服务机器人）
+- IBKR refresh token 距 9/26 授权约 10 天再次过期；用户在 Mac 上重新授权（`~/portfolio-brief-bot-oauth`），token 与 .env 拷回 `/workspace/portfolio-brief-bot`；`--force` 补发 10/5 邮件成功（8 只持仓，交易日 2026-10-05，收件 longyundevelopment@163.com，SMTP 250 OK）；每日 10:00 定时照旧。预计约 10 天一过期，届时需再授权。凭据不入库。 〔引用：云服务机器人对话 2026-10-06〕
