@@ -22,6 +22,7 @@
 | X 内容产出（发帖） | `memory/themes/x-content-output.md` |
 | AI 硬件研究网址清单 | `memory/themes/ai-hardware-research-sites.md` |
 | X 推文 Jev 质检题库 | `memory/themes/x-tweet-jev-triage.md` |
+| 交易想法仓库 · 指标 · 观察池扫描（新想法） | `memory/themes/trade-ideas-indicators.md` |
 
 首次批量分类：2026-09-13
 
