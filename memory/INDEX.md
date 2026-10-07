@@ -60,3 +60,4 @@
 - 日常同步 2026-10-07 00:00 Asia/Shanghai（覆盖 10/6：BNY·Citi 新 F-6EF（4 家存托行）+ SIVE.ST 收 35.34 + EPFL 论文帖 + SIVE 第一性原理拆解 + MRVL Investor Day FY28 ~$20B；无新助手；无对话读取工具为缺口）：`memory/episodes/2026-10-07-midnight-sync.md`
 | 2026-10-07 对话补录（10/6） | memory/episodes/2026-10-07-transcript-catchup.md |
 - 日常同步 2026-10-08 00:00 Asia/Shanghai（覆盖 10/7：新助手「思考陪练」+ thinking-sparring 仓库；SIVE vs Serenity 对照（trade `099d399`）；SIVE.ST 收 34.28；MRVL scale-up 光 0→几亿美元 vs Woodside 2028；观察池日报改由 Grok Bot 例程；副业接单调研；对话读取仍是缺口）：`memory/episodes/2026-10-08-midnight-sync.md`
+| 2026-10-08 对话补录（10/7） | memory/episodes/2026-10-08-transcript-catchup.md |

@@ -35,3 +35,9 @@
 
 ## 持仓邮件 IBKR 授权（2026-10-06，云服务机器人）
 - IBKR refresh token 距 9/26 授权约 10 天再次过期；用户在 Mac 上重新授权（`~/portfolio-brief-bot-oauth`），token 与 .env 拷回 `/workspace/portfolio-brief-bot`；`--force` 补发 10/5 邮件成功（8 只持仓，交易日 2026-10-05，收件 longyundevelopment@163.com，SMTP 250 OK）；每日 10:00 定时照旧。预计约 10 天一过期，届时需再授权。凭据不入库。 〔引用：云服务机器人对话 2026-10-06〕
+
+## 2026-10-07 工具与账号变动（对话补录）
+- (新想法) 用户 10/6 晚开启 Google 两步验证；10/7 18:09 用存好的 Gmail 应用专用密码测 SMTP 登录 **LOGIN_OK**，观察池日报不受影响；只有改 Google 密码或撤销该应用密码才失效。 〔引用：新想法对话 2026-10-07〕
+- (云服务机器人) 10/7 持仓邮件照常发出（8 只，交易日 10/6，SMTP 250 OK）。 〔引用：云服务机器人对话 2026-10-07〕
+- (Research) 例程「Serenity X 监听」用登录 @lyAtomic 的浏览器只读查 @aleabitoreddit，10/7 09:36–15:31 正常（基线 status/2107534129780920682，10/7 02:11），17:34 那轮 X 报错「Something went wrong」没查成，按规则未改用 Grok 或 X API。 〔引用：Research 对话 2026-10-07〕
+- (Reddit) 仓库 **longyunBegin/reddit-intel**：Python 标准库 CLI，从 Arctic Shift（主）/PullPush（备）拉 Reddit 数据给 AI 用。实测问题：不带 --subs 静默返回空、--since 窗口实际只覆盖最近约 20 帖、429 重试过快、PullPush 已全面 429 等；发现 Arctic Shift 帖子 score/评论数约 36 小时后才回填，但评论接口近实时（约 30 秒延迟）。已派云端编程代理 bc-c0acfe4a-e641-524c-ba63-d16be2d8c420 修复并加「按实时评论数排热度」功能，开 PR 不合并。新想法确认 reddit-intel 不是它建的。 〔引用：Reddit 对话、新想法对话 2026-10-07 23:45〕
