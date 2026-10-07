@@ -23,6 +23,8 @@
 | AI 硬件研究网址清单 | `memory/themes/ai-hardware-research-sites.md` |
 | X 推文 Jev 质检题库 | `memory/themes/x-tweet-jev-triage.md` |
 | 交易想法仓库 · 指标 · 观察池扫描（新想法） | `memory/themes/trade-ideas-indicators.md` |
+| 思考陪练与决策档案 | `memory/themes/thinking-sparring-decisions.md` |
+| 副业接单 / 无流量变现需求调研 | `memory/themes/side-income-freelance.md` |
 
 首次批量分类：2026-09-13
 
@@ -57,3 +59,4 @@
 - 日常同步 2026-10-06 00:00 Asia/Shanghai（覆盖 10/5：纳指盘中新高特稿 27,403.57 + 非农/加息概率；SIVE.ST 收 34.50 + EGM 程序细节；无新 IR / Serenity 工业帖；缺三批日更/Following）：`memory/episodes/2026-10-06-midnight-sync.md`
 - 日常同步 2026-10-07 00:00 Asia/Shanghai（覆盖 10/6：BNY·Citi 新 F-6EF（4 家存托行）+ SIVE.ST 收 35.34 + EPFL 论文帖 + SIVE 第一性原理拆解 + MRVL Investor Day FY28 ~$20B；无新助手；无对话读取工具为缺口）：`memory/episodes/2026-10-07-midnight-sync.md`
 | 2026-10-07 对话补录（10/6） | memory/episodes/2026-10-07-transcript-catchup.md |
+- 日常同步 2026-10-08 00:00 Asia/Shanghai（覆盖 10/7：新助手「思考陪练」+ thinking-sparring 仓库；SIVE vs Serenity 对照（trade `099d399`）；SIVE.ST 收 34.28；MRVL scale-up 光 0→几亿美元 vs Woodside 2028；观察池日报改由 Grok Bot 例程；副业接单调研；对话读取仍是缺口）：`memory/episodes/2026-10-08-midnight-sync.md`

@@ -195,3 +195,7 @@
 - (2026-10-05，X内容产出·核对与删减) 稿内带逐条核对表（Nasdaq/CNBC/Yahoo/Reuters/Longbridge HKEJ/gaetanoresearch/serenitytrades/from2028）；**主动删掉**：S.5548（引入约 9/24，超 ≤5 天窗）、`$FN`（控长）、「光模块也会新高」硬预测、把 10/2 写成收盘新高；X 原帖直链因抓取受限改用第三方转载核对；X MCP 余额 $0 未调用。——这是 ≤5 天规则 + 盘中/收盘口径区分的良好样例。 〔引用：同上「核对表」「删掉的内容」〕
 - (2026-10-05，Jev 质检) jev-1.13.0：overall **2.92**/4（conf 0.65）、ath_framing check yes **~0.97**、overclaim check yes **~0.94**、style **2.39**/3（conf 0.39）。 〔引用：同上「Jev」表〕
 - (2026-10-05，待办) 稿件需美东收盘后（≈10/6 04:00 Asia/Shanghai）按替换句改写才可发；本同步时（10/6 00:15）美股未收盘，**未**记录 10/5 收盘值。
+
+## 2026-10-07 产出（10/8 午夜同步；作者按 `x-drafts/` 惯例推断为 X内容产出）
+- (2026-10-07，X内容产出) 当日**无** `2026-10-07-{morning,noon,evening}.md` 三批日更；改为 2 篇专题稿 + 1 份侦察：①`2026-10-07-mrvl-copper.md`（配图 `mrvl-copper.png`）——`$MRVL` 投资者日 scale-up 光「今天 0 收入、明年 multi hundred million」；②`2026-10-07-optics-timing.md`（18:08，配图 + 3 张来源截图 `src-woodside/src-marvell/src-marvell-2.png`）——Woodside「2028 story」vs Marvell FY28 两个钟；③`2026-10-07-sive-latest-scout.md`——SIVE 无新硬消息，**未成稿**。硬点见 `optical-interconnect-learning.md` / `sive-investment.md` 10/7 节。 〔引用：`/workspace/x-drafts/`〕
+- (2026-10-07，写法观察) 两篇均中英成对、口语短句、逐句给原话出处（实录 + 演示稿 + Woodside 原文），推断句明确标「我的推断 / My read (inference)」，并主动注明「两份材料都没提 Sivers」「$65B 不是 scale-up 单项」等口径边界——符合 10/1 出处属实规则与 ≤5 天时效规则（来源为 10/5、10/6）。optics-timing 中文稿 Jev quality 2.48 / 水文 0.10。 〔引用：同上〕

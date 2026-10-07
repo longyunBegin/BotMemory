@@ -46,3 +46,8 @@
 - (10/7 00:02，`14c1ecd`、`3585a22`) 移植位置与风险面板第 6 项 **未回补缺口**：邮件明细卡片 + `scan.md` 新列。
 - (10/7 00:11，`44e137e`) `ideas/` 首篇：**SIVE 第一性原理基本面拆解**（收入→利润率→现金→能赚多久→有多确定→反推现价），详见 `sive-investment.md` 10/6 节。
 - 未决：Pine 两个面板仍未在 TradingView 实测编译；Yahoo 数据与 TradingView 对数未做。
+
+## 2026-10-07 增量（10/8 午夜同步）
+- (10/7 00:27，`099d399`) 新增想法 `ideas/sive-serenity-comparison.md`：SIVE Serenity 建模 vs 第一性原理拆解对照，README 与 `sive-fundamentals.md` 互链（新增「延伸」节）。要点见 `sive-investment.md` 与 `serenity-aleabitoreddit.md` 10/7 节。
+- (10/7 10:31，`70f724d`) 观察池日报 2026-10-06 写入 `scan.md`（MRVL 突破近高、IBKR 上穿 MA20/MA50、DRAM 下穿 MA20，详见 `trading-holdings.md`）。
+- (10/7 10:32，`66c7b3a`) **观察池日报定时改由 Grok Bot 例程「观察池日报」触发**（北京时间周二至周六 09:45，本机跑 `scanner/scan.py`），**删掉 GitHub Actions cron `45 1 * * 2-6`**；仓库仍保留 `workflow_dispatch` 可在 Actions 页手动运行。README 与 `scanner/README.md` 同步改写。 〔引用：github.com/longyunBegin/trade 提交 `66c7b3a`〕
