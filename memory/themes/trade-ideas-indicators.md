@@ -51,3 +51,10 @@
 - (10/7 00:27，`099d399`) 新增想法 `ideas/sive-serenity-comparison.md`：SIVE Serenity 建模 vs 第一性原理拆解对照，README 与 `sive-fundamentals.md` 互链（新增「延伸」节）。要点见 `sive-investment.md` 与 `serenity-aleabitoreddit.md` 10/7 节。
 - (10/7 10:31，`70f724d`) 观察池日报 2026-10-06 写入 `scan.md`（MRVL 突破近高、IBKR 上穿 MA20/MA50、DRAM 下穿 MA20，详见 `trading-holdings.md`）。
 - (10/7 10:32，`66c7b3a`) **观察池日报定时改由 Grok Bot 例程「观察池日报」触发**（北京时间周二至周六 09:45，本机跑 `scanner/scan.py`），**删掉 GitHub Actions cron `45 1 * * 2-6`**；仓库仍保留 `workflow_dispatch` 可在 Actions 页手动运行。README 与 `scanner/README.md` 同步改写。 〔引用：github.com/longyunBegin/trade 提交 `66c7b3a`〕
+
+## 2026-10-08–10/09 增量（10/10 午夜 catchup）
+- (2026-10-08，新想法/trade commit **`c289624`**) `scanner/scan.py`：Yahoo **最新日线收盘为空**时，用**当天 1h K 线**最后一根收盘补齐——修 **SIVE.ST 落后一天**（北欧收盘后 Yahoo 日线偶空）。改动 +29 行。 〔引用：github.com/longyunBegin/trade `c289624`〕
+- (2026-10-08，`3061324` / `521adea`) 观察池日报 **2026-10-07** 写入（`521adea` 补 SIVE.ST 10/7 行，配合 1h 补齐逻辑）。 〔引用：trade 提交日志〕
+- (2026-10-09 晨，`9486edd`) 观察池日报 **2026-10-08** 写入 `scan.md`（变化与收盘见 `trading-holdings.md` / `sive-investment.md`）。 〔引用：trade `9486edd`；`scan.md` 标题「观察池日报 2026-10-08」〕
+- (2026-10-09，新想法/trade commit **`3e14e14`**) `watchlist.txt` 新增 **`GOOGL, QQQ`**——基准为 **QQQ**（非默认 SOXX）。当前观察池：MU、SNDK、SIVE.ST(^OMX)、NVDA、MSFT、MRVL、IBKR、AAOI、DRAM、**GOOGL(QQQ)**。 〔引用：trade `3e14e14`；`watchlist.txt`〕
+- (2026-10-09，同步注) 截至 10/10 ~00:26，`scan.md` 仍为 10/8 日报；**无** 10/9 日报行（例程尚未写出或本轮未跑到含 GOOGL 的下一报）。

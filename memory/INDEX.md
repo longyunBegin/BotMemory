@@ -61,3 +61,5 @@
 | 2026-10-07 对话补录（10/6） | memory/episodes/2026-10-07-transcript-catchup.md |
 - 日常同步 2026-10-08 00:00 Asia/Shanghai（覆盖 10/7：新助手「思考陪练」+ thinking-sparring 仓库；SIVE vs Serenity 对照（trade `099d399`）；SIVE.ST 收 34.28；MRVL scale-up 光 0→几亿美元 vs Woodside 2028；观察池日报改由 Grok Bot 例程；副业接单调研；对话读取仍是缺口）：`memory/episodes/2026-10-08-midnight-sync.md`
 | 2026-10-08 对话补录（10/7） | memory/episodes/2026-10-08-transcript-catchup.md |
+- 2026-10-09 同步失败说明（已由 10/10 catchup 替代）：`memory/episodes/2026-10-09-midnight-sync-failed.md`
+- 日常同步 2026-10-10 00:00 Asia/Shanghai（补录 10/8–10/9：SSMIY unsponsored ADR；SIVE.ST 收 31.08；AAOI 105.90；scanner 1h 补齐；观察池加 GOOGL/QQQ；对话读取仍是缺口）：`memory/episodes/2026-10-10-midnight-sync.md`

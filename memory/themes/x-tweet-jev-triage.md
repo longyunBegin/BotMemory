@@ -152,3 +152,6 @@ Levels（低→高，index 0–3）:
 - (2026-10-01，X内容产出·特稿) `$MU` FQ4 合同化/RPO → theme=`earnings_analysis`、shuiwen≈**0.03**、quality≈**3.92**（保留）。 〔引用：/workspace/x-drafts/2026-10-01-mu-earnings.md〕
 - (2026-10-01，X内容产出·特稿) `$LITE` vs `$SIVE` 双时钟 → theme=`relative_valuation_divergence`、shuiwen≈**0.07**、quality≈**3.9**（保留）。 〔引用：/workspace/x-drafts/2026-10-01-lite-vs-sive.md〕
 - (2026-10-01，X内容产出·特稿) `$SIVE` 走 `$LITE` 路的期望 → theme=`recovery_expectation`、shuiwen≈**0.10**、quality≈**3.79**（保留）。 〔引用：/workspace/x-drafts/2026-10-01-sive-expect.md〕
+
+## 2026-10-08 特稿质检样例（X内容产出·SSMIY）
+- (2026-10-08，X内容产出·SSMIY ADR 特稿) SSMIY unsponsored ADR 口径澄清 → theme=`other_equity`、shuiwen≈**0.05**、quality≈**2.88**/3（conf **0.88**；保留）。 〔引用：/workspace/x-drafts/2026-10-08-sive-otc.md〕

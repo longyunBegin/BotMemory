@@ -199,3 +199,9 @@
 ## 2026-10-07 产出（10/8 午夜同步；作者按 `x-drafts/` 惯例推断为 X内容产出）
 - (2026-10-07，X内容产出) 当日**无** `2026-10-07-{morning,noon,evening}.md` 三批日更；改为 2 篇专题稿 + 1 份侦察：①`2026-10-07-mrvl-copper.md`（配图 `mrvl-copper.png`）——`$MRVL` 投资者日 scale-up 光「今天 0 收入、明年 multi hundred million」；②`2026-10-07-optics-timing.md`（18:08，配图 + 3 张来源截图 `src-woodside/src-marvell/src-marvell-2.png`）——Woodside「2028 story」vs Marvell FY28 两个钟；③`2026-10-07-sive-latest-scout.md`——SIVE 无新硬消息，**未成稿**。硬点见 `optical-interconnect-learning.md` / `sive-investment.md` 10/7 节。 〔引用：`/workspace/x-drafts/`〕
 - (2026-10-07，写法观察) 两篇均中英成对、口语短句、逐句给原话出处（实录 + 演示稿 + Woodside 原文），推断句明确标「我的推断 / My read (inference)」，并主动注明「两份材料都没提 Sivers」「$65B 不是 scale-up 单项」等口径边界——符合 10/1 出处属实规则与 ≤5 天时效规则（来源为 10/5、10/6）。optics-timing 中文稿 Jev quality 2.48 / 水文 0.10。 〔引用：同上〕
+
+## 2026-10-08 产出（10/10 午夜 catchup；作者按 `x-drafts/` 惯例推断为 X内容产出）
+- (2026-10-08，X内容产出) 当日**无** `2026-10-08-{morning,noon,evening}.md` 三批日更；落盘特稿：**`2026-10-08-sive-otc.md` + `.png`**，配 4 张来源截图（OTC quote/security、JPM adr、SEC Citi）。主线：新代码 **SSMIY** = unsponsored ADR，**不是**公司赴美上市；硬点与出处见 `sive-investment.md` 10/8 节。稿内标「5-day freshness：来源均 10/5 或更晚」。 〔引用：`/workspace/x-drafts/2026-10-08-sive-otc.md`〕
+- (同上·写法) 中英成对、口语短句；明确对比 SIVEF（1:1 正股）vs SSMIY（1:3 DR）；引用 Citi F-6EF 原句划清公司无义务；附 NFA。符合出处属实 + ≤5 天时效。
+- (同上·Jev CN) theme `other_equity` **0.99** / shuiwen **0.05** / quality **2.88**（0–3 分制，conf **0.88**）。 〔引用：草稿文末 Jev 行〕
+- (2026-10-09，同步注) **无** `x-drafts/2026-10-09*` 落盘；例程三批日更连续缺口延续（自 10/2）。不复写已在仓的口语化 / 言简意赅 / 第一性原理政策。

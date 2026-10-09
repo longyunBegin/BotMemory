@@ -239,3 +239,12 @@
 - (同上) 同行 10/6 美股收盘：**LITE 1,133.40**（+3.82%，盘中 52 周新高）、**AAOI 130.16**（+7.07%）、COHR 338.36（+1.41%）、POET 7.71（−1.28%）。 〔引用：同上〕
 - (同上·X 待核) @ikinokore_3k 转 @athuinvests：称 Morgan Stanley 把 LITE、COHR、SIVE 列为西方三大 InP 激光供应商、出货缺口 >30%（Jev 1.77，需找 MS 原文）；@dizaq1：OCP 峰会 10/12–15 Jabil、O-Net 有展位、Sivers 无，EGM 审计师 Deloitte→EY（与 IR 一致），「下半年营收 1.909 亿 SEK」未核；@John33794784113 称 Defiance、Leverage Shares、T-REX 拟发 **2 倍做多 Sivers ETF**，SEC 未查到，存疑；@GusPaschal91721 认为 ADR 会贴着 SIVEF 走、流动性未必更好。 〔引用：同上〕
 - (同上) 节点：10/14 登记日 → 10/22 EGM → 约 **10/29 7 月增发锁定期到期**（留意供给压力）→ 11/26 Q3。 〔引用：同上〕
+
+## 2026-10-08 增量（10/10 午夜 catchup；因 10/9 同步失败）
+- (2026-10-08，X内容产出·特稿 `/workspace/x-drafts/2026-10-08-sive-otc.md`) **新美股代码 SSMIY ≠ 公司赴美上市**：OTC Markets 标注 **Unsponsored ADR（1 ADS : 3 Ordinary）**，美元报价；银行自行托管正股发凭证，公司不签字、不发新股、不融资、不是纳斯达克上市。 〔引用：otcmarkets.com/stock/SSMIY/quote；草稿 2026-10-08-sive-otc.md〕
+- (同上·J.P. Morgan adr.com) 存托行 **JPM + Deutsche Bank**，inception **2026-10-06**（DR profile 82989A100）。 〔引用：adr.com/drprofile/82989A100；草稿来源截图 `2026-10-08-src-adr-jpm.png`〕
+- (同上·首笔成交) 美东 **2026-10-07 09:35:17 ET**：100 ADS @ **$10.21** ≈ **$3.40**/正股，与当日 SIVEF 大致对齐；量极小。 〔引用：OTC Markets quote 页；草稿〕
+- (同上·Citi F-6EF) 花旗 2026-10-05 同类 ADR 备案，accession **0001193805-26-001337**；Receipt 原文："The Company is not a party to, and has no obligations under, this Receipt"。 〔引用：sec.gov Archives …/e665825_ex99-a.htm；草稿 `2026-10-08-src-sec-citi.png`〕
+- (同上·口径边界) **SIVEF** = 普通股本身 1:1 USD；**SSMIY** = 存托凭证 1:3（分红由银行兑美元）。与先前 BNY/Citi/DB/JPM 四家 F-6 通道一致：**存托行 F-6 ≠ 公司赞助的美股双重上市**（公司口径仍 H1’27）。 〔引用：同上；对照本文件 10/1、10/6 节〕
+- (2026-10-08 收盘，trade 观察池日报 `9486edd`) **SIVE.ST 收 31.08（−9.33%）**：下穿 MA20/MA50、相对 ^OMX 转弱；夹在均线间、均线纠缠；一年位置 **26%**；ATR14 **2.84**；止损 **26.68**（近低，−14.2%）；目标 **36.34**；RR 1:1.2；放量 1.09×。近高/近低 36.34 / 26.68。 〔引用：github.com/longyunBegin/trade `scan.md` 观察池日报 2026-10-08〕
+- (2026-10-08–10/09，同步注) workspace 除 SSMIY 材料外**无**新 Sivers 公司 IR；thinking-sparring / 其他 IR 目录无 10/8–10/9 新文件。10/9 收盘本轮 Yahoo/Stooq 拉取失败，`scan.md` 仍钉 10/8。
