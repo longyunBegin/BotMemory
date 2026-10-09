@@ -205,3 +205,9 @@
 - (同上·写法) 中英成对、口语短句；明确对比 SIVEF（1:1 正股）vs SSMIY（1:3 DR）；引用 Citi F-6EF 原句划清公司无义务；附 NFA。符合出处属实 + ≤5 天时效。
 - (同上·Jev CN) theme `other_equity` **0.99** / shuiwen **0.05** / quality **2.88**（0–3 分制，conf **0.88**）。 〔引用：草稿文末 Jev 行〕
 - (2026-10-09，同步注) **无** `x-drafts/2026-10-09*` 落盘；例程三批日更连续缺口延续（自 10/2）。不复写已在仓的口语化 / 言简意赅 / 第一性原理政策。
+
+## 2026-10-08 对话补录（X内容产出流程）
+- (2026-10-08，Yun Long → X内容产出) 截图规则：**原文高亮只用黄底，不加红框**（已记 `identity-preferences.md`）。 〔引用：X内容产出对话 2026-10-08〕
+- (同上·SSMIY 特稿流程) 用户**主动要求**写新 OTC 代码推文；硬点见 `sive-investment.md` / 本文件「2026-10-08 产出」节（午夜同步）。初稿曾引用 9/29–9/30 材料 → 超 **≤5 天**时效，改用 Citi **10/5** F-6EF。Jev quality **2.88**（0–3）。 〔引用：同上；`/workspace/x-drafts/2026-10-08-sive-otc.md`〕
+- (2026-10-08/09，Research 代写推文) Serenity/Lumentum 外溢与 Japan Times 核对后的中英草稿（再硬一版）——硬点进 `serenity-aleabitoreddit.md` §7q；框架非荐股。 〔引用：Research 对话 2026-10-09〕
+- (2026-10-08，Reddit) DFB 专利帖中英推文已交付（认可方向、盯实测良率）——见 `sive-investment.md` 对话补录。 〔引用：Reddit 对话〕

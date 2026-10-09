@@ -63,3 +63,4 @@
 | 2026-10-08 对话补录（10/7） | memory/episodes/2026-10-08-transcript-catchup.md |
 - 2026-10-09 同步失败说明（已由 10/10 catchup 替代）：`memory/episodes/2026-10-09-midnight-sync-failed.md`
 - 日常同步 2026-10-10 00:00 Asia/Shanghai（补录 10/8–10/9：SSMIY unsponsored ADR；SIVE.ST 收 31.08；AAOI 105.90；scanner 1h 补齐；观察池加 GOOGL/QQQ；对话读取仍是缺口）：`memory/episodes/2026-10-10-midnight-sync.md`
+| 2026-10-10 对话补录（10/8–10/9） | memory/episodes/2026-10-10-transcript-catchup.md |

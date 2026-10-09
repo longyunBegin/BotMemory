@@ -58,3 +58,8 @@
 - (2026-10-09 晨，`9486edd`) 观察池日报 **2026-10-08** 写入 `scan.md`（变化与收盘见 `trading-holdings.md` / `sive-investment.md`）。 〔引用：trade `9486edd`；`scan.md` 标题「观察池日报 2026-10-08」〕
 - (2026-10-09，新想法/trade commit **`3e14e14`**) `watchlist.txt` 新增 **`GOOGL, QQQ`**——基准为 **QQQ**（非默认 SOXX）。当前观察池：MU、SNDK、SIVE.ST(^OMX)、NVDA、MSFT、MRVL、IBKR、AAOI、DRAM、**GOOGL(QQQ)**。 〔引用：trade `3e14e14`；`watchlist.txt`〕
 - (2026-10-09，同步注) 截至 10/10 ~00:26，`scan.md` 仍为 10/8 日报；**无** 10/9 日报行（例程尚未写出或本轮未跑到含 GOOGL 的下一报）。
+
+## 2026-10-08–10/09 对话补录（新想法）
+- (2026-10-08，新想法) scanner **`c289624`**（Yahoo 日线 Close 空 → 当天 1h 补齐）与 10/7 日报重发：见上一节「2026-10-08–10/09 增量」，不复写。10/7 重发日报中 SIVE **34.28**。 〔引用：新想法对话；trade `c289624`〕
+- (2026-10-09，新想法) 盒子 SMTP 不通 → **观察池日报例程改为触发 GitHub Actions `scan.yml`** 发信（不再依赖盒子本地 SMTP）；补发「观察池日报 2026-10-08」（Actions run **37876246552**）。与 10/7「例程本机跑 scan.py」路径并存演进——以当前例程配置为准。 〔引用：新想法对话 2026-10-09；对照 `66c7b3a`〕
+- (2026-10-09，新想法) watchlist 加 **GOOGL, QQQ**（`3e14e14`）：见上一节，不复写。用户问 @mail.grokbot.com / claim eden：无法代申请（见 `accounts-tools.md`）。 〔引用：同上〕
