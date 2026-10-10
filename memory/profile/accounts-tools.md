@@ -56,3 +56,11 @@
 - (2026-10-10，新想法·发信载荷) 本机 `trade/scanner/out/SENDEMAIL_NOW.json` 等：`from=lyatomic@mail.grokbot.com`，`from_name=新想法`，`to=ly1653812264@gmail.com`，`subject=观察池日报 2026-10-09`（数据日期 10/9 周五收盘，周六晨处理）。本轮**未**从对话正文确认 SMTP/SendEmail 送达回执；只记载荷与仓库约定。 〔引用：`/workspace/trade/scanner/out/SENDEMAIL_NOW.json`〕
 - (2026-10-10，云服务机器人·发信载荷) `/workspace/final_send.json`：`from=lyatomic@mail.grokbot.com`，`from_name=云服务机器人`，`to=longyundevelopment@163.com`，`subject=[Portfolio Brief] 2026-10-09 P&L EUR -43.45% · USD +20.06%`；正文称 8 positions、Sent from Grok Bot (server)。本轮同样只记载荷，不臆测送达。 〔引用：`/workspace/final_send.json`；对照 `portfolio-brief-2026-10-09.html`〕
 - (对照) 10/9 对话补录曾记：盒子 SMTP 不通、观察池临时走 Actions `scan.yml` 发信、claim eden 无法代申请——被本条 **`b44ebb4` + lyatomic** 路径部分取代。 〔引用：`episodes/2026-10-10-transcript-catchup.md`；本文件上一节〕
+
+## 2026-10-10 对话补录（交叉午夜 `85c5282`）
+- (2026-10-10，工具) 认领流程：试 **`eden` / `si` / `ly`** 均占用；用户给 **`lyAtomic`** → **`lyatomic@mail.grokbot.com`**（系统小写）。已 SendToAgent 转告云服务/新想法 + 共享用户记忆。用户原话「**收件箱不用变**」。 〔引用：工具对话 2026-10-10；交叉午夜认领硬点〕
+- (同上·自发自收) 测试成功：云服务「测试-云服务机器人」message id **44346** / thread **b69a7d84**；新想法「测试-新想法」message id **44374**。显示名不同、地址同为 lyatomic。 〔引用：同上〕
+- (同上) Mac SMTP 正式持仓邮件亦进 lyatomic（主题含 EUR −43.45% · USD +20.06%，发件 1653812264@qq.com）。数字见午夜 / `trading-holdings.md`。 〔引用：同上〕
+- (2026-10-10，云服务机器人) IBKR 重授权：远程 Shell 后台监听会被杀（**8765** 回调拒绝）；须 Mac **Terminal.app** 常驻 **`ibkr-oauth-local.js`**。token 同步 Mac `pbb-run` 与 box。凭据不入库。 〔引用：云服务机器人对话 2026-10-10〕
+- (同上) 盒子 QQ SMTP **465 ETIMEDOUT**；SendEmail from lyatomic（显示名「云服务机器人」）→ longyundevelopment@163.com，交易日 2026-10-09，message id **45372**（优先于失败 `$file:` **45079**）。日常例程仍定 Mac SMTP。 〔引用：同上〕
+- (2026-10-10，新想法) `b44ebb4` 确认信 message id **44462**；例程「观察池日报」提示已更新。用户「你现在发送一份」：Yahoo 全员限流 → 用已有 10/09 `scan.md` SendEmail，message id **45302**（junk `$file:` **45230** 作废）；`email.html` 仍标 10/08 模板、正文为正确 10/09。`/workspace/se_html.html` = 发信临时副本（md5=email.html），非仓库文件。 〔引用：新想法对话 2026-10-10〕

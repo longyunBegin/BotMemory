@@ -199,3 +199,6 @@
 - (2026-10-10，云服务机器人·`portfolio-brief-2026-10-09.html` / `final_send.json`) 8 仓、分币种不换汇：EUR 市值 **€8,589**、总盈亏 **−43.45%（−€6,598）**；USD 市值 **$12,029**、总盈亏 **+20.06%（+$2,010）**。当日涨跌：AAOI +3.53% / IBKR +1.62% / GOOGL +0.97% / DRAM +0.46% / MRVL +0.23% / MP 0.00% / NVDA −0.52% / **2DG −3.38%**。 〔引用：`/workspace/pbb-compact.html`；`final_send.json` subject〕
 - (同上·仓位明细，收盘价口径) **2DG** 3200 股 · €2.68（成本 €4.75）；**AAOI** 10 · $109.64（成本 $150.10）；**DRAM** 20 · $57.19（$58.00）；**GOOGL** 4 · $351.66（$351.75）；**IBKR** 16.4887 · $87.87（$46.99）；**MP** 1 · $46.14（$97.21）；**MRVL** 20.0197 · $275.28（$212.69）；**NVDA** 6 · $229.28（$136.83）。摘要：5 up / 2 down / 1 flat。 〔引用：同上 HTML；**非荐股**，仅记邮件快照〕
 - (注) 该邮件快照**未**出现 MU/SNDK/MSFT/SIVE.ST；观察池仍扫这些标的。GOOGL 同时出现在观察池与持仓邮件（4 股）。发件改 lyatomic 见 `accounts-tools.md`。
+
+## 2026-10-10 对话补录（交叉午夜 Portfolio Brief）
+- (2026-10-10，云服务机器人) 正式 10/09 持仓邮件：盒子 QQ SMTP 465 超时后改 SendEmail lyatomic → longyundevelopment@163.com，message id **45372**（废 `$file:` 45079）；Mac SMTP 同主题信亦进 lyatomic 收件箱。P&L EUR −43.45% / USD +20.06% 与 8 仓明细见本文件「2026-10-10 Portfolio Brief」午夜节 / `85c5282`，不重抄。日常例程仍定 Mac SMTP。 〔引用：云服务/工具对话 2026-10-10；交叉 `accounts-tools.md`〕

@@ -427,3 +427,8 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (2026-10-08，Research) @outliercapx 帖：LITE 200G lasers sold out（配 MarketWatch 10/1 Conti 截图）。Jev 水文 yes **0.77**；源头超 5 天时效窗；对 `$SIVE` 仅为间接推断（EML 紧 → SiPh+CW）。**非** Serenity 原帖。 〔引用：Research 对话 2026-10-08〕
 - (2026-10-09，Research / Serenity) 中午两帖过质检：转述 Lumentum CEO（Bloomberg）「**effectively sold out through nearly 2029**」；点名 `$SIVE` / Sumitomo / `$AAOI` 外溢；回复链含 SIVE **>100M** CW DFB、全球 ~**6.08 亿**（TrendForce 转述）、AAOI **40 万** ELSFP +「**$471m/month**」等——**数字需独立核对**，勿升格为 IR。 〔引用：Research 对话 2026-10-09〕
 - (2026-10-09，Research·一手核对) Japan Times / Bloomberg：Hurlston「**completely sold out**」到 **2029 年初**；部分产品明年只能供约 **30%** 需求；半年前口径是 **2028**。Serenity 所称「2030–31 需求可见」在 Japan Times 文中**未写**。Research 为用户写了中英推文草稿（再硬一版），框架非荐股。相对 §7l 论坛口述 70%/30%——本条换 **Bloomberg/Japan Times 成文层**，推进产业基线。 〔引用：同上；Japan Times/Bloomberg 10/9〕
+
+## 7r. 增量核对（2026-10-10，对话补录）
+- (2026-10-10，SIVE / Serenity) status/**2108908962397786280**（https://x.com/aleabitoreddit/status/2108908962397786280；约 **10/10 21:14** Asia/Shanghai）。作者三条护城河读法：①**产能**——100M+ CW DFB Q4’27、外推 ~300M、TrendForce 全球 ~608M；②**认证**——定制 DFB / Ayar vs 通用 70/100mW；③**技术**——Jabil LRO「dramatic moat」、猜测 sole laser、~Q2’27 验证。 〔引用：SIVE 对话 2026-10-10 晚；原帖〕
+- (同上·硬边界) 框架清晰，但 **Jabil 唯一供应商**与**正式 PO** 未证实；回复链亦有人要等 PO。勿升格为公司 IR。相对 §7q Lumentum/Bloomberg——本条换 **护城河框架帖**，推进产业叙事基线（仍标作者读法）。 〔引用：同上〕
+- (同上·产出) SIVE 助手按帖做英文讲解图 `/workspace/sive-moats.png`，再出苹果高级风 `/workspace/sive-moats-apple.png`（1600×2761）。 〔引用：同上〕
