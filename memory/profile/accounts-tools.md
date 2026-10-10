@@ -49,3 +49,10 @@
 - (2026-10-09，新想法) 用户问 @mail.grokbot.com / claim **eden**：助手说明**无法代申请** claim。 〔引用：同上〕
 - (2026-10-08，Reddit) reddit-intel PR#1 已合并 **59a5944**：`--subs` 必填、真实 `--since` 窗口、429 按 Reset 等待、`--engagement`/`hot`。（10/7 开 PR 未合并状态已关闭。） 〔引用：Reddit 对话 2026-10-08〕
 - (待办) BotMemory 仓库是否公开（10/7 已问）至本对话窗口仍未答复。 〔引用：新想法对话〕
+
+## 2026-10-10（周六）Grok Bot 原生邮箱 + 发信路径切换
+- (2026-10-10，工具·共享用户记忆) Yun Long 的 Grok Bot 原生邮箱 **`lyatomic@mail.grokbot.com`** 由「工具」认领；要求**云服务机器人**与**新想法**以后用该地址给他发邮件。 〔引用：共享用户记忆 2026-10-10 via 工具；非凭据〕
+- (2026-10-10，新想法 / trade commit **`b44ebb4`**) 观察池日报发信改走 **`lyatomic@mail.grokbot.com`**（显示名「新想法」），收件仍为个人 Gmail（不写进公开仓）：`scan.yml` 扫描步骤改为 `python scanner/scan.py --no-email`；`scanner/README.md` 写明日常不再用 Gmail SMTP / Actions cron 发信，由 Grok Bot 例程 SendEmail。Gmail Secrets 可留作备用。 〔引用：github.com/longyunBegin/trade `b44ebb4`；`.github/workflows/scan.yml`；`scanner/README.md`「发信方式（2026-10-10 起）」〕
+- (2026-10-10，新想法·发信载荷) 本机 `trade/scanner/out/SENDEMAIL_NOW.json` 等：`from=lyatomic@mail.grokbot.com`，`from_name=新想法`，`to=ly1653812264@gmail.com`，`subject=观察池日报 2026-10-09`（数据日期 10/9 周五收盘，周六晨处理）。本轮**未**从对话正文确认 SMTP/SendEmail 送达回执；只记载荷与仓库约定。 〔引用：`/workspace/trade/scanner/out/SENDEMAIL_NOW.json`〕
+- (2026-10-10，云服务机器人·发信载荷) `/workspace/final_send.json`：`from=lyatomic@mail.grokbot.com`，`from_name=云服务机器人`，`to=longyundevelopment@163.com`，`subject=[Portfolio Brief] 2026-10-09 P&L EUR -43.45% · USD +20.06%`；正文称 8 positions、Sent from Grok Bot (server)。本轮同样只记载荷，不臆测送达。 〔引用：`/workspace/final_send.json`；对照 `portfolio-brief-2026-10-09.html`〕
+- (对照) 10/9 对话补录曾记：盒子 SMTP 不通、观察池临时走 Actions `scan.yml` 发信、claim eden 无法代申请——被本条 **`b44ebb4` + lyatomic** 路径部分取代。 〔引用：`episodes/2026-10-10-transcript-catchup.md`；本文件上一节〕
