@@ -67,3 +67,4 @@
 - 日常同步 2026-10-11 00:00 Asia/Shanghai（覆盖 10/10：lyatomic@mail.grokbot.com 认领；观察池发信改 lyatomic/`b44ebb4`；日报 10/9 SIVE.ST 30.04 下穿 MA200；Portfolio Brief 10/9 EUR−43.45%/USD+20.06%；对话读取仍是缺口）：`memory/episodes/2026-10-11-midnight-sync.md`
 | 2026-10-11 对话补录（10/10） | memory/episodes/2026-10-11-transcript-catchup.md |
 - 日常同步 2026-10-12 00:00 Asia/Shanghai（覆盖 10/11：@lyAtomic 回复 300M 是否过剩（status/2109220161542840584）；补记 10/10 护城河图已发；@insane_analyst OCP「Lumentum cut off Ayar」断言（未核实）；无新助手；对话读取仍是缺口）：`memory/episodes/2026-10-12-midnight-sync.md`
+| 2026-10-12 对话补录（10/11） | memory/episodes/2026-10-12-transcript-catchup.md |

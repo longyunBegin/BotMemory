@@ -171,3 +171,9 @@
 - (2026-10-11，光互连·附件) **@insane_analyst（Irrational Analysis）** status/**2109069278733619663**（UTC 2026-10-10 23:51 ≈ Asia/Shanghai **10/11 07:51**）：写完 **OCP 2026** 日程，称 NPO talk 很多；同步场冲突示例——①1:10–1:23 PM「Rack-Ready High-Power ELSFPs…」**Nandita Aggarwal（Ayar Labs）+ Willie Chen（Wiwynn）**，FTI Workshop Short Reach Optical Interconnects，厅 **LL21BC**；②1:10–1:25 PM「External Laser Source Architectures for Deployable CPO-Based AI Networks」**Christian Urricariet（Lumentum）**，OCP Special Focus: Photonics，厅 **210AE**。作者断言「**Lumentum cut off Ayar Labs** so that ELSFP Ayar is showing is just a prototype that will never ramp」。互动快照（API）：约 **81** 赞 / **7** 回复 / **22** 书签 / ~**12.5k** 观看。 〔引用：光互连 attachments `60a3cb56…png` + assets `6200d69e…png`；X API status/2109069278733619663〕
 - (同上·硬边界) **第三方断言 ≠ 公司 IR / 合同披露**；未独立核实 Lumentum–Ayar 供应关系是否终止。地图钉 `$LITE` / Ayar / ELSFP·CPO 日程（OCP 周）。相对仓内 Ayar 定制 DFB / Serenity 护城河认证层——本条换 **ELSFP 展台对立叙事**，勿升格为事实。 〔引用：同上〕
 - (2026-10-11，同步注) 光互连 `memory/log` 仍停在 **9/12**；`store.db` transcript_entries 最新时间戳停在 **9/13**（与 10/11 附件活动脱节）。无新例程日更 / 无 trade 光学新提交。
+
+## 2026-10-11 对话补录（资讯包 + 市场分层；交叉午夜断言）
+- (2026-10-11，光互连) **Lumentum+Ayar 资讯包**：`$LITE` 10/9 Bloomberg 卖到 2029 初（媒体缺口%不一致）；10/1 OCP ELS 演讲；9/21 ECOC 8λ ELSFP 称 2027H1 初供；Ayar 近 5 天无新 PR（旁证 9/22 GUC 热仿真、9/10 Series E+$150M 媒体）；SIVE–Ayar 硬线索偏旧（2023/2024），**2026 无新具名订单**。 〔引用：光互连对话 2026-10-11〕
+- (同上·@insane_analyst 机制判读) 日程撞车是事实；「LITE cut off Ayar」未核实；Jev optical_cpo / quality ~1.9；**勿当日更硬事实**。断言细节见本文件「2026-10-11 增量」节 / 午夜 `987179e`。 〔引用：同上〕
+- (2026-10-11，新想法·晚) **市场规模三档至 2030**：宽 CIC ~$1444B；中 LightCounting AI 集群以太网+CPO ~$200B；窄 TrendForce CPO/NPO >$39B（可插拔仍 ~$26B）。 〔引用：新想法对话 2026-10-11 晚〕
+- (同上·层级与瓶颈) 可插拔 vs CPO vs 激光器/模块分层（+ mermaid）；激光产能/良率/CPO 规格是真瓶颈但非唯一；短期可插拔硬、中期激光+共封装双瓶颈；**瓶颈 ≠ 拿走大部分利润**。 〔引用：同上〕
