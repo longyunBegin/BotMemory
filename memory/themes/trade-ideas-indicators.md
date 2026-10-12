@@ -74,3 +74,7 @@
 - (2026-10-10，新想法) 发信路径确认信 message id **44462**；例程「观察池日报」提示已更新（`--no-email` + lyatomic SendEmail）。仓库改动见午夜，不重抄。 〔引用：新想法对话 2026-10-10〕
 - (同上·手动发) 用户「你现在发送一份」：本机 Yahoo **全员限流**失败；改用已有 **`scan.md`（观察池日报 2026-10-09）** 经 SendEmail，message id **45302**（junk `$file:` **45230** 作废）。`scanner/out/email.html` 当时仍是 **10/08** 苹果风模板，正文用了正确 **10/09** scan.md。收盘/下穿 MA200 等数字见午夜 `ec6357d` 节。 〔引用：同上〕
 - (同上) `/workspace/se_html.html` = 发信临时副本，md5 等同 `scanner/out/email.html`（内容仍标 10/08），**非**仓库正式文件。 〔引用：同上〕
+
+## 2026-10-12（周一；10/13 午夜同步）
+- (2026-10-12，同步注) 观察池例程窗口为**北京时间周二至周六 09:45**——**周一不跑**；`scan.md` 仍钉 **2026-10-09**（`ec6357d`）。trade 仓库 **无** 10/12 提交；Actions 最近成功跑仍为 10/10。 〔引用：`scanner/README` 约定；`git log` / `gh` Actions 列表〕
+- (同上·旁路) Trade 助手在 workspace 产出 `/workspace/fib-daily/`（SIVE/AXTI/2DG Fib + trendlines），**未**写入 trade 仓库 `ideas/` 或 `indicators/`——记在 `trading-holdings` / `sive-investment`，本主题只记「无观察池增量」。

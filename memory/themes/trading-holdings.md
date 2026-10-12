@@ -202,3 +202,12 @@
 
 ## 2026-10-10 对话补录（交叉午夜 Portfolio Brief）
 - (2026-10-10，云服务机器人) 正式 10/09 持仓邮件：盒子 QQ SMTP 465 超时后改 SendEmail lyatomic → longyundevelopment@163.com，message id **45372**（废 `$file:` 45079）；Mac SMTP 同主题信亦进 lyatomic 收件箱。P&L EUR −43.45% / USD +20.06% 与 8 仓明细见本文件「2026-10-10 Portfolio Brief」午夜节 / `85c5282`，不重抄。日常例程仍定 Mac SMTP。 〔引用：云服务/工具对话 2026-10-10；交叉 `accounts-tools.md`〕
+
+## 2026-10-12 收盘（10/13 午夜同步；Yahoo chart）
+- (2026-10-12，记忆系统·Yahoo) 周一交易日收盘（vs 10/9 最近前收；观察池无 10/12 日报）：
+  - **SIVE.ST 28.14**（≈−6.32% vs 30.04；低 28.04；量 3.04M）/ **SIVEF 2.79** / **2DG.F 2.50**
+  - **MU 997.68**（≈−3.04% vs 1029）/ **SNDK 1489.21**（≈−5.85% vs 1581.82）/ **NVDA 226.59** / **MRVL 267.17** / **AAOI 101.31**（≈−7.60% vs 109.64）/ **DRAM 54.96**
+  - **MSFT 540.85**（+1.08% vs 535.07）/ **IBKR 88.48** / **GOOGL 354.33**
+  - 旁证：**LITE 999.23**（≈−9.44% vs 1103.36）/ **AXTI 63.87**（≈−6.70% vs 68.46）
+- (2026-10-12，Trade·Fib/趋势) 晚间作业输出 `/workspace/fib-daily/`（SIVE/AXTI/2DG Fib + falling wedge）；摘要内 `last_close` 多钉 **10/09**（SIVE 30.04 / AXTI 68.46 / 2DG 2.756），与上表 10/12 收盘分层记账。 〔引用：Trade 附件；`fib_summary.json`〕
+- (2026-10-12，同步注) `scan.md` 仍「观察池日报 2026-10-09」（周一非 Tue–Sat cron）；trade 仓库最新提交仍 **`b44ebb4`**（10/10）；无新 Portfolio Brief HTML 落盘本轮可见。

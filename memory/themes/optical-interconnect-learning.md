@@ -177,3 +177,7 @@
 - (同上·@insane_analyst 机制判读) 日程撞车是事实；「LITE cut off Ayar」未核实；Jev optical_cpo / quality ~1.9；**勿当日更硬事实**。断言细节见本文件「2026-10-11 增量」节 / 午夜 `987179e`。 〔引用：同上〕
 - (2026-10-11，新想法·晚) **市场规模三档至 2030**：宽 CIC ~$1444B；中 LightCounting AI 集群以太网+CPO ~$200B；窄 TrendForce CPO/NPO >$39B（可插拔仍 ~$26B）。 〔引用：新想法对话 2026-10-11 晚〕
 - (同上·层级与瓶颈) 可插拔 vs CPO vs 激光器/模块分层（+ mermaid）；激光产能/良率/CPO 规格是真瓶颈但非唯一；短期可插拔硬、中期激光+共封装双瓶颈；**瓶颈 ≠ 拿走大部分利润**。 〔引用：同上〕
+
+## 2026-10-12 增量（10/13 午夜同步）
+- (2026-10-12，@lyAtomic·Build vs Buy) 公开长帖把「自建 InP 线 3–5 年 vs 外购合格 CW DFB 产能」钉成可核对框架；数字沿用已入库 Glasgow/$30M、Q4’27 100M+、5–7 供应商（LightCounting 转述层）——详见 `sive-investment` / `x-content-output` 10/12，本文件不重抄 status ID。地图钉：CW DFB 供给钟 / 客户认证钟 / `$LITE` 短缺外溢。 〔引用：X API；交叉 Pep_Invest RT〕
+- (2026-10-12，同步注) **无**新 OCP/ELSFP 核实材料；@insane_analyst「Lumentum cut off Ayar」断言仍**未核实**（见 10/11 节）。光互连 log 仍 ≤9/12。
