@@ -64,3 +64,6 @@
 - (2026-10-10，云服务机器人) IBKR 重授权：远程 Shell 后台监听会被杀（**8765** 回调拒绝）；须 Mac **Terminal.app** 常驻 **`ibkr-oauth-local.js`**。token 同步 Mac `pbb-run` 与 box。凭据不入库。 〔引用：云服务机器人对话 2026-10-10〕
 - (同上) 盒子 QQ SMTP **465 ETIMEDOUT**；SendEmail from lyatomic（显示名「云服务机器人」）→ longyundevelopment@163.com，交易日 2026-10-09，message id **45372**（优先于失败 `$file:` **45079**）。日常例程仍定 Mac SMTP。 〔引用：同上〕
 - (2026-10-10，新想法) `b44ebb4` 确认信 message id **44462**；例程「观察池日报」提示已更新。用户「你现在发送一份」：Yahoo 全员限流 → 用已有 10/09 `scan.md` SendEmail，message id **45302**（junk `$file:` **45230** 作废）；`email.html` 仍标 10/08 模板、正文为正确 10/09。`/workspace/se_html.html` = 发信临时副本（md5=email.html），非仓库文件。 〔引用：新想法对话 2026-10-10〕
+
+## 2026-10-11 持仓邮件策略钉死（对话补录；a2c2540 未写，本轮交叉补）
+- (2026-10-11，云服务机器人) 用户定调：持仓邮件 **禁 Mac** 本机 SMTP 日常、**禁** 盒子 SMTP；只走 **Grok Bot 原生** `lyatomic@mail.grokbot.com` → `longyundevelopment@163.com`。相对 10/10 仍「日常例程定 Mac SMTP」——本条为后续策略。 〔引用：云服务对话 2026-10-11；交叉 10/10 message id **45372**〕

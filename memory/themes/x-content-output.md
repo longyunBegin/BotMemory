@@ -235,3 +235,7 @@
 - (同上·长帖) status/**2109564138095862238**（同分钟，引用配图帖）：完整论点见 `sive-investment.md` 10/12 节（3–5 年自建钟、Glasgow/$30M/Q4’27 100M+、EY/H1’27 上市、5–7 供应商基线）。API 约 **14** 赞 / **1** 转 / **3** 书签 / ~**1.6k** 观看。 〔引用：X API note_tweet〕
 - (同上·RT) RT @Pep_Invest status/**2109592931031978130**（`$LITE` sold out early 2029 / ~30% 需求至 2027 → Glasgow 时间相关）；RT @Million_Sancet status/**2109603286890197398**（波浪 26 SEK / 50–70——意见）。另 RT @ParadisLabs（工作节奏，非 SIVE）。 〔引用：X API get_users_posts〕
 - (2026-10-12，同步注) **无** `x-drafts/2026-10-12*`；例程三批日更缺口延续（自 10/2）。X内容产出 `transcript_entries=0`。
+
+## 2026-10-12 对话补录（草稿演进；发帖见午夜 `03828a9`）
+- (2026-10-12，SIVE·代写) 用户要 **Build vs Buy** 推文 → 口语版 → 要求有理有据易懂 → 重写带 IR/EGM 依据（Glasgow **9/3**、Deloitte→**EY**、自建 **3–5 年**、合格供应商 **5–7**）。中英/图交付后用户发帖。发帖 ID / 可见论点见本文件「2026-10-12 产出」节 / 午夜 `03828a9`——本条只记草稿路径。 〔引用：SIVE 对话 2026-10-12〕
+- (同上·图) `/workspace/sive-build-vs-buy.png`（苹果风：01 Build / 02 $SIVE path / WHAT MATTERS）。 〔引用：同上〕
