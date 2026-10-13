@@ -441,3 +441,10 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (2026-10-12，SIVE·digest) 浏览器结论文：**无** @aleabitoreddit 日期为 Oct 11 或 Oct 12 的新帖；Posts 页与 `from:aleabitoreddit (SIVE OR Sivers OR SIVEF)` Latest 顶点仍为 **2026-10-10** 护城河回复 status/**2108908962397786280**（及同日非 SIVE 主帖）。「查看新帖子」点击被 overlay 拦截，但两视图均未露出更新帖。 〔引用：`/workspace/sive-digest-x-2026-10-12.md`〕
 - (同上·旁证链，非 Alea) @Pep_Invest 10/12 帖强化 `$LITE` sold-out / ~30% 与 Glasgow 扩产时间相关（@lyAtomic RT）；社区空头/波浪帖见 `sive-investment` 10/12——**不**推进 Serenity 产业基线。
 - (2026-10-12，同步注) 产业实质基线仍停在 §7r 护城河框架 + §7q Bloomberg/Japan Times；本轮**不**推进新帖 ID。
+
+## 7u. 增量核对（2026-10-13；上海日历含 UTC 10/12 晚帖）
+- (2026-10-13，Serenity) status/**2109789664622322081**（UTC 10/12 23:33 ≈ Asia/Shanghai **10/13 07:33**；https://x.com/aleabitoreddit/status/2109789664622322081）。长帖「Random train of thoughts」——Memory / optics / IREN / Anthropic / 宏观。可摘硬点（**作者读法层**）：`$MU`/三星/海力士需求可见度至 **2030–2031**；三星 LTA 覆盖产能约 **70%** 至 **2031**（价底类比）；称 2027 短缺共识重于 2026、甚至转述 `$SNDK` 毛利率进 **2030** 超 **80%**（**未独立核财报**）；optics `$LITE` sold out 至 **2029**、开始谈 **2030**，Greensboro 扩产叙事 ~**$5B** UHP 收入能力且渠道称大量指向 `$NVDA`；点名 `$AAOI`+`$SIVE`+`$MTSI` 2027 产能外溢；`$NVDA`/`$AVGO`/`$MRVL` 供给约束增长（MRVL FY31 **$70–90B** 对照）；TLDR 偏 memory LTA+买回 + 2027–28 光学超级周期。互动约 **716** 赞 / **63** 转 / **286** 书签 / ~**195k** 观看。 〔引用：X API note_tweet；@lyAtomic RT〕
+- (同上·硬边界) 大量数字为渠道/作者推断（SNDK 毛利、Greensboro $5B 分配、SIVE「multiple foundries」等）——**勿升格为公司 IR**；相对 §7r 护城河框架，本条换 **跨资产 demand-visibility 长帖**，推进产业叙事基线但仍标读法层。 〔引用：同上〕
+- (2026-10-13，续) status/**2109900353349300590**（UTC 06:53 ≈ 上海 **14:53**）：DBS 会议材料摘录——`$AVGO` 与 `$INTC` 称 AI 突破使芯片投资需求至少再抬升 **2 年**、现有供给不足；Hock Tan 称市场误读 OpenAI、批按单一短期数据点（如 **$50B ARR**）抛售「像赌场」；利率抬升可为融资约束、但广泛采用可强化议价。作者批评西方媒体把「谨慎看利率」窄化成「AI 投资者是赌徒」。互动约 **1116** 赞 / **104** 转 / **296** 书签 / ~**253k** 观看。 〔引用：X API note_tweet〕
+- (同上·短回复) status/**2109906912989028547**（UTC 07:19）：再钉三星 **70%** LTA 至 **2031** + `$LITE` sold out **2029** / 客户开始锁 **2030**——「真实需求 vs 短期媒体叙事」。约 **115** 赞 / **8** 转。 〔引用：X API〕
+- (2026-10-13，同步注) 相对 10/12 digest「无 Alea Oct11–12 新帖」——本轮确认 **10/13 上海上午起**有实质新帖；产业基线在 §7r 护城河之外新增 §7u demand-visibility / DBS 层。

@@ -239,3 +239,9 @@
 ## 2026-10-12 对话补录（草稿演进；发帖见午夜 `03828a9`）
 - (2026-10-12，SIVE·代写) 用户要 **Build vs Buy** 推文 → 口语版 → 要求有理有据易懂 → 重写带 IR/EGM 依据（Glasgow **9/3**、Deloitte→**EY**、自建 **3–5 年**、合格供应商 **5–7**）。中英/图交付后用户发帖。发帖 ID / 可见论点见本文件「2026-10-12 产出」节 / 午夜 `03828a9`——本条只记草稿路径。 〔引用：SIVE 对话 2026-10-12〕
 - (同上·图) `/workspace/sive-build-vs-buy.png`（苹果风：01 Build / 02 $SIVE path / WHAT MATTERS）。 〔引用：同上〕
+
+## 2026-10-13 产出（周二；无三批例程）
+- (2026-10-13，@lyAtomic) status/**2109825630678446370**（UTC 01:56 ≈ 上海 **09:56**）：**引用** @SiversSemicond Head of IR 招聘帖。可见论点：专职 IR 直报 CEO；三「super cycles」AI factories / Space & Satcom / Modern warfare；读法——美国投资人叙事有了专职负责人。API 约 **24** 赞 / **1** 转 / ~**1.4k** 观看。 〔引用：X API note_tweet〕
+- (同上·机制长帖) status/**2109834248278695958**（UTC 02:30 ≈ 上海 **10:30**）：**Memory vs Optics「China supply」拆机制**。Memory 锚 MelvinInvests（CXMT 4F²/DDR5 → `$MU`/`$SNDK`/三星/海力士同跌；TrendForce DRAM 份额 ~**9.5%**；架构≠规模良率；SNDK 偏 NAND）。Optics 锚 Leoskie_L（CPO 系统良率 ~**20%** → 更可能逼 NPO；InP 瓶颈；Lumentum sold out early **2029** / 部分线 ~**70%** 短缺；中国 CW 过剩=价格风险）。Power-tier 锚 Alea（Innolight 类 70–100mW 仍紧、ASP 升；未来 2–3 年 AOI+Lumentum+Coherent+Broadcom 合计仍吃紧；Lumentum 上月称未见中国激光冲击）。三问：合约可见度 / 规格是否同一 / 出货定价是否对得上。API 约 **258** 观看（本轮快照赞转低）。 〔引用：X API note_tweet〕
+- (同上·RT) RT Alea **210978966…**（memory/optics 长帖）、**210990035…**（DBS AVGO/INTC）、**210990691…**（三星 70% LTA + LITE sold-out）；RT @SiversSemicond IR 招聘；RT @Sofigoodboy / @dizaq1 社区仓位帖（**意见，非 IR**）；另 RT @elonmusk「No crying in the casino」。 〔引用：X API get_users_posts〕
+- (2026-10-13，同步注) **无** `x-drafts/2026-10-13*`；例程三批日更缺口延续（自 10/2）。X内容产出对话正文仍读不到。

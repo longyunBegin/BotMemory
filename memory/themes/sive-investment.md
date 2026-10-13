@@ -294,3 +294,11 @@
 - (同上·自建 vs 收购完整对比) 时间 3–5 年 vs 买工艺+认证；钱全前道远大于 USD 30M 扩产 vs 市值溢价买时间；认证几乎重来 vs 继承；短缺窗口自建可能赶不上。近端更可能自建一点+多外购；收购更像 **2027–2028** 期权。标准品倾向自建、定制阵列倾向并购/包销。发帖可见论点见本文件 10/12 午夜节 / `03828a9`——本条补对话论证链。 〔引用：同上〕
 - (同上·推文迭代) Build vs Buy：口语版 → 有理有据易懂 → 带 IR/EGM 依据版（Glasgow 9/3、EY、3–5 年、5–7 供应商）。草稿路径见 `x-content-output.md`；发帖 ID 见午夜。 〔引用：同上〕
 - (同上·英文图) `/workspace/sive-build-vs-buy.png`（苹果风 01 Build / 02 $SIVE path / WHAT MATTERS）。 〔引用：同上〕
+
+## 2026-10-13（周二；10/14 午夜同步）
+- (2026-10-13，@SiversSemicond·官方 X) status/**2109715114157056440**（UTC 10/12 18:37 ≈ 上海 **02:37**）：招聘 **Silicon Valley Head of Investor Relations**，直报 CEO；定位 photonics + wireless，服务三个 super cycles——**AI factories / Space & Satcom / Modern warfare**；强调美国客户与投资人权重，要「把半导体技术、商业策略与投资人社区连起来」。互动约 **720** 赞 / **66** 转 / ~**50.6k** 观看。硬边界：**招聘意向帖 ≠ 已入职 / ≠ 新订单**。 〔引用：X API note_tweet〕
+- (2026-10-13，@lyAtomic·引用) status/**2109825630678446370**（上海 **09:56**）：读法「美国投资人叙事有了专职负责人」；约 **24** 赞 / ~**1.4k** 观看。详见 `x-content-output.md`。 〔引用：X API〕
+- (2026-10-13，Serenity·旁证) Alea status/**2109789664622322081** 在光学段点名 `$AAOI`+`$SIVE`+`$MTSI` 2027 产能外溢、并称 `$SIVE`「100M+ laser capacity + multiple foundries」与 ASP 上修叙事——**作者读法，≠ 公司 IR**；完整硬点见 `serenity-aleabitoreddit.md` §7u。 〔引用：X API〕
+- (2026-10-13 收盘，记忆系统·Yahoo) **SIVE.ST 收 26.82**（开 26.5 / 高 28.6 / 低 **26.14** / 量 **5.50M**；较 10/12 收 28.14 **≈−4.69%**）。**SIVEF 2.65**；**2DG.F 2.39**。低点进入社区常谈 ~26 SEK 区；价继续在 MA 三线下方（对照 10/12 scan）。 〔引用：Yahoo chart API，10/14 ~00:30 拉取〕
+- (2026-10-13，观察池) 例程上午写入的是 **数据日 2026-10-12** 日报（`475b254`）：SIVE.ST **28.14（−6.32%）**、止损近低 **26.68**、目标 **36.34**、RR **1:5.6**——见 `trade-ideas-indicators.md`。10/13 全日收盘尚未写入下一份 `scan.md`（预期 10/14 晨 cron）。 〔引用：trade `scan.md` / `475b254`〕
+- (2026-10-13，同步注) **无**落盘 `sive-digest-x-2026-10-13*`；思考陪练仍 `bf83200`；对话正文仍读不到。

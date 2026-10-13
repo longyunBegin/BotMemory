@@ -67,3 +67,8 @@
 
 ## 2026-10-11 持仓邮件策略钉死（对话补录；a2c2540 未写，本轮交叉补）
 - (2026-10-11，云服务机器人) 用户定调：持仓邮件 **禁 Mac** 本机 SMTP 日常、**禁** 盒子 SMTP；只走 **Grok Bot 原生** `lyatomic@mail.grokbot.com` → `longyundevelopment@163.com`。相对 10/10 仍「日常例程定 Mac SMTP」——本条为后续策略。 〔引用：云服务对话 2026-10-11；交叉 10/10 message id **45372**〕
+
+## 2026-10-13 观察池发信路径再改定 + Portfolio Brief Gmail 兼容
+- (2026-10-13，新想法 / trade) 同日上午两连跳：`6e67b83` 观察池改回 **Gmail SMTP**（`MAIL_FROM` 可配置）；`679ffe9` README 钉死 **停用 Actions 触发**、本机例程跑 `scan.py` + Gmail SMTP。相对 10/10 `b44ebb4`（lyatomic SendEmail）——现行以 `679ffe9` README 为准。凭据/Secrets 不入库。 〔引用：trade `6e67b83` / `679ffe9`；交叉 `trade-ideas-indicators.md`〕
+- (2026-10-13，云服务机器人 / `portfolio-brief-bot`) 交易日 **2026-10-12** Portfolio Brief 多轮发信与 HTML 兼容改造：CID / data-URI 图表、600px 约束、行内 P&L/Charts toggles、Gmail OAuth access-token 自动刷新等（本地提交链 `1331215`…`a708d29`）。载荷可见 `from=lyatomic@mail.grokbot.com` → `longyundevelopment@163.com`；另有 QA 主题自测。P&L 数字见 `trading-holdings.md`。**OAuth token / .env 不入库**。 〔引用：`/workspace/portfolio-brief-bot` git log 2026-10-13；`send-meta.json`；云服务附件〕
+- (对照) 10/11 对话补录曾钉持仓邮件只走 lyatomic（禁 Mac/盒子 SMTP）——10/13 持仓侧仍见 lyatomic 发件载荷；观察池侧则回到本机 Gmail SMTP（与持仓路径分流）。 〔引用：本文件 10/11 节；trade README〕

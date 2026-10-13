@@ -78,3 +78,9 @@
 ## 2026-10-12（周一；10/13 午夜同步）
 - (2026-10-12，同步注) 观察池例程窗口为**北京时间周二至周六 09:45**——**周一不跑**；`scan.md` 仍钉 **2026-10-09**（`ec6357d`）。trade 仓库 **无** 10/12 提交；Actions 最近成功跑仍为 10/10。 〔引用：`scanner/README` 约定；`git log` / `gh` Actions 列表〕
 - (同上·旁路) Trade 助手在 workspace 产出 `/workspace/fib-daily/`（SIVE/AXTI/2DG Fib + trendlines），**未**写入 trade 仓库 `ideas/` 或 `indicators/`——记在 `trading-holdings` / `sive-investment`，本主题只记「无观察池增量」。
+
+## 2026-10-13（周二；覆盖例程写入的 10/12 日报 + 发信路径改定）
+- (2026-10-13 09:57 Asia/Shanghai，trade commit **`475b254`**) 观察池日报 **2026-10-12** 写入 `scan.md`。变化与收盘见 `trading-holdings.md`；要点：**SIVE.ST 28.14（−6.32%）** 价在三线下方；**SNDK** 跌破近低；**MSFT** 突破近高；**AAOI −8.17%**。 〔引用：github.com/longyunBegin/trade `475b254`；`/workspace/trade/scan.md`〕
+- (2026-10-13 10:36，trade **`6e67b83`**) 观察池日报发件**改回 Gmail SMTP**，`MAIL_FROM` / `MAIL_FROM_NAME` 可配置；`scan.py` `send_email` 支持 `SMTP_USER`/`SMTP_PASSWORD`/`SMTP_HOST`/`SMTP_PORT`；README 曾写例程触发 Actions 真正发信。 〔引用：trade `6e67b83`〕
+- (2026-10-13 10:39，trade **`679ffe9`**) README **最终态**：停用 GitHub Actions 触发，改由本机例程跑 `scanner/scan.py` + **Gmail SMTP**；需要重发用本机 `--force`，**不要** `gh workflow run`。相对 10/10 `b44ebb4`（lyatomic SendEmail + `--no-email`）与 10/9「例程触发 Actions」——本条为 10/13 上午两连跳后的现行约定。工作流文件仍保留 `workflow_dispatch`，但例程文档声明已停用。 〔引用：trade `679ffe9`；`scanner/README.md`〕
+- (2026-10-13，同步注) 日历日 10/13 的全日收盘**尚未**写入 `scan.md`（预期下一 cron 10/14 晨）；thinking-sparring 无新提交。

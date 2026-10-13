@@ -181,3 +181,8 @@
 ## 2026-10-12 增量（10/13 午夜同步）
 - (2026-10-12，@lyAtomic·Build vs Buy) 公开长帖把「自建 InP 线 3–5 年 vs 外购合格 CW DFB 产能」钉成可核对框架；数字沿用已入库 Glasgow/$30M、Q4’27 100M+、5–7 供应商（LightCounting 转述层）——详见 `sive-investment` / `x-content-output` 10/12，本文件不重抄 status ID。地图钉：CW DFB 供给钟 / 客户认证钟 / `$LITE` 短缺外溢。 〔引用：X API；交叉 Pep_Invest RT〕
 - (2026-10-12，同步注) **无**新 OCP/ELSFP 核实材料；@insane_analyst「Lumentum cut off Ayar」断言仍**未核实**（见 10/11 节）。光互连 log 仍 ≤9/12。
+
+## 2026-10-13 增量（10/14 午夜同步）
+- (2026-10-13，@lyAtomic·China supply 机制帖) status/**2109834248278695958**：把「中国供给」拆成 Memory（CXMT/DDR5 路线图 ≠ 一夜多出百万片；SNDK 偏 NAND）与 Optics（CPO 系统良率 ~20% 更可能逼 NPO；InP 瓶颈；Lumentum sold out early 2029 / ~70% 短缺口述；中国 CW 过剩=价格风险）。Power-tier 引 Alea：ECOC 渠道 Innolight 类 70–100mW 仍紧、ASP 升；未来 2–3 年头部合计仍吃紧。地图钉：合约可见度 / 规格是否同一 / 出货定价核对。全文见 `x-content-output`。 〔引用：X API note_tweet〕
+- (2026-10-13，Serenity) Alea status/**210978966…** / **210990691…**：`$LITE` sold out 至 **2029**、开始锁 **2030**；Greensboro UHP 扩产叙事；`$AAOI`/`$SIVE`/`$MTSI` 2027 产能外溢读法——**作者层**，详见 `serenity-aleabitoreddit.md` §7u。DBS 帖 **210990035…**：`$AVGO`/`$INTC`「至少再 2 年」升高投资需求、供给不足。 〔引用：X API〕
+- (2026-10-13，同步注) @insane_analyst「Lumentum cut off Ayar」仍**未核实**（见 10/11）；光互连 log 仍 ≤9/12；无新 OCP 一手材料。
