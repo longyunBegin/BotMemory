@@ -245,3 +245,7 @@
 - (同上·机制长帖) status/**2109834248278695958**（UTC 02:30 ≈ 上海 **10:30**）：**Memory vs Optics「China supply」拆机制**。Memory 锚 MelvinInvests（CXMT 4F²/DDR5 → `$MU`/`$SNDK`/三星/海力士同跌；TrendForce DRAM 份额 ~**9.5%**；架构≠规模良率；SNDK 偏 NAND）。Optics 锚 Leoskie_L（CPO 系统良率 ~**20%** → 更可能逼 NPO；InP 瓶颈；Lumentum sold out early **2029** / 部分线 ~**70%** 短缺；中国 CW 过剩=价格风险）。Power-tier 锚 Alea（Innolight 类 70–100mW 仍紧、ASP 升；未来 2–3 年 AOI+Lumentum+Coherent+Broadcom 合计仍吃紧；Lumentum 上月称未见中国激光冲击）。三问：合约可见度 / 规格是否同一 / 出货定价是否对得上。API 约 **258** 观看（本轮快照赞转低）。 〔引用：X API note_tweet〕
 - (同上·RT) RT Alea **210978966…**（memory/optics 长帖）、**210990035…**（DBS AVGO/INTC）、**210990691…**（三星 70% LTA + LITE sold-out）；RT @SiversSemicond IR 招聘；RT @Sofigoodboy / @dizaq1 社区仓位帖（**意见，非 IR**）；另 RT @elonmusk「No crying in the casino」。 〔引用：X API get_users_posts〕
 - (2026-10-13，同步注) **无** `x-drafts/2026-10-13*`；例程三批日更缺口延续（自 10/2）。X内容产出对话正文仍读不到。
+
+## 2026-10-13 对话补录（草稿口径；发帖见午夜 `a762d72`）
+- (2026-10-13，SIVE·代写) Head of IR 招聘引用帖：中英草稿要求用公司原文三条 super cycles，并钉「招人 finalize ≠ dual listing」。用户发帖见本文件「2026-10-13 产出」节 / 午夜——本条只记草稿路径。 〔引用：SIVE 对话 2026-10-13〕
+- (同上·措辞) 建议「公司自己点名的三条…」比直接复述更稳（仍为官推原话依据）。 〔引用：同上〕

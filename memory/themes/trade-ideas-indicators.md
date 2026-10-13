@@ -84,3 +84,7 @@
 - (2026-10-13 10:36，trade **`6e67b83`**) 观察池日报发件**改回 Gmail SMTP**，`MAIL_FROM` / `MAIL_FROM_NAME` 可配置；`scan.py` `send_email` 支持 `SMTP_USER`/`SMTP_PASSWORD`/`SMTP_HOST`/`SMTP_PORT`；README 曾写例程触发 Actions 真正发信。 〔引用：trade `6e67b83`〕
 - (2026-10-13 10:39，trade **`679ffe9`**) README **最终态**：停用 GitHub Actions 触发，改由本机例程跑 `scanner/scan.py` + **Gmail SMTP**；需要重发用本机 `--force`，**不要** `gh workflow run`。相对 10/10 `b44ebb4`（lyatomic SendEmail + `--no-email`）与 10/9「例程触发 Actions」——本条为 10/13 上午两连跳后的现行约定。工作流文件仍保留 `workflow_dispatch`，但例程文档声明已停用。 〔引用：trade `679ffe9`；`scanner/README.md`〕
 - (2026-10-13，同步注) 日历日 10/13 的全日收盘**尚未**写入 `scan.md`（预期下一 cron 10/14 晨）；thinking-sparring 无新提交。
+
+## 2026-10-13 对话补录（观察池移交；交叉午夜路径改定）
+- (2026-10-13，新想法→云服务) 仓库 `6e67b83`/`679ffe9`（Gmail SMTP + 停用 Actions）见午夜 `a762d72`——不重抄。对话独有：用户要求把观察池日报交给云服务机器人 → SendToAgent 移交；新想法**删除**自己侧「观察池日报」例程并明确后续不管。 〔引用：新想法对话 2026-10-13〕
+- (同上·接手) 云服务建例程**周二至周六 09:45**；盒子 SMTP 不通时可改 Gmail API；新想法确认例程已删。 〔引用：云服务 / 新想法对话 2026-10-13〕

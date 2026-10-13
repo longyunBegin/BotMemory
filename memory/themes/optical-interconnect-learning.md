@@ -186,3 +186,9 @@
 - (2026-10-13，@lyAtomic·China supply 机制帖) status/**2109834248278695958**：把「中国供给」拆成 Memory（CXMT/DDR5 路线图 ≠ 一夜多出百万片；SNDK 偏 NAND）与 Optics（CPO 系统良率 ~20% 更可能逼 NPO；InP 瓶颈；Lumentum sold out early 2029 / ~70% 短缺口述；中国 CW 过剩=价格风险）。Power-tier 引 Alea：ECOC 渠道 Innolight 类 70–100mW 仍紧、ASP 升；未来 2–3 年头部合计仍吃紧。地图钉：合约可见度 / 规格是否同一 / 出货定价核对。全文见 `x-content-output`。 〔引用：X API note_tweet〕
 - (2026-10-13，Serenity) Alea status/**210978966…** / **210990691…**：`$LITE` sold out 至 **2029**、开始锁 **2030**；Greensboro UHP 扩产叙事；`$AAOI`/`$SIVE`/`$MTSI` 2027 产能外溢读法——**作者层**，详见 `serenity-aleabitoreddit.md` §7u。DBS 帖 **210990035…**：`$AVGO`/`$INTC`「至少再 2 年」升高投资需求、供给不足。 〔引用：X API〕
 - (2026-10-13，同步注) @insane_analyst「Lumentum cut off Ayar」仍**未核实**（见 10/11）；光互连 log 仍 ≤9/12；无新 OCP 一手材料。
+
+## 2026-10-13 对话补录（OCP 中段 + 路线争论）
+- (2026-10-13，光互连·OCP) 北京 ~17:00 中段：圣何塞仍周二凌晨约 2 点；Day1 主题已走完但逐字稿少；展厅当地 11:30 才开；目录 Marvell/Jabil/Lightmatter/O-Net/Wiwynn×Ayar，**无 Sivers**。 〔引用：光互连对话 2026-10-13〕
+- (同上·展台/IR 要点) Lightmatter 开放机架 CPO 托盘（自有 Guide 激光）；Wiwynn C74 点名 Ayar 等；Lumentum+Astera+Corning 1060nm VCSEL PCIe-over-optics（短距，非 CW/ELS 主线）；Broadcom 展前 TH6-Davisson **102.4T** CPO。 〔引用：同上〕
+- (同上·冲突窗) **北京周四 04:10** Lumentum《Deployable ELS》与 Ayar+Wiwynn《Rack-Ready ELSFP》撞车；读法：OCP 证明「光能否写进开放机柜」，非激光订单本身。10/11 @insane_analyst「Lumentum cut off Ayar」仍**未核实**。 〔引用：同上〕
+- (2026-10-13，Research·InnoLight/TeraHop) @carrioresearch/status/**2109925514567893475**：海外臂主张光引擎内置激光反对 ELSFP；会上 3dB/100 vs 200–300mW/~4× 冷却；Open CPX 双选项；阿里云陈勤偏集成。结论：路线未定，两边都要 **InP/CW**。 〔引用：Research 对话 2026-10-13〕

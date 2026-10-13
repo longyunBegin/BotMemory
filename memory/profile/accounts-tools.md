@@ -72,3 +72,7 @@
 - (2026-10-13，新想法 / trade) 同日上午两连跳：`6e67b83` 观察池改回 **Gmail SMTP**（`MAIL_FROM` 可配置）；`679ffe9` README 钉死 **停用 Actions 触发**、本机例程跑 `scan.py` + Gmail SMTP。相对 10/10 `b44ebb4`（lyatomic SendEmail）——现行以 `679ffe9` README 为准。凭据/Secrets 不入库。 〔引用：trade `6e67b83` / `679ffe9`；交叉 `trade-ideas-indicators.md`〕
 - (2026-10-13，云服务机器人 / `portfolio-brief-bot`) 交易日 **2026-10-12** Portfolio Brief 多轮发信与 HTML 兼容改造：CID / data-URI 图表、600px 约束、行内 P&L/Charts toggles、Gmail OAuth access-token 自动刷新等（本地提交链 `1331215`…`a708d29`）。载荷可见 `from=lyatomic@mail.grokbot.com` → `longyundevelopment@163.com`；另有 QA 主题自测。P&L 数字见 `trading-holdings.md`。**OAuth token / .env 不入库**。 〔引用：`/workspace/portfolio-brief-bot` git log 2026-10-13；`send-meta.json`；云服务附件〕
 - (对照) 10/11 对话补录曾钉持仓邮件只走 lyatomic（禁 Mac/盒子 SMTP）——10/13 持仓侧仍见 lyatomic 发件载荷；观察池侧则回到本机 Gmail SMTP（与持仓路径分流）。 〔引用：本文件 10/11 节；trade README〕
+
+## 2026-10-13 对话补录（观察池移交 + portfolio-brief Gmail OAuth）
+- (2026-10-13，新想法→云服务) 观察池日报例程从新想法**移交**云服务（周二至周六 09:45）；新想法侧例程已删。发信：本机 Gmail SMTP（仓库 `679ffe9`）；盒子 SMTP 不通时可改 Gmail API。相对 10/10 lyatomic / 10/11 持仓只走 lyatomic——观察池与持仓路径继续分流。凭据不入库。 〔引用：新想法 / 云服务对话 2026-10-13；交叉午夜 `a762d72`〕
+- (2026-10-13，云服务·portfolio-brief-bot OAuth，**无密钥**) 配齐自有 GCP OAuth（Client ID/Secret + 新 refresh_token）；旧 Playground refresh 与新客户端不匹配曾 `unauthorized_client`；测试用户名单须加 **ly1653812264@gmail.com**；`--refresh-only` 成功（expires_in≈3600s）。**不写入任何密钥值。** 〔引用：云服务对话 2026-10-13〕

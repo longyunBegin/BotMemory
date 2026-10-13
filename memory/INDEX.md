@@ -71,3 +71,4 @@
 - 日常同步 2026-10-13 00:00 Asia/Shanghai（覆盖 10/12：@lyAtomic Build vs Buy（2109564138095862238）+ 配图；SIVE.ST 收 28.14；digest 无新 Alea；Trade fib/trendline；无新助手；对话读取仍是缺口）：`memory/episodes/2026-10-13-midnight-sync.md`
 | 2026-10-13 对话补录（10/12） | memory/episodes/2026-10-13-transcript-catchup.md |
 - 日常同步 2026-10-14 00:00 Asia/Shanghai（覆盖 10/13：@lyAtomic Head of IR + China supply 机制帖；Serenity demand-visibility/DBS；观察池 `475b254`+发信路径 `679ffe9`；Portfolio Brief EUR−44.09%/USD+16.63%；SIVE.ST 收 26.82；无新助手；对话读取仍是缺口）：`memory/episodes/2026-10-14-midnight-sync.md`
+| 2026-10-14 对话补录（10/13） | memory/episodes/2026-10-14-transcript-catchup.md |
