@@ -192,3 +192,10 @@
 - (同上·展台/IR 要点) Lightmatter 开放机架 CPO 托盘（自有 Guide 激光）；Wiwynn C74 点名 Ayar 等；Lumentum+Astera+Corning 1060nm VCSEL PCIe-over-optics（短距，非 CW/ELS 主线）；Broadcom 展前 TH6-Davisson **102.4T** CPO。 〔引用：同上〕
 - (同上·冲突窗) **北京周四 04:10** Lumentum《Deployable ELS》与 Ayar+Wiwynn《Rack-Ready ELSFP》撞车；读法：OCP 证明「光能否写进开放机柜」，非激光订单本身。10/11 @insane_analyst「Lumentum cut off Ayar」仍**未核实**。 〔引用：同上〕
 - (2026-10-13，Research·InnoLight/TeraHop) @carrioresearch/status/**2109925514567893475**：海外臂主张光引擎内置激光反对 ELSFP；会上 3dB/100 vs 200–300mW/~4× 冷却；Open CPX 双选项；阿里云陈勤偏集成。结论：路线未定，两边都要 **InP/CW**。 〔引用：Research 对话 2026-10-13〕
+
+## 2026-10-14（OCP 周；午夜同步 2026-10-15）
+- (2026-10-14，NVIDIA IEEE 提案) 「Inclusion of CPO channels in the 400G/lane Optical Specifications」（Balan/Bruckman/Simms，2026-09；支持者 Broadcom、Huawei、Keysight、Meta、Ghiasi）：CPO 在 TP2 带宽低（集成硅光器件带宽低 + 光引擎到 ASIC 封装损耗高）→ 参考接收机 23 抽头 FFE + 1 抽头 DFE、DFE 放宽到 [0,0.7]、发端预编码 MOD4/[1+D] 抑制错误传播；仿真 212.5 GBd PAM4、CW 激光 RIN −151 dBc/Hz、ER 3.0 dB、500 m SMF；结论 CPO 可进基线 400G-DRn **不需新目标**。机制含义：规范在为 CPO 的「信号差一点」开口子，激光噪声（RIN）仍是参数里的硬约束。 〔引用：`/workspace/balan_400GPL.txt`〕
+- (2026-10-14，@jwt0625) 「无论单通道速率往哪走，CPO 都需要更好的激光：更低 RIN 和频率噪声、或更准的波长，或两者」（status/2110250547798479077）。 〔引用：X API〕
+- (2026-10-14，OCP 展台) Ayar TeraPHY + GUC ASIC 共封装于 Wiwynn 托盘，ELSFP SuperNova 外置光源；遥测 ER 4.01 dB / OMA 374.2 µW / 眼高 242.3 µW / 光引擎 53.4°C / 光源 49.5°C（@tuolaji2024，展台读数非认证）。PR 原话：门槛从「能不能用」变成「能不能规模部署和管理」。把激光挪出热区 = 针对激光寿命风险的做法。 〔引用：`/workspace/x-drafts/2026-10-14-ayar-wiwynn.md`；Wiwynn/PR Newswire 10/13〕
+- (2026-10-14，Largan / DIGITIMES) Largan 董事长 En-ping Lin（10/8 投资人会）：microLED + 多模光纤功耗、体积、效率存疑，个人认为不太可能可行、目前无客户真认为商用可行；DIGITIMES 业内反方：单颗慢但数百并行可降系统功耗（「slow and wide」vs 激光「fast and narrow」）。Serenity 解读：对 CPO 而言更支持单模 CW 激光，VCSEL（同为多模路线）受益少。 〔引用：`/workspace/aleabitoreddit_img.jpg`；X API status/2110333876144881903〕
+- (2026-10-14，二手) Bernstein（经 @outliercapx）：CPO 到 2027 量很小，NPO + 激光稀缺补位；$LITE/$COHR Outperform，PT $1,220/$350。未核原文。同日光模块盘中集体跌：AAOI −9.8%、COHR −7.9%、LITE −7.3%（约 12:15 ET 快照）。 〔引用：X API；Yahoo〕

@@ -452,3 +452,8 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 ## 7v. 增量核对（2026-10-13 对话补录；交叉午夜 §7u）
 - (2026-10-13，Research·监听转告) Serenity demand-visibility / DBS 硬点已在午夜 `a762d72` / §7u 入库——本条只记路径：监听未做质检，Typesafe **451**；另有 Physical AI/人形两条（非主线）。 〔引用：Research 对话 2026-10-13；交叉 §7u〕
 - (同上·路线旁证，非 Alea) @carrioresearch InnoLight/TeraHop：OCP 主张光引擎内置激光反对 ELSFP；3dB/100 vs 200–300mW/~4× 冷却；Open CPX 双选项；对照阿里云陈勤偏集成——路线未定，两边都要 InP/CW。详见 `optical-interconnect-learning.md`。 〔引用：同上〕
+
+## 2026-10-14（午夜同步 2026-10-15）
+- (2026-10-14，@aleabitoreddit) 内存定价：引 Elon「Micron 定价合理、其他家勒索式、客户不会忘」（Elon status/2110126632572756339，~2.3M 观看）→ Serenity「原来 Elon 反内存是因为 $SKHY 和三星涨价太狠？」（status/2110146513766900019，上海 07:11，~1.8k 赞 / ~287k 观看）。作者读法，非合约数据。 〔引用：X API〕
+- (2026-10-14，@aleabitoreddit) microLED/CPO 澄清（status/2110333876144881903，上海 19:36）：原帖（已删）写太快；Largan 董事长对 microLED+多模光纤的怀疑**更支持 CW 激光**；VCSEL 因同属多模受益少。由 @lyAtomic 提问触发。 〔引用：X API〕
+- (2026-10-14，@aleabitoreddit) `$AGLT`（Agility Robotics）经 `$CCXI` 上市：S-4 ~10/13 生效、~11/2 投票、11 月交割；自称持有 Agility，$NVDA/$AMZN 支持。非光互连主线。 〔引用：X API status/2110142633716965836〕

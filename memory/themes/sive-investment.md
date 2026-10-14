@@ -307,3 +307,9 @@
 - (2026-10-13，SIVE·发推草稿) 用户贴官方 Head of IR 招聘 → 中英草稿：专职 IR 直报 CEO；三条 super cycles 用公司原文；强调「不是 dual listing 落地，只是招人 finalize」。发帖 ID 见午夜 / `x-content-output`——本条只记草稿口径。 〔引用：SIVE 对话 2026-10-13〕
 - (同上·依据) 「AI 工厂 / 太空卫通 / 现代战争」= 官推原文原话，非外推；建议改成「公司自己点名的三条…」。 〔引用：同上〕
 - (2026-10-13，Research·旁证) @Pep_Invest：**60 GHz** + AMD/Xilinx RFSoC 室内 350 点数据集（arXiv 2605.05824）——研究演示，**非** AMD 商业合作，无线线非光子主线。@outliercapx 仅把「InP 两边都要」外推到 `$SIVE`，无订单/认证/点名。 〔引用：Research 对话 2026-10-13〕
+
+## 2026-10-14（周三，午夜同步 2026-10-15）
+- (2026-10-14，X内容产出/@lyAtomic) 瑞典 FI 披露 `$SIVE` 净空头 Sum **5.97%**；具名四笔：Citadel Securities (Europe) **0.71%**（10/9，前 0.54）、Two Sigma **0.60%**（10/7，前 0.50）、AQR **0.59%**（10/6，前 0.63）、Arrowstreet **0.59%**（9/24，前 0.68）；Citadel 是近期唯一明显加码。具名合计 ≈2.49% ≠ 5.97，FI 页没写加总口径（未解释、不编）。已发 X status/2110232393504502144（上海 12:53）。读法：仓位钟 ≠ 产品/订单钟。 〔引用：`/workspace/x-drafts/2026-10-14-sive-fi-shorts.md`；FI emittent?id=254900UBKNY2EJ588J53〕
+- (2026-10-14，Yahoo) **SIVE.ST 收 26.12**（−2.61% vs 26.82；高 27.46 / 低 **25.80** / 量 3.76M）：盘中跌破观察池 20 日近低 26.14、触及下方缺口边沿 25.82。SIVEF 2.52、2DG.F 2.33。 〔引用：episodes/2026-10-15-midnight-sync.md；Yahoo v8〕
+- (2026-10-14，同步) Sivers 官推当日 0 帖；官网 press 最新仍 9/29 EGM 通知。Ayar×Wiwynn OCP 演示草稿**没有**来源点名 Sivers，故不往 SIVE 外推。GF 美日贸易协议 $21B 两座新厂（GF=SIVE 的 SCALE 合作方）无 Sivers 点名。 〔引用：episodes/2026-10-15-midnight-sync.md〕
+- (2026-10-14，二手) @outliercapx 转述 Bernstein「CPO 延迟风险被高估、NPO 可替代、高功率激光护城河仍在」，点名 $LITE $COHR $AAOI $SIVE $IQE；未见原报告，只当情绪层。 〔引用：episodes/2026-10-15-midnight-sync.md〕
