@@ -84,3 +84,7 @@
 
 ## 2026-10-15（午夜同步 2026-10-16）
 - (2026-10-15，云服务) `portfolio-brief-bot` 提交 **`4aee5d1`**（10:10）：「fix: RFC 2047-encode Gmail API Subject for non-ASCII (middle dot)」——持仓简报自有 GCP OAuth 直调 Gmail API 时，主题里的中点「·」等非 ASCII 字符要按 RFC 2047 编码，否则主题乱码。新增 `tools/send-via-gmail-api.js`（10:10）；`scripts/` 目录未跟踪。凭据文件不入库。 〔引用：`git -C /workspace/portfolio-brief-bot log`〕
+
+## 2026-10-15 对话补录（交叉午夜 `5597f52` / `4aee5d1`）
+- (2026-10-15，云服务·Gmail 送达) 观察池日报 message id **`1a13d4273dc5718f`**；持仓简报 message id **`1a13d5104391814c`**（交易日 10/14）。路径仍：观察池=连接器 → ly1653812264@gmail.com；持仓=自有 GCP OAuth REST。 〔引用：云服务对话 2026-10-15〕
+- (同上·Subject 乱码) 用户发现主题 `·` 显示 **`Â·`**：`send-via-gmail-api.js` 未做 RFC 2047；已加 **`encodeSubject`**，commit **`4aee5d1`** 推 origin/master（午夜已记提交摘要——本条补用户发现与根因）。凭据不入库。 〔引用：同上；交叉 `5597f52`〕

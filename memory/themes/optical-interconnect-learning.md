@@ -211,3 +211,6 @@
 - (2026-10-15，SIVE 附件) **GF 2026-03 投资人讲义**硬点：Malta NY 一站式 CPO 制造（硅光晶圆→光 I/O 集成→光晶圆测试→模组组装→模组测试）；生态伙伴页 Laser Providers = Lumentum / Sivers / SMART Photonics；GF 估 2030 光网络晶圆可服务市场约 **40%** 年复合增长（2025→2030）、通信基础设施与数据中心晶圆 SAM 约 25% 年复合；硅光营收目标「>$1Bn run-rate」（图示性质）。 〔引用：`/workspace/gf-photonics.txt` 第 17、18、22、23 页〕
 - (2026-10-15，X·二手) BofA（经 @outliercapx，status/2110720200907591836）：Ciena backlog 预计到 FY2026 末超 **$10B**，云客户下单快过 Ciena 交付——「需求不是问题，产能是」。J.P. Morgan（经 @pequityresearch，status/2110733180386824471）：2027 年超大云 capex 约 **$1.4 万亿**，2028–2030 进入平台期。均未见原报告。 〔引用：X API〕
 - (2026-10-15，盘面) 光模块/激光篮子继续跌（10/15 盘中 vs 10/14 收）：LITE 848.39（−5.3%）、COHR 245.08（−6.9%）、AAOI 80.94（−6.1%）、AXTI 56.01（−9.1%）、CIEN 349.73（−2.7%）。 〔引用：Yahoo，美东 ~12:15 快照〕
+
+## 2026-10-15 对话补录（GFS 讲义边界；交叉午夜 `5597f52`）
+- (2026-10-15，SIVE) GFS 2026-03-10 webinar：第 18 页 Laser Providers **三家**（含 SMART Photonics）；第 12 页 Lumentum=VoC 非激光商列名；Sivers 全册只第 18 页。生态 logo ≠ 独家合同；更硬层 **2026-06-02** Sivers–GF reference design/SCALE 新闻稿 vs **2026-05-04** SCALE PR 未点名激光商。PDF/截图路径与来源 URL 见 `sive-investment` 补录 / episode。午夜已记三家与 Malta CPO 摘要——不重抄市占图。 〔引用：SIVE 对话 2026-10-15；交叉 `5597f52`〕
