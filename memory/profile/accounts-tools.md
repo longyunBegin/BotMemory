@@ -81,3 +81,6 @@
 - (2026-10-14，云服务·观察池) 日报（数据日 10/13）经 **Gmail 连接器**发到 **ly1653812264@gmail.com**——**非** 本机 SMTP、**非** lyatomic SendEmail。相对 10/13 `679ffe9` README「本机 Gmail SMTP」——对话落地路径以连接器为准。 〔引用：云服务对话 2026-10-14〕
 - (同上·持仓简报) portfolio-brief-bot 用**自有 GCP OAuth 直调 REST**（项目 **533530910580**）；10:00 曾 **403**，用户启用 Gmail API 后重发成功 message id **1a1382a833d3d795**。与观察池连接器路径分流。**不写入任何密钥值。** 〔引用：同上；交叉 10/13 自有 GCP OAuth 节〕
 - (2026-10-15，观察池推仓) 用户确认 `scan.md` **只留本机、不推** trade 仓库——见 `trade-ideas-indicators.md`。 〔引用：记忆系统对话 2026-10-15〕
+
+## 2026-10-15（午夜同步 2026-10-16）
+- (2026-10-15，云服务) `portfolio-brief-bot` 提交 **`4aee5d1`**（10:10）：「fix: RFC 2047-encode Gmail API Subject for non-ASCII (middle dot)」——持仓简报自有 GCP OAuth 直调 Gmail API 时，主题里的中点「·」等非 ASCII 字符要按 RFC 2047 编码，否则主题乱码。新增 `tools/send-via-gmail-api.js`（10:10）；`scripts/` 目录未跟踪。凭据文件不入库。 〔引用：`git -C /workspace/portfolio-brief-bot log`〕

@@ -462,3 +462,8 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (2026-10-14，Research·旁证) @aleabitoreddit/status/**2110315297374937103**：大立光唱衰 MicroLED+多模做 CPO → 抬 CW；**无** `$SIVE` 供应链新证。澄清长帖 status/**2110333876144881903**（上海 ~19:36）硬点已在午夜 / 本文件「2026-10-14」节——不重抄。 〔引用：Research 对话 2026-10-14；交叉 `0f54ec7`〕
 - (同上·吸引注意) 用户要回复吸引 Serenity：选机制题不点票；压短口语版最终：`if microled flops for cpo, does that money go to vcsel first or straight to cw lasers for siph? kinda different jobs`（经 @lyAtomic 发出，见 `x-content-output`）。 〔引用：同上〕
 - (同上·监听) Serenity 澄清回复后，**监听例程已通知用户**。相对 §7u demand-visibility——本条换 **microLED/CPO→CW** 机制澄清层。 〔引用：同上〕
+
+## 2026-10-15（午夜同步 2026-10-16）
+- (2026-10-15，Serenity) **TSM Q3 电话会 Q&A 摘要**（status/**2110645575469461611**，上海 16:14，~235k 观看）：Citi 当面质疑 AI 融资、HBM、CoWoS、激光和产能过建；TSMC 称已评估云厂 capex、数据中心施工、客户财务和关键元件供应，结论仍是「需求大于供给」，AI 加速器营收增速可能超过此前 2029 年前 50%+ CAGR。JPM 问 2027 晶圆是否比 2026 更紧：魏哲家说会派人到现场核对数据中心施工进度，供需缺口仍大，但无法确定缺口多大。定价：利润「没有天花板」但不会一夜暴增。财报数：利润 **$23.6B（+68% Y/Y）**、营收 **$46.72B**（超预期）；Q4 指引 **$52.3–54.3B**、毛利率 **65–67%**。来源注明台媒 NextApple，属二手转述。 〔引用：X API note_tweet〕
+- (2026-10-15，Serenity) 批评 Elon（status/2110615506474651804，上海 14:15，~303k 观看）：Elon 突然和财经号互动、放大 CoreWeave 融资担忧、「中国内存倾销」、「AI 投资者是赌徒」，又称三星/海力士定价是勒索——Serenity 认为这会自我实现地压低供应商估值和对手融资，经济上可能对 Tesla/SpaceX 有利；同时承认自己也一直担心 CoreWeave 的债务利息和加息。 〔引用：X API〕
+- (2026-10-15，Serenity 回复) 10/15 下跌「明显是宏观」：CPI 公布后加息预期上升，KOSPI、SPY、日经同步大跌；CoreWeave 下跌或前沿实验室出问题的二三阶影响很难映射（status/2110621448272577019，上海 14:39）。 〔引用：X API〕
