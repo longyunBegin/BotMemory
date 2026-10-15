@@ -457,3 +457,8 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (2026-10-14，@aleabitoreddit) 内存定价：引 Elon「Micron 定价合理、其他家勒索式、客户不会忘」（Elon status/2110126632572756339，~2.3M 观看）→ Serenity「原来 Elon 反内存是因为 $SKHY 和三星涨价太狠？」（status/2110146513766900019，上海 07:11，~1.8k 赞 / ~287k 观看）。作者读法，非合约数据。 〔引用：X API〕
 - (2026-10-14，@aleabitoreddit) microLED/CPO 澄清（status/2110333876144881903，上海 19:36）：原帖（已删）写太快；Largan 董事长对 microLED+多模光纤的怀疑**更支持 CW 激光**；VCSEL 因同属多模受益少。由 @lyAtomic 提问触发。 〔引用：X API〕
 - (2026-10-14，@aleabitoreddit) `$AGLT`（Agility Robotics）经 `$CCXI` 上市：S-4 ~10/13 生效、~11/2 投票、11 月交割；自称持有 Agility，$NVDA/$AMZN 支持。非光互连主线。 〔引用：X API status/2110142633716965836〕
+
+## 7w. 增量核对（2026-10-14 对话补录；交叉午夜 §7v 后 10/14 节）
+- (2026-10-14，Research·旁证) @aleabitoreddit/status/**2110315297374937103**：大立光唱衰 MicroLED+多模做 CPO → 抬 CW；**无** `$SIVE` 供应链新证。澄清长帖 status/**2110333876144881903**（上海 ~19:36）硬点已在午夜 / 本文件「2026-10-14」节——不重抄。 〔引用：Research 对话 2026-10-14；交叉 `0f54ec7`〕
+- (同上·吸引注意) 用户要回复吸引 Serenity：选机制题不点票；压短口语版最终：`if microled flops for cpo, does that money go to vcsel first or straight to cw lasers for siph? kinda different jobs`（经 @lyAtomic 发出，见 `x-content-output`）。 〔引用：同上〕
+- (同上·监听) Serenity 澄清回复后，**监听例程已通知用户**。相对 §7u demand-visibility——本条换 **microLED/CPO→CW** 机制澄清层。 〔引用：同上〕

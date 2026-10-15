@@ -76,3 +76,8 @@
 ## 2026-10-13 对话补录（观察池移交 + portfolio-brief Gmail OAuth）
 - (2026-10-13，新想法→云服务) 观察池日报例程从新想法**移交**云服务（周二至周六 09:45）；新想法侧例程已删。发信：本机 Gmail SMTP（仓库 `679ffe9`）；盒子 SMTP 不通时可改 Gmail API。相对 10/10 lyatomic / 10/11 持仓只走 lyatomic——观察池与持仓路径继续分流。凭据不入库。 〔引用：新想法 / 云服务对话 2026-10-13；交叉午夜 `a762d72`〕
 - (2026-10-13，云服务·portfolio-brief-bot OAuth，**无密钥**) 配齐自有 GCP OAuth（Client ID/Secret + 新 refresh_token）；旧 Playground refresh 与新客户端不匹配曾 `unauthorized_client`；测试用户名单须加 **ly1653812264@gmail.com**；`--refresh-only` 成功（expires_in≈3600s）。**不写入任何密钥值。** 〔引用：云服务对话 2026-10-13〕
+
+## 2026-10-14 对话补录（观察池连接器 vs 持仓 GCP OAuth）
+- (2026-10-14，云服务·观察池) 日报（数据日 10/13）经 **Gmail 连接器**发到 **ly1653812264@gmail.com**——**非** 本机 SMTP、**非** lyatomic SendEmail。相对 10/13 `679ffe9` README「本机 Gmail SMTP」——对话落地路径以连接器为准。 〔引用：云服务对话 2026-10-14〕
+- (同上·持仓简报) portfolio-brief-bot 用**自有 GCP OAuth 直调 REST**（项目 **533530910580**）；10:00 曾 **403**，用户启用 Gmail API 后重发成功 message id **1a1382a833d3d795**。与观察池连接器路径分流。**不写入任何密钥值。** 〔引用：同上；交叉 10/13 自有 GCP OAuth 节〕
+- (2026-10-15，观察池推仓) 用户确认 `scan.md` **只留本机、不推** trade 仓库——见 `trade-ideas-indicators.md`。 〔引用：记忆系统对话 2026-10-15〕

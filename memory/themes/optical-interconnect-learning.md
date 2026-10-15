@@ -199,3 +199,8 @@
 - (2026-10-14，OCP 展台) Ayar TeraPHY + GUC ASIC 共封装于 Wiwynn 托盘，ELSFP SuperNova 外置光源；遥测 ER 4.01 dB / OMA 374.2 µW / 眼高 242.3 µW / 光引擎 53.4°C / 光源 49.5°C（@tuolaji2024，展台读数非认证）。PR 原话：门槛从「能不能用」变成「能不能规模部署和管理」。把激光挪出热区 = 针对激光寿命风险的做法。 〔引用：`/workspace/x-drafts/2026-10-14-ayar-wiwynn.md`；Wiwynn/PR Newswire 10/13〕
 - (2026-10-14，Largan / DIGITIMES) Largan 董事长 En-ping Lin（10/8 投资人会）：microLED + 多模光纤功耗、体积、效率存疑，个人认为不太可能可行、目前无客户真认为商用可行；DIGITIMES 业内反方：单颗慢但数百并行可降系统功耗（「slow and wide」vs 激光「fast and narrow」）。Serenity 解读：对 CPO 而言更支持单模 CW 激光，VCSEL（同为多模路线）受益少。 〔引用：`/workspace/aleabitoreddit_img.jpg`；X API status/2110333876144881903〕
 - (2026-10-14，二手) Bernstein（经 @outliercapx）：CPO 到 2027 量很小，NPO + 激光稀缺补位；$LITE/$COHR Outperform，PT $1,220/$350。未核原文。同日光模块盘中集体跌：AAOI −9.8%、COHR −7.9%、LITE −7.3%（约 12:15 ET 快照）。 〔引用：X API；Yahoo〕
+
+## 2026-10-14 对话补录（交叉午夜 IEEE/OCP/Largan）
+- (2026-10-14，Research) @yujimin31505775/status/**2110245695542448550**：OCP 展台图 **≠** 证明 SuperNova 内是 `$SIVE`；官方只写 SuperNova/ELSFP，不点激光厂。相对午夜 Ayar×Wiwynn 遥测——本条钉**归因边界**。 〔引用：Research 对话 2026-10-14〕
+- (同上·IEEE) @jwt0625/status/**2110250547798479077** + Balan PDF：400G/lane CPO 抬激光 RIN 门槛；对 `$SIVE` **仅间接题材**。仿真/规范参数见本文件「2026-10-14」午夜节 / `0f54ec7`——不重抄。 〔引用：同上〕
+- (同上·Largan→CW) 对话路径：Largan 质疑 → Serenity 抬 CW → 用户口语机制问 → Serenity 澄清帖；硬点见午夜 / `serenity` §7w。 〔引用：同上；交叉 `0f54ec7`〕

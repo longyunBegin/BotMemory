@@ -313,3 +313,10 @@
 - (2026-10-14，Yahoo) **SIVE.ST 收 26.12**（−2.61% vs 26.82；高 27.46 / 低 **25.80** / 量 3.76M）：盘中跌破观察池 20 日近低 26.14、触及下方缺口边沿 25.82。SIVEF 2.52、2DG.F 2.33。 〔引用：episodes/2026-10-15-midnight-sync.md；Yahoo v8〕
 - (2026-10-14，同步) Sivers 官推当日 0 帖；官网 press 最新仍 9/29 EGM 通知。Ayar×Wiwynn OCP 演示草稿**没有**来源点名 Sivers，故不往 SIVE 外推。GF 美日贸易协议 $21B 两座新厂（GF=SIVE 的 SCALE 合作方）无 Sivers 点名。 〔引用：episodes/2026-10-15-midnight-sync.md〕
 - (2026-10-14，二手) @outliercapx 转述 Bernstein「CPO 延迟风险被高估、NPO 可替代、高功率激光护城河仍在」，点名 $LITE $COHR $AAOI $SIVE $IQE；未见原报告，只当情绪层。 〔引用：episodes/2026-10-15-midnight-sync.md〕
+
+## 2026-10-14 对话补录（交叉午夜 `0f54ec7`）
+- (2026-10-14，SIVE·日报源) 更新日报必读 X：核心 @aleabitoreddit/@dizaq1/@Sofigoodboy/@PhotonCap/@StormDirac/@SiversSemicond；次优先 SemiAnalysis_/jukan05/Lumentum/MarvellTech/Pep_Invest/trendforce。 〔引用：SIVE 对话 2026-10-14〕
+- (同上·Watch) 用户问 SIVE Watch 机制；手动试跑 **10/14** 日报（覆盖 10/13 收 **26.82**）。收盘/空头盘面见午夜——不重抄。 〔引用：同上；交叉 `0f54ec7`〕
+- (同上·交付) 聊天日报 + 可复制中英推文（主帖+最多 2 跟帖）同条交付；例程 **250ec814** 已改；草稿不代发 X。编排：主帖钉「产能叙事 vs SuperNova 未确认」，非复读报价。 〔引用：同上〕
+- (同上·旁证链) Research：OCP SuperNova **≠** 点名 `$SIVE`；IEEE 400G/lane CPO 对 SIVE 仅间接；Largan/Serenity CW 无供应链新证——见 `optical` / `serenity` 补录。 〔引用：Research 对话 2026-10-14〕
+- (同上·加仓口径，Trade 代答) 10/14 收 **26.12** 建议现价不加；三档 25.8–26.0 / 22.1–23.0 / 收上 28.36；10/22 EGM C 股最多约 2% 稀释。详见 `trading-holdings.md`。 〔引用：Trade 对话 2026-10-14〕
