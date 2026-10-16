@@ -220,3 +220,6 @@
 - (2026-10-16，Ayar OCP 幻灯·一手截图) 「From liquid-cooled rack to ELSFP」：L11 rack（Wiwynn）→ L10 tray（CPO + 前面板 ELSFP）→ cold plate（并联歧管+柔性 TIM）→ **ELSFP + Optical Engine（Ayar）**：**8 × 23 dBm**、主动 TEC、**multi-vendor laser die**。台上原话字幕：「把最弱、最怕热的元件——激光——放到前面板可更换」。Wiwynn 定冷却边界条件，Ayar 按边界做激光方案。截图落盘 `/workspace/a.jpg`、`/workspace/serenity_sive_img.jpg`（及 Research 附件同图，mtime 10/16 00:48 / 10:18）。 〔引用：OCP Global Summit 2026 展台/演讲截图；交叉 carrioresearch 10/15 整理〕
 - (2026-10-16，机制读法·Serenity) 新演示配置偏 **8× ~200mW** 档；相对 2nd-gen SuperNova **16λ**（曾确认 Sivers）——**不能**外推同一供应商锁定。原披露激光相关名：**$LITE / $MTSI / $SIVE**；LITE ECOC **8×250mW**（目标 2027 可用性）技术上更近该演示；MTSI 未见相近演示；Macom ~75mW 资深资格目标 **H2’27**；SIVE 偏低功率 8/16ch + 单体 200mW（NPO）/Seminex UHP 多通道偏 **2027**——「高信心能达到规格，更多是时机」。硬边界：新配置公布 ≠ 供应商清单更新，等各家财报。 〔引用：X API status/2110835574458442200 note_tweet〕
 - (2026-10-16，二手) @jukan05：韩媒引三星高管称考虑 M&A 强化硅光代工能力——未核原报道；仅情绪/产业并购层。 〔引用：X API status/2111113665495928914〕
+
+## 2026-10-16 对话补录（WIN Semi；交叉午夜 `9bbd9fd`）
+- (2026-10-16，SIVE·稳懋 3105) 9 月营收 / Q3 营收汇总见 `sive-investment` 补录——本条钉机制：增长来自 **PD（光侦测器）** 非激光；WIN 自有 **CW 激光 + EML** 仍客户认证，法人预期实质营收自 **2027**。对 `$SIVE`：**待盯** WIN CW 是给 Sivers **代工**还是自有产品线（潜在竞争）。Q3 EPS/毛利与法说会约 11 月初中。午夜 Ayar multi-vendor / Serenity 功率档——不重抄。 〔引用：SIVE 对话 2026-10-16；交叉 `9bbd9fd`〕

@@ -77,3 +77,4 @@
 - 日常同步 2026-10-16 00:00 Asia/Shanghai（覆盖 10/15：SIVE.ST 收 23.86（−8.65%，放量 2.1 倍，低 22.16 贴近斐波那契 22.10）；FI 空头 5.92%；GF 3 月讲义 Laser Providers 列 Lumentum/Sivers/SMART；Citi SSMIY ADR 公告；TSM Q3 需求>供给（Serenity 转述）；Meta OCP CPO 可靠性 6 倍 + 102.4T「Both」；Portfolio Brief EUR−49.29%/USD+9.00%；10/14 美股真实收盘；无新助手；对话读取仍是缺口）：`memory/episodes/2026-10-16-midnight-sync.md`
 | 2026-10-16 对话补录（10/15） | memory/episodes/2026-10-16-transcript-catchup.md |
 - 日常同步 2026-10-17 00:00 Asia/Shanghai（覆盖 10/16：SIVE.ST 收 23.90（+0.17%，缩量）；FI 空头 5.79%（Citadel 0.55%）；Ayar OCP multi-vendor 激光 die + Serenity 功率/时机澄清；EGM 截止日；观察池数据日 10/15 已发；10/15–10/16 美股收盘；无 Portfolio Brief 10/15；无新助手；对话读取仍是缺口）：`memory/episodes/2026-10-17-midnight-sync.md`
+| 2026-10-17 对话补录（10/16） | memory/episodes/2026-10-17-transcript-catchup.md |
