@@ -214,3 +214,9 @@
 
 ## 2026-10-15 对话补录（GFS 讲义边界；交叉午夜 `5597f52`）
 - (2026-10-15，SIVE) GFS 2026-03-10 webinar：第 18 页 Laser Providers **三家**（含 SMART Photonics）；第 12 页 Lumentum=VoC 非激光商列名；Sivers 全册只第 18 页。生态 logo ≠ 独家合同；更硬层 **2026-06-02** Sivers–GF reference design/SCALE 新闻稿 vs **2026-05-04** SCALE PR 未点名激光商。PDF/截图路径与来源 URL 见 `sive-investment` 补录 / episode。午夜已记三家与 Malta CPO 摘要——不重抄市占图。 〔引用：SIVE 对话 2026-10-15；交叉 `5597f52`〕
+
+
+## 2026-10-16（午夜同步 2026-10-17）
+- (2026-10-16，Ayar OCP 幻灯·一手截图) 「From liquid-cooled rack to ELSFP」：L11 rack（Wiwynn）→ L10 tray（CPO + 前面板 ELSFP）→ cold plate（并联歧管+柔性 TIM）→ **ELSFP + Optical Engine（Ayar）**：**8 × 23 dBm**、主动 TEC、**multi-vendor laser die**。台上原话字幕：「把最弱、最怕热的元件——激光——放到前面板可更换」。Wiwynn 定冷却边界条件，Ayar 按边界做激光方案。截图落盘 `/workspace/a.jpg`、`/workspace/serenity_sive_img.jpg`（及 Research 附件同图，mtime 10/16 00:48 / 10:18）。 〔引用：OCP Global Summit 2026 展台/演讲截图；交叉 carrioresearch 10/15 整理〕
+- (2026-10-16，机制读法·Serenity) 新演示配置偏 **8× ~200mW** 档；相对 2nd-gen SuperNova **16λ**（曾确认 Sivers）——**不能**外推同一供应商锁定。原披露激光相关名：**$LITE / $MTSI / $SIVE**；LITE ECOC **8×250mW**（目标 2027 可用性）技术上更近该演示；MTSI 未见相近演示；Macom ~75mW 资深资格目标 **H2’27**；SIVE 偏低功率 8/16ch + 单体 200mW（NPO）/Seminex UHP 多通道偏 **2027**——「高信心能达到规格，更多是时机」。硬边界：新配置公布 ≠ 供应商清单更新，等各家财报。 〔引用：X API status/2110835574458442200 note_tweet〕
+- (2026-10-16，二手) @jukan05：韩媒引三星高管称考虑 M&A 强化硅光代工能力——未核原报道；仅情绪/产业并购层。 〔引用：X API status/2111113665495928914〕

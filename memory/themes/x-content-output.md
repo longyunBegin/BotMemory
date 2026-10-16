@@ -265,3 +265,9 @@
 - (2026-10-15，@lyAtomic 回复) 18:16 回 @PebbleSchmebble「🥳」（对方帖：「Serenity liked my tweet … $SIVE」，status/2110663504764019003）。 〔引用：X API〕
 - (2026-10-15，@lyAtomic RT 清单，上海时间) 08:21 Sofigoodboy Citi ADR；08:33 Million_Sancet「去公园透透气」；16:36 Serenity 7/29 旧 GF CHIPS 帖；16:54 pulsecapitalx TSM 需求；17:22 Pep_Invest GF $955M；17:38 carrioresearch Meta「Both」CPO/NPO；21:14 outliercapx BofA Ciena backlog；22:04 pequityresearch JPM 2027 capex；23:03 athuinvests「rally looks close」。 〔引用：X API〕
 - (2026-10-15) `/workspace/x-drafts` 无 10/15 新稿；10/14 的 Ayar×Wiwynn 草稿仍未见发出。 〔引用：目录 mtime〕
+
+
+## 2026-10-16 产出（午夜同步 2026-10-17；上海日历含 UTC 10/15 16:00 起）
+- (2026-10-16，@lyAtomic 原创) **Ayar OCP「multi-vendor」激光 die 读法帖** status/**2110777005545545848**（UTC 10/15 16:57 ≈ 上海 **10/16 00:57**；抓取约 **12** 赞 / **1** 转 / ~**1.0k** 观看；两图）。要点：幻灯写 multi-vendor → 认为 `$SIVE` 是其中之一；证据链——2023 Ayar **$1M** SuperNova DFB（含量产定价）、ECOC 2024 展出 16λ Sivers 阵列、2024-12 称 NRE+预购备量产、optics.org 近月称 Ayar 从 **Lumentum + Sivers foundry** 取货；幻灯数字 100+ ELSFP、均 23.4 dBm、RIN −158、50°C 全在规格；Meta 同周称激光是 CPO 弱点要可换+多源。**硬边界自写**：无人点名供应商/无份额/无 PO，独家已排除。 〔引用：X API note_tweet〕
+- (2026-10-16，@lyAtomic RT) 10:21 RT Serenity Ayar 多源澄清（211083557…）；20:26 RT @POETtech Q3 财报日 **11/16**；23:19 RT @jukan05 韩媒「三星考虑硅光代工 M&A」。另 00:58 RT HBM4/Rubin 12-Hi（DIGITIMES/TrendForce ASP +121% 2027 叙事）。 〔引用：X API get_users_posts〕
+- (2026-10-16) `/workspace/x-drafts` **无** 10/16 新稿；10/14 Ayar×Wiwynn 草稿仍未见发出。 〔引用：目录〕

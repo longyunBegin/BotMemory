@@ -72,3 +72,8 @@
 
 ## 2026-10-15（午夜同步 2026-10-16）
 - (2026-10-15，X·Serenity) 10/14 晚 9 月 CPI 公布后，市场把下跌归因于加息预期上升；KOSPI、SPY、日经同跌（Serenity status/2110621448272577019）。10/14 收盘：SPX **7718.94**、纳指 **26692.87**；QQQ 728.95（−1.97%，量 1.52 倍，Trade 量能标「放量下跌」）、SPY 769.60（−1.08%）。10/15 美东 ~12:15 盘中：SPX 7722.77（≈0%）、纳指 26588.89（−0.4%）。CPI 实际读数本轮没拿到原始数据，不记。 〔引用：X API；Yahoo；`/workspace/vol_broadcast_analysis.json`〕
+
+
+## 2026-10-16（午夜同步 2026-10-17）
+- (2026-10-16，Yahoo) QQQ 收 **717.59（−1.43% vs 728.00）**；光模块/激光篮子续弱（AAOI −6.5%、COHR −5.9%、LITE −3.7%、AXTI −8.1%），NVDA 近平。详细价见 `trading-holdings`。 〔引用：Yahoo〕
+- (2026-10-16，Serenity·二手渠道) KeyBanc 称 GOOGL 讨论内存 LTA 延至 **2035**、HBM 价 Q1’27 +80–100% 预期——读法层，见 `serenity-aleabitoreddit` §7x；非官方 IR。 〔引用：X API〕
