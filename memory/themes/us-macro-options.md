@@ -77,3 +77,7 @@
 ## 2026-10-16（午夜同步 2026-10-17）
 - (2026-10-16，Yahoo) QQQ 收 **717.59（−1.43% vs 728.00）**；光模块/激光篮子续弱（AAOI −6.5%、COHR −5.9%、LITE −3.7%、AXTI −8.1%），NVDA 近平。详细价见 `trading-holdings`。 〔引用：Yahoo〕
 - (2026-10-16，Serenity·二手渠道) KeyBanc 称 GOOGL 讨论内存 LTA 延至 **2035**、HBM 价 Q1’27 +80–100% 预期——读法层，见 `serenity-aleabitoreddit` §7x；非官方 IR。 〔引用：X API〕
+
+## 2026-10-17（午夜同步 2026-10-18）
+- (2026-10-17，更正) 10/16 QQQ 正确收盘 **709.80**（非前记 717.59）；详见 `trading-holdings` 更正段。周末无新宏观日历事件入库。 〔引用：Yahoo；交叉 trading-holdings〕
+- (2026-10-17，Serenity·二手) DELL CEO「内存短缺是约 4 年问题」→ 新产能 2029/2030——见 `serenity-aleabitoreddit` §7y。 〔引用：X API〕
