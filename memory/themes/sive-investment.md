@@ -355,3 +355,7 @@
 - (2026-10-17，@lyAtomic→公司 Q2 口径复盘) 已发 Q2 事实三连帖（见 `x-content-output`）。可入库硬点（均为公司 Q2 已披露、非新 IR）：营收 53.8M / 产品 +13.4% / Adj.EBITDA −35.5M；融资 SEK 825M+$12M 可转债（Q3 入表）；管道 $1.2B（非订单）；产能混合+Glasgow phase-1→2027 Q4 末；产品功率档 Pluggables/NPO/CPO；客户 Tachyon / ALL.SPACE / lidar imminent / Jabil H1’27 / SemiNex $3.4M。**下次核对日仍是 Q3 报告 2026-11-26**。EGM **10/22** 不变；官推 0 帖、无新公司公告。 〔引用：status/2111452690878189957 等；交叉 x-content-output〕
 - (2026-10-17，价格) SIVE.ST **无**周六交易；上一交易日仍是 10/16 收 **23.90**（+0.17%，量 3.74M）。FI 空头合计仍 **5.79%**（Citadel 0.55% @10/15），本轮现网未变。 〔引用：Yahoo；fi.se 本轮抓取〕
 - (2026-10-17，观察池) 数据日 **10/16** 日报已在本机 `scan.md` 并经 Gmail 发出（见 `trade-ideas-indicators`）：SIVE.ST 23.90、价在三线下方、均线纠缠、缩量 0.75×、一年位置 20%、止损近低 22.16（−7.3%）。 〔引用：`/workspace/trade/scan.md`〕
+
+## 2026-10-17 对话补录（交叉午夜 `bf9ef2d`）
+- (2026-10-17 ~21:3x，SIVE·源) Q2 事实三连帖数字来自 YouTube 价值股雷达两期（仅读标题）：中文 10/14 https://youtu.be/MQUh1YrMulU ；英文 Value Radar Global 10/04 https://youtu.be/0_hV8RWz5kg 。**待办**：尚未与官方 Q2 报告核对。帖面数字见午夜——不重抄。 〔引用：SIVE 对话 2026-10-17；交叉 `bf9ef2d`〕
+- (同上·拆分稿关键事实) 管道 ~$326M→~$789M→$1.2B（5 年非约束）；时间点 Q4’26 季营收拐点 / 2027 产品营收拐点 / 2028+ 长期模型（无数字指引）；Glasgow 一期 **Q4’27 末**；长期 ~1/3 自有 2/3 伙伴；Jabil 二期 Q4’26、首批量产 H1’27；汽车 lidar 量产单「即将」；SemiNex $3.4M；光开关放大器 SAM 公司估 $4B；Q3 **11/26**。 〔引用：同上〕
