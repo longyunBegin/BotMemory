@@ -296,3 +296,8 @@
 - (同上·源) 数字二手自 YouTube 价值股雷达两期（中文 10/14 MQUh1YrMulU；英文 10/04 0_hV8RWz5kg，仅读标题）；**待与官方 Q2 报告核对**。 〔引用：同上〕
 - (同上·出处纪律，Yun Long) 推文须**注明来源**；建议外链放**首评**，或用 **X Articles**（网页版、需 Premium/Premium+；手机 App 据称不能写——未验证）。 〔引用：同上〕
 - (同上·拆分) 英文拆成 3 篇：① 业务+Q2 数字；② 融资/时间点/管道/产能；③ 产品/客户/11-26 核对清单。 〔引用：同上〕
+
+
+## 2026-10-18 产出（周日；午夜同步 2026-10-19）
+- (2026-10-18，@lyAtomic) 上海日历日**无原创帖、无回复**，只有 2 条转推：①12:48 RT @revoAIution「$SIVE Weekly | Oct 12-16」（status/2111584493320696266，作者原帖上海 10/18 06:25，约 3.5k 观看）；②21:55 RT @BlackPantherCap「市场把 CoreWeave 的融资问题当成了 AI 需求问题」（status/2111759771531374795，约 5.2 万观看、275 收藏）。两帖要点分别入 `sive-investment`、`us-macro-options`。 〔引用：X API from:lyAtomic，窗口 UTC 10/17 16:00–10/18 16:00；RT 2111680904259326387 / 2111818390591742079〕
+- (2026-10-18，本机素材) 共享电脑当晚落了三张图，可能是某个助手在为光互连/日更备料：`/workspace/kzg.jpg`（21:42，@KZG6886 转述的「OCP 2026 光子学要点」截图）、`/workspace/pe1.jpg` + `pe2.jpg`（22:25，@pequityresearch 转的 Bloomberg Intelligence 两张预测图）。`/workspace/x-drafts` 无 10/18 新稿，X 上也未见据此发帖。内容见 `optical-interconnect-learning`「2026-10-18」。 〔引用：文件 mtime；X API〕
