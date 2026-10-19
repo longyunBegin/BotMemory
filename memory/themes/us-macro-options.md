@@ -86,3 +86,9 @@
 ## 2026-10-18（周日；午夜同步 2026-10-19）
 - (2026-10-18，@BlackPantherCap 长帖·被 @lyAtomic 转推) 观点：AI 基建股大跌是**融资问题被当成需求问题**。需求侧证据（均为转述）：B300 GPU 租价连涨 **17 天**创新高（@matthew_sigel 引 Compute Desk 美国 neocloud 成交指数，status/2110782355984019736）；META/AMZN/MSFT/GOOG 今年 capex 约 **$7,500 亿**、比去年约 $4,100 亿高 80%+（经 @unusual_whales）。融资侧（All-In 播客转述，未核）：CoreWeave 债务与义务约 $350–500 亿、还需约 $350 亿融资、借款成本从约 8.5% 到部分债券收益率近 15%、约 75% 收入来自少数客户、固定价合约在现货涨价时吃亏。作者把 TeraWulf/Cipher（建电力机房出租、Google 信用支持）、Applied Digital、Nebius 与 CoreWeave（自持 GPU + 借钱）分开看。机制要点：需求还在涨不等于每家公司能赚到回报；利率上行最伤靠借钱赚利差的模式。对持仓的读法：这是给「AI 需求见顶」叙事的反方证据，但都是二手数字。 〔引用：X API status/2111759771531374795 note_tweet〕
 - (2026-10-18) 周末无美股交易；下周日历：10/22 SIVE EGM；GOOGL Q3 10/28 盘后（见 trading-holdings 既有记录）。 〔引用：既有主题条目〕
+
+## 2026-10-19（周一；午夜同步 2026-10-20）
+- (2026-10-19，美银·二手) @ChillBanking 引美银：投资人在为一个还没崩的周期付「崩盘后」估值；继续看好受益 AI 的算力、网络与内存股（`$MU`/`$SKHY`/`$AVGO`/`$NVDA`）（status/2112134664471068701，上海 18:52；@lyAtomic RT）。未见美银原文。 〔引用：X API〕
+- (2026-10-19，SemiAnalysis) 文章「Datacenters 2027: The Year of Acceleration」标题要点：2027 年单年新增 **+50GW**、在建 **60GW**、年内已签租约 **$1.3 万亿**、短缺可能转到芯片（status/2112069964131713517，上海 14:34，~83k 观看）。@The_AI_Investor 说「若真则对算力/内存极度利好，但我怀疑」。只读到标题，未读正文。 〔引用：X API〕
+- (2026-10-19，MSFT/NScale) 微软退出 NScale 合同（Serenity 解读为利好 NBIS/IREN），见 `serenity-aleabitoreddit` §7z。事件本身本轮未核原始报道。 〔引用：X API〕
+- (2026-10-19) Investing.com 晨报标题：「本周科技财报来临、AI 情绪紧张；油价走低」。午夜同步时 **10/19 美股尚未收盘**（收盘约北京 10/20 04:00），收盘价留给下一轮。 〔引用：Gmail newsletter@investingmail.com 2026-10-19 19:55〕

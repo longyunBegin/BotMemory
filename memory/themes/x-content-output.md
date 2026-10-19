@@ -310,3 +310,8 @@
   - ZH: 「更正：对照官方 Q2 报告（第 14 页）后发现，其实是有拆分的。硬件收入 SEK 29.2M（去年同期 25.7M），NRE（合同开发）收入 24.6M（去年同期 35.5M）。也就是说 NRE 少了 10.9M，比整体营收降幅 7.6M 还多。ALL.SPACE 订单（$8.2M）和 Tachyon 首单（$3M）的金额也披露了。另外 12.4M 的美国上市费用不计入调整后 EBITDA，所以不在那约 7M 里。」
   - **$789M**（5 月管道）官方文字无出处——宜删或注明二手。出处建议换官方新闻稿放首评（交叉 10/17 出处纪律）。 〔引用：记忆系统对话 2026-10-18；交叉 `d3e5539` / `bf9ef2d`〕
 - (同上) 10/17「待与官方 Q2 报告核对」→ **已完成**。午夜产出节 RT 周报/BlackPantherCap——不重抄。 〔引用：同上；交叉 `f7c0523`〕
+
+## 2026-10-19（周一；午夜同步 2026-10-20）
+- (2026-10-19，@lyAtomic 原创引用帖) status/**2112116826171900302**（上海 **17:41**；抓取约 **22** 赞 / **1** 转 / **1** 回复 / **1** 书签 / ~**2.26k** 观看），引用 Serenity 指标建议帖 2112111374176555324。正文要点：读 `$SIVE` 别陷入「管道」之争，只问两件事——① 代工分配 + 现有 fab 真出 CW 激光时的**营收上限**；② 多少客户已过送样进入**认证**；无线/蜂窝/AllSpace 收入可以是真的但对股价是噪音；1.6T 可插拔、NPO、CPO 是接下来的转换点，认证没转成插槽前积压幻灯意义不大；同日行业核对：`$LITE` 产能卖到 2029、在谈 2030——不代表 Sivers 拿到份额，只说明激光瓶颈逻辑还在。Jev：optical_cpo、水文 **0.5**（偏实质）、质量 **1.98/3**。 〔引用：X API；Jev jev_triage 2026-10-20〕
+- (同上·RT 清单，上海时间) 11:03 @insane_analyst「OCP Global Summit 2026: Irrational Recap」；13:03 @Sofigoodboy 2X SIVE ETF 延期至 11/13；14:09 @The_AI_Investor 转 SemiAnalysis（作者自称怀疑）；14:43 @SemiAnalysis_「Datacenters 2027: +50GW」；15:17 @aleabitoreddit LITE CEO 访谈；19:23 @ChillBanking 美银「半导体在为没发生的崩盘定价」；23:06 @pequityresearch KeyBanc「Marvell 可能拿下 Maia 400」。细节见 `sive-investment` / `optical-interconnect-learning` / `us-macro-options` / `trading-holdings` 同日节。 〔引用：X API get_users_posts（UTC 10/18 16:00–10/19 16:00）〕
+- (同上) 10/18 SIVE 助手的「一周跌 20%」草稿与 Q2 更正回复：X API 上 10/19 **未见发出**。 〔引用：X API；交叉 `1d6d9d3`〕
