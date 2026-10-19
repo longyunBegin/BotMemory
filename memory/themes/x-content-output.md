@@ -301,3 +301,12 @@
 ## 2026-10-18 产出（周日；午夜同步 2026-10-19）
 - (2026-10-18，@lyAtomic) 上海日历日**无原创帖、无回复**，只有 2 条转推：①12:48 RT @revoAIution「$SIVE Weekly | Oct 12-16」（status/2111584493320696266，作者原帖上海 10/18 06:25，约 3.5k 观看）；②21:55 RT @BlackPantherCap「市场把 CoreWeave 的融资问题当成了 AI 需求问题」（status/2111759771531374795，约 5.2 万观看、275 收藏）。两帖要点分别入 `sive-investment`、`us-macro-options`。 〔引用：X API from:lyAtomic，窗口 UTC 10/17 16:00–10/18 16:00；RT 2111680904259326387 / 2111818390591742079〕
 - (2026-10-18，本机素材) 共享电脑当晚落了三张图，可能是某个助手在为光互连/日更备料：`/workspace/kzg.jpg`（21:42，@KZG6886 转述的「OCP 2026 光子学要点」截图）、`/workspace/pe1.jpg` + `pe2.jpg`（22:25，@pequityresearch 转的 Bloomberg Intelligence 两张预测图）。`/workspace/x-drafts` 无 10/18 新稿，X 上也未见据此发帖。内容见 `optical-interconnect-learning`「2026-10-18」。 〔引用：文件 mtime；X API〕
+
+
+## 2026-10-18 对话补录（草稿与更正；交叉午夜 `f7c0523`）
+- (2026-10-18 ~09:18，SIVE·代写) 推文草稿：一周跌约 **20%**、无公司公告、FI 具名空头未加仓——**未发**。 〔引用：SIVE 对话 2026-10-18〕
+- (2026-10-18，记忆系统·Q2 三连帖更正) Part 1 约 **3.4k** 浏览 / **25** 赞。对照官方 Q2 中期报告后三处错误（拆分/12.4M 上市费/订单金额与产能措辞）见 `sive-investment` 补录。已交中英更正回复草稿，**由 Yun Long 自发**（不代发）：
+  - EN: "Correction after checking the official Q2 report (p.14): there is a split. Hardware SEK 29.2M vs 25.7M a year ago, NRE 24.6M vs 35.5M. So NRE fell 10.9M, more than the whole 7.6M revenue drop. ALL.SPACE ($8.2M) and Tachyon's initial order ($3M) amounts are disclosed too. And the 12.4M US listing cost is excluded from adj. EBITDA, so it's not part of that ~7M."
+  - ZH: 「更正：对照官方 Q2 报告（第 14 页）后发现，其实是有拆分的。硬件收入 SEK 29.2M（去年同期 25.7M），NRE（合同开发）收入 24.6M（去年同期 35.5M）。也就是说 NRE 少了 10.9M，比整体营收降幅 7.6M 还多。ALL.SPACE 订单（$8.2M）和 Tachyon 首单（$3M）的金额也披露了。另外 12.4M 的美国上市费用不计入调整后 EBITDA，所以不在那约 7M 里。」
+  - **$789M**（5 月管道）官方文字无出处——宜删或注明二手。出处建议换官方新闻稿放首评（交叉 10/17 出处纪律）。 〔引用：记忆系统对话 2026-10-18；交叉 `d3e5539` / `bf9ef2d`〕
+- (同上) 10/17「待与官方 Q2 报告核对」→ **已完成**。午夜产出节 RT 周报/BlackPantherCap——不重抄。 〔引用：同上；交叉 `f7c0523`〕
