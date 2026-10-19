@@ -241,3 +241,10 @@
 - (2026-10-19，LITE CEO·Fox Business，经 Serenity) status/**2112080246895976755**（上海 **15:15**；~**742** 赞 / ~**164k** 观看；@lyAtomic 15:17 RT）。CEO 原话转引：Google CFO 报 capex 同比上升，「预计超大规模云厂财报都会上调 capex」；「我们的采购协议很大程度上**不可取消**」；与 AVGO 不同，「不那么依赖 AI 数据中心扩建」，因为电→光转换是结构性需求；需求「no end in sight」。节目画面字幕：部分 AI 器件**订到 2029**、NVIDIA 投资 **$20 亿**、股价同比 >**400%**（Fox Business「Claman's Power Players」，YouTube 截图 `/workspace/lite_serenity.jpg`）。Serenity 补充：产能承诺到 2029、在谈 2030；另帖称超大规模云厂付钱扩 **2031** 产能。读法：激光/光器件瓶颈逻辑仍在；不代表 SIVE 拿到份额。 〔引用：X API；`/workspace/lite_serenity.jpg`、`/workspace/jev_serenity_lite.txt`（10/19 15:21–15:22）〕
 - (2026-10-19，NVIDIA「Optics on Interposer」CPO 设计，TrendForce 图经 LinkedIn) NVIDIA 的 Nikola Nedovic 在 **SEMICON West 2026** 介绍：把光引擎（EIC+PIC）从有机基板**挪到中介层（interposer）上**，信号路径从「芯片→中介层→有机基板→光引擎」缩成「芯片→中介层→光引擎」，不经有机基板；用微凸点/纳米凸点 2.5D 连接，接口电容更低、电灵敏度更好，去掉 ASIC 到光引擎的带宽瓶颈。状态：**原型阶段**，NVIDIA 在评估集成方案。机制含义：光引擎更贴近 ASIC → 带宽密度↑、功耗↓；外置光源（激光）仍在封装外，不改变 CW 激光需求逻辑。 〔引用：`/workspace/poet_nvidia.png`（10/19 11:06，LinkedIn Raghavendraa A 帖，Source TrendForce）〕
 - (2026-10-19，X·链接) @insane_analyst「OCP Global Summit 2026: Irrational Recap」（status/2111991683147800943，~73k 观看），@lyAtomic RT；正文未读，只记链接。 〔引用：X API〕
+
+
+## 2026-10-19 对话补录（Meta ELS 故障读法 + 行业；交叉 `392f0f8`）
+- (2026-10-19 ~09:14，SIVE·@dizaq1) Meta **51.2T** CPO **83–85%** 故障来自**外置激光模块**（原幻灯片未核；与 10/15 Meta OCP / 10/18 KZG·大摩「ELS」口径一致）——对**已认证**激光厂是护城河、对**仍在认证**的 SIVE 是时间成本。 〔引用：SIVE 对话 2026-10-19；交叉本文件 10/15 Meta、10/18 KZG 条〕
+- (同上·二手) MTN 10/16：三星考虑并购加强硅光代工——**未点名**，大概率非 SIVE；Jev 薄。 〔引用：同上〕
+- (同上·行业 10/16) SOX −3.83%（CoreWeave/AI 融资担忧）；AAOI −9.75%（B. Riley PT 109→92）；LITE −5.22%；COHR −7.06%；「Lumentum 产能卖到 2029」=**10/9** 旧专访。 〔引用：同上〕
+- (同上·SIVE 短评交叉) Ayar **二代**用 Sivers 激光已确认，份额/金额/量产时间待公司披露——见 `sive-investment` 补录。午夜 LITE CEO / NVIDIA Interposer——不重抄。 〔引用：同上；交叉 `392f0f8`〕
