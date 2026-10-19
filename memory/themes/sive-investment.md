@@ -329,7 +329,7 @@
 - (2026-10-15，X) **Citi 10/14 公告新的 unsponsored ADR 项目**：发行人 Sivers Semiconductors AB，CUSIP **82989A100**，DR 代码 **SSMIY**，原股 SIVE SS / ISIN SE0003917798，比例 **3:1**（3 股 = 1 ADR）。非公司发起，与 10/6 已记 BNY/Citi F-6EF 同一件事的落地。@Sofigoodboy 发截图（status/2110519396179624165，上海 10/15 07:53，~13.8k 观看），@lyAtomic 08:21 RT。 〔引用：X API；截图 `pbs.twimg.com/media/HUoR_mLaUAAQWZG.png`〕
 - (2026-10-15，X·二手) @Pep_Invest（status/2110662052851155107，上海 17:20）：GF 美日协议两座新厂首座预计 **2029** 投产；并称 GF 把现有 CHIPS 资金中 **$955M** 重新分配到硅光、SiGe 和先进封装——Pep 的推论是 GF 平台客户越多、Sivers 激光阵列需求越大。$955M 未在原始公告里核对。@lyAtomic 17:22 RT；同日 16:36 还 RT 了 Serenity 7/29 旧帖（美国政府入股 GF 1% + $300M CHIPS，称 Sivers、Lumentum 是唯二上市激光伙伴）。 〔引用：X API〕
 - (2026-10-15，旁路) @SiversSemicond 10/15 **0 帖**；MFN 日历：EGM **2026-10-22**、Q3 报告 **2026-11-26 07:00**，未见 10/15 公司公告。Serenity 把 10/15 的普跌归因于 CPI 后加息预期（见 `us-macro-options.md`），没有针对 SIVE 的新利空来源。 〔引用：`mfn.se/a/sivers-semiconductors` 本轮抓取；X API〕
-- 未决：10/14 Trade 给的三档里，「25.8–26.0 试探」已被跌穿，「22.1–23.0 主力」区间 10/15 盘中已触及（低 22.16）；是否执行、22.10 守不守住，待用户/Trade 对话确认。
+- 未决：10/14 Trade 给的三档里，「25.8–26.0 试探」已被跌穿，「22.1–23.0 主力」区间 10/15 盘中已触及（低 22.16）；是否执行、22.10 守不守住，待用户/Trade 对话确认。**→ 2026-10-19 关闭：用户决定撤掉 2.00–2.05 EUR 挂单**（见 10/19 节）。
 
 ## 2026-10-15 对话补录（交叉午夜 `5597f52`）
 - (2026-10-15，SIVE·GFS 光源问答) 用户问是否只有 SIVE+LITE：一手 **GFS 2026-03-10** webinar 第 **18** 页 Laser Providers = **Lumentum / Sivers / SMART Photonics**（社区「只两家」漏 SMART）。Lumentum 另在第 **12** 页 VoC（CTO Matthew Sysak），非激光商列名；Sivers 全 25 页只第 18 页。生态 logo ≠ 独家量产合同。更硬：**2026-06-02** Sivers–GF 新闻稿（激光阵列进 GF 硅光 reference design、可用于 SCALE）；**2026-05-04** GF SCALE PR **未点名**激光商。截图 `/workspace/gf-laser-*.png`、`gf-slide12-12.png`；PDF `/workspace/gf-photonics-packaging.pdf`（curl 403→浏览器）。三家名单摘要见午夜——不重抄。 〔引用：SIVE 对话 2026-10-15；交叉 `5597f52` / `optical-interconnect-learning.md`〕
@@ -342,14 +342,14 @@
 - (2026-10-16，IR 日历) EGM **邮寄/参会通知截止日 = 2026-10-16**（当天）；会议 **2026-10-22 16:00** Setterwalls；股权登记日 10/14 已过。官推 @SiversSemicond 日历日 10/16 **0 帖**；公司 newsroom 自 9/29 EGM 通知后仍无新监管稿（与 10/16 晨 digest 一致）。Q3 报告仍 **2026-11-26**。 〔引用：EGM notice；X API；`/workspace/sive-quotes-ir-shorts-2026-10-16.md` §5〕
 - (2026-10-16，X·@lyAtomic 原创 + Serenity) Ayar OCP 幻灯写 SuperNova 激光 die「**multi-vendor**」→ @lyAtomic 长帖论证 `$SIVE` 很可能是其中之一（2023 $1M 订单、ECOC 2024 16λ、Dec 2024 NRE、optics.org 称 Ayar 从 Lumentum 与 Sivers foundry 取货）；明确 caveat：无人点名份额/无 PO、独家已排除。Serenity 同日回复：从未说 SIVE 是 Ayar 全世代唯一激光商；原披露供应商 **$LITE / $MTSI / $SIVE**；新 OCP 演示偏 **8× ~200mW**，LITE ECOC 8×250mW 更近、SIVE 偏低功率 8/16ch + 单体 200mW（NPO）/Seminex UHP 叙事偏 2027——**时机问题**，等财报。详见 `x-content-output` / `serenity` / `optical`。 〔引用：X API status/2110777005545545848、2110835574458442200〕
 - (2026-10-16，旁证) @jukan05 转述韩媒：三星考虑 M&A 强化硅光代工——二手、未核原报道；@lyAtomic RT。SSMIY（Citi unsponsored ADR）Yahoo 10/15 收 **7.43**，10/16 无有效收盘条。 〔引用：X API；Yahoo〕
-- 未决：10/14 Trade 三档里「22.1–23.0 主力」10/15 低 22.16 已触及后，10/16 收 23.90 回到区间上沿附近——是否执行仍待用户/Trade 对话确认（对话正文本轮读不到）。
+- 未决：10/14 Trade 三档里「22.1–23.0 主力」10/15 低 22.16 已触及后，10/16 收 23.90 回到区间上沿附近——是否执行仍待用户/Trade 对话确认（对话正文本轮读不到）。**→ 2026-10-19 关闭：用户决定撤掉**（见 10/19 节）。
 
 ## 2026-10-16 对话补录（交叉午夜 `9bbd9fd`）
 - (2026-10-16 ~20:45，SIVE) 当天无新 IR（最新仍 9/29 EGM）；盘中快照约 24.62（+3.2% vs 23.86）、区间 23.74–25.48——全日收见午夜，不重抄。 〔引用：SIVE 对话 2026-10-16；交叉 `9bbd9fd`〕
 - (同上·媒体，未核内幕登记) Di 12:54：一周跌 >30%、「AI 抛售潮斯德哥尔摩最大受害者」；前高管卖光约 84 万股（Holdings）。Börse Express 点名前副董事长 Thomas Duffy、夏末分批卖——媒体说法。德媒 Citadel 0.54% 旧数，以 FI 为准（午夜 5.79%/0.55%）。 〔引用：同上〕
 - (同上·WIN Semi 3105) 仅 10/5 月营收 NT$20.30 亿（YoY +29.97%）；Q3 ~58.6 亿（QoQ ~11.4%、YoY ~30.6%）；前 9 月 157.06 亿（+32.61%）；Q3 EPS/毛利未公布，法说会约 11 月初中。增长=PD 非激光；自有 CW/EML 仍认证，法人称 2027 起实质营收。Q3 指引营收 QoQ 11–13%、毛利 31–33%；Q2 毛利 28.2%、EPS 2.30。待盯：WIN CW 是代工 Sivers 还是自有（潜在竞争）。 〔引用：同上〕
 - (同上·推文) 三条中英稿交付未代发：① GFS 三家激光商（荐先发）② WIN Q3≠SIVE 激光放量 ③ 股价+前高管清仓（可选）。详见 `x-content-output`。 〔引用：同上〕
-- (2026-10-16，记忆系统) EGM 截止日当天提醒：会议 10/22 16:00 CET；Deloitte→EY（2027H1 可能美股双重上市）；P11 最多 728 万份约 2.0%、含现有 ≤6.1%；行权价 110%、3 年归属；P11 需 9/10 多数。晚间问 2.00–2.05 EUR 挂单周末留否——待答。 〔引用：记忆系统对话 2026-10-16；交叉 `9bbd9fd`〕
+- (2026-10-16，记忆系统) EGM 截止日当天提醒：会议 10/22 16:00 CET；Deloitte→EY（2027H1 可能美股双重上市）；P11 最多 728 万份约 2.0%、含现有 ≤6.1%；行权价 110%、3 年归属；P11 需 9/10 多数。晚间问 2.00–2.05 EUR 挂单周末留否——待答（**已于 2026-10-19 关闭：撤掉**）。 〔引用：记忆系统对话 2026-10-16；交叉 `9bbd9fd`〕
 
 ## 2026-10-17（周六；午夜同步 2026-10-18；周末无新收盘）
 - (2026-10-17，@lyAtomic→公司 Q2 口径复盘) 已发 Q2 事实三连帖（见 `x-content-output`）。可入库硬点（均为公司 Q2 已披露、非新 IR）：营收 53.8M / 产品 +13.4% / Adj.EBITDA −35.5M；融资 SEK 825M+$12M 可转债（Q3 入表）；管道 $1.2B（非订单）；产能混合+Glasgow phase-1→2027 Q4 末；产品功率档 Pluggables/NPO/CPO；客户 Tachyon / ALL.SPACE / lidar imminent / Jabil H1’27 / SemiNex $3.4M。**下次核对日仍是 Q3 报告 2026-11-26**。EGM **10/22** 不变；官推 0 帖、无新公司公告。 〔引用：status/2111452690878189957 等；交叉 x-content-output〕
@@ -376,3 +376,6 @@
 - (同上·Alea) 10/16 回复 Ayar 多源 LITE/MTSI/SIVE；关键=份额、无公开数字。 〔引用：同上〕
 - (同上·下周) 10/19 SIVEF 折价；EGM 10/22 换 EY；10/23 稳懋法说会。一周跌 20% 推文草稿未发。 〔引用：同上〕
 - (2026-10-18，记忆系统·Q2 核对**已完成**) 官方 Interim Q2’26 p.14：硬件 29.2M（25.7）/ NRE 24.6M（35.5），NRE 降 10.9M > 营收降 7.6M；12.4M 美上市一次性、不进 adj. EBITDA；ALL.SPACE $8.2M、Tachyon 首单 $3M 已披露；产能 Fab-Lite→混合非完全外包；$789M（5 月管道）官方文字无出处。关闭 `d3e5539`「待与官方核对」待办。中英更正回复草稿交 Yun Long 自发——见 `x-content-output`。 〔引用：记忆系统对话 2026-10-18；https://www.sivers-semiconductors.com/wp-content/uploads/2026/08/Sivers-Interim-report-Q226.pdf〕
+
+## 2026-10-19（用户决策：撤掉 2.00–2.05 EUR 挂单）
+- (2026-10-19，Yun Long·北京) **撤掉** 2DG/SIVE **2.00–2.05 EUR**（≈22.10 SEK fib）限价挂单。关闭 10/15–10/16「22.1–23.0 主力是否执行 / 挂单周末留否」未决；持仓侧详见 `trading-holdings.md`。 〔引用：记忆系统对话 2026-10-19〕
