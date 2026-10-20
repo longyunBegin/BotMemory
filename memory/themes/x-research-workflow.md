@@ -3,7 +3,7 @@
 ## 交付习惯与账号
 - (2026-08-12，X) 工作日 **北京时间 9:00** 投资研究风格晨报（Following 时间线），只在对应聊天交付，**不发邮件**（邮箱 ly1653812264@gmail.com 已知但未用于此 digest）。 〔引用：agents/55a49dcf-1e7b-4f26-9ba5-2035a1741690/memory/profile.md〕
 - (2026-08-31，X / SIVE) 浏览会话显示名 Eden、句柄 **@lyAtomic**（早先记录过 @longyun5201314）。 〔引用：agents/55a49dcf-1e7b-4f26-9ba5-2035a1741690/memory/profile.md〕
-- (2026-08-12，SIVE) SIVE 专题日更：价格/基本面/新闻；X 只用已登录浏览器；重点分析 **@aleabitoreddit**（AleaBiteReddit / Serenity）。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/profile.md〕
+- (2026-08-12，SIVE) SIVE 专题日更：价格/基本面/新闻；X 只用已登录浏览器；重点分析 **@aleabitoreddit**（AleaBiteReddit / Serenity）。 〔引用：agents/4ba186e6-8409-40d7-8f5f-d1a75e52beb9/memory/profile.md〕 〔已被 2026-10-20 X 内置公开读取接口规则取代，见 standing-policy.md〕
 - (2026-09-01，X) X MCP 常 **$0** / `get_users_me` unsupported-auth → 默认浏览器只读抓取。 〔引用：agents/55a49dcf-1e7b-4f26-9ba5-2035a1741690/memory/log/2026-09.md〕
 
 ## Watchlist（摘录）
