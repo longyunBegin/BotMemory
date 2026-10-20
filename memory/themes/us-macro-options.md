@@ -97,3 +97,7 @@
 ## 2026-10-20（周二；午夜同步 2026-10-21）
 - (2026-10-20，二手·Nomura Global Memory，报告日标 10/19) 共享电脑 `/workspace/nomura-post/`（17:30）：标题「AI market concerns and the memory outlook」；立场 **建设性**，称供给约束至少到 **2028F**；市场对 AI 营收/neocloud 融资的担忧可能低估需求广度。行动股（报告价 10/19）：三星 **005930 KS** Buy、目标 **670,000**（当时 **218,000**，+207%）；海力士 **000660 KS** Buy、目标 **4,700,000**（**1,277,000**，+268%）。另页：OpenAI+Anthropic 合计营收同比仍高（报告估 3Q26 ~507% y/y）；要达到市场 FY26E 合计 ~**$100B** 需 4Q 约 **$43.9B**，若 9 月 run-rate 持平则 4Q 约 **$29.7B**；云业务 2026-06 OPM：AWS ~39%、MSFT Intelligent Cloud 41%、Google Cloud 36%，示意 EBITDA ~60%。**未核 Nomura 原文 PDF**；与持仓 MU/SNDK/DRAM 相关作备查。 〔引用：`nomura-post/1.jpg`–`4.jpg`〕
 - (同上·X) @strictrope：超大规模不是只为 LLM 砸算力——若看空 NVDA/内存应研究其他模型类型（@lyAtomic RT）。观点帖。 〔引用：X 2112314702051094594〕
+
+
+## 2026-10-20 对话补录（Nomura 交叉午夜；补内存首聊）
+- (2026-10-20，内存·首聊) @2030FY_X 野村 Global Memory（10/19）截图分析：供给约束至少到 **2028F**；OpenAI **9 月 ARR** 口径约 **$50bn**；Buy 三星/海力士大目标价——目标价与报告页摘要见午夜同日节，**不重抄**；读法偏**半导体供应商**非机房商。Jev 返回 **451 区域不可用**。 〔引用：内存对话 2026-10-20；交叉午夜 `us-macro-options` Nomura 条 / `9a79a81`〕

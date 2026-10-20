@@ -489,3 +489,8 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - 14:24 status/**2112429644033245666**（~**1,088** 赞 / **68** 转 / **108** 书签 / ~**134k** 观看）：$SIVE 首批 CW DFB LiDAR 量产订单；引 McCann「design-win to production」；猜测客户 **$AEVA** 且进 CPO/NPO；称是商业验证，后面还有 AI DC 认证（$GFS→$JBL）。Jev：sive_company、水文 **1.89**、质量 **1.72**/3（推测多）。
 - 14:37 status/**2112433128652542032**（~**170** 赞 / ~**17k** 观看）回 @PhotonCap：PR 提 robotics/humanoids 更兴奋；$AEVA FMCW + LG Innotek 等（Boston Dynamics 供应商）；**端产品不可见**。
 - 14:47 status/**2112435500246311200**（~**92** 赞 / ~**13k** 观看）回 @zaynchd：$AEVA FMCW 4D 是 **$NVDA Hyperion** 参考传感器，「可能路径」；供应链敏感、终点仍不可见。 〔引用：X get_users_posts（UTC 10/19 16:00–10/20 16:00）；Jev 2026-10-21〕
+
+
+## 7ab. 增量核对（2026-10-20 对话补录；交叉午夜 §7aa / `9a79a81`）
+- (2026-10-20，Research) Serenity LiDAR 帖定稿**删掉**约 **$20M** 年收入；猜 AEVA/CPO/Hyperion——**非 PR**；对照官方 PR 未点名客户。主帖/回复互动见 §7aa——不重抄。 〔引用：Research 对话 2026-10-20〕
+- (同上) Serenity X 监听例程强制改内置公开 **`x`**（禁浏览器/付费插件/Grok Build）。 〔引用：同上；交叉 `fb6a2f9`〕

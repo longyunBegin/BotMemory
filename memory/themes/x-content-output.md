@@ -320,3 +320,9 @@
 ## 2026-10-20（周二；午夜同步 2026-10-21）
 - (2026-10-20，@lyAtomic 原创) status/**2112421405258113405**（上海 **13:51**；约 **10** 赞 / **3** 转 / **2** 书签 / ~**547** 观看）。主题：LiDAR 战略客户首批量产订单落地（链官方 PR）。结构：① Q2「imminent」如期；② CW DFB + SOA、汽车/工业、$53–138M；③ fab 可靠性门槛；④ 管理层连续兑现（ALL.SPACE + LiDAR）→ 信任；⑤ 下一关 Jabil Q4 phase-2 / H1’27 量产、Q3 11/26。Jev：sive_company、水文 **1.26**、质量 **2.0**/3。 〔引用：X get_users_posts / get_posts_by_ids；Jev 2026-10-21〕
 - (同上·RT，上海时间约) 09:15 @Sofigoodboy APC 规范（SIVE 在成员图）；12:52 @strictrope 超大规模算力不只 LLM；13:32 @Sofigoodboy LiDAR 量产单；14:37 / 14:57 Serenity LiDAR 主帖与 robotics 回复。当日**无**其他原创长帖。 〔引用：X get_users_posts（UTC 10/19 16:00–10/20 16:00）〕
+
+
+## 2026-10-20 对话补录（交叉午夜 `9a79a81` @lyAtomic LiDAR 帖；补 X 助手侧）
+- (2026-10-20，X) 写入公开读取新规；更新（仍暂停）「**X 关注人早报**」例程提示词：公开读走内置 **`x` + Jev**；账号背景改为 **@lyAtomic**。 〔引用：X 对话 2026-10-20；交叉 `fb6a2f9`〕
+- (同上·旁线) @jukan05：AMD Arm SoC 或进微软入门 12" Surface，POC ~**2027Q2**（供应链/媒体截图二手）；与 SIVE 主线无关。 〔引用：同上〕
+- (2026-10-20，Research) Serenity LiDAR 帖定稿路径（删 ~$20M）见 `serenity-aleabitoreddit` §7ab；@lyAtomic 原创 LiDAR 帖见午夜——不重抄。 〔引用：Research / 午夜〕

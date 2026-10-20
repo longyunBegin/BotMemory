@@ -408,3 +408,13 @@
 - (2026-10-20，@lyAtomic 原创) status/**2112421405258113405**（UTC 05:51 ≈ 上海 **13:51**；抓取约 **10** 赞 / **3** 转 / **2** 书签 / ~**547** 观看）。读法：Q2 电话会称订单「imminent」→ 如期落地；证明汽车量产看的是 fab 可靠性；管理层连续两季兑现（ALL.SPACE 量产单 + LiDAR）；下一关 **Jabil** phase-2 验证 Q4、首批量产单预期 **H1’27**；**Q3 报告 11/26** 看 Q4 出货表述。链官方 PR。Jev：主题 sive_company、水文 **1.26**/3、质量 **2.0**/3。 〔引用：X get_posts_by_ids；Jev jev_triage 2026-10-21；详见 `x-content-output`〕
 - (2026-10-20，Serenity / 社区) Serenity status/**2112429644033245666**（~**1.1k** 赞 / ~**134k** 观看）：design-win→production 商业验证；猜测客户 **$AEVA**，并称其进 CPO/NPO；「一次认证转量产、后面还有很多尤其 AI DC（$GFS→$JBL）」。回复称 PR 提 robotics/humanoids 更兴奋；**$AEVA FMCW** 或是 **$NVDA Hyperion** 参考传感器路径——**供应链终点不可见**。@Sofigoodboy 同步复述 PR（53–138M）。客户身份与 AEVA/Hyperion 均为**推测，非 PR 原文**。 〔引用：X API；详见 `serenity-aleabitoreddit`〕
 - (2026-10-20，APC 规范) Advanced Photonics Coalition 发布首批光子学规范 Version 1.0（共享电脑 `/workspace/apc-oct20/`：4-Core MCF、SiPh 制造框架、CPO Outlook、CPO 系统架构、测试程序）；CPO Outlook 成员表含 **Sivers Semiconductor, Inc.**（与 Ayar、GF、Microsoft、Intel、Lightmatter 等并列）。属标准/联盟露出，**非订单**。 〔引用：`apc-oct20/txt/cpo_outlook.txt`；交叉 @Sofigoodboy APC 图帖 2112268518108561799（UTC 10/19 19:43，上海日历已入 10/20 窗口）〕
+
+
+## 2026-10-20 对话补录（交叉午夜 `9a79a81`；不含 PR 金额/收盘价重抄）
+- (2026-10-20，SIVE·PR 读法) LiDAR PR 中 **robotics** 在**行业背景段**（"Beyond automotive… including robotics and autonomous machinery"）；订单正文仅 **automotive and industrial sensing customers**——**未确认**本单含机器人项目。 〔引用：SIVE 对话 2026-10-20；交叉官方 PR〕
+- (同上) 日报例程已改走内置公开 **`x`**。 〔引用：同上；交叉 `fb6a2f9`〕
+- (同上·Aeva×NVIDIA) **2026-01-05** CES：Aeva 为 Hyperion **参考 LiDAR**；目标量产约 **2028**；开放生态**非独家**（同列 Hesai 等）。 〔引用：同上〕
+- (同上·Aeva 现实) 欧洲乘用车 L3（~**2028**）；Daimler Truck L4（**2026-05** 已交 Atlas C-sample）；Eve 工业质检；机器人**非收入主力**。 〔引用：同上〕
+- (同上·特斯拉) Yun Long 更认可特斯拉**纯视觉** AD；若主流纯视觉则车规 lidar/Sivers 光源故事变薄；两路线可并存。Optimus=视觉共用；激光雷达阵营常混 AGV/工业臂/PPT；PR 机器人=**期权非订单**。 〔引用：同上〕
+- (同上·日历) Hyperion≠车型名；欧洲：奔驰 10/16、沃尔沃 10/15、Bolt Robotaxi；柏林 10/19 政府协议=Physical AI/工业，勿与车端混。德国×NVIDIA：**Joint Declaration of Intent**；Siemens 埃尔兰根（工程量约 −85%、成本约 −20%、€5 亿园区叙事）；拟投 Agile Robots / Avelios / Mirelo / Reflex Aerospace。 〔引用：同上〕
+- (2026-10-20，Research) Serenity 定稿删 ~$20M 年收入；猜 AEVA/CPO/Hyperion **非 PR**；matrix_b0ss PIC 名单含 Sivers、份额约 **0.04%**——名单≠订单，弱于当日 LiDAR PR。 〔引用：Research 对话 2026-10-20；交叉 `optical` / 午夜 PIC 节〕

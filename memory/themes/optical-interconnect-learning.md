@@ -254,3 +254,9 @@
 - (2026-10-20，APC Version 1.0) Advanced Photonics Coalition 首批公开规范落盘（`/workspace/apc-oct20/`，约 10:23）：① **4-Core Multicore Fiber** Cable/Connector/FAU Specification（收发器与 CPO）；② **Silicon Photonics Manufacturing** Standards Framework；③ **CPO Informative Outlook and Recommended Practices**；④ **System Level Architecture Overview for CPO**；⑤ **SiPh for CPO Recommended Test Procedures**。CPO Outlook 成员名单含 **Sivers Semiconductor, Inc.**、Ayar Labs、GlobalFoundries、Microsoft、Intel、Lightmatter、OpenLight、TE 等（60+ 量级）。读法：联盟标准露出 ≠ 订单/份额；对 SIVE 是「在桌上」信号。 〔引用：`apc-oct20/txt/*.txt`；交叉 Sofigoodboy 成员图帖〕
 - (2026-10-20，二手·PIC 市场报告截图) The Business Research Company「Photonic Integrated Circuits Market Report 2026」：市场规模 **2025 $14.25B → 2026 $17.05B → 2030 $34.60B**，2026–2030 CAGR **19.3%**；Key Players 名单含 **Sivers Semiconductors AB**、Ayar、GF、Coherent、MACOM、Lightmatter、Smart Photonics、DustPhotonics 等。属第三方卖方报告，数字未核原报告。 〔引用：`/workspace/matrix-sive/img1.jpg`、`img2.jpg`（23:48）〕
 - (交叉) SIVE LiDAR 量产订单与 CW DFB 验证——见 `sive-investment` / `serenity` 同日；激光需求逻辑（汽车/工业/机器人）与 CPO 激光是不同终端，勿混为同一订单。
+
+
+## 2026-10-20 对话补录（交叉午夜 `9a79a81` APC/PIC；补对话细节）
+- (2026-10-20，SIVE) Aeva×NVIDIA Hyperion：2026-01-05 CES 选为**参考 LiDAR**；量产目标约 **2028**；非独家（Hesai 等同列）。Aeva 现实：欧乘用车 L3 ~2028、Daimler Truck L4（2026-05 Atlas C-sample）、Eve 质检；机器人非主力。Hyperion≠车型名。 〔引用：SIVE 对话 2026-10-20；交叉 `sive-investment`〕
+- (同上·德国 Physical AI) 10/19 Joint Declaration of Intent；Siemens 埃尔兰根（工程量约 −85%、成本约 −20%、€5 亿园区叙事）；拟投 Agile Robots / Avelios / Mirelo / Reflex Aerospace——工业/Physical AI，勿与车端 lidar 订单混。 〔引用：同上〕
+- (2026-10-20，Research·PIC) matrix_b0ss 溯源 The Business Research Company《PIC Market Report 2026》；2030 $34.6B / CAGR 19.3% 见午夜——不重抄；Sivers 在 Companies Featured，份额约 **0.04%**——名单≠订单。 〔引用：Research 对话 2026-10-20；交叉午夜 optical PIC 节〕
