@@ -92,3 +92,8 @@
 - (2026-10-19，SemiAnalysis) 文章「Datacenters 2027: The Year of Acceleration」标题要点：2027 年单年新增 **+50GW**、在建 **60GW**、年内已签租约 **$1.3 万亿**、短缺可能转到芯片（status/2112069964131713517，上海 14:34，~83k 观看）。@The_AI_Investor 说「若真则对算力/内存极度利好，但我怀疑」。只读到标题，未读正文。 〔引用：X API〕
 - (2026-10-19，MSFT/NScale) 微软退出 NScale 合同（Serenity 解读为利好 NBIS/IREN），见 `serenity-aleabitoreddit` §7z。事件本身本轮未核原始报道。 〔引用：X API〕
 - (2026-10-19) Investing.com 晨报标题：「本周科技财报来临、AI 情绪紧张；油价走低」。午夜同步时 **10/19 美股尚未收盘**（收盘约北京 10/20 04:00），收盘价留给下一轮。 〔引用：Gmail newsletter@investingmail.com 2026-10-19 19:55〕
+
+
+## 2026-10-20（周二；午夜同步 2026-10-21）
+- (2026-10-20，二手·Nomura Global Memory，报告日标 10/19) 共享电脑 `/workspace/nomura-post/`（17:30）：标题「AI market concerns and the memory outlook」；立场 **建设性**，称供给约束至少到 **2028F**；市场对 AI 营收/neocloud 融资的担忧可能低估需求广度。行动股（报告价 10/19）：三星 **005930 KS** Buy、目标 **670,000**（当时 **218,000**，+207%）；海力士 **000660 KS** Buy、目标 **4,700,000**（**1,277,000**，+268%）。另页：OpenAI+Anthropic 合计营收同比仍高（报告估 3Q26 ~507% y/y）；要达到市场 FY26E 合计 ~**$100B** 需 4Q 约 **$43.9B**，若 9 月 run-rate 持平则 4Q 约 **$29.7B**；云业务 2026-06 OPM：AWS ~39%、MSFT Intelligent Cloud 41%、Google Cloud 36%，示意 EBITDA ~60%。**未核 Nomura 原文 PDF**；与持仓 MU/SNDK/DRAM 相关作备查。 〔引用：`nomura-post/1.jpg`–`4.jpg`〕
+- (同上·X) @strictrope：超大规模不是只为 LLM 砸算力——若看空 NVDA/内存应研究其他模型类型（@lyAtomic RT）。观点帖。 〔引用：X 2112314702051094594〕

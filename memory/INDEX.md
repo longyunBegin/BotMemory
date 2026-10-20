@@ -85,3 +85,4 @@
 - 日常同步 2026-10-20 00:00 Asia/Shanghai（覆盖 10/19 周一：SIVE.ST 收 23.44（−1.92%，缩量）；FI 空头 5.89%（Two Sigma 0.60→0.70@10/16，更正「非空头加仓」）；@lyAtomic「SIVE 怎么读」引用帖（2112116826171900302）；Serenity SIVE 长帖+财报指标建议、AAOI 营收路径、MSFT/NScale；LITE CEO Fox 访谈（不可取消/产能到 2029）；NVIDIA Optics on Interposer；2X SIVE ETF 延期至 11/13；KeyBanc MRVL Maia 400；无新助手；对话读取仍是缺口）：`memory/episodes/2026-10-20-midnight-sync.md`
 | 2026-10-20 对话补录（10/19） | memory/episodes/2026-10-20-transcript-catchup.md |
 | 2026-10-20 新助手「内存」入库（在册 18；例程无需改） | memory/episodes/2026-10-20-new-assistant-内存.md |
+- 日常同步 2026-10-21 00:00 Asia/Shanghai（覆盖 10/20 周二：SIVE LiDAR 首批量产订单 PR（Q4’26 出货/$53–138M）；SIVE.ST 收 23.40；FI 仍 5.89%；@lyAtomic 量产单帖；Serenity AEVA/机器人；APC V1.0 含 Sivers；PIC 市场报告；观察池数据日 10/19 已发；新助手「内存」在册 18（日间已登记）；X 公开读取政策已入 standing；对话读取仍是缺口）：`memory/episodes/2026-10-21-midnight-sync.md`

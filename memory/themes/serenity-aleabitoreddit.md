@@ -483,3 +483,9 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - 16:07 status/2112093252962705579：回复「是不是全完了」——列 3 个月前流动性踩踏、更早伊朗/油/氦/LNG、DeepSeek，认为恐慌帖反复出现。观点。
 - 16:44 status/**2112102623721505098** + 17:19 status/**2112111374176555324**：SIVE 长帖与「营收上限+认证多样性」指标建议——详见 `sive-investment` 同日节（Jev 质量 1.11/3）。
 - 18:34 status/**2112130322683072617**（~**1.5k** 赞 / ~**208k** 观看）：`$MSFT` 退出 NScale 交易反而利好有通电产能的 neocloud（`$NBIS`、`$IREN`）——逻辑：微软原定 2027 Q1 交付，NScale 因英国电网限制延迟 3–4 年以上，微软仍急需算力会转向别家；同时警示 neocloud 若交付不了合同需求的风险。 〔引用：X API get_users_posts / get_posts_by_ids（UTC 10/18 16:00–10/19 16:00）〕
+
+
+## 7aa. 增量核对（2026-10-20，上海日历）
+- 14:24 status/**2112429644033245666**（~**1,088** 赞 / **68** 转 / **108** 书签 / ~**134k** 观看）：$SIVE 首批 CW DFB LiDAR 量产订单；引 McCann「design-win to production」；猜测客户 **$AEVA** 且进 CPO/NPO；称是商业验证，后面还有 AI DC 认证（$GFS→$JBL）。Jev：sive_company、水文 **1.89**、质量 **1.72**/3（推测多）。
+- 14:37 status/**2112433128652542032**（~**170** 赞 / ~**17k** 观看）回 @PhotonCap：PR 提 robotics/humanoids 更兴奋；$AEVA FMCW + LG Innotek 等（Boston Dynamics 供应商）；**端产品不可见**。
+- 14:47 status/**2112435500246311200**（~**92** 赞 / ~**13k** 观看）回 @zaynchd：$AEVA FMCW 4D 是 **$NVDA Hyperion** 参考传感器，「可能路径」；供应链敏感、终点仍不可见。 〔引用：X get_users_posts（UTC 10/19 16:00–10/20 16:00）；Jev 2026-10-21〕

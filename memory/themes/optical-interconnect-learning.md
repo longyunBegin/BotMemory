@@ -248,3 +248,9 @@
 - (同上·二手) MTN 10/16：三星考虑并购加强硅光代工——**未点名**，大概率非 SIVE；Jev 薄。 〔引用：同上〕
 - (同上·行业 10/16) SOX −3.83%（CoreWeave/AI 融资担忧）；AAOI −9.75%（B. Riley PT 109→92）；LITE −5.22%；COHR −7.06%；「Lumentum 产能卖到 2029」=**10/9** 旧专访。 〔引用：同上〕
 - (同上·SIVE 短评交叉) Ayar **二代**用 Sivers 激光已确认，份额/金额/量产时间待公司披露——见 `sive-investment` 补录。午夜 LITE CEO / NVIDIA Interposer——不重抄。 〔引用：同上；交叉 `392f0f8`〕
+
+
+## 2026-10-20（周二；午夜同步 2026-10-21）
+- (2026-10-20，APC Version 1.0) Advanced Photonics Coalition 首批公开规范落盘（`/workspace/apc-oct20/`，约 10:23）：① **4-Core Multicore Fiber** Cable/Connector/FAU Specification（收发器与 CPO）；② **Silicon Photonics Manufacturing** Standards Framework；③ **CPO Informative Outlook and Recommended Practices**；④ **System Level Architecture Overview for CPO**；⑤ **SiPh for CPO Recommended Test Procedures**。CPO Outlook 成员名单含 **Sivers Semiconductor, Inc.**、Ayar Labs、GlobalFoundries、Microsoft、Intel、Lightmatter、OpenLight、TE 等（60+ 量级）。读法：联盟标准露出 ≠ 订单/份额；对 SIVE 是「在桌上」信号。 〔引用：`apc-oct20/txt/*.txt`；交叉 Sofigoodboy 成员图帖〕
+- (2026-10-20，二手·PIC 市场报告截图) The Business Research Company「Photonic Integrated Circuits Market Report 2026」：市场规模 **2025 $14.25B → 2026 $17.05B → 2030 $34.60B**，2026–2030 CAGR **19.3%**；Key Players 名单含 **Sivers Semiconductors AB**、Ayar、GF、Coherent、MACOM、Lightmatter、Smart Photonics、DustPhotonics 等。属第三方卖方报告，数字未核原报告。 〔引用：`/workspace/matrix-sive/img1.jpg`、`img2.jpg`（23:48）〕
+- (交叉) SIVE LiDAR 量产订单与 CW DFB 验证——见 `sive-investment` / `serenity` 同日；激光需求逻辑（汽车/工业/机器人）与 CPO 激光是不同终端，勿混为同一订单。
