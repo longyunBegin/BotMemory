@@ -418,3 +418,10 @@
 - (同上·特斯拉) Yun Long 更认可特斯拉**纯视觉** AD；若主流纯视觉则车规 lidar/Sivers 光源故事变薄；两路线可并存。Optimus=视觉共用；激光雷达阵营常混 AGV/工业臂/PPT；PR 机器人=**期权非订单**。 〔引用：同上〕
 - (同上·日历) Hyperion≠车型名；欧洲：奔驰 10/16、沃尔沃 10/15、Bolt Robotaxi；柏林 10/19 政府协议=Physical AI/工业，勿与车端混。德国×NVIDIA：**Joint Declaration of Intent**；Siemens 埃尔兰根（工程量约 −85%、成本约 −20%、€5 亿园区叙事）；拟投 Agile Robots / Avelios / Mirelo / Reflex Aerospace。 〔引用：同上〕
 - (2026-10-20，Research) Serenity 定稿删 ~$20M 年收入；猜 AEVA/CPO/Hyperion **非 PR**；matrix_b0ss PIC 名单含 Sivers、份额约 **0.04%**——名单≠订单，弱于当日 LiDAR PR。 〔引用：Research 对话 2026-10-20；交叉 `optical` / 午夜 PIC 节〕
+
+
+## 2026-10-21（周三；午夜同步 2026-10-22）
+- (2026-10-21，Yahoo v8·价格) **SIVE.ST** 开 **24.50** / 高 **24.60** / 低 **23.52** / 收 **24.12**（**+3.08%**，前收 23.40）；量 **2.52M** ≈ 近 20 日均量（约 **4.80M**，截至 10/20）的 **0.53×**，缩量反弹。日内低 23.52 **仍在 22.10 fib 上方**。**SIVEF** Yahoo 记当日 **开 2.41 / 高 2.47 / 低 2.39 / 收 2.44**（量约 12.6 万）——午夜同步时美股仍盘中，**以 ST 收盘为主、SIVEF 作参考**。 〔引用：Yahoo v8 chart SIVE.ST / SIVEF（2026-10-22 ~00:15 抓取）〕
+- (2026-10-21，FI 空头) 合计仍 **5.89%**（持仓日标 **2026-10-16**）：Two Sigma **0.70**（10/16）、Citadel **0.55**（10/15）、AQR **0.59**（10/6）、Arrowstreet **0.59**（9/24）。本机 `fi.html`/`fi_em.html` 仍为 **10/20 09:13** 缓存；10/21 未刷新，现网 blankning 抓取 302。 〔引用：`/workspace/fi.html`、`fi_em.html`〕
+- (2026-10-21，13F·Shikiar) @Sofigoodboy 披露 **Shikiar Asset Management** 持仓（filed **2026-10-20**，reporting as of **Q3 / 2026-09-30**）：**49,300** 股 SIVERS SEMICONDUCTORS AB REGIS（CUSIP **W83314109**），报告价值 **$154,000**（SOLE）。共享电脑 `/workspace/sofigoodboy-sive/`：`shikiar3q13f2026.xml` + `img2.png`（红勾该行）与对照表 `shikiar2q13f2026.xml`（**45,125** 股 / **$302k**）——股数 +4,175、价值近腰斩，反映报告期内股价下跌。独立 RIA 小仓，**非**催化事件。@lyAtomic 11:54 上海 RT 原帖 status/2112752497848922299。 〔引用：SEC 13F informationTable XML；X status/2112754367728423130；文件 mtime 2026-10-21 11:51〕
+- (2026-10-21，日历) **EGM 2026-10-22** 会前一日：`/workspace/egm.html` 无新 mtime（仍 10/17）；未见新议案/投票材料落盘。 〔引用：文件 mtime〕

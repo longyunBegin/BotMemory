@@ -326,3 +326,8 @@
 - (2026-10-20，X) 写入公开读取新规；更新（仍暂停）「**X 关注人早报**」例程提示词：公开读走内置 **`x` + Jev**；账号背景改为 **@lyAtomic**。 〔引用：X 对话 2026-10-20；交叉 `fb6a2f9`〕
 - (同上·旁线) @jukan05：AMD Arm SoC 或进微软入门 12" Surface，POC ~**2027Q2**（供应链/媒体截图二手）；与 SIVE 主线无关。 〔引用：同上〕
 - (2026-10-20，Research) Serenity LiDAR 帖定稿路径（删 ~$20M）见 `serenity-aleabitoreddit` §7ab；@lyAtomic 原创 LiDAR 帖见午夜——不重抄。 〔引用：Research / 午夜〕
+
+
+## 2026-10-21（周三；午夜同步 2026-10-22）
+- (2026-10-21，@lyAtomic 原创) status/**2112751647156035759**（UTC 03:43 ≈ 上海 **11:43**；抓取约 **0** 赞 / **0** 转 / ~**45** 观看）。主题：`$SPCX` Q3 call 指引 YE’26 **~2.5–3 GW**、’27 再 **+10 GW**（合计 **≥13 GW**）→ 该规模下 scale-out 不能永远靠铜，多数 GPU-to-switch 仍落 **800G/1.6T** 光学 → GW 指引本身也是**激光/模组量**指引（即便电话会没提 optics）。Jev：optical_volume、水文 **0.13**（偏实质）、质量 **2.75**/3。 〔引用：X get_users_posts；Jev jev_ask 2026-10-22〕
+- (同上·RT，上海时间约) 11:25 @Sofigoodboy APC 五份规范（SIVE 五表成员）；11:54 @Sofigoodboy Shikiar 13F（49,300 / $154k）；19:10–19:14 @StockSavvyShay / @carrioresearch / @wallstengine（Jensen 1 GW 工厂 ~$50B capex / ~$40B 年收入、Isaac 人形、传感器套件）——备查，非 SIVE 主线。当日**仅 1** 条原创。 〔引用：X get_users_posts（UTC 10/20 16:00–10/21 16:00）〕

@@ -260,3 +260,8 @@
 - (2026-10-20，SIVE) Aeva×NVIDIA Hyperion：2026-01-05 CES 选为**参考 LiDAR**；量产目标约 **2028**；非独家（Hesai 等同列）。Aeva 现实：欧乘用车 L3 ~2028、Daimler Truck L4（2026-05 Atlas C-sample）、Eve 质检；机器人非主力。Hyperion≠车型名。 〔引用：SIVE 对话 2026-10-20；交叉 `sive-investment`〕
 - (同上·德国 Physical AI) 10/19 Joint Declaration of Intent；Siemens 埃尔兰根（工程量约 −85%、成本约 −20%、€5 亿园区叙事）；拟投 Agile Robots / Avelios / Mirelo / Reflex Aerospace——工业/Physical AI，勿与车端 lidar 订单混。 〔引用：同上〕
 - (2026-10-20，Research·PIC) matrix_b0ss 溯源 The Business Research Company《PIC Market Report 2026》；2030 $34.6B / CAGR 19.3% 见午夜——不重抄；Sivers 在 Companies Featured，份额约 **0.04%**——名单≠订单。 〔引用：Research 对话 2026-10-20；交叉午夜 optical PIC 节〕
+
+
+## 2026-10-21（周三；午夜同步 2026-10-22）
+- (2026-10-21，机制·@lyAtomic) `$SPCX` 多 GW 扩容指引 → 多数 GPU↔switch 跳仍是 **800G/1.6T** 可插拔/光学路径 → **激光与模组出货**与 GW 指引同向，即使运营商不说「optics」。可核数字在 SPCX 电话会；机制是拓扑事实而非 Sivers 订单。详见 `x-content-output` status/2112751647156035759（Jev 2.75/3）。 〔引用：X；交叉 Serenity SPCX capex 帖〕
+- (2026-10-21，Serenity·需求) SPCX Q4 capex ~翻倍 +「采购加速 vs 光学/colo 估值背离」——行业需求叙事层，见 `serenity-aleabitoreddit` §7ab。 〔引用：X〕
