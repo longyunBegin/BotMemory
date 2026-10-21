@@ -265,3 +265,7 @@
 ## 2026-10-21（周三；午夜同步 2026-10-22）
 - (2026-10-21，机制·@lyAtomic) `$SPCX` 多 GW 扩容指引 → 多数 GPU↔switch 跳仍是 **800G/1.6T** 可插拔/光学路径 → **激光与模组出货**与 GW 指引同向，即使运营商不说「optics」。可核数字在 SPCX 电话会；机制是拓扑事实而非 Sivers 订单。详见 `x-content-output` status/2112751647156035759（Jev 2.75/3）。 〔引用：X；交叉 Serenity SPCX capex 帖〕
 - (2026-10-21，Serenity·需求) SPCX Q4 capex ~翻倍 +「采购加速 vs 光学/colo 估值背离」——行业需求叙事层，见 `serenity-aleabitoreddit` §7ab。 〔引用：X〕
+
+## 2026-10-21 对话补录（交叉午夜 `fac3f87` SPCX/Serenity；补 Spectrum-X CPO）
+- (2026-10-21，Research) Yun Long 贴 Spectrum-X CPO 拆机照片；五层上游：①开关硅 NVIDIA；②SiPh PIC — TSMC COUPE/SoIC + SPIL；③ELS — 激光侧重 **Lumentum**，组装 Coherent/住友/TFC；④光纤/连接器 Corning/SENKO 等；⑤整机鸿海/Fabrinet。量产五段常压成 **TSMC→SPIL→Lumentum→TFC→Foxconn**。砍传统 EML 可插拔约 **4×** 激光。 〔引用：Research 对话 2026-10-21〕
+- (同上·对 SIVE) 需求方向顺风（CW/ELS 物理赛道验证）；定点 BOM 逆风（Spectrum-X gen1 公开名单无 Sivers）。总量勿把 CPO 爆发直接乘激光颗数（NVIDIA 称少约 4×）。可证伪：公开进 ELS/交换机 BOM 或 pluggable sample→量产。POET×Sivers ELS、Glasgow >1 亿颗/年目标约 **2027 Q4** = 容量非已签满订单。框架非荐股。 〔引用：同上；交叉 `sive-investment`〕

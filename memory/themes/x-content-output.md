@@ -331,3 +331,7 @@
 ## 2026-10-21（周三；午夜同步 2026-10-22）
 - (2026-10-21，@lyAtomic 原创) status/**2112751647156035759**（UTC 03:43 ≈ 上海 **11:43**；抓取约 **0** 赞 / **0** 转 / ~**45** 观看）。主题：`$SPCX` Q3 call 指引 YE’26 **~2.5–3 GW**、’27 再 **+10 GW**（合计 **≥13 GW**）→ 该规模下 scale-out 不能永远靠铜，多数 GPU-to-switch 仍落 **800G/1.6T** 光学 → GW 指引本身也是**激光/模组量**指引（即便电话会没提 optics）。Jev：optical_volume、水文 **0.13**（偏实质）、质量 **2.75**/3。 〔引用：X get_users_posts；Jev jev_ask 2026-10-22〕
 - (同上·RT，上海时间约) 11:25 @Sofigoodboy APC 五份规范（SIVE 五表成员）；11:54 @Sofigoodboy Shikiar 13F（49,300 / $154k）；19:10–19:14 @StockSavvyShay / @carrioresearch / @wallstengine（Jensen 1 GW 工厂 ~$50B capex / ~$40B 年收入、Isaac 人形、传感器套件）——备查，非 SIVE 主线。当日**仅 1** 条原创。 〔引用：X get_users_posts（UTC 10/20 16:00–10/21 16:00）〕
+
+## 2026-10-21 对话补录（交叉午夜 @lyAtomic SPCX；补 SIVE 草稿 / 美伊）
+- (2026-10-21，SIVE) 投研日报 10/21 附中英推文草稿（**勿自动发**）；社区帖立场摘要 @aleabitoreddit / PhotonCap / dizaq1。 〔引用：SIVE 对话 2026-10-21〕
+- (2026-10-21，X) 美伊最新与金十/迈赫尔（七项条件、伊巴边境）见 `us-macro-options` 同日补录——不重抄。公开读帖新规侧：Trade/云服务例程不含读 X。 〔引用：X / Trade / 云服务对话 2026-10-21；交叉 `fb6a2f9`〕

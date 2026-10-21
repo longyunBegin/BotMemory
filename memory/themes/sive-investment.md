@@ -425,3 +425,7 @@
 - (2026-10-21，FI 空头) 合计仍 **5.89%**（持仓日标 **2026-10-16**）：Two Sigma **0.70**（10/16）、Citadel **0.55**（10/15）、AQR **0.59**（10/6）、Arrowstreet **0.59**（9/24）。本机 `fi.html`/`fi_em.html` 仍为 **10/20 09:13** 缓存；10/21 未刷新，现网 blankning 抓取 302。 〔引用：`/workspace/fi.html`、`fi_em.html`〕
 - (2026-10-21，13F·Shikiar) @Sofigoodboy 披露 **Shikiar Asset Management** 持仓（filed **2026-10-20**，reporting as of **Q3 / 2026-09-30**）：**49,300** 股 SIVERS SEMICONDUCTORS AB REGIS（CUSIP **W83314109**），报告价值 **$154,000**（SOLE）。共享电脑 `/workspace/sofigoodboy-sive/`：`shikiar3q13f2026.xml` + `img2.png`（红勾该行）与对照表 `shikiar2q13f2026.xml`（**45,125** 股 / **$302k**）——股数 +4,175、价值近腰斩，反映报告期内股价下跌。独立 RIA 小仓，**非**催化事件。@lyAtomic 11:54 上海 RT 原帖 status/2112752497848922299。 〔引用：SEC 13F informationTable XML；X status/2112754367728423130；文件 mtime 2026-10-21 11:51〕
 - (2026-10-21，日历) **EGM 2026-10-22** 会前一日：`/workspace/egm.html` 无新 mtime（仍 10/17）；未见新议案/投票材料落盘。 〔引用：文件 mtime〕
+
+## 2026-10-21 对话补录（交叉午夜 `fac3f87` 收盘/FI/Shikiar；补对话细节）
+- (2026-10-21，Research·Spectrum-X) 对 SIVE：**需求方向顺风**（CW/ELS 物理赛道）；**定点 BOM 逆风**（gen1 公开名单无 Sivers）。勿把 CPO 爆发直接乘激光颗数（NVIDIA 称少约 4×）。可证伪：公开进 ELS/交换机 BOM 或 pluggable sample→量产。POET×Sivers ELS、Glasgow >1 亿颗/年约 **2027 Q4** = 容量非已签满订单。五层上游见 `optical`。框架非荐股。 〔引用：Research 对话 2026-10-21〕
+- (2026-10-21，SIVE·投研日报) 日报 10/21（覆盖 10/20 收盘）已交付用户 + 中英推文草稿（**勿自动发**）。日报内 FI 合计写 **5.91%**（与午夜缓存 **5.89%** 冲突，标出）；**SIVEF +5.75%** 对 ST 几乎平盘的跨市读法；当日 @aleabitoreddit / PhotonCap / dizaq1 帖立场摘要。收盘 24.12 / Shikiar 见午夜——不重抄。 〔引用：SIVE 对话 2026-10-21；交叉午夜 FI/收盘〕

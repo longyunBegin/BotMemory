@@ -88,3 +88,4 @@
 - 日常同步 2026-10-21 00:00 Asia/Shanghai（覆盖 10/20 周二：SIVE LiDAR 首批量产订单 PR（Q4’26 出货/$53–138M）；SIVE.ST 收 23.40；FI 仍 5.89%；@lyAtomic 量产单帖；Serenity AEVA/机器人；APC V1.0 含 Sivers；PIC 市场报告；观察池数据日 10/19 已发；新助手「内存」在册 18（日间已登记）；X 公开读取政策已入 standing；对话读取仍是缺口）：`memory/episodes/2026-10-21-midnight-sync.md`
 | 2026-10-21 对话补录（10/20） | memory/episodes/2026-10-21-transcript-catchup.md |
 - 日常同步 2026-10-22 00:00 Asia/Shanghai（覆盖 10/21 周三：SIVE.ST 收 24.12；FI 仍 5.89%；Shikiar 13F 49.3k/$154k；@lyAtomic SPCX→optics；Serenity SPCX capex；观察池数据日 10/20 已发；EGM 明日；无新助手 18；对话读取仍是缺口）：`memory/episodes/2026-10-22-midnight-sync.md`
+| 2026-10-22 对话补录（10/21） | memory/episodes/2026-10-22-transcript-catchup.md |
