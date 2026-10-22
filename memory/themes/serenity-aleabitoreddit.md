@@ -499,3 +499,10 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 ## 7ab. 增量核对（2026-10-21，上海日历；UTC 含 10/20 晚）
 - (2026-10-21，Serenity·SPCX) status/**2112674175446089985**（UTC 10/20 22:35 ≈ 上海 **10/21 06:35**；~**1.6k** 赞 / **126** 转 / **266** 书签 / ~**210k** 观看）：称 `$SPCX` 财报后难言 AI 半导体（GPU/内存/光子）见顶；Q4 capex 指引由约 **$18.4B** → **$35–40B**（近翻倍）；引「Q3 and Q4 capex should be similar to Q2's…」。读法层、数字待对照公司原文。
 - (同上) status/**2112684521174999529**（UTC 10/20 23:16 ≈ 上海 **07:16**；~**1.1k** 赞 / **42** 转 / **162** 书签 / ~**270k** 观看）：基本面需求与估值背离极端——`$SMCI`→`$SPCX` 采购加速 vs `$AAOI`/colo 股价坍塌；猜 ER 后 2026-10 会被看成 DeepSeek / 4 月关税式机会。观点，非合约。Jev（与 @lyAtomic SPCX 帖合评）：主题 ai_capex_semis、质量约 **2.7**/3。 〔引用：X get_users_posts（UTC 10/20 16:00–10/21 16:00）；Jev 2026-10-22〕
+
+
+## 7ac. 增量核对（2026-10-22，上海日历；UTC 含 10/21 晚）
+- (2026-10-22，Serenity·NVDA 产能) status/**2113094859439690104**（UTC 02:27 ≈ 上海 **10:27**；~**714** 赞 / **38** 转 / **129** 书签 / ~**175k** 观看）。称 `$NVDA` 宣布与基板/封装/测试/**光引擎**供应商产能协议：Ibiden / Samsung Electro-Mechanics / Unimicron 基板扩约 **2.5×**；`$AMKR` 先进封装至 2028 末增 **>300%**（新约 **$1.3B**）；对 Ibiden 日本厂数十亿美元产能预订；KYEC **$1.1B** 预订；**SPIL** 光引擎 CPO 产能至 **2027 H2 约 15×**、2028 再翻倍。收束 Jensen「Demand is extraordinary. Capacity is the constraint.」读法层——数字待对照 NVDA 原文。 〔引用：X note_tweet；详见 `optical`〕
+- (同上·SIVE 渠道) status/**2113253354986144171**（UTC 12:57 ≈ 上海 **20:57**；~**151** 赞 / **11** 转 / ~**15k** 观看）回 @tsazeng：`$SIVE` **直接对接 hyperscaler**；CIOE 渠道称开始与中国更大可插拔厂合作；「未来两季财报或有意外」——**等新披露**。渠道/观点，非 IR。@lyAtomic RT。 〔引用：X；交叉 `sive-investment` / `x-content-output`〕
+- (同上·估值) status/**2113191492067983849**（UTC 08:51）：AI 名有盈利与合约需求；内存 **<3× fwd P/E** 且 LTA 可至 5–10 年（例 `$GOOGL`）；光学压到 **<10× fwd P/E** 即便明年增长叙事 500–1000%+——观点层。@lyAtomic RT。 〔引用：X〕
+- (同上·情绪) status/**2113240389813780923**（~**1.3k** 赞 / ~**272k** 观看）：不持 `$ASTS`；批评仅因股价下跌就放弃多年 thesis；举 RKLB/SPCX、HOOD、NBIS 与 2025-04 宏观惊吓。后续 status/**2113269349519954203**（~**4.7k** 赞 / ~**474k** 观看）晒个人十月回撤「minor volatility」——透明度帖，非 SIVE 工业。 〔引用：X note_tweet〕

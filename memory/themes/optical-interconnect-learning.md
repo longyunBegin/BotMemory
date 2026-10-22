@@ -269,3 +269,10 @@
 ## 2026-10-21 对话补录（交叉午夜 `fac3f87` SPCX/Serenity；补 Spectrum-X CPO）
 - (2026-10-21，Research) Yun Long 贴 Spectrum-X CPO 拆机照片；五层上游：①开关硅 NVIDIA；②SiPh PIC — TSMC COUPE/SoIC + SPIL；③ELS — 激光侧重 **Lumentum**，组装 Coherent/住友/TFC；④光纤/连接器 Corning/SENKO 等；⑤整机鸿海/Fabrinet。量产五段常压成 **TSMC→SPIL→Lumentum→TFC→Foxconn**。砍传统 EML 可插拔约 **4×** 激光。 〔引用：Research 对话 2026-10-21〕
 - (同上·对 SIVE) 需求方向顺风（CW/ELS 物理赛道验证）；定点 BOM 逆风（Spectrum-X gen1 公开名单无 Sivers）。总量勿把 CPO 爆发直接乘激光颗数（NVIDIA 称少约 4×）。可证伪：公开进 ELS/交换机 BOM 或 pluggable sample→量产。POET×Sivers ELS、Glasgow >1 亿颗/年目标约 **2027 Q4** = 容量非已签满订单。框架非荐股。 〔引用：同上；交叉 `sive-investment`〕
+
+
+## 2026-10-22（周四；午夜同步 2026-10-23）
+- (2026-10-22，Serenity·NVDA 产能) SPIL **光引擎 CPO** 产能指引式叙述：**15× by H2 2027**、2028 再倍增；连带基板（Ibiden/SEMCO/Unimicron 2.5×）、AMKR 封装、KYEC 测试——把「产能约束」落到具名供应商。属二手转述 NVDA 协议新闻；对光学上游是需求侧硬点，**不**等于 Sivers 入 BOM。详见 `serenity` §7ac status/2113094859439690104。 〔引用：X note_tweet〕
+- (2026-10-22，Pep_Invest·1.6T LRO 链) status/**2113187121225716106**（~**24** 赞 / ~**2.4k** 观看；@lyAtomic RT）：**2023-10** `$JBL` 接手 `$INTC` SiPh 可插拔产品线 → **2026** Jabil 与 `$SIVE` 合作高效 **1.6T LRO**（Sivers DFB）；产品描述点名 HyperLight TFLN 调制器、`$CRDO` half-retimed DSP、<**13W**、**400G/lane** 路线图。把既有 Jabil×Sivers 叙事嵌进 INTC→JBL 资产传承；长期机会「不限于单一客户/架构」——作者观点。交叉：既有 Jabil phase-2 / H1’27 预期仍待公司披露。 〔引用：X note_tweet〕
+- (同上·渠道) Serenity CIOE「中国更大可插拔厂」+ hyperscaler 直连——见 `sive-investment`；可证伪点仍是**公开披露/送样→量产**，非渠道帖本身。 〔引用：X 2113253354986144171〕
+- (交叉·Carrio RT) @carrioresearch：光学「2027 前完蛋不了」；真风险在 **3.2T 世代 ~2028+**，看中际旭创/新易盛是否仍在新方案名单；当日中际 −8.8%、新易盛 −12.3%（作者数字）。备查。 〔引用：X 2113214799169679625；@lyAtomic RT〕
