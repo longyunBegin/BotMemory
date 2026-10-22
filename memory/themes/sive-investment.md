@@ -437,3 +437,10 @@
 - (2026-10-22，EGM) **Extraordinary General Meeting** 原定 **2026-10-22 16:00** 斯德哥尔摩 Setterwalls（Sturegatan 10）；议程要点：① 终止 Deloitte、选举 **Ernst & Young AB** 至下届 AGM；② **P11** 员工期权最多约 **7.28M**（约 **2%** 稀释；与既有合计上限约 **6.1%**）；③ 授权定向发行/回购 Series C 以覆盖社保。午夜同步时（会后约 2h）：官网 GM 页与 press **未见**会后公报/投票结果；仍仅有 2026-09-29/30 召集通知与邮寄投票表。 〔引用：公司 Notice PDF；GM 页；WebSearch 2026-10-23；`/workspace/egm.html` mtime 10/22 09:53〕
 - (2026-10-22，社区·渠道) Serenity 回复称 `$SIVE` **直接对接 hyperscaler**，CIOE 渠道称已开始与中国更大可插拔厂合作——「未来两季财报或有意外披露」；属渠道/观点，**非公司 IR**。Pep_Invest 串 **JBL 2023 接手 INTC SiPh 可插拔线 → 2026 JBL×SIVE 1.6T LRO（Sivers DFB）+ HyperLight TFLN + CRDO half-retimed DSP、<13W、400G/lane 路线图**——把既有 Jabil 合作放进供应链叙事；Nokia 客户猜测**不**当事实。详见 `serenity` / `optical` / `x-content-output`。 〔引用：X status/2113253354986144171、2113187121225716106〕
 - (交叉) 自 6/17 峰收 **101.9** → 10/22 收 **21.48** 约 **−78.9%**（FACT_BRIEF 用 10/21=24.12 记 −76.33%）；10/21→10/22 单日再杀。持仓挂单侧：用户 10/19 已撤 2.00–2.05 EUR——本轮无新挂单记录（对话缺口）。 〔引用：FACT_BRIEF；交叉 `53e89ce`〕
+
+
+## 2026-10-22 对话补录（交叉午夜 `4abfd52` 收盘/FI/EGM；补对话细节）
+- (2026-10-22，Research·EGM) ~23:50：会已按计划开（16:00 CET），MFN/Cision/IR **尚无 Bulletin**；议程表：项6 EY 至下次年会；项7 P11≤728万期权约 2.0% 稀释需 ≥90%；项8–9 C股授权配套期权。治理会非订单会。用户「可以」→ 例程 **「SIVE EGM Bulletin 盯梢」**（folder `sive-egm-bulletin`）：工作日 7:00–20:30 约每半小时；出 Bulletin 发中文摘要后自删；过 **10/24** 仍无则通知一次再删。 〔引用：Research 对话 2026-10-22〕
+- (2026-10-22，SIVE·日报/市值) 投研日报 10/22 晨已交付（覆盖 10/21）；对话独有：市值改用 IR 股本 **356,740,332 ≈8.60B**（标 SA/Yahoo 冲突）；@aleabitoreddit 自 10/20 后对 SIVE **沉默**。价/FI 见午夜——不重抄。 〔引用：SIVE 对话 2026-10-22〕
+- (2026-10-22，SIVE·代工厂) 光子 = **Glasgow 自有**（+$30M 扩产目标 >1亿颗/年、**2027 Q4**）+ **WIN Semiconductors** 高量 InP；无线 fabless 硅代工 **GlobalFoundries**；**勿混** 2026-06 Sivers×GF 硅光（激光进 GF SCALE，GF 不是 InP 代工厂）。 〔引用：同上；交叉 `optical`〕
+- (2026-10-22，X·回复稿) 辅导 Serenity 帖回复，最终带观点英文句见 `x-content-output`（午夜已记证伪问原文，不重抄）。 〔引用：X 对话 2026-10-22〕

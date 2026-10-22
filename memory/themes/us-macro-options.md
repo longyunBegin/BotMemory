@@ -118,3 +118,7 @@
 - (同上·资金流) 7 月 ETF.com：半导卖压中仍有吸筹（SOXX +$6.92B 等）；9 月 RBC：SOXX +13.7% 且 +$1.4B，但 SOXL/DRAM 各约 −$1.6B 赎回；截至 10/16 周：SOXL +$6.14B、SOXX −$1.16B、DRAM −$980M。叙事锚：AI ROI / 债务融资基建担忧。 〔引用：FACT_BRIEF 链 ETF.com / RBC〕
 - (2026-10-22，X·地缘) @HormuzReport：特朗普称美「not negotiating」与伊朗，重大进展「fairly soon」、多人认为在选举后——@lyAtomic RT。备查，非交易信号。 〔引用：X 2113130626589266152〕
 - (交叉) Serenity 光学/内存估值压缩与 NVDA 产能协议——见 `serenity` / `optical`。美股 10/22 盘中不作收盘。
+
+
+## 2026-10-22 对话补录（交叉午夜 FACT_BRIEF；补持仓限价语境）
+- (2026-10-22，Trade·限价) 三张操作表与具体限价见 `trading-holdings` 同日补录（趋势/反弹/深跌规则；基准 10/21 收盘、EURSEK 11.10）。FACT_BRIEF 半导体重挫数字见午夜——不重抄。 〔引用：Trade 对话 2026-10-22；交叉 `4abfd52`〕

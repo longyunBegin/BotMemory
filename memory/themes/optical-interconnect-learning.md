@@ -276,3 +276,7 @@
 - (2026-10-22，Pep_Invest·1.6T LRO 链) status/**2113187121225716106**（~**24** 赞 / ~**2.4k** 观看；@lyAtomic RT）：**2023-10** `$JBL` 接手 `$INTC` SiPh 可插拔产品线 → **2026** Jabil 与 `$SIVE` 合作高效 **1.6T LRO**（Sivers DFB）；产品描述点名 HyperLight TFLN 调制器、`$CRDO` half-retimed DSP、<**13W**、**400G/lane** 路线图。把既有 Jabil×Sivers 叙事嵌进 INTC→JBL 资产传承；长期机会「不限于单一客户/架构」——作者观点。交叉：既有 Jabil phase-2 / H1’27 预期仍待公司披露。 〔引用：X note_tweet〕
 - (同上·渠道) Serenity CIOE「中国更大可插拔厂」+ hyperscaler 直连——见 `sive-investment`；可证伪点仍是**公开披露/送样→量产**，非渠道帖本身。 〔引用：X 2113253354986144171〕
 - (交叉·Carrio RT) @carrioresearch：光学「2027 前完蛋不了」；真风险在 **3.2T 世代 ~2028+**，看中际旭创/新易盛是否仍在新方案名单；当日中际 −8.8%、新易盛 −12.3%（作者数字）。备查。 〔引用：X 2113214799169679625；@lyAtomic RT〕
+
+
+## 2026-10-22 对话补录（交叉午夜 Serenity/Pep；补代工厂）
+- (2026-10-22，SIVE·代工厂) 光子产线：**Glasgow 自有**（+$30M、>1亿颗/年目标 **2027 Q4**）+ **WIN Semiconductors** 高量 InP；无线 fabless 硅代工 **GlobalFoundries**。**勿混** 2026-06 Sivers×GF 硅光合作（激光进 GF SCALE）——GF **不是** InP 代工厂。 〔引用：SIVE 对话 2026-10-22；交叉 `sive-investment`〕
