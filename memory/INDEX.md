@@ -92,3 +92,4 @@
 - 日常同步 2026-10-23 00:00 Asia/Shanghai（覆盖 10/22：SIVE.ST 收 21.48（−10.95%，破 22.10 fib）；FI Sum 5.99%；EGM 无会后公报；@lyAtomic SIVE 证伪问 + RT Serenity CIOE/Pep 1.6T；Serenity NVDA 产能；观察池 10/21 发信；半导体重挫 FACT_BRIEF；无新助手 18；对话读取仍是缺口）：`memory/episodes/2026-10-23-midnight-sync.md`
 | 2026-10-23 对话补录（10/22） | memory/episodes/2026-10-23-transcript-catchup.md |
 | 2026-10-23 SIVE EGM 会后公报（议程全过：EY/P11/C股；更新午夜「尚无公报」） | memory/episodes/2026-10-23-sive-egm-bulletin.md |
+| 2026-10-23 全 bot 事实推演未来（前瞻意识）硬规则 | memory/episodes/2026-10-23-foresight-hard-rule.md |
