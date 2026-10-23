@@ -434,13 +434,22 @@
 ## 2026-10-22（周四；午夜同步 2026-10-23；EGM 日）
 - (2026-10-22，Yahoo v8·价格) **SIVE.ST** 开 **22.98** / 高 **23.30** / 低 **21.38** / 收 **21.48**（**−10.95%**，前收 24.12）；量 **4.56M** ≈ 近 20 日均量（约 **4.62M**）的 **0.99×**，近均量重挫。日内低 **21.38** **跌破**既记斐波那契支撑 **22.10**（此前 10/15 低 22.16 贴近未破）。MarketWatch CSV 同步时刻尚未写入 10/22 行——**以 Yahoo v8 为准**。 〔引用：Yahoo v8 chart SIVE.ST（2026-10-23 ~00:12 抓取）；对照 `/workspace/semi_july_correction_20261022/clean_SIVE_ST.csv` 止于 10/21=24.12〕
 - (2026-10-22，FI 空头) 现网 Finansinspektionen issuer 页 **Sum percent = 5.99**（较中旬常引的 **5.89** 上移约 **0.10 pp**）。命名 ≥0.5% 持仓日未变：Two Sigma **0.70**（2026-10-16）、Citadel Europe **0.55**（2026-10-15）、AQR **0.59**（2026-10-06）、Arrowstreet **0.59**（2026-09-24）；命名合计 ≈**2.43%**，Sum 含门槛下合计。本机 `/workspace/fi.html`/`fi_em.html` 于 **10/22 09:54** 刷新。 〔引用：https://www.fi.se/en/our-registers/net-short-positions/emittent?id=254900UBKNY2EJ588J53 ；`/workspace/semi_july_correction_20261022/FACT_BRIEF.md`〕
-- (2026-10-22，EGM) **Extraordinary General Meeting** 原定 **2026-10-22 16:00** 斯德哥尔摩 Setterwalls（Sturegatan 10）；议程要点：① 终止 Deloitte、选举 **Ernst & Young AB** 至下届 AGM；② **P11** 员工期权最多约 **7.28M**（约 **2%** 稀释；与既有合计上限约 **6.1%**）；③ 授权定向发行/回购 Series C 以覆盖社保。午夜同步时（会后约 2h）：官网 GM 页与 press **未见**会后公报/投票结果；仍仅有 2026-09-29/30 召集通知与邮寄投票表。 〔引用：公司 Notice PDF；GM 页；WebSearch 2026-10-23；`/workspace/egm.html` mtime 10/22 09:53〕
+- (2026-10-22，EGM) **Extraordinary General Meeting** 原定 **2026-10-22 16:00** 斯德哥尔摩 Setterwalls（Sturegatan 10）；议程要点：① 终止 Deloitte、选举 **Ernst & Young AB** 至下届 AGM；② **P11** 员工期权最多约 **7.28M**（约 **2%** 稀释；与既有合计上限约 **6.1%**）；③ 授权定向发行/回购 Series C 以覆盖社保。午夜同步时（会后约 2h）：官网 GM 页与 press **未见**会后公报/投票结果；仍仅有 2026-09-29/30 召集通知与邮寄投票表。→ **已由 2026-10-23 ~08:32 节更新：Bulletin 已出、议程全过**。 〔引用：公司 Notice PDF；GM 页；WebSearch 2026-10-23；`/workspace/egm.html` mtime 10/22 09:53〕
 - (2026-10-22，社区·渠道) Serenity 回复称 `$SIVE` **直接对接 hyperscaler**，CIOE 渠道称已开始与中国更大可插拔厂合作——「未来两季财报或有意外披露」；属渠道/观点，**非公司 IR**。Pep_Invest 串 **JBL 2023 接手 INTC SiPh 可插拔线 → 2026 JBL×SIVE 1.6T LRO（Sivers DFB）+ HyperLight TFLN + CRDO half-retimed DSP、<13W、400G/lane 路线图**——把既有 Jabil 合作放进供应链叙事；Nokia 客户猜测**不**当事实。详见 `serenity` / `optical` / `x-content-output`。 〔引用：X status/2113253354986144171、2113187121225716106〕
 - (交叉) 自 6/17 峰收 **101.9** → 10/22 收 **21.48** 约 **−78.9%**（FACT_BRIEF 用 10/21=24.12 记 −76.33%）；10/21→10/22 单日再杀。持仓挂单侧：用户 10/19 已撤 2.00–2.05 EUR——本轮无新挂单记录（对话缺口）。 〔引用：FACT_BRIEF；交叉 `53e89ce`〕
 
 
 ## 2026-10-22 对话补录（交叉午夜 `4abfd52` 收盘/FI/EGM；补对话细节）
-- (2026-10-22，Research·EGM) ~23:50：会已按计划开（16:00 CET），MFN/Cision/IR **尚无 Bulletin**；议程表：项6 EY 至下次年会；项7 P11≤728万期权约 2.0% 稀释需 ≥90%；项8–9 C股授权配套期权。治理会非订单会。用户「可以」→ 例程 **「SIVE EGM Bulletin 盯梢」**（folder `sive-egm-bulletin`）：工作日 7:00–20:30 约每半小时；出 Bulletin 发中文摘要后自删；过 **10/24** 仍无则通知一次再删。 〔引用：Research 对话 2026-10-22〕
+- (2026-10-22，Research·EGM) ~23:50：会已按计划开（16:00 CET），MFN/Cision/IR **尚无 Bulletin**（→ **10/23 已出，见下节**）；议程表：项6 EY 至下次年会；项7 P11≤728万期权约 2.0% 稀释需 ≥90%；项8–9 C股授权配套期权。治理会非订单会。用户「可以」→ 例程 **「SIVE EGM Bulletin 盯梢」**（folder `sive-egm-bulletin`）：工作日 7:00–20:30 约每半小时；出 Bulletin 发中文摘要后自删；过 **10/24** 仍无则通知一次再删。 〔引用：Research 对话 2026-10-22〕
 - (2026-10-22，SIVE·日报/市值) 投研日报 10/22 晨已交付（覆盖 10/21）；对话独有：市值改用 IR 股本 **356,740,332 ≈8.60B**（标 SA/Yahoo 冲突）；@aleabitoreddit 自 10/20 后对 SIVE **沉默**。价/FI 见午夜——不重抄。 〔引用：SIVE 对话 2026-10-22〕
 - (2026-10-22，SIVE·代工厂) 光子 = **Glasgow 自有**（+$30M 扩产目标 >1亿颗/年、**2027 Q4**）+ **WIN Semiconductors** 高量 InP；无线 fabless 硅代工 **GlobalFoundries**；**勿混** 2026-06 Sivers×GF 硅光（激光进 GF SCALE，GF 不是 InP 代工厂）。 〔引用：同上；交叉 `optical`〕
 - (2026-10-22，X·回复稿) 辅导 Serenity 帖回复，最终带观点英文句见 `x-content-output`（午夜已记证伪问原文，不重抄）。 〔引用：X 对话 2026-10-22〕
+
+
+## 2026-10-23（EGM 会后公报已出 · 更新午夜「尚无 Bulletin」）
+- (2026-10-23 ~08:32 Asia/Shanghai，记忆系统·IR) **更新**：对照午夜 `2026-10-23-midnight-sync` / 本文件 10/22 节「会后未见公报」——**会后公报已出，议程全过**。来源：Cision **2026-10-23 00:27 CET**（c4414255）+ 公司 press。硬边界：治理/股权激励会，**无新订单、无业务指引、未见加码稀释或新融资案**；与 **2026-09-29** 召集通知一致。 〔引用：https://www.sivers-semiconductors.com/press/bulletin-from-sivers-semiconductors-abs-extraordinary-general-meeting-on-22-october-2026/ ；https://news.cision.com/sivers-semiconductors/r/bulletin-from-sivers-semiconductors-ab-s-extraordinary-general-meeting-on-22-october-2026,c4414255 ；交叉 episodes/2026-10-23-sive-egm-bulletin.md〕
+- (同上·决议) EGM **2026-10-22** 通过：
+  1. **审计**：终止 Deloitte，改选 **Ernst & Young AB**，任期至下次年会（AGM）。
+  2. **P11**：最多 **728 万**份免费员工期权（约 **2.0%** 稀释后），**无业绩条件**；授予日起第 **3–6 年**可行权；行权价 = 授予前 **5 日 VWAP 的 110%**。
+  3. **C 股授权**：授权定向发行/回购最多 **728 万** C 股，并为激励相关社保费用转普通股。
+- (同上·对照) 与 9/29 Notice 条款一致；**不**改写仓内已记的稀释上限/美股双重上市准备叙事（H1’27 仍为公司/提名委员会口径，非本 Bulletin 新承诺）。盯梢例程「SIVE EGM Bulletin」目标已达成（见 10/22 对话补录）。
