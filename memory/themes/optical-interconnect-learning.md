@@ -280,3 +280,6 @@
 
 ## 2026-10-22 对话补录（交叉午夜 Serenity/Pep；补代工厂）
 - (2026-10-22，SIVE·代工厂) 光子产线：**Glasgow 自有**（+$30M、>1亿颗/年目标 **2027 Q4**）+ **WIN Semiconductors** 高量 InP；无线 fabless 硅代工 **GlobalFoundries**。**勿混** 2026-06 Sivers×GF 硅光合作（激光进 GF SCALE）——GF **不是** InP 代工厂。 〔引用：SIVE 对话 2026-10-22；交叉 `sive-investment`〕
+
+## 2026-10-23 对话补录（交叉；补官网生态页脚注）
+- (2026-10-23，SIVE·生态页) collaborative-ecosystem 官网页 = **2023 营销**（Thorium / Ayar $1M+4Tb / LioniX+Chilas），**未**反映 2025–26 量产伙伴叙事——历史脚注，勿当现役清单。Pep Nokia/AI-RAN 推断弱——见 `sive-investment` 同日补录。 〔引用：SIVE 对话 2026-10-23〕

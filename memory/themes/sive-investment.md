@@ -460,3 +460,8 @@
 - (2026-10-23，FI 空头) 现网 Finansinspektionen Sum percent = **5.93**（较 10/22 午夜记 **5.99** 回落约 **0.06 pp**）。aktuella 命名 ≥0.5%：**Two Sigma 0.70**（持仓日 2026-10-16；前值 0.6）、**AQR 0.59**（2026-10-06；前值 0.63）、**Arrowstreet 0.59**（2026-09-24；前值 0.68）。**Citadel Securities (Europe) Limited 0.55**（10/22 仍列）**已不在** aktuella——视为跌破 0.5% 展示门槛或退出名单；**不**臆造其新仓位%。本机 `/workspace/fi_em_20261024.html`。 〔引用：https://www.fi.se/en/our-registers/net-short-positions/emittent?id=254900UBKNY2EJ588J53 ；`/workspace/fi_em_20261024.html`〕
 - (2026-10-23，EGM Bulletin) 会后公报已出、议程全过——**详见** `episodes/2026-10-23-sive-egm-bulletin.md` / commit **`08c2437`**（本段不重抄 EY/P11≤728万/C股）。 〔引用：`08c2437`〕
 - (交叉·社区) @lyAtomic 当日无 SIVE 原创，仅 RT（含 revoAIution 称 CEO 2025-07-17 购 7 万股@$3.80——**二手、非新 IR**）；Serenity 自 10/20 后对 SIVE **继续沉默**；@SiversSemicond **0** 帖。详见 `x-content-output` / `serenity`。 〔引用：X 公开接口 2026-10-23〕
+
+## 2026-10-23 对话补录（交叉午夜 `8fcec61` 收盘/FI；补 Pep 拆链与生态页）
+- (2026-10-23 ~18:01–18:37，SIVE·Pep) Pep「Nokia=未具名 Tier-1 + NVDA×NOK AI-RAN」拆链：硬事实 **$5.4M Tier-1 mmWave 开发**（2025-01-08 公司稿）+ Q2’26 CEO 信 **H1’27 可能生产订单**；Karin Raj=Nokia CTO Europe 独董（履历真、推断弱）；「客户=Nokia」「因此吃 AI-RAN」可靠度低。Jev 质量约 **1.1**。用户：「本来就是推测+预测」→ 方向性假设可记，**赔率权重应低**，直至客户具名/财报拆 Tier-1 FWA。 〔引用：SIVE 对话 2026-10-23〕
+- (同上·生态页) 官网 collaborative-ecosystem 页 = **2023 营销**（Thorium≈SEK 19.5M；Ayar≈$1M + 4Tb；LioniX+Chilas），**未更新** 2025–26 量产叙事（Jabil/LiDAR/Tachyon/ALL.SPACE/Tier-1）——历史脚注，勿当现役伙伴清单。 〔引用：同上；交叉 `optical`〕
+- (交叉) 收盘 20.64 / FI 5.93% / Citadel 退出 aktuella / EGM·前瞻指针见午夜——不重抄。 〔交叉 `8fcec61` / `08c2437` / `8f99671`〕
