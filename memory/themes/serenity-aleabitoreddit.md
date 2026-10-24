@@ -539,3 +539,7 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (AAOI) status/**2113954878393561487**：自绘 `$AAOI` 收入路径图，称 **$70** 若兑现指引则「荒谬便宜」；归因宏观+HF 去杠杆放大——观点层。 〔引用：X〕
 - (运营/情绪) status/**2113858708996530234**（中文）：粉丝破百万后不发波段内容；短期波动大时卖 put 一类操作「一般挺赚钱」——仓位风格，非 SIVE。 〔引用：X〕
 - (交叉·Reddit) @lyAtomic 指向同主题 Reddit 帖（u/AleaBito）——见 `x-content-output`；正文未抓。 〔交叉〕
+
+## 7ag. 增量核对（2026-10-24 对话补录；交叉午夜 §7af）
+- (2026-10-24 晚间，SIVE·身份) Reddit **u/AleaBito** = Serenity：用户侧赞链坐实（API 赞名单不可读）。 〔引用：SIVE 对话 2026-10-24；交叉 `x-content-output`〕
+- (同上·讲解深度 vs 午夜概要) Tall Poppy=叙事砸了≠供给没了；可证伪点：短缺/认证→订单/2027 窗/下月财报激光规模——详见 `sive-investment` 同日补录。O-Net/AMD/Apple 口径仍渠道/推断。 〔引用：同上；交叉 §7af〕

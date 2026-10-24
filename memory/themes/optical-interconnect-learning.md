@@ -289,3 +289,8 @@
 - (2026-10-24，Serenity·激光短缺→资格) 框架：模组厂扩供应商（LightCounting 2–3→5–7+）；中际称签 2–3 年上游锁量；大厂 CW/EML 自用/售罄 → 抬高独立 CW 产能方（作者点 `$SIVE`）成交概率。产能数字与客户名单见 `serenity` §7af——**二手**，可证伪点仍是**公开协议/送样→量产**与 Q3 叙事。 〔引用：X 2113950041207607453；交叉 sive-investment〕
 - (同上·ELSFP) 渠道称 O-Net×SIVE **8ch ELSFP for CPO**（非可插拔）——Jev &lt;1.5，仅作路径假设。 〔引用：X 2113964694201643199〕
 - (交叉·晨间 findings) `/workspace/x-findings-2026-10-24/REPORT.md`（至 ~09:20）仍列 PhotonCap microVCSEL、Bernstein CPO scale-up~6×、SemiAnalysis EBO、Pep Thorium/AMD 页过时等——多已在 10/22–10/23 主题出现；下午 Serenity 长帖**覆盖**「Alea 对 SIVE 沉默」结论。 〔引用：该 REPORT〕
+
+## 2026-10-24 对话补录（交叉午夜 Serenity/ELSFP；补 MRVL 盯梢 + AAOI 日期）
+- (2026-10-24，光互连) 用户持仓重点加 **MRVL** → 周历/晚间盯梢（CPO / Ara / scale-up）。 〔引用：光互连对话 2026-10-24；交叉 `trading-holdings`〕
+- (同上·AAOI) Q3’26：**11/5 盘后**（公司 10/15 IR）；电话会美东 16:30；提醒 **11/6 07:00** 上海。 〔引用：同上〕
+- (交叉·SIVE 讲解) Tall Poppy / O-Net 8ch ELSFP / AMD logo / Apple biosensing 推断——见 `sive-investment` 同日；午夜 §光学概要不重抄。 〔交叉 `ed71b2b`〕
