@@ -133,3 +133,9 @@
 - (2026-10-23，Research·HF) Serenity Reuters/GS 解读要点：10/22 多策略等同日亏 >1%；科技 HF 十月约 −10%、亚洲向约 −9%；逢低买偏散户（NBIS/SNDK/TSM）；**deleveraging** 主因之一——详见 `serenity` §7ae。可证伪触发同上。午夜概要不重抄。 〔引用：Research 对话 2026-10-23〕
 - (同上·ESMT) Digitimes 紧缺至 2028+ / 缺口>30% / 1.6× runrate；补充帖净现金+库存+SKU 涨价+财报 11/4（**未质检**）——见 serenity §7ae。 〔引用：同上〕
 - (2026-10-23，内存·WDC) FY2027 Q1 纯 HDD 硬点与估值叠增长见 `trading-holdings` 同日补录——交叉即可。 〔引用：内存对话 2026-10-23〕
+
+
+## 2026-10-24（周六；午夜同步 2026-10-25）
+- (2026-10-24，交叉·观察池) 美股数据日 **10/23** 已定盘并入观察池发信（id `1a16b9a128dd7bac`）：MU/MRVL 相对 SOXX 转强；IBKR 新跌破近低——数字见 `trading-holdings` / `trade-ideas`，不重抄。 〔引用：scan.md〕
+- (同上·日历) MSFT/GOOGL 财报仍 **10/28 AMC**；SNDK **10/29**；AAOI **11/5**；SIVE Q3 **11/26**；WIN Semi Q3 ER 移至 **10/28**（台风，社区日历）——对话未再核 IR。周末无新宏观催化可读。 〔引用：既有 Trade；x-findings 晨报 dizaq1〕
+- (交叉·Serenity) AAOI@$70「若指引兑现则过贱」+ HF 去杠杆放大论点——见 `serenity` §7af；框架非荐股。 〔引用：X 2113954878393561487〕

@@ -465,3 +465,9 @@
 - (2026-10-23 ~18:01–18:37，SIVE·Pep) Pep「Nokia=未具名 Tier-1 + NVDA×NOK AI-RAN」拆链：硬事实 **$5.4M Tier-1 mmWave 开发**（2025-01-08 公司稿）+ Q2’26 CEO 信 **H1’27 可能生产订单**；Karin Raj=Nokia CTO Europe 独董（履历真、推断弱）；「客户=Nokia」「因此吃 AI-RAN」可靠度低。Jev 质量约 **1.1**。用户：「本来就是推测+预测」→ 方向性假设可记，**赔率权重应低**，直至客户具名/财报拆 Tier-1 FWA。 〔引用：SIVE 对话 2026-10-23〕
 - (同上·生态页) 官网 collaborative-ecosystem 页 = **2023 营销**（Thorium≈SEK 19.5M；Ayar≈$1M + 4Tb；LioniX+Chilas），**未更新** 2025–26 量产叙事（Jabil/LiDAR/Tachyon/ALL.SPACE/Tier-1）——历史脚注，勿当现役伙伴清单。 〔引用：同上；交叉 `optical`〕
 - (交叉) 收盘 20.64 / FI 5.93% / Citadel 退出 aktuella / EGM·前瞻指针见午夜——不重抄。 〔交叉 `8fcec61` / `08c2437` / `8f99671`〕
+
+
+## 2026-10-24（周六；午夜同步 2026-10-25；无新交易日）
+- (2026-10-24 ~09:19 Asia/Shanghai，SIVE·digest) 结构化抓取 `/workspace/sive-digest-2026-10-24/STRUCTURED_DATA_REPORT.md`：**复核** 10/23 收盘 **20.64（−3.91%，L 20.56，量 Yahoo 5.08M / GF·SA 5.16M）**、FI Sum **5.93%**（命名 Two Sigma 0.70 / AQR 0.59 / Arrowstreet 0.59；Citadel &lt;0.5 自 10/22）、IR 股本 **356,740,332** → 市值约 **7.36B / 7.10B** ex-treasury @20.64、下刊 **Q3 2026-11-26**——与昨夜 `8fcec61` 一致，**不**当新交易日变化。SIVEF Fri：Yahoo 无 bar（末 2.07 Oct22）vs GF **2.02**。无更新于 Oct20 LiDAR 之后的商业 PR。 〔引用：该 REPORT；交叉 `8fcec61`〕
+- (2026-10-24 19:05 Asia/Shanghai，社区·Serenity) status/**2113950041207607453** 长帖打破自 ~10/20 后对 `$SIVE` 工业沉默——供应链框架（100M CW Q4’27、短缺下资格、可插拔/hyperscaler、管理层叙事批评）；Jev `optical_cpo` / 非水文 / quality≈**1.73**（保留、review）。硬点与可证伪条件见 `serenity` §7af / `optical`——**非 IR**。 〔引用：X note_tweet；交叉 serenity〕
+- (同上·回复链要点) O-Net **8ch ELSFP×SIVE→CPO**（渠道、Jev quality≈1.4 勿硬引）；AMD 网站 logo 或为蜂窝/Xilinx，非光子确认；Fortune 100 生物传感「很长周期」。详见 serenity。 〔引用：X 2113964694201643199 / 2113958295325319387 / 2113974563809943849〕
