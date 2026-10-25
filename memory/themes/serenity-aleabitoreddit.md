@@ -555,3 +555,8 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (AMZN 内存/neocloud) status/**2114051018510287340**（UTC 10/24 17:46 ≈ 上海 **01:46**）：转述 AMZN CEO×a16z——内存短缺**不认为 2027 结束**；AWS「28 年一大块卖光」「2027 大体卖光」；2026 capex 约 **$220B** 仍称可投更多；夸 Annapurna。Jev `memory_hbm` / quality≈**1.80**。 〔引用：X note_tweet；交叉 us-macro / trading-holdings〕
 - (运营) 当日有多条回复链；本机有读帖图缓存。 〔引用：工作区 jpg mtime 10/25〕
 
+
+## 7ai. 增量核对（2026-10-25 对话补录；交叉午夜 §7ah）
+- (2026-10-25，对话·15x 分层) Jensen status/**2114213351060554010**：分清 **制造产能 15x**（GTC/SPIL）vs **架构用量 15x**（scale-up 进光域）vs「几个数量级」需求叙事——三者勿混。对 MRVL 看柜内光化吃到与否，非 Spectrum 倍数；AAOI 仍可插拔。可证伪：NVDA IR 出货；LITE/COHR 点名 CPO/ELS；neocloud 部署。午夜主帖概要不重抄。 〔引用：光互连对话 2026-10-25；交叉 `optical`〕
+- (同上·产能白话 vs 源杰) 对话框架：70/100mW 真竞争；H1 洪水假；高端 CPO 近两年中国追不上；SIVE 吃西方/可插拔短缺。午夜普查+Carrio 不重抄。 〔引用：SIVE 对话 2026-10-25；交叉 sive〕
+- (同上·P11) 对话可证伪（无 KPI 是否持续 / C 股规模 / 2029 行权）见 `sive-investment`；治理不改供需。 〔交叉 sive / `08c2437`〕

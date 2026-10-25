@@ -484,3 +484,9 @@
 - (同上·薄) @dizaq1 status/**2114371520986488845**：Oregon–`$SIVE` 联系归因 **2022 收购 MixComm**（新泽西 fabless，Oregon/加州设计中心）。Jev≈**1.28**（&lt;1.5）→ 已知并购事实复述，勿升格新线索。@lyAtomic 已 RT。 〔引用：X；交叉 x-content〕
 - (交叉) 10/24 Serenity 供应链长帖 / Reddit 身份见 `ed71b2b`/`978c5e2`——**不重抄**。 〔交叉〕
 
+
+## 2026-10-25 对话补录（交叉午夜 `2dcac8a`；补 MixComm 机制 / 产能白话 / P11 可证伪 / 现市值）
+- (2026-10-25 ~23:04，Research·MixComm) Oregon–`$SIVE` → **2022 收购 MixComm**（NJ Chatham；设计中心 Oregon+CA）并入 **Sivers Wireless** mmWave，**非**光子新厂。官方完成收购 **2022-02-22**；配图「1 月」偏早。Jev≈**1.64**。可证伪：Oregon 招聘/租约先判 Wireless 延续 vs Photonics 新点。午夜帖面薄复述不升格——本处记机制。 〔引用：Research 对话 2026-10-25；交叉午夜 / `optical`〕
+- (2026-10-25 晚间，SIVE·产能白话) 对 Schulz「源杰二期早于 Glasgow」：中国 70/100mW 真竞争；H1「洪水」多半假；高端 CPO 近两年追不上；`$SIVE` 吃西方/可插拔短缺非整亚洲。午夜产能普查+Carrio 对冲不重抄。 〔引用：SIVE 对话 2026-10-25；交叉 serenity §7ah〕
+- (同上·P11) Dmytro status/**2114320312141480236**：VWAP×110% 无 KPI；社保→C 股折价；cliff 最多 728 万≈2%；窗口 **3–6 年**非一天砸完；不改供需。Jev≈**1.81**。可证伪：下次激励是否仍无 KPI；C 股实际规模；2029 前后行权放量。 〔引用：同上；交叉 `08c2437`〕
+- (2026-10-25 ~23:10，Trade·市值) 20.64×356,740,332 ≈ **73.6 亿 SEK ≈ $7.4 亿**（USDSEK≈9.92）；ex-treasury ≈71.0 亿 SEK；2DG.FRA €1.928→约 €6.9 亿。相对 Serenity 口头 $2–3B/$10B+/$40B+ 仍低；P11≈2% 未进股本。 〔引用：Trade 对话 2026-10-25；交叉 `trading-holdings`〕

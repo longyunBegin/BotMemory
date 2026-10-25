@@ -301,3 +301,9 @@
 - (同上·AAOI/AXTI 旁支) AAOI 外购激光假想 Jev&lt;1.5 勿硬引；AXTI 涨价阶梯 Jev≈**1.82**——见 serenity。 〔交叉〕
 - (交叉) 10/24 Serenity 供应链长帖/ELSFP 见昨夜——不重抄。 〔交叉 `ed71b2b`〕
 
+
+## 2026-10-25 对话补录（交叉午夜 15x/产能；补机制分层 + CPO 激光 + 搁浅算力 + MixComm）
+- (2026-10-25 午，光互连·15x) 制造产能 15x ≠ 架构用量 15x ≠「几个数量级」需求叙事；MRVL 看商用 CPO/DSP 柜内光化；AAOI 可插拔链。可证伪：NVDA IR / LITE·COHR CPO·ELS / neocloud。 〔引用：光互连对话 2026-10-25；交叉 serenity §7ai〕
+- (同上·CPO 激光) 外置 ELS/ELSFP = **CW DFB**（非可插拔直接调制主路径）；DR≈1311nm 或 CWDM4 1271/1291/1311/1331；单路常见约 **+23 dBm**；面板可换。 〔引用：同上〕
+- (同上·搁浅算力) Elon status/**2114168277882581486**：瓶颈电→冷→网（交换机/光），不是「CPU 没跟上交换机」；反驳锁 GPU 转租印钞。 〔引用：同上；交叉 `us-macro-options`〕
+- (2026-10-25 ~23:04，MixComm) Oregon = Wireless/mmWave 设计中心延续，**非**光子新厂——见 `sive-investment`。 〔交叉 Research / sive〕
