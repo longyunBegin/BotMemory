@@ -475,3 +475,12 @@
 ## 2026-10-24 对话补录（交叉午夜 `ed71b2b` Serenity 长帖概要；补 Reddit 身份与讲解深度）
 - (2026-10-24 晚间，SIVE·Reddit) 用户确认 Serenity Reddit=**u/AleaBito**；赞主帖+跟帖→身份坐实（API 赞名单不可读，以用户侧赞链为准）。代写回 @MasterScaler91 / 感谢主帖口语稿（「不要AI化」）。 〔引用：SIVE 对话 2026-10-24；交叉 `x-content-output`〕
 - (同上·讲解深度) 午夜仅概要——补：激光短缺+产能/认证→**2027**；**Tall Poppy**=管理层叙事砸了≠供给故事没了；O-Net 8ch ELSFP for CPO；AMD logo 更可能蜂窝/Xilinx；Apple=biosensing 推断非官宣；AAOI 旁支。可证伪：短缺持续、认证→订单、2027 产能窗、下月财报是否改讲激光规模。 〔引用：同上；交叉 serenity §7af / `optical`〕
+
+## 2026-10-25（周日；午夜同步 2026-10-26；无新交易日）
+- (2026-10-25，价格/FI 现网) 周日无 Stockholm 交易；Yahoo 末 bar 仍 **10/23 收 20.64**（L 20.56）。FI Sum percent 仍 **5.93**；aktuella：Two Sigma **0.70**（2026-10-16；前 0.6）、AQR **0.59**（2026-10-06；前 0.63）、Arrowstreet **0.59**（2026-09-24；前 0.68）；Citadel Securities (Europe) 历史行 **&lt;0.5**（仓位日 **2026-10-22**）——与 `ed71b2b`/`8fcec61` 一致，**非**新变化。无 `sive-digest-2026-10-25*`。 〔引用：Yahoo chart SIVE.ST；https://www.fi.se/en/our-registers/net-short-positions/emittent?id=254900UBKNY2EJ588J53 ；`/workspace/fi_em_20261026.html`〕
+- (2026-10-25 ~13:18 Asia/Shanghai，社区·Serenity) status/**2114225154591207690**（UTC 05:18）回融资/层级问：称 `$SIVE` 瞄准 **T1** hyperscaler（pluggable/CPO/NPO）；直连有、现阶段更偏上游资格（Ayar / `$JBL` / `$GFS` / O-Net）→ 或落 `$AMZN`/`$MSFT`；已募约 **700M SEK** + 外代工 → 融资约束弱于 Colo（如 `$CIFR`）/neocloud（如 `$CRWV`）；认为即使 hyperscaler 总 capex 降，光学 content/总量仍可升。Jev `optical_cpo` / 非水文 / quality≈**1.84**（review）。**非 IR**。可证伪：公开模组/hyperscaler 协议或送样→量产；Q3（约 **11/26**）是否改讲激光规模。 〔引用：X note_tweet；`/workspace/x-findings-2026-10-25/jev/alea_sive_t1_financing.txt`〕
+- (同上·对冲·源杰) @carrioresearch status/**2114296367397151100**（UTC 10:01 ≈ 上海 **18:01**）：源杰 Q3 营收指引同比 **+265%–293%**、净利约占营收 **62–65%**、几乎全是数据中心 CW；二期约 **2026 年底** vs Sivers Glasgow **Q4’27**（约晚一年）——质疑看多逻辑里「中国可插拔到处找激光」到 Glasgow 爬坡时还剩多少。Jev quality≈**2.34**。数字为**社区转述公司预告**，须以源杰正式公告核对；**不**据此断言份额已被抢走。 〔引用：X note_tweet；交叉 optical〕
+- (同上·P11 治理读法) @Dmytro_Lebid status/**2114320312141480236**（UTC 11:36）：P11 相对美式 SBC——+10% VWAP 无经营 KPI、瑞典行权社保→发 C 股折价卖补税、3 年 cliff 同时打开约 **7.28M** 形成阻力想象。Jev≈**1.86**。条款本身已在 EGM Bulletin（`08c2437`）——本处记**社区治理解读**，非新公司披露。 〔引用：X note_tweet；交叉 `08c2437`〕
+- (同上·薄) @dizaq1 status/**2114371520986488845**：Oregon–`$SIVE` 联系归因 **2022 收购 MixComm**（新泽西 fabless，Oregon/加州设计中心）。Jev≈**1.28**（&lt;1.5）→ 已知并购事实复述，勿升格新线索。@lyAtomic 已 RT。 〔引用：X；交叉 x-content〕
+- (交叉) 10/24 Serenity 供应链长帖 / Reddit 身份见 `ed71b2b`/`978c5e2`——**不重抄**。 〔交叉〕
+

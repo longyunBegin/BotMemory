@@ -543,3 +543,15 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 ## 7ag. 增量核对（2026-10-24 对话补录；交叉午夜 §7af）
 - (2026-10-24 晚间，SIVE·身份) Reddit **u/AleaBito** = Serenity：用户侧赞链坐实（API 赞名单不可读）。 〔引用：SIVE 对话 2026-10-24；交叉 `x-content-output`〕
 - (同上·讲解深度 vs 午夜概要) Tall Poppy=叙事砸了≠供给没了；可证伪点：短缺/认证→订单/2027 窗/下月财报激光规模——详见 `sive-investment` 同日补录。O-Net/AMD/Apple 口径仍渠道/推断。 〔引用：同上；交叉 §7af〕
+
+## 7ah. 增量核对（2026-10-25，上海日历周日；午夜同步 2026-10-26）
+- (2026-10-25 12:31 Asia/Shanghai，Serenity·Jensen 光子学) status/**2114213351060554010**（UTC 04:31；抓取约 **983** 赞 / **71** 转 / **238** 书签 / ~**186k** 观看；有图）。转述 NVDA GTC：scale-up 进光域合计体积约 **「15x」**；Huang「光学需求几个数量级」。作者接：CW 已瓶颈、扩产节奏跟不上设想；商用激光厂把新产能偏 **UHP CPO** 或加剧低端短缺；BOM 低 → 分配战/涨价——点 `$LITE`/`$COHR`。Jev `optical_cpo` / 非水文 / quality≈**1.53**（review，刚过门槛）。读法：需求叙事放大器；**非**公司指引。可证伪：后续财报/渠道是否出现 CW ASP 连涨或低端交期拉长。 〔引用：X note_tweet；`/workspace/x-findings-2026-10-25/jev/alea_jensen_15x.txt`；本机图 `serenity-nvda-photonics.jpg`〕
+- (同上 ~13:18，SIVE 融资/T1) status/**2114225154591207690**——见 `sive-investment` 同日；Jev≈**1.84**。 〔交叉 sive〕
+- (同上·AAOI) status/**2114217916153373049**：称 `$AAOI` 激光制造扩 **350%** 仍不够自用可插拔、拒了 hyperscaler 的 CPO 激光需求；作者假想 AOI 应外购 `$SIVE` 一类商用激光。Jev quality≈**1.40**（&lt;1.5）→ **渠道/观点笔记，勿硬引**。 〔引用：X note_tweet〕
+- (同上·AXTI) status/**2114219806706860495**：`$AXTI` 仍是光学扩建卡点；LTA→`$LITE`/`$COHR`；盯是否能走出 `$SNDK` 式涨价——渠道称 Q2 **50–60%**、Q3 **10%**、Q4 **10%+**；但又指 Coherent SEC 文件暗示涨价幅度有顶。Jev≈**1.82**。 〔引用：X note_tweet〕
+
+### 早窗（UTC 10/24 16:00 后 = 上海 10/25；昨夜窗口未覆盖）
+- (中国激光产能普查) status/**2114030117416755494**（UTC 10/24 16:23 ≈ 上海 **00:23**）：索尔思 9M/月→22M/月 Q4→约 **300M/年**（2027，偏 EML）；仕佳约 **72M/年** 100mW CW（约 2029 满产）；云岭 **18.75M/年**；源杰现约 **10M/年** 扩 2027–28；虹宸「小批量」≠早前 60–70M 洪水说；鼎芯约 **15M/年**。渠道：70/100mW 紧、ASP 升；中际拟 2–3 年锁上游；`$AAOI` CEO 称中国高功率 CPO 还差数年；`$LITE` CEO 称暂未见中国激光供给冲击。TLDR：高端多年短缺仍真；H1「洪水」说多为假；低端渐松向 **2028**。Jev quality≈**2.50**（保留）。**二手公开披露汇总**，非一手审计。 〔引用：X note_tweet；`/workspace/x-findings-2026-10-25/jev/alea_cn_laser_cap.txt`〕
+- (AMZN 内存/neocloud) status/**2114051018510287340**（UTC 10/24 17:46 ≈ 上海 **01:46**）：转述 AMZN CEO×a16z——内存短缺**不认为 2027 结束**；AWS「28 年一大块卖光」「2027 大体卖光」；2026 capex 约 **$220B** 仍称可投更多；夸 Annapurna。Jev `memory_hbm` / quality≈**1.80**。 〔引用：X note_tweet；交叉 us-macro / trading-holdings〕
+- (运营) 当日有多条回复链；本机有读帖图缓存。 〔引用：工作区 jpg mtime 10/25〕
+
