@@ -560,3 +560,9 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (2026-10-25，对话·15x 分层) Jensen status/**2114213351060554010**：分清 **制造产能 15x**（GTC/SPIL）vs **架构用量 15x**（scale-up 进光域）vs「几个数量级」需求叙事——三者勿混。对 MRVL 看柜内光化吃到与否，非 Spectrum 倍数；AAOI 仍可插拔。可证伪：NVDA IR 出货；LITE/COHR 点名 CPO/ELS；neocloud 部署。午夜主帖概要不重抄。 〔引用：光互连对话 2026-10-25；交叉 `optical`〕
 - (同上·产能白话 vs 源杰) 对话框架：70/100mW 真竞争；H1 洪水假；高端 CPO 近两年中国追不上；SIVE 吃西方/可插拔短缺。午夜普查+Carrio 不重抄。 〔引用：SIVE 对话 2026-10-25；交叉 sive〕
 - (同上·P11) 对话可证伪（无 KPI 是否持续 / C 股规模 / 2029 行权）见 `sive-investment`；治理不改供需。 〔交叉 sive / `08c2437`〕
+
+
+## 7aj. 增量核对（2026-10-26，上海日历周一；午夜同步 2026-10-27）
+- (2026-10-26 ~08:46 Asia/Shanghai，Serenity·SPCX/InP) status/**2114519097526686033**（UTC 00:46；抓取约 **1029** 赞 / **49** 转 / **147** 书签 / ~**204k** 观看；2 图）。要点（作者观点，非 IR）：① `$SPCX` 约 **$40B** 融资 → Elon 称主用于 H1’27 `$NVDA` GPU 采购 → 间接抬内存/网络等需求；② VPEC×UDN：InP 衬底「严重短缺」，点 `$AXTI`；③ 大摩：InP 衬底、EML、CW 激光为主要瓶颈；④ VPEC：谁锁原料谁有定价权。Jev `optical_cpo` / 非水文 / quality≈**1.53**（review，刚过门槛）。读法：需求+上游材料叙事；**非**公司指引。可证伪：SPCX 披露采购构成；InP/ASP 与交期公开数据。 〔引用：X note_tweet；`/workspace/x-findings-2026-10-26/jev/alea_spcx_inp.txt`〕
+- (同上·平台元讨论) status/**2114477224208535600** + 回复链：批评 X 所有者放大与 `$SPCX`/`$TSLA` 利益冲突的「崩盘」叙事（类比 NVDA 老板拥 META 并放大 AVGO 失败）。Jev platform_meta / quality≈**0.42** / 水文=yes——**不当工业事实**；仅指针。旁支回复称未主动做空 neocloud、自 2025 起盯融资（`$SLNH`→`$CRWV`）——观点层。 〔引用：X；`serenity_x_platform.txt`〕
+- (交叉) 10/25 Jensen 15x / SIVE T1 / 中国激光产能——**不重抄**。 〔交叉 §7ah〕

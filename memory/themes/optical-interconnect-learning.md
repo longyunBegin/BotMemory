@@ -307,3 +307,9 @@
 - (同上·CPO 激光) 外置 ELS/ELSFP = **CW DFB**（非可插拔直接调制主路径）；DR≈1311nm 或 CWDM4 1271/1291/1311/1331；单路常见约 **+23 dBm**；面板可换。 〔引用：同上〕
 - (同上·搁浅算力) Elon status/**2114168277882581486**：瓶颈电→冷→网（交换机/光），不是「CPU 没跟上交换机」；反驳锁 GPU 转租印钞。 〔引用：同上；交叉 `us-macro-options`〕
 - (2026-10-25 ~23:04，MixComm) Oregon = Wireless/mmWave 设计中心延续，**非**光子新厂——见 `sive-investment`。 〔交叉 Research / sive〕
+
+
+## 2026-10-26（周一；午夜同步 2026-10-27）
+- (2026-10-26，瓶颈三角·Serenity 转述) 大摩口径经 status/**2114519097526686033**：主瓶颈 = **InP 衬底 + EML + CW 激光**；VPEC 称 InP「严重短缺」、原料锁定→定价权；旁支 SPCX 资本开支→GPU→网络/内存传导。Jev≈**1.53**。机制：材料层先于模组出货；**不**等于任一激光商已拿量。可证伪：衬底/激光 ASP 与交期；SPCX 采购拆分。 〔引用：X；交叉 serenity §7aj〕
+- (同上·Pep GFS 渠道叙事) status/**2114653270002036759**：把 `$SIVE` 嵌进 GF SiPh reference + SCALE 分销想象（&gt;40 客户 / 4/5 模组 / 7 SCALE / 7 Q2 design wins——**须一手核**）；生态名单长≠份额。Jev≈**1.75** abstain。专利 **US12523817B2**（InP↔SiPh 被动对准）= 可核工艺点、非收入。详见 `sive-investment`。 〔引用：X；交叉 sive〕
+- (交叉) 10/25 15x 分层 / CPO ELS=CW DFB / MixComm——**不重抄**。 〔交叉〕

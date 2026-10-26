@@ -490,3 +490,11 @@
 - (2026-10-25 晚间，SIVE·产能白话) 对 Schulz「源杰二期早于 Glasgow」：中国 70/100mW 真竞争；H1「洪水」多半假；高端 CPO 近两年追不上；`$SIVE` 吃西方/可插拔短缺非整亚洲。午夜产能普查+Carrio 对冲不重抄。 〔引用：SIVE 对话 2026-10-25；交叉 serenity §7ah〕
 - (同上·P11) Dmytro status/**2114320312141480236**：VWAP×110% 无 KPI；社保→C 股折价；cliff 最多 728 万≈2%；窗口 **3–6 年**非一天砸完；不改供需。Jev≈**1.81**。可证伪：下次激励是否仍无 KPI；C 股实际规模；2029 前后行权放量。 〔引用：同上；交叉 `08c2437`〕
 - (2026-10-25 ~23:10，Trade·市值) 20.64×356,740,332 ≈ **73.6 亿 SEK ≈ $7.4 亿**（USDSEK≈9.92）；ex-treasury ≈71.0 亿 SEK；2DG.FRA €1.928→约 €6.9 亿。相对 Serenity 口头 $2–3B/$10B+/$40B+ 仍低；P11≈2% 未进股本。 〔引用：Trade 对话 2026-10-25；交叉 `trading-holdings`〕
+
+
+## 2026-10-26（周一；午夜同步 2026-10-27）
+- (2026-10-26，价格) Yahoo SIVE.ST：**O 20.44 / H 21.38 / L 19.92 / C 20.96**，量 **4,294,197**；较 10/23 收 **20.64** 约 **+1.55%**。日内低 **19.92** 刺破此前近低 **20.56** 后收回——结构上仍弱、收盘收回。无新 IR/商业 PR（本机无 10/26 digest）。 〔引用：Yahoo chart SIVE.ST〕
+- (同上·FI 缓存) `/workspace/fi_em_20261026.html`：Sum 仍 **5.93%**；aktuella Two Sigma **0.70** @10/16、AQR **0.59** @10/06、Arrowstreet **0.59** @09/24；Citadel 历史 **&lt;0.5** @10/22。本轮现网 issuer 页 **404**——记为**缓存非 live**。 〔引用：该 html〕
+- (2026-10-26，社区·Pep 专利) @Pep_Invest status/**2114626977302806569**（@lyAtomic RT）：专利 **US12523817B2** 授权 **2026-01-13**——InP 激光相对 SiPh 波导/出光面的对准结构，面向 flip-chip **被动对准**、耦合效率与量产可重复性。Jev theme≈sive / 非水文 / quality≈**2.42**。可核：USPTO/Google Patents 对号；**≠** 订单或收入。可证伪：量产良率/客户公开引用该专利工艺。 〔引用：X note_tweet；`/workspace/x-findings-2026-10-26/jev/pep_patent.txt`；图 `/workspace/pep-patent.jpg`〕
+- (同上·Pep GFS) status/**2114653270002036759**（@lyAtomic RT）：同意管理层批评，但抬 **$GFS**——称 Sivers 激光阵列进 GF SiPh **reference designs** 与 **SCALE** optical engine；列生态 NVDA/AMD/AVGO/MRVL/CSCO/MTSI/QCOM/META/MSFT/XNDU、Ayar/Lightmatter/PsiQuantum 等；转述 GF **&gt;40** SiPh 客户、头部模组厂 **4/5**、**7** active SCALE、Q2’26 **7** 个光网络 design wins；旁支 `$JBL` 1.6T LRO（约 **2.5×** 能耗）、Ayar/`$POET`、美军电战延期约 **$6.6M**。Jev quality≈**1.75**（abstain）——**社区叙事**；GF 客户/design-win 数字须对 GF 一手披露；名单≠ Sivers 份额。可证伪：GF/Sivers 联合公开或 SCALE 客户具名用 Sivers 激光。 〔引用：X note_tweet；`/workspace/x-findings-2026-10-26/jev/pep_gfs.txt`〕
+- (交叉) 10/25 Serenity T1/融资、源杰、P11、MixComm——**不重抄**（`2dcac8a`/`7dbf1f9`）。 〔交叉〕
