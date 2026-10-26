@@ -566,3 +566,8 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (2026-10-26 ~08:46 Asia/Shanghai，Serenity·SPCX/InP) status/**2114519097526686033**（UTC 00:46；抓取约 **1029** 赞 / **49** 转 / **147** 书签 / ~**204k** 观看；2 图）。要点（作者观点，非 IR）：① `$SPCX` 约 **$40B** 融资 → Elon 称主用于 H1’27 `$NVDA` GPU 采购 → 间接抬内存/网络等需求；② VPEC×UDN：InP 衬底「严重短缺」，点 `$AXTI`；③ 大摩：InP 衬底、EML、CW 激光为主要瓶颈；④ VPEC：谁锁原料谁有定价权。Jev `optical_cpo` / 非水文 / quality≈**1.53**（review，刚过门槛）。读法：需求+上游材料叙事；**非**公司指引。可证伪：SPCX 披露采购构成；InP/ASP 与交期公开数据。 〔引用：X note_tweet；`/workspace/x-findings-2026-10-26/jev/alea_spcx_inp.txt`〕
 - (同上·平台元讨论) status/**2114477224208535600** + 回复链：批评 X 所有者放大与 `$SPCX`/`$TSLA` 利益冲突的「崩盘」叙事（类比 NVDA 老板拥 META 并放大 AVGO 失败）。Jev platform_meta / quality≈**0.42** / 水文=yes——**不当工业事实**；仅指针。旁支回复称未主动做空 neocloud、自 2025 起盯融资（`$SLNH`→`$CRWV`）——观点层。 〔引用：X；`serenity_x_platform.txt`〕
 - (交叉) 10/25 Jensen 15x / SIVE T1 / 中国激光产能——**不重抄**。 〔交叉 §7ah〕
+
+
+## 7ak. 增量核对（2026-10-26 对话补录；交叉午夜 §7aj）
+- (2026-10-26，SIVE·Reddit Ayar 功率) 对话证伪「8×200 mW」：公开 ELSFP **8×100**；SuperNova ≠ ELSFP 规格——见 `sive-investment` / `optical`。与 §7af O-Net 8ch ELSFP 渠道笔记同线加深。 〔引用：SIVE 对话 2026-10-26〕
+- (交叉) 午夜 SPCX/InP §7aj / Pep 专利帖面——不重抄；专利深拆见 sive 同日补录。 〔交叉 `cc356b0`〕

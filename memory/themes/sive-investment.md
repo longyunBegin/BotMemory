@@ -498,3 +498,9 @@
 - (2026-10-26，社区·Pep 专利) @Pep_Invest status/**2114626977302806569**（@lyAtomic RT）：专利 **US12523817B2** 授权 **2026-01-13**——InP 激光相对 SiPh 波导/出光面的对准结构，面向 flip-chip **被动对准**、耦合效率与量产可重复性。Jev theme≈sive / 非水文 / quality≈**2.42**。可核：USPTO/Google Patents 对号；**≠** 订单或收入。可证伪：量产良率/客户公开引用该专利工艺。 〔引用：X note_tweet；`/workspace/x-findings-2026-10-26/jev/pep_patent.txt`；图 `/workspace/pep-patent.jpg`〕
 - (同上·Pep GFS) status/**2114653270002036759**（@lyAtomic RT）：同意管理层批评，但抬 **$GFS**——称 Sivers 激光阵列进 GF SiPh **reference designs** 与 **SCALE** optical engine；列生态 NVDA/AMD/AVGO/MRVL/CSCO/MTSI/QCOM/META/MSFT/XNDU、Ayar/Lightmatter/PsiQuantum 等；转述 GF **&gt;40** SiPh 客户、头部模组厂 **4/5**、**7** active SCALE、Q2’26 **7** 个光网络 design wins；旁支 `$JBL` 1.6T LRO（约 **2.5×** 能耗）、Ayar/`$POET`、美军电战延期约 **$6.6M**。Jev quality≈**1.75**（abstain）——**社区叙事**；GF 客户/design-win 数字须对 GF 一手披露；名单≠ Sivers 份额。可证伪：GF/Sivers 联合公开或 SCALE 客户具名用 Sivers 激光。 〔引用：X note_tweet；`/workspace/x-findings-2026-10-26/jev/pep_gfs.txt`〕
 - (交叉) 10/25 Serenity T1/融资、源杰、P11、MixComm——**不重抄**（`2dcac8a`/`7dbf1f9`）。 〔交叉〕
+
+
+## 2026-10-26 对话补录（交叉午夜 `cc356b0` Pep 帖面；补 Ayar 功率 + 专利深拆 + Matrix 伪类比）
+- (2026-10-26，SIVE·Ayar 功率) Reddit 回 u/AleaBito：「8×200 mW」公开不支撑；坐实 O-Net ELSFP **8×100**（~20 dBm/ch）；Ayar SuperNova multi-λ CW-WDM ≠ ELSFP 单λ UHP。可证伪：功率披露 / Ayar 是否仍点名 Sivers / Gen1 资格证据。 〔引用：SIVE 对话 2026-10-26；交叉 `optical` / 午夜〕
+- (同上·Pep US12523817B2 深拆) assignee Sivers Photonics；发明人 Andrew McKee；fiducial 服务波导+端面刻蚀、InP↔SiPh flip-chip 被动对准；授权 **2026-01-13**、优先权~2021；**授权≠放量**；Jev≈**2.2**。可证伪仍订单/出货。 〔引用：同上；交叉午夜帖面〕
+- (2026-10-26，Research·Matrix) status/**2114430046077165894**：$100/股≈$33B 算术可过（~332M 股），但高 P/S on 近零收入 ≠ 绝对市值类比；SIVE 已~**25×** on ~$28M TTM / ~$0.7–0.8B；Jev≈**1.4**；$100=USD OTC 非 SEK。 〔引用：Research 对话 2026-10-26；交叉 `trading-holdings`〕

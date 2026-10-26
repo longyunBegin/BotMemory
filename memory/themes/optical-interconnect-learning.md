@@ -313,3 +313,9 @@
 - (2026-10-26，瓶颈三角·Serenity 转述) 大摩口径经 status/**2114519097526686033**：主瓶颈 = **InP 衬底 + EML + CW 激光**；VPEC 称 InP「严重短缺」、原料锁定→定价权；旁支 SPCX 资本开支→GPU→网络/内存传导。Jev≈**1.53**。机制：材料层先于模组出货；**不**等于任一激光商已拿量。可证伪：衬底/激光 ASP 与交期；SPCX 采购拆分。 〔引用：X；交叉 serenity §7aj〕
 - (同上·Pep GFS 渠道叙事) status/**2114653270002036759**：把 `$SIVE` 嵌进 GF SiPh reference + SCALE 分销想象（&gt;40 客户 / 4/5 模组 / 7 SCALE / 7 Q2 design wins——**须一手核**）；生态名单长≠份额。Jev≈**1.75** abstain。专利 **US12523817B2**（InP↔SiPh 被动对准）= 可核工艺点、非收入。详见 `sive-investment`。 〔引用：X；交叉 sive〕
 - (交叉) 10/25 15x 分层 / CPO ELS=CW DFB / MixComm——**不重抄**。 〔交叉〕
+
+
+## 2026-10-26 对话补录（交叉午夜 Pep/InP；补 Ayar 功率分层 + 周历路径）
+- (2026-10-26，SIVE·Ayar vs ELSFP) SuperNova multi-λ CW-WDM ≠ ELSFP 单λ UHP；公开 **8×100** 坐实、**200 mW/Gen1** 口号无公开支撑——见 `sive-investment`。 〔引用：SIVE 对话 2026-10-26〕
+- (同上·Pep 专利) US12523817B2 = InP↔SiPh 被动对准 fiducial；工艺点、非收入——见 sive。 〔交叉〕
+- (2026-10-26，光互连·周历) MSFT+GOOGL **10/28 AMC**；AMZN+INTC **10/29**；**COHR** FY27Q1 **11/4 AMC**（北京 11/5 晨，**一键提醒待用户**）；LITE+AAOI **11/5** OK；Corning PRIZM 0.5dB Q4’26；Oracle 1.6T LRO 年底；MRVL ~12/1 / AVGO ~12/9–10 **未确认**；OFC 2027 LA **3/7–11**。路径：近端 pluggables→COHR/LITE/AAOI；CPO/ELS/scale-up→MRVL FY28 / LITE ELS~2027H2。勿重抄 10/25 15x/ELS/搁浅。 〔引用：光互连对话 2026-10-26；交叉 `trading-holdings`〕
