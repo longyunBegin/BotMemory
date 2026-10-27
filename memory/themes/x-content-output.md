@@ -376,3 +376,10 @@
 ## 2026-10-26（周一；午夜同步 2026-10-27）
 - (2026-10-26，@lyAtomic) **无新原创工业帖**。公开接口（UTC 10/25 16:00–10/26 16:00）：① RT @Pep_Invest GFS/SCALE 生态 status/**2114653270002036759**；② RT Pep 专利 **US12523817B2** status/**2114626977302806569**；③ RT @jukan05 SK hynix **$38–45B** 股东回报 status/**2114642724360163417**；④ RT jukan05 HBM4 **8-high** Q2 量产/出货 status/**2114598413274882053**；⑤ RT @Kalshi 大摩 CIO「修正末段」；⑥ RT @cherryPayment 存储基本面 vs 股价背离；⑦ 回复 bitbit2580「😂」。官号 @SiversSemicond **0** 帖。 〔引用：X get_users_posts lyAtomic〕
 - (同上) 本机图 `/workspace/pep-patent.jpg`、`fednmad_buyback.jpg`、`jukan05/`、`elon-211446190.jpg`、`sunxliao/AXTI-chart.jpg`（mtime 10/26）暗示读帖；**未见**已发原创草稿 md。对话是否代写属缺口。 〔引用：工作区 mtime〕
+
+
+## 2026-10-27（周二；午夜同步 2026-10-28）
+- (2026-10-27，@lyAtomic 原创) status/**2115093579219743138**（UTC 14:49 ≈ 上海 **22:49**）：`$META`——全年 CapEx 现 **$135–145B**；Q3 FCF **十余年来首次转负**；普通股增发上修至 **$25B** @**$625**（约 **5×** 认购倍数）+ 可转优先约 **$12.5B**；后续还可 drip 至约 **$60B**；整笔股权融资约 **$100B**、主投 AI。相对「AI 泡沫/没人接盘」叙事的反例框架。Jev company_ir / 非水文 / quality≈**1.68**（abstain）——数字须对 META 一手财报/招股；**社区转述**。 〔引用：X note_tweet；`/workspace/x-findings-2026-10-27/jev/lyatomic_meta.txt`〕
+- (同上·回复) status/**2115097322690658683**：回 Serenity「It's All Over」主帖，仅 **`$XFAB`**。 〔引用：X〕
+- (同上·RT) status/**2114889906355065057**（UTC 01:20 ≈ 上海 **09:20**）RT Serenity `$ANT` H1’26 FCF **$3.4B** + AI infra 超跌叙事。官号 @SiversSemicond **0** 新帖。 〔引用：X〕
+- (同上) 本机图 `serenity_its_all_over.jpg`（mtime 22:55）、`insane-nvlink-nyquist.jpg`（mtime 09:10）暗示读帖；**未见**另存原创草稿 md。对话是否代写 META 帖属缺口。 〔引用：工作区 mtime〕

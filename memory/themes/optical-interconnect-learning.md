@@ -319,3 +319,9 @@
 - (2026-10-26，SIVE·Ayar vs ELSFP) SuperNova multi-λ CW-WDM ≠ ELSFP 单λ UHP；公开 **8×100** 坐实、**200 mW/Gen1** 口号无公开支撑——见 `sive-investment`。 〔引用：SIVE 对话 2026-10-26〕
 - (同上·Pep 专利) US12523817B2 = InP↔SiPh 被动对准 fiducial；工艺点、非收入——见 sive。 〔交叉〕
 - (2026-10-26，光互连·周历) MSFT+GOOGL **10/28 AMC**；AMZN+INTC **10/29**；**COHR** FY27Q1 **11/4 AMC**（北京 11/5 晨，**一键提醒待用户**）；LITE+AAOI **11/5** OK；Corning PRIZM 0.5dB Q4’26；Oracle 1.6T LRO 年底；MRVL ~12/1 / AVGO ~12/9–10 **未确认**；OFC 2027 LA **3/7–11**。路径：近端 pluggables→COHR/LITE/AAOI；CPO/ELS/scale-up→MRVL FY28 / LITE ELS~2027H2。勿重抄 10/25 15x/ELS/搁浅。 〔引用：光互连对话 2026-10-26；交叉 `trading-holdings`〕
+
+
+## 2026-10-27（周二；午夜同步 2026-10-28）
+- (2026-10-27，Pep·光源工程复述) status/**2115012408368316713**：SiPh 光源四要件（功率/波长/温漂/可封装）+ 多λ阵列减对准 + 蚀刻端面/晶圆测光 + 2023 Ayar SuperNova 无主动冷却 + GF SCALE——与 10/26 GFS 生态帖同线加深工艺层。Jev≈**2.66**。机制：**封装/良率/测光路径**是量产瓶颈之一；**≠** 已放量。详见 `sive-investment`。 〔引用：X；交叉 sive〕
+- (同上·Serenity LTA 跟风) 内存/激光 LTA「一家先锁→其余跟」观点（status/**2115060985396670793**）——交叉内存时钟与 `$LITE` 配额叙事；非新 IR。 〔交叉 serenity §7al〕
+- (交叉) 10/26 InP/EML/CW 三角、Pep 专利、Ayar 8×100——**不重抄**。 〔交叉〕

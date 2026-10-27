@@ -571,3 +571,11 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 ## 7ak. 增量核对（2026-10-26 对话补录；交叉午夜 §7aj）
 - (2026-10-26，SIVE·Reddit Ayar 功率) 对话证伪「8×200 mW」：公开 ELSFP **8×100**；SuperNova ≠ ELSFP 规格——见 `sive-investment` / `optical`。与 §7af O-Net 8ch ELSFP 渠道笔记同线加深。 〔引用：SIVE 对话 2026-10-26〕
 - (交叉) 午夜 SPCX/InP §7aj / Pep 专利帖面——不重抄；专利深拆见 sive 同日补录。 〔交叉 `cc356b0`〕
+
+
+## 7al. 增量核对（2026-10-27，上海日历周二；午夜同步 2026-10-28）
+- (2026-10-27 ~20:20 Asia/Shanghai，Serenity·内存 LTA) status/**2115056034763137169**（UTC 12:20；~**852** 赞 / **56** 转 / **114** 书签 / ~**171k** 观看）。转述 Maeil：继 `$GOOGL` 后 Alibaba / Tencent / ByteDance 等与 `$SKHY` / Samsung 谈内存 LTA；部分客户推 **10 年**至 **2035**。作者反问：若 CXMT+YMTC 2028–29「洪水」说成立，为何大厂锁十年。Jev `memory_hbm` / water=uncertain / quality≈**2.01**。读法：**韩媒渠道二手**；机制上 LTA 长度与「即将过剩」叙事冲突可记，**≠** 公司指引。可证伪：一手 LTA 披露 / 交期 ASP。 〔引用：X note_tweet；`/workspace/x-findings-2026-10-27/jev/serenity_memory_lta.txt`；交叉 us-macro / trading-holdings〕
+- (同上·hyperscaler「金鱼」) status/**2115060985396670793**（UTC 12:40）：一家抢 memory/`$LITE` 激光 LTA → 其余怕配额被挤跟进；`$NVDA` 常先动。Jev quality≈**1.63** abstain——观点层机制，非硬披露。 〔引用：X〕
+- (同上·「It's All Over」组合) status/**2115094150626644115**（UTC 14:51 ≈ 上海 **22:51**；~**897** 赞 / **38** 转 / **422** 书签 / ~**133k**；图 `/workspace/serenity_its_all_over.jpg`）：筛选「跌悬崖 / 低于催化剂公布价 / 基本面仍升 / 图表像 / 空头升」的更高 beta 篮——例 `$ALMU`~$7、`$CIFR`~$8、`$ASTS`~$39、`$TE`~$2.5、`$SHAZ`~$25；相对 `$AAOI`；**自声明非推荐**、只好奇年底表现。Jev engagement / quality≈**1.10**——**情绪/篮子实验指针**，不当个股硬点。后续回复加 `$FLNC`/`$WYFI`/`$LWLG`/`$CBRS`/`$BRUN` 等——水文链，仅记主帖。@lyAtomic 回 **`$XFAB`**（status/**2115097322690658683**）。 〔引用：X；Jev〕
+- (同上·中期选举统计) status/**2115045873734529050**（UTC 11:40）：称中期后 Nov→Jun S&P **21/21** 正、均 **+16.6%**，高 beta 更强；问 Nov 3 是否异常。Jev us_macro / quality≈**1.10**——季节性统计，**样本外可证伪**，不作预测依据。 〔引用：X〕
+- (交叉) 10/26 SPCX/InP——**不重抄**。 〔交叉 §7aj〕

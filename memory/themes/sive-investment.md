@@ -504,3 +504,11 @@
 - (2026-10-26，SIVE·Ayar 功率) Reddit 回 u/AleaBito：「8×200 mW」公开不支撑；坐实 O-Net ELSFP **8×100**（~20 dBm/ch）；Ayar SuperNova multi-λ CW-WDM ≠ ELSFP 单λ UHP。可证伪：功率披露 / Ayar 是否仍点名 Sivers / Gen1 资格证据。 〔引用：SIVE 对话 2026-10-26；交叉 `optical` / 午夜〕
 - (同上·Pep US12523817B2 深拆) assignee Sivers Photonics；发明人 Andrew McKee；fiducial 服务波导+端面刻蚀、InP↔SiPh flip-chip 被动对准；授权 **2026-01-13**、优先权~2021；**授权≠放量**；Jev≈**2.2**。可证伪仍订单/出货。 〔引用：同上；交叉午夜帖面〕
 - (2026-10-26，Research·Matrix) status/**2114430046077165894**：$100/股≈$33B 算术可过（~332M 股），但高 P/S on 近零收入 ≠ 绝对市值类比；SIVE 已~**25×** on ~$28M TTM / ~$0.7–0.8B；Jev≈**1.4**；$100=USD OTC 非 SEK。 〔引用：Research 对话 2026-10-26；交叉 `trading-holdings`〕
+
+
+## 2026-10-27（周二；午夜同步 2026-10-28）
+- (2026-10-27，价格) Yahoo SIVE.ST：**O 21.16 / H 23.02 / L 20.90 / C 22.82**，量 **3,674,245**；较同批 Yahoo 10/26 收 **21.04** 约 **+8.46%**。粗算市值 22.82×356,740,332 ≈ **81.4 亿 SEK**。注：昨夜午夜曾记 10/26 收 **20.96**；本轮 Yahoo 与观察池 scan 将 10/26 钉为 **21.04**（或为后续修正）——涨跌以同批 Yahoo 为准。无新 IR/商业 PR（本机无 10/27 结构化 digest）。 〔引用：Yahoo chart SIVE.ST；交叉 trade-ideas scan〕
+- (同上·FI) `/workspace/fi_em_20261027.html`：Sum percent **6.06**（昨夜缓存 **5.93** → **+0.13 ppt**）。aktuella 命名仍：Two Sigma **0.70** @10/16、AQR **0.59** @10/06、Arrowstreet **0.59** @09/24；Citadel 仍历史 **&lt;0.5** @10/22。命名合计不变 → **Sum 升幅来自未具名 &lt;0.5% 仓位合计**。文件 mtime 10/27 00:14——**缓存非本轮 live 再抓**（现网曾 302）。 〔引用：该 html；对比 `fi_em_20261026.html`〕
+- (2026-10-27，社区·Pep 激光工程) @Pep_Invest status/**2115012408368316713**（UTC 09:27 ≈ 上海 **17:27**）：光源功率/波长/温漂/可封装成本；多波长阵列单芯片→少对准件；蚀刻端面+晶圆级镀膜→划片前测光；转述 2023 Ayar SuperNova 八波长无主动冷却；再抬 `$GFS` SCALE/reference（与 10/26 GFS 帖同线）。承认收入执行仍须证明。Jev theme≈sive / 非水文 / quality≈**2.66**。读法：**社区工艺叙事**，非 IR；Ayar/GF 点名须一手核。可证伪：量产良率公开、客户具名用 Sivers 阵列、收入爬坡。 〔引用：X note_tweet；`/workspace/x-findings-2026-10-27/jev/pep_sive_laser_eng.txt`〕
+- (同上·Pep 光子复苏水文) status/**2114994910143074704**（`$SIVE $LWLG $AAOI $ALMU`「史上最大复苏」）Jev 水文=yes / quality≈**1.06**——**仅一行指针**，不当硬点。回复链抬 midterm/高 beta 见 serenity，不升格。 〔引用：X；Jev〕
+- (交叉) 10/26 Pep GFS/专利、Ayar 8×100、Matrix $100——**不重抄**（`cc356b0`/`908c168`）。 〔交叉〕
