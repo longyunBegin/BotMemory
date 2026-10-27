@@ -325,3 +325,8 @@
 - (2026-10-27，Pep·光源工程复述) status/**2115012408368316713**：SiPh 光源四要件（功率/波长/温漂/可封装）+ 多λ阵列减对准 + 蚀刻端面/晶圆测光 + 2023 Ayar SuperNova 无主动冷却 + GF SCALE——与 10/26 GFS 生态帖同线加深工艺层。Jev≈**2.66**。机制：**封装/良率/测光路径**是量产瓶颈之一；**≠** 已放量。详见 `sive-investment`。 〔引用：X；交叉 sive〕
 - (同上·Serenity LTA 跟风) 内存/激光 LTA「一家先锁→其余跟」观点（status/**2115060985396670793**）——交叉内存时钟与 `$LITE` 配额叙事；非新 IR。 〔交叉 serenity §7al〕
 - (交叉) 10/26 InP/EML/CW 三角、Pep 专利、Ayar 8×100——**不重抄**。 〔交叉〕
+
+
+## 2026-10-27 对话补录（交叉午夜 Pep 激光工程；补 IA Nyquist + Corning/新易盛）
+- (2026-10-27，光互连·insane_analyst) Nyquist 56→47 GHz→「copper dead / All bought. Ask Ayar」；Jev 整帖~**1.2**。机制：TeraPHY=MRM/DWDM+外置 ELS；LITE 2022 CW-WDM + 2026 DWDM ELSFP demo（~24 dBm/ch，H1’27）。**「All bought」≠订单**。@_vision2020_：铜图过时；>72 切入但「铜死」看时间线；IA 未认真回应。 〔引用：光互连对话 2026-10-27〕
+- (同上·晚间) Corning Q3 Optical **$2.379B（+44%）** / Enterprise **+84%** / Gen AI **>2×** / Optical NI **$532M（+80%）**；Q4 core **$52–53B**。新易盛：Q4 量抬升；**800G+1.6T** 主交付。可插拔信号；改写 CPO/ELS/MRVL 时钟仍须公司原话——当夜无。 〔引用：同上；交叉 `trading-holdings`〕

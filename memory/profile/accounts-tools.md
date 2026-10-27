@@ -116,3 +116,7 @@
 ## 2026-10-27（工具·TileProto；午夜同步 2026-10-28）
 - (2026-10-27，工具·TileProto 全日迭代) 仓库 `longyunBegin/TileProto` 当日多笔合入（公开 API 可见，UTC）：`51194e9` 鼠标/菜单栏平铺去全局按键（#2）→ `58b9a43` 悬停条/缝拖重叠/⌘拖交换 → `3607e5e` swap settle/过大格/焦点键（#3）→ `4514e94`/`b0d2084` 窗不越格+CGFloat 编译修（#4）→ `0cbe9d7`–`42e23ab` 整块拖/缝跟手重构 → `ffa7619` 面板与窗口交互对齐（#5）。助手附件多份复测笔记（P0 @58b9a43、PR#3 @3607e5e、PR#4 @b0d2084、Demo 对照）。 〔引用：`gh` commits since 2026-10-26T16Z；`agents/a68ddb65…/attachments/*2026-10-27*`；工作区 `TEST-NOTES`/`DEMO-GAP`/`SMOOTHNESS-AUDIT-2026-10-27.md`〕
 - (同上·顺滑度审计) `SMOOTHNESS-AUDIT` @`33d8b6b`/PR#5：**无** `NSAlert`/modal；可见反馈=toast+Popover；拖缝有几何夹紧+重叠撤销；⌘交换成功无 toast；Focus 仅一次说明 toast；手感仍须勾辅助功能真机确认。七步复测（窗多~16）Retile/布局 PARTIAL、⌘交换/拖缝/悬停条本轮未跑通——溢出堆叠仍乱。昨夜图标三案选型——本轮未见最终选型记录。 〔引用：`/workspace/SMOOTHNESS-AUDIT-2026-10-27.md`；`TEST-NOTES-2026-10-27-pr4-tour.md`〕
+
+
+## 2026-10-27 对话补录（交叉午夜 TileProto 多 PR；补审计细节）
+- (2026-10-27，工具·顺滑度审计) @`33d8b6b`/PR#5：无 NSAlert；divider/⌘-swap 成功无 toast；clamp+overlap 整步回退；设计 vs Demo RE 对齐；Settings/全局快捷/Quit-demo/blur **有意延期**；README Dim **28%** vs 代码 **50%**。真机须 Accessibility；图标选型仍待。 〔引用：工具对话 2026-10-27；报告 `/workspace/SMOOTHNESS-AUDIT-2026-10-27.md`；交叉午夜多 PR〕
