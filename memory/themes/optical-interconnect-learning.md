@@ -330,3 +330,11 @@
 ## 2026-10-27 对话补录（交叉午夜 Pep 激光工程；补 IA Nyquist + Corning/新易盛）
 - (2026-10-27，光互连·insane_analyst) Nyquist 56→47 GHz→「copper dead / All bought. Ask Ayar」；Jev 整帖~**1.2**。机制：TeraPHY=MRM/DWDM+外置 ELS；LITE 2022 CW-WDM + 2026 DWDM ELSFP demo（~24 dBm/ch，H1’27）。**「All bought」≠订单**。@_vision2020_：铜图过时；>72 切入但「铜死」看时间线；IA 未认真回应。 〔引用：光互连对话 2026-10-27〕
 - (同上·晚间) Corning Q3 Optical **$2.379B（+44%）** / Enterprise **+84%** / Gen AI **>2×** / Optical NI **$532M（+80%）**；Q4 core **$52–53B**。新易盛：Q4 量抬升；**800G+1.6T** 主交付。可插拔信号；改写 CPO/ELS/MRVL 时钟仍须公司原话——当夜无。 〔引用：同上；交叉 `trading-holdings`〕
+\n
+
+## 2026-10-28（周三；午夜同步 2026-10-29）
+- (2026-10-28，WIN 代工读穿) @lyAtomic：WIN=高功率 DFB 外协；CW/InP/6″ 条件决定对 SIVE 增量是否为 0——见 `sive-investment`。Optical 占 WIN 营收仅 **10–15%** 且未必是 CW。 〔交叉 sive / x-content〕
+- (同上·PEquity CW 需求) status/**2115428372352471457**（@lyAtomic RT）：专家纪要转述——EML 订单排至 **2028**；2027 CW 激光芯片需求 **>10M** 颗；NPO 用 100–200 mW CW 或在 2H27 起数百万～**10M**、真正放量 **2028**；若 NPO 起飞总 CW 或 **>30M**；点 `$COHR` `$LITE`。**二手专家 call**，须核原文。 〔引用：X note_tweet；`pequity_cw_demand.txt`〕
+- (同上·Pep CW 外调制) 稳态激光 vs 调制器分工 + DR8 70 mW——机制复习，非新 IR。 〔交叉 sive〕
+- (日程) **今日** MSFT+GOOGL **10/28 AMC**（本同步时点美股仍开盘、业绩未出）；SNDK **10/29**；AAOI **11/5**；COHR **11/4 AMC**。 〔引用：既有周历〕
+- (交叉) 10/27 Pep 激光工程 / Corning / IA Nyquist——**不重抄**。 〔交叉〕

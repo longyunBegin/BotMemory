@@ -120,3 +120,10 @@
 
 ## 2026-10-27 对话补录（交叉午夜 TileProto 多 PR；补审计细节）
 - (2026-10-27，工具·顺滑度审计) @`33d8b6b`/PR#5：无 NSAlert；divider/⌘-swap 成功无 toast；clamp+overlap 整步回退；设计 vs Demo RE 对齐；Settings/全局快捷/Quit-demo/blur **有意延期**；README Dim **28%** vs 代码 **50%**。真机须 Accessibility；图标选型仍待。 〔引用：工具对话 2026-10-27；报告 `/workspace/SMOOTHNESS-AUDIT-2026-10-27.md`；交叉午夜多 PR〕
+\n
+
+## 2026-10-28（工具·TileProto；午夜同步 2026-10-29）
+- (2026-10-28，工具·TileProto) 仓库 `longyunBegin/TileProto`：PR **#7** `624658c`（Merge `cursor/live-demo-parity-a342`，UTC ~04:31）合入——夹紧入格、大窗进叠、缝拖保留、live-demo 预览等。随后同主题多笔推送至 `d6d1a64`（UTC 11:03）：z-order、悬停钮跟前窗、Primary 亮度跟当前窗、Tile→Unfloat 改名、Focus 瞬时提示、⌘拖修正（前窗主体/gap snap/快照刷新/跟手合并/去重叠）。 〔引用：`gh` commits since 2026-10-27T16Z；交叉工作区 QA〕
+- (同上·全功能 QA) `/workspace/FULL-FEATURE-QA-2026-10-28.md` @`33d8b6b` 机器 longyun Mac：**25 PASS/PASS*** / **1 PARTIAL** / **0 FAIL**（26 项）。**上下拖缝坐实**（Grid h0 高度 434→515/354；Rows 同）。风险：Clean Space 会最小化其他 TextEdit；面板 AX 索引漂移；Rows+Stack 预期重叠。 〔引用：该 md〕
+- (同上·本地忙桌面 QA) `/workspace/uploads/TileProto-local-qa-REPORT.md`（14:33–14:40 Asia/Shanghai）@`624658c`+**未提交**本地改动（`main.swift` +374/−104）：编译/SELFTEST PASS；产品目的「任意 App 不得盖邻格」**未达标**——忙桌面多扇大窗 CROSS/COVER；菜单栏布局切换 FAIL；左右拖缝弱。 〔引用：该报告；工具附件 png mtime 10/28〕
+- (缺口) 图标三案最终选型仍未见拍板记录；对话细节待补录。 〔引用：对话缺口〕

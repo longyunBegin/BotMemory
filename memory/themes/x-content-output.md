@@ -388,3 +388,10 @@
 ## 2026-10-27 对话补录（交叉午夜已发 META 帖；补代写工坊 + It's All Over 筛）
 - (2026-10-27，X·META 代写) 口语化草稿：CapEx/FCF 转负/股权融资；Bloomberg **5×** 超认购 vs filing **$25B@$625** 未写倍数——对话=工坊；发出帖见午夜 status/**2115093579219743138**。 〔引用：X 对话 2026-10-27；交叉 `d1013e4`〕
 - (同上·It's All Over) 五筛读法 + 用户侧 AXTI 最贴 / SIVE 不过 SI 规则——见 serenity / sive；非发帖。 〔交叉〕
+\n
+
+## 2026-10-28（周三；午夜同步 2026-10-29）
+- (2026-10-28，@lyAtomic 原创) status/**2115316693308436589**（UTC 05:36 ≈ 上海 **13:36**；~**20** 赞 / **1** 书签 / ~**1.9k** 观看）：WIN Semi Q3 call 日——与 `$SIVE` **非竞争而是代工链**读穿；好财报≠PO；可证伪条件写清（CW-DFB 时机/交期/6″ InP）。Jev≈**2.96**。详见 `sive-investment`。 〔引用：X；`/workspace/x-findings-2026-10-28/jev/lyatomic_win_sive.txt`〕
+- (同上·原创数字) status/**2115322134491005288**（UTC 05:57）：WIN Q3 营收/毛利率/组合/Q4 指引——见 sive。 〔引用：X〕
+- (同上·RT) status/**2115317051774632282** RT @Sofigoodboy Winsemi 预告；**2115328936997740652** RT SoFire「Infra+Optical 过半」；**2115454322456801331** RT @pequityresearch Optical Lasers 专家纪要（CW/NPO 需求）。官号 @SiversSemicond **0** 新帖。 〔引用：X get_users_posts〕
+- (同上) 对话是否代写 WIN 帖属缺口（transcript 不可读）。 〔引用：对话缺口〕
