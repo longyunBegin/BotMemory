@@ -127,3 +127,6 @@
 - (同上·全功能 QA) `/workspace/FULL-FEATURE-QA-2026-10-28.md` @`33d8b6b` 机器 longyun Mac：**25 PASS/PASS*** / **1 PARTIAL** / **0 FAIL**（26 项）。**上下拖缝坐实**（Grid h0 高度 434→515/354；Rows 同）。风险：Clean Space 会最小化其他 TextEdit；面板 AX 索引漂移；Rows+Stack 预期重叠。 〔引用：该 md〕
 - (同上·本地忙桌面 QA) `/workspace/uploads/TileProto-local-qa-REPORT.md`（14:33–14:40 Asia/Shanghai）@`624658c`+**未提交**本地改动（`main.swift` +374/−104）：编译/SELFTEST PASS；产品目的「任意 App 不得盖邻格」**未达标**——忙桌面多扇大窗 CROSS/COVER；菜单栏布局切换 FAIL；左右拖缝弱。 〔引用：该报告；工具附件 png mtime 10/28〕
 - (缺口) 图标三案最终选型仍未见拍板记录；对话细节待补录。 〔引用：对话缺口〕
+
+## 2026-10-28 对话补录（交叉午夜 PR#7+SELFTEST PASS；补真机忙桌面 FAIL）
+- (2026-10-28 ~14:33–14:40，工具) 忙桌面 QA **未达标**：大窗盖邻格；min-size float centered；Restore 后中央浮层；learnedMinSizes 污染。证据 `~/tileproto/ax-live/local-qa-143329/REPORT.md`。SELFTEST/FULL-FEATURE PASS ≠ 产品目的。用户 brief：`docs/AGENT-FIX-BRIEF-2026-10-28.md`（点外关面板；选布局后铺满格禁中央浮层；面板勿杂糅）。Focus+AX 拒缩→半残桌面。 〔引用：工具对话 2026-10-28；交叉午夜 `ae2d5aa`〕

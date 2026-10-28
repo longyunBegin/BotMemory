@@ -338,3 +338,6 @@
 - (同上·Pep CW 外调制) 稳态激光 vs 调制器分工 + DR8 70 mW——机制复习，非新 IR。 〔交叉 sive〕
 - (日程) **今日** MSFT+GOOGL **10/28 AMC**（本同步时点美股仍开盘、业绩未出）；SNDK **10/29**；AAOI **11/5**；COHR **11/4 AMC**。 〔引用：既有周历〕
 - (交叉) 10/27 Pep 激光工程 / Corning / IA Nyquist——**不重抄**。 〔交叉〕
+
+## 2026-10-28 对话补录（交叉午夜 Pep CW / lyAtomic WIN；补稳懋法说读穿）
+- (2026-10-28 晚，光互连) 稳懋法说钉死：PD 今年量产；**CW/EML → 2027 预量产、2028 规模**；朝 200–400 mW；联亚 Q3 营收年增约 **183%**。Carrio Jev optical≈2.75。MRVL 无新 IR。好 WIN ≠ Sivers PO。 〔引用：光互连对话 2026-10-28；交叉 `sive-investment`〕

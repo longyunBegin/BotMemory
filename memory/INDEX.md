@@ -104,3 +104,4 @@
 - 日常同步 2026-10-28 00:00 Asia/Shanghai（覆盖 10/27：SIVE.ST 收 22.82（+8.5%）；FI Sum 6.06%；观察池 10/26 已发；@lyAtomic META 融资；Serenity 内存 LTA/It's All Over；Pep 激光工程；TileProto 全日；无新助手 18；对话读取仍是缺口）：`memory/episodes/2026-10-28-midnight-sync.md`
 | 2026-10-28 对话补录（10/27） | memory/episodes/2026-10-28-transcript-catchup.md |
 - 日常同步 2026-10-29 00:00 Asia/Shanghai（覆盖 10/28：SIVE.ST 收 22.68 平盘；更正 10/27 定盘 22.68；观察池 10/27 已发；@lyAtomic WIN→SIVE；Serenity SKH；Pep CW；TileProto PR#7+QA；无新助手 18；美股未定盘；对话读取仍是缺口）：`memory/episodes/2026-10-29-midnight-sync.md`
+| 2026-10-29 对话补录（10/28） | memory/episodes/2026-10-29-transcript-catchup.md |
