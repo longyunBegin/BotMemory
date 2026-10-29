@@ -598,3 +598,8 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 ## 7ap. 增量核对（2026-10-29；午夜同步 2026-10-30；交叉不重抄 10/28 SKH）
 - (2026-10-29 ~02:00 UTC，Serenity) status/**2115624832947917083**：「$MRVL is in the final stages of a deal to acquire $LITE」；垂直整合供给最紧卡点（激光）；若成则「other laser players more strategically valuable」。互动高（likes≈1925 / RT≈85 / bookmarks≈246）——**Jev quality≈0.88**（薄传闻放大器，**不当硬点**）。须一手核 Bloomberg/公司 IR；证伪=官方否认或交易破裂。 〔引用：X get_users_posts；Jev `/workspace/x-findings-2026-10-29/jev/`〕
 - (交叉) 同窗 @lyAtomic / Pep 读穿与 SIVE 路径区分——见 `sive-investment` / `x-content-output`。10/28 SKH——**不重抄**。
+
+
+## 7aq. 增量核对（2026-10-29 对话补录；交叉午夜 §7ap）
+- (2026-10-29，Research/SIVE·通知) Serenity MRVL/LITE status/**2115624832947917083** 转达——交叉午夜 §7ap（Jev≈0.88，薄传闻放大器）；未点名 SIVE。 〔引用：Research/SIVE 对话 2026-10-29；交叉午夜 `1218b23`〕
+- (同上·Research·EML vs CW/DFB) 用户问技术路径：SIVE+Jabil = 可插拔形态里的 **CW DFB**（非 EML）——与午夜 lyAtomic 读穿同线。 〔引用：Research 对话 2026-10-29；交叉 `sive` / `optical`〕

@@ -106,3 +106,4 @@
 - 日常同步 2026-10-29 00:00 Asia/Shanghai（覆盖 10/28：SIVE.ST 收 22.68 平盘；更正 10/27 定盘 22.68；观察池 10/27 已发；@lyAtomic WIN→SIVE；Serenity SKH；Pep CW；TileProto PR#7+QA；无新助手 18；美股未定盘；对话读取仍是缺口）：`memory/episodes/2026-10-29-midnight-sync.md`
 | 2026-10-29 对话补录（10/28） | memory/episodes/2026-10-29-transcript-catchup.md |
 - 日常同步 2026-10-30 00:00 Asia/Shanghai（覆盖 10/29：SIVE.ST 收 23.10；更正 10/28 定盘 22.92；观察池 10/28 已发；@lyAtomic MRVL/LITE+Capex；Serenity MRVL↔LITE 传闻；Pep InP100；TileProto v0.1.0/0.1.1；无新助手 18；美股未定盘；对话读取仍是缺口）：`memory/episodes/2026-10-30-midnight-sync.md`
+| 2026-10-30 对话补录（10/29） | memory/episodes/2026-10-30-transcript-catchup.md |

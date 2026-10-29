@@ -134,3 +134,7 @@
 ## 2026-10-29（工具·TileProto v0.1.0/v0.1.1；午夜同步 2026-10-30）
 - (2026-10-29 UTC ~03:40–04:03，工具·TileProto) 仓库 `longyunBegin/TileProto`：`5e16f8a` **v0.1.0**——focus rule、Pin；去掉 strips 与 accordion expansion。`cb0de93` 菜单栏图标改 logo tile template（原文字 glyph）+ untrusted badge。`53e43de` README 下载文件名 v0.1.0→**v0.1.1**。GitHub Releases 已发 **v0.1.0**（~03:42Z）与 **v0.1.1**（~04:03Z）。 〔引用：`gh` commits/releases since 2026-10-28T16Z〕
 - (交叉) 10/28 PR#7 + 忙桌面 QA 未达标——**不重抄**；对话是否跟进 v0.1.x 属 transcript 缺口。 〔引用：对话缺口〕
+
+
+## 2026-10-29 对话补录（交叉午夜 v0.1.0/v0.1.1）
+- (2026-10-29，工具) 日历日对话侧无新用户投研实质；TileProto **v0.1.0/v0.1.1** 已在午夜 `1218b23`。10/28 忙桌面 FAIL 已在 `dd1f510`，不重抄。 〔引用：交叉午夜 / episode `2026-10-30-transcript-catchup`〕

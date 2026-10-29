@@ -539,3 +539,9 @@
 - (更正·10/28 定盘) 昨夜午夜曾记 10/28 **C 22.68 / 量 2,978,748**（相对 10/27「平盘」）；定盘后 Yahoo + 观察池钉 **C 22.92（+1.06% vs 10/27 22.68）/ O 23.10 / H 23.60 / L 22.22 / 量 3,291,191**。以定盘为准。 〔引用：Yahoo；`trade/scan.md` 数据日 10/28〕
 - (FI 缓存) Sum 仍 **6.06%**（`fi_em_20261027.html`）；现网 short-selling **404**；`fi_em_20261028.html` 无 Sivers 段。aktuella 命名仍 Two Sigma 0.70 / AQR 0.59 / Arrowstreet 0.59。 〔引用：FI 缓存〕
 - (社区·MRVL↔LITE) 传闻「advanced talks / final stages」收购 Lumentum——**无公司确认**。读穿要点见 @lyAtomic status/**2115653286024097869**：LITE≈EML/可插拔 vs SIVE 活路径 Jabil **CW DFB→1.6T LRO**；≠继承 LITE 需求，而是垂直整合卡点→围栏外更紧；泄露可黄。Jev quality≈**1.52**。Pep InP100 对准帖 status/**2115737509510426945**（±5 nm / imec <300 nm / <2 dB，Jev≈**2.20**）—社区非 IR。官号 0 新帖。 〔引用：X；交叉 `x-content-output` / `serenity` / `optical`〕
+
+
+## 2026-10-29 对话补录（交叉午夜 `1218b23` 收 23.10 + 10/28 定盘 22.92；补晨报/十年简报/盯梢）
+- (2026-10-29 晨，SIVE·晨报) 覆盖 **10/28** 定盘（**非** 10/29）：close **22.92（+1.06%）**；FI **6.04%**；IR×close ≈ **8.18B SEK**；主轴 Bloomberg MRVL↔LITE；WIN Semi CW/EML→**2028**；Serenity 未点名 SIVE。中英草稿两套时钟（并购 vs WIN 2028）已交、**未发帖**。午夜另记 10/29 收 **23.10**——勿混。 〔引用：SIVE 对话 2026-10-29；交叉午夜 `1218b23`〕
+- (同上·十年历程×股价) 交付 2016–2026 简报：ATH ~**110** SEK → 现 ~**23**；交付时钟 Glasgow hybrid / WIN 外延 / Jabil CW DFB→1.6T LRO。 〔引用：同上〕
+- (同上·傍晚盯梢) Serenity MRVL/LITE status/**2115624832947917083**（未点名 SIVE）——交叉午夜一行。 〔交叉 `serenity` §7ap〕
