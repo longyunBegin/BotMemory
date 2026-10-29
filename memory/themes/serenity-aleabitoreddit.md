@@ -594,3 +594,7 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 
 ## 7ao. 增量核对（2026-10-28 对话补录；交叉午夜 §7an）
 - (2026-10-28 ~09:27/~11:36，Research·通知) CSP 内存 LTA→2035；SK Hynix 短缺至 2030 + 利润超预期转述——**数字须对官方稿**（内存对话：₩104.6万亿营收 / ₩83.3万亿营业利润 / 80%）。 〔引用：Research 对话 2026-10-28；交叉午夜 §7an / 内存〕
+
+## 7ap. 增量核对（2026-10-29；午夜同步 2026-10-30；交叉不重抄 10/28 SKH）
+- (2026-10-29 ~02:00 UTC，Serenity) status/**2115624832947917083**：「$MRVL is in the final stages of a deal to acquire $LITE」；垂直整合供给最紧卡点（激光）；若成则「other laser players more strategically valuable」。互动高（likes≈1925 / RT≈85 / bookmarks≈246）——**Jev quality≈0.88**（薄传闻放大器，**不当硬点**）。须一手核 Bloomberg/公司 IR；证伪=官方否认或交易破裂。 〔引用：X get_users_posts；Jev `/workspace/x-findings-2026-10-29/jev/`〕
+- (交叉) 同窗 @lyAtomic / Pep 读穿与 SIVE 路径区分——见 `sive-investment` / `x-content-output`。10/28 SKH——**不重抄**。

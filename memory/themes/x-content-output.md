@@ -398,3 +398,9 @@
 
 ## 2026-10-28 对话补录（交叉午夜 WIN 帖已发；补草稿工坊——填午夜「对话缺口」）
 - (2026-10-28 ~13:33，SIVE·WIN 推文工坊) 用户求 WIN↔SIVE 关联推文 → 双语草稿（代工非竞品；盯 CW）。发出见午夜 status/**2115316693308436589** + Q3 数字帖——对话=工坊，非缺口。 〔引用：SIVE 对话 2026-10-28；交叉午夜 `ae2d5aa` / `sive-investment`〕
+
+## 2026-10-29（@lyAtomic MRVL/LITE + Capex；午夜同步 2026-10-30）
+- (2026-10-29 ~03:53 UTC，@lyAtomic) status/**2115653286024097869**（长文）：$MRVL/$LITE 嘈杂；若真——LITE 偏 EML/可插拔；$SIVE 活路径=Jabil **CW DFB→1.6T LRO**；同约束=激光短缺。读法≠「SIVE 继承 LITE 需求」，而是大买方锁激光厂→围栏外更紧；CW 不豁免。补充：并购喜欢安静，泄露常添乱/抬价/监管，有时直接黄。Jev quality≈**1.52**（abstain；机制可记非硬点）。 〔引用：X note_tweet；Jev〕
+- (同上 ~14:43 UTC) status/**2115816882532127199**：Azure 仍加速；Google Cloud backlog；Meta 上修 CapEx 下限；软数字多=3P GPU **交付时滞**；MSFT 点 H2 内存/存储成本；CapEx 仍偏服务器+网络→激光/CW 卡点；点名 $SIVE 与 $LITE/$COHR 同在光源栈。Jev≈**1.49**。须对一手稿。 〔引用：X〕
+- (同上·RT) status/**2115616438820196767** RT Sofigoodboy「MRVL acquiring Lumentum… Make Sivers Great Again」；**2115615692762603804** RT 韩语 $SIVE「10 月最后甩卖」——情绪帖不当硬点。官号 @SiversSemicond **0** 新帖。 〔引用：X get_users_posts〕
+- (缺口) 对话是否代写 MRVL/LITE 帖属 transcript 不可读。 〔引用：对话缺口〕

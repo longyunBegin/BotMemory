@@ -130,3 +130,7 @@
 
 ## 2026-10-28 对话补录（交叉午夜 PR#7+SELFTEST PASS；补真机忙桌面 FAIL）
 - (2026-10-28 ~14:33–14:40，工具) 忙桌面 QA **未达标**：大窗盖邻格；min-size float centered；Restore 后中央浮层；learnedMinSizes 污染。证据 `~/tileproto/ax-live/local-qa-143329/REPORT.md`。SELFTEST/FULL-FEATURE PASS ≠ 产品目的。用户 brief：`docs/AGENT-FIX-BRIEF-2026-10-28.md`（点外关面板；选布局后铺满格禁中央浮层；面板勿杂糅）。Focus+AX 拒缩→半残桌面。 〔引用：工具对话 2026-10-28；交叉午夜 `ae2d5aa`〕
+
+## 2026-10-29（工具·TileProto v0.1.0/v0.1.1；午夜同步 2026-10-30）
+- (2026-10-29 UTC ~03:40–04:03，工具·TileProto) 仓库 `longyunBegin/TileProto`：`5e16f8a` **v0.1.0**——focus rule、Pin；去掉 strips 与 accordion expansion。`cb0de93` 菜单栏图标改 logo tile template（原文字 glyph）+ untrusted badge。`53e43de` README 下载文件名 v0.1.0→**v0.1.1**。GitHub Releases 已发 **v0.1.0**（~03:42Z）与 **v0.1.1**（~04:03Z）。 〔引用：`gh` commits/releases since 2026-10-28T16Z〕
+- (交叉) 10/28 PR#7 + 忙桌面 QA 未达标——**不重抄**；对话是否跟进 v0.1.x 属 transcript 缺口。 〔引用：对话缺口〕

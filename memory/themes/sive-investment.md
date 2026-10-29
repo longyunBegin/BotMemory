@@ -533,3 +533,9 @@
 - (2026-10-28 晨，SIVE·WIN 侧看) 稳懋 3105 Q3 法说旁证；月营收 3Q NT$58.59亿；CW/InP 仍 Q2 口径；对 SIVE：CW 卡/InP 紧→外代工叙事↑，提前/外供松→↓，只报光通无 CW→零增量。例程 win-semi 已删。 〔引用：SIVE 对话 2026-10-28；交叉午夜 lyAtomic WIN→SIVE〕
 - (同上·晨报) 覆盖 **10/27** 定盘：22.68（+7.79%），O21.16/H23.02/L20.90，量~4.36–4.37M；IR×close≈**80.91亿 SEK**；FI **6.04%**；无新 IR；Serenity 未点名；Ayar LinkedIn like≠PO；草稿未发。 〔引用：同上〕
 - (同上 ~13:33·草稿工坊) 用户求 WIN↔SIVE 推文 → 双语：WIN=2025-03-25 IR 外延代工非竞品；盯 CW timeline。发出帖见午夜 status/2115316693308436589。 〔引用：同上；交叉 `x-content-output`〕
+
+## 2026-10-29（价格 + MRVL/LITE 社区读穿；午夜同步 2026-10-30）
+- (2026-10-29，价格) Yahoo SIVE.ST：**O 23.30 / H 23.74 / L 22.54 / C 23.10**，量 **3,797,186**；相对定盘 10/28 收 **22.92** 约 **+0.79%**。粗算市值 23.10×356,740,332 ≈ **82.4 亿 SEK**。无新 IR/商业 PR（本机无 10/29 结构化 digest）。 〔引用：Yahoo chart SIVE.ST；`/workspace/yahoo_bars_20261029.json`〕
+- (更正·10/28 定盘) 昨夜午夜曾记 10/28 **C 22.68 / 量 2,978,748**（相对 10/27「平盘」）；定盘后 Yahoo + 观察池钉 **C 22.92（+1.06% vs 10/27 22.68）/ O 23.10 / H 23.60 / L 22.22 / 量 3,291,191**。以定盘为准。 〔引用：Yahoo；`trade/scan.md` 数据日 10/28〕
+- (FI 缓存) Sum 仍 **6.06%**（`fi_em_20261027.html`）；现网 short-selling **404**；`fi_em_20261028.html` 无 Sivers 段。aktuella 命名仍 Two Sigma 0.70 / AQR 0.59 / Arrowstreet 0.59。 〔引用：FI 缓存〕
+- (社区·MRVL↔LITE) 传闻「advanced talks / final stages」收购 Lumentum——**无公司确认**。读穿要点见 @lyAtomic status/**2115653286024097869**：LITE≈EML/可插拔 vs SIVE 活路径 Jabil **CW DFB→1.6T LRO**；≠继承 LITE 需求，而是垂直整合卡点→围栏外更紧；泄露可黄。Jev quality≈**1.52**。Pep InP100 对准帖 status/**2115737509510426945**（±5 nm / imec <300 nm / <2 dB，Jev≈**2.20**）—社区非 IR。官号 0 新帖。 〔引用：X；交叉 `x-content-output` / `serenity` / `optical`〕

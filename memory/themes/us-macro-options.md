@@ -191,3 +191,8 @@
 ## 2026-10-28 对话补录（交叉午夜财报窗；补 SKH 官方 + CXMT + 云厂 CapEx 读法）
 - (2026-10-28，内存) 云厂财报盯 CapEx 上修/持平/下修；SK Hynix 官方 3Q26 利润率 **80%**、短缺叙事至 **2030**；CXMT HBM3E 良率 20–30% 短期弱冲击。Serenity 同线为二手——以官方为准。 〔引用：内存/Research 对话 2026-10-28；交叉 serenity §7an/§7ao〕
 - (同上·Trade) MSFT+GOOGL 10/28 AMC / SNDK 10/29 提醒已交。 〔交叉 trading-holdings〕
+
+## 2026-10-29（超大规模财报反应窗 + MRVL/LITE 传闻；午夜同步 2026-10-30）
+- (2026-10-29 盘中，Yahoo) GOOGL ~**286**（约 −12% vs 10/28 324.89）、MSFT ~**524**（约 −1.3% vs 531）、MRVL ~**222**（约 −12% vs 251.65）——**未定盘**；反应叙事与 10/28 AMC + 收购传闻交织，勿单因归因。 〔引用：Yahoo；交叉 trading-holdings〕
+- (社区·Capex 读法) @lyAtomic：软打印≈交付时滞非需求取消；Meta 上修 CapEx 下限；MSFT 点 H2 内存/存储成本——**须对一手 10-K/电话会**。Jev≈1.49。 〔引用：status/2115816882532127199〕
+- (交叉) MRVL↔LITE 收购传闻见 `optical` / `serenity`——未确认。10/28 META 融资——**不重抄**。

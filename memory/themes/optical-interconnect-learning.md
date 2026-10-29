@@ -341,3 +341,9 @@
 
 ## 2026-10-28 对话补录（交叉午夜 Pep CW / lyAtomic WIN；补稳懋法说读穿）
 - (2026-10-28 晚，光互连) 稳懋法说钉死：PD 今年量产；**CW/EML → 2027 预量产、2028 规模**；朝 200–400 mW；联亚 Q3 营收年增约 **183%**。Carrio Jev optical≈2.75。MRVL 无新 IR。好 WIN ≠ Sivers PO。 〔引用：光互连对话 2026-10-28；交叉 `sive-investment`〕
+
+## 2026-10-29（MRVL/LITE 传闻 + Pep InP 对准；午夜同步 2026-10-30）
+- (社区传闻) MRVL 据称 advanced talks / final stages 收购 LITE（~社区转述市值约 $83B）——**未确认**。机制：买方锁激光产能→独立激光厂战略溢价叙事↑，但泄露阶段可黄。 〔引用：Serenity/Pep/引用帖；交叉 serenity §7ap〕
+- (Pep·InP100) status/**2115737509510426945**：蚀刻 facet + 自对准标记；垂向对准面相对光学模中心 **±5 nm**；imec flip-chip **<300 nm**、耦合损耗 **<2 dB**；称 2026-01 美专利对准特征。Jev≈**2.20**——有数字可核，**须对一手专利/imec**，非 IR。另 status/**2115708225886605435**「key strategic supplier」口号帖含水文。 〔引用：X note_tweet；Jev〕
+- (日程) SNDK **10/29**（本同步美股仍开盘）；AAOI **11/5**；COHR **11/4 AMC**。MSFT+GOOGL **10/28 AMC** 已过——盘中反应见 `trading-holdings` / `us-macro`（未定盘）。 〔引用：既有周历〕
+- (交叉) 10/28 稳懋 CW/EML 2027/2028——**不重抄**。
