@@ -608,3 +608,6 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (2026-10-30 ~07:07 UTC，Serenity) status/**2116064400381706600**：「Just large-cap investors in $INTC, $MRVL, and others… Finally getting a taste of what high beta investors endured over the past 3 months.」高互动（likes≈400 / ~120k 观看）——**Jev quality≈0.64 / water=yes**（情绪/共鸣帖，**不当工业硬点**）。@lyAtomic 回「😂」（status/**2116069351178867168**）。另 status/**2116043028695781658** 称 $LWLG 现~$4、小仓位属「it's all over」篮——续 10/27 情绪篮指针，不升格。 〔引用：X；`/workspace/x-findings-2026-10-30/jev/serenity_highbeta_taste.txt`〕
 - (交叉) 10/29 MRVL↔LITE §7ap——**不重抄**。 〔交叉〕
 
+
+## 7as. 增量核对（2026-10-30 对话补录；交叉午夜 §7ar large-cap beta）
+- (2026-10-30，光互连·用户问 Serenity 怎么比源杰/SIVE) 框架：别用「2026 出货颗数」硬比；比产能进短缺窗口 + 认证转化 + 功率档位；源杰≈已放量标准 70/100mW（约 1e7/年），SIVE≈短缺窗口产能期权+定制认证。引用 status/2114030117416755494 等。交叉午夜 §7ar 水文帖一行、不升格。 〔引用：光互连对话 2026-10-30；交叉 `optical` / `sive`〕

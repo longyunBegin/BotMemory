@@ -143,3 +143,6 @@
 - (2026-10-30 UTC，工具·TileProto) 仓库 `longyunBegin/TileProto`：`37bb9fc`（~06:24Z）——Dock 打开的窗保持（真拒绝才 float）；已放置窗冻结至切换布局；AX shrink 诊断。`2c13cb7`（~10:40Z）——邻窗永不覆盖：过大窗 fold 到 Dock；去掉 highlight layers。**无**新 GitHub Release tag（仍 **v0.1.1**）。 〔引用：`gh` commits since 2026-10-29T16Z〕
 - (交叉) v0.1.0/v0.1.1 Releases——**不重抄**（`1218b23`）；10/28 忙桌面 FAIL 已在 `dd1f510`。 〔交叉〕
 
+
+## 2026-10-30 对话补录（交叉午夜 TileProto Dock/fold）
+- (2026-10-30，工具) 对话侧无新用户投研实质；TileProto commits **`37bb9fc`/`2c13cb7`**（无新 Release）已在午夜 `a6feae6`。10/28 忙桌面 FAIL 已在 `dd1f510`，不重抄。 〔引用：交叉午夜 / episode `2026-10-31-transcript-catchup`〕
