@@ -603,3 +603,8 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 ## 7aq. 增量核对（2026-10-29 对话补录；交叉午夜 §7ap）
 - (2026-10-29，Research/SIVE·通知) Serenity MRVL/LITE status/**2115624832947917083** 转达——交叉午夜 §7ap（Jev≈0.88，薄传闻放大器）；未点名 SIVE。 〔引用：Research/SIVE 对话 2026-10-29；交叉午夜 `1218b23`〕
 - (同上·Research·EML vs CW/DFB) 用户问技术路径：SIVE+Jabil = 可插拔形态里的 **CW DFB**（非 EML）——与午夜 lyAtomic 读穿同线。 〔引用：Research 对话 2026-10-29；交叉 `sive` / `optical`〕
+
+## 7ar. 增量核对（2026-10-30；午夜同步 2026-10-31；交叉不重抄 10/29 MRVL/LITE）
+- (2026-10-30 ~07:07 UTC，Serenity) status/**2116064400381706600**：「Just large-cap investors in $INTC, $MRVL, and others… Finally getting a taste of what high beta investors endured over the past 3 months.」高互动（likes≈400 / ~120k 观看）——**Jev quality≈0.64 / water=yes**（情绪/共鸣帖，**不当工业硬点**）。@lyAtomic 回「😂」（status/**2116069351178867168**）。另 status/**2116043028695781658** 称 $LWLG 现~$4、小仓位属「it's all over」篮——续 10/27 情绪篮指针，不升格。 〔引用：X；`/workspace/x-findings-2026-10-30/jev/serenity_highbeta_taste.txt`〕
+- (交叉) 10/29 MRVL↔LITE §7ap——**不重抄**。 〔交叉〕
+

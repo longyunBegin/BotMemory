@@ -410,3 +410,9 @@
 - (2026-10-29，SIVE·晨报草稿) 两套时钟中英推文（并购叙事 vs WIN CW/EML→2028）已交、**未发帖**。 〔引用：SIVE 对话 2026-10-29〕
 - (同上·Research·MRVL/LITE×SIVE) 代写中英推文（事以密成），改口语/Serenity 口吻多版——草稿工坊，**未发帖**。发出读穿见午夜 @lyAtomic status/**2115653286024097869**。 〔引用：Research 对话 2026-10-29；交叉午夜 `1218b23`〕
 - (同上·美股·CapEx) 代写偏 SIVE 中英推文并改 Serenity 口吻——工坊；发出 Capex 读法见午夜 status/**2115816882532127199**。 〔引用：美股对话 2026-10-29；交叉午夜〕
+
+## 2026-10-30（@lyAtomic 以 RT 为主；Pep SIVE 总览；午夜同步 2026-10-31）
+- (2026-10-30 ~08:30 UTC，@lyAtomic) status/**2116085200954560786**：**RT** @Pep_Invest SIVE 总览（status/**2116075699756736949**）——无新原创机制帖。Pep 原文要点：内部人~20%/机构~27%/管道~$1.2B/JBL·GFS·Ayar/Glasgow>100M；Jev≈**1.49**。另 RT Agility AGLT 11/5；回 Serenity 😂。 〔引用：X get_users_posts；交叉 sive / serenity〕
+- (Pep 同窗可记指针) status/**2116128174169899198** 对 Anders/前管理层问 JBL beta Q4→客户认证、消费传感 vs AI 数通谁更大——Jev≈**1.11** uncertain water；**对话探针**非 IR。status/**2116092759623061827** MRVL/LITE→SIVE 口号（Jev water=yes）——不当硬点。 〔引用：X；Jev `/workspace/x-findings-2026-10-30/jev/`〕
+- (交叉) 10/29 已发 MRVL/LITE+Capex 原创帖——**不重抄**（`1218b23`）。 〔交叉〕
+

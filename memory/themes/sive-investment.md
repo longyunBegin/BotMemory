@@ -545,3 +545,13 @@
 - (2026-10-29 晨，SIVE·晨报) 覆盖 **10/28** 定盘（**非** 10/29）：close **22.92（+1.06%）**；FI **6.04%**；IR×close ≈ **8.18B SEK**；主轴 Bloomberg MRVL↔LITE；WIN Semi CW/EML→**2028**；Serenity 未点名 SIVE。中英草稿两套时钟（并购 vs WIN 2028）已交、**未发帖**。午夜另记 10/29 收 **23.10**——勿混。 〔引用：SIVE 对话 2026-10-29；交叉午夜 `1218b23`〕
 - (同上·十年历程×股价) 交付 2016–2026 简报：ATH ~**110** SEK → 现 ~**23**；交付时钟 Glasgow hybrid / WIN 外延 / Jabil CW DFB→1.6T LRO。 〔引用：同上〕
 - (同上·傍晚盯梢) Serenity MRVL/LITE status/**2115624832947917083**（未点名 SIVE）——交叉午夜一行。 〔交叉 `serenity` §7ap〕
+
+## 2026-10-30（周五；午夜同步 2026-10-31）
+- (2026-10-30，价格·近定盘) Yahoo SIVE.ST：**O 21.44 / H 21.80 / L 20.48 / C 20.90**，量 **2,468,294**；相对定盘 10/29 收 **23.12** 约 **−9.60%**。粗算市值 20.90×356,740,332 ≈ **74.6 亿 SEK**。同步时点 Asia/Shanghai ~00:1x≈CET 17:1x，live≈20.90——按近定盘；若次日 Yahoo 修正再更正。无新 IR/商业 PR（本机无 10/30 结构化 digest）。 〔引用：Yahoo chart；`/workspace/yahoo_bars_20261030.json`〕
+- (更正·10/29 定盘) 昨夜午夜记 **C 23.10 / 量 3,797,186**；定盘后 Yahoo + 观察池钉 **C 23.12（+0.87% vs 10/28 22.92）/ O 23.30 / H 23.74 / L 22.54 / 量 4,249,368**。以定盘为准。 〔引用：Yahoo；`trade/scan.md` 数据日 10/29〕
+- (FI 缓存) Sum 仍 **6.06%**（`fi_em_20261027.html`）；现网 short-selling **404**。aktuella 命名仍 Two Sigma 0.70 / AQR 0.59 / Arrowstreet 0.59。 〔引用：FI 缓存〕
+- (社区·Pep SIVE 总览) @Pep_Invest status/**2116075699756736949**（UTC 07:52）：内部人~**20%**、机构~**27%**、机会管道~**$1.2B**；关系点名 **$JBL / $GFS / @AyarLabs**；CW-DFB + Glasgow 年产能目标 **>1 亿**颗、2027 商业化时钟；自承管道≠收入。Jev theme=sive / water=uncertain / quality≈**1.49**（thin）。读法：**社区叙事汇总**，数字须对一手 IR/年报；@lyAtomic **RT**（status/**2116085200954560786**）无新机制。 〔引用：X note_tweet；`/workspace/x-findings-2026-10-30/jev/pep_2116075699756736949.txt`〕
+- (同上·Pep MRVL/LITE→SIVE) status/**2116092759623061827**：若 MRVL 花数百亿锁 LITE→激光战略重要；SIVE 扩产+JBL 1.6T——Jev water=**yes** / quality≈**0.95**——**口号帖**，交叉昨夜未确认收购传闻一行即可，不升格。 〔引用：X；Jev〕
+- (工作区·源杰 vs SIVE CW 情景) `/workspace/yuanjie-vs-sive-cw-shipment.png`（mtime 10/30 17:20）：同层 InP CW DFB；源杰基准约 2026~26M→2029~95M（已可插拔放量）；SIVE 基准约 2027 起爬、2029~35M（情景带约 12–60M）；注 Glasgow >1 亿/年（Q4’27 就绪=天花板）、2025 光子营收~0.92 亿 SEK≠AI CW 出货。**重构情景非指引**。可证伪：正式出货/ASP、量产承诺落地。详见 optical。 〔引用：工作区图；交叉 `optical-interconnect-learning`〕
+- (交叉) 10/29 MRVL↔LITE 读穿 / Pep InP100——**不重抄**（`1218b23`/`e67639e`）。 〔交叉〕
+

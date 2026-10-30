@@ -351,3 +351,11 @@
 
 ## 2026-10-29 对话补录（交叉午夜 MRVL↔LITE；补 LITE 澄清 + 观察框架）
 - (2026-10-29，光互连·用户「买威尔合并耐特」) 澄清 = **Lumentum $LITE**（非 Lightmatter）。彭博深谈、**未官宣**；与 SIVE = 间接二阶（中立备选期权）；短/长期观察框架。晚间再推：彭博+Lightmatter NPO/CPO+康宁 2028 旁证。交叉午夜主线一行——泄露≠成交。 〔引用：光互连对话 2026-10-29；交叉午夜 `1218b23` / `sive-investment`〕
+
+## 2026-10-30（周五；午夜同步 2026-10-31；源杰 CW 情景 + Pep 薄帖）
+- (工作区·源杰 688498 Q3’26 预告) `/workspace/yuanjie/q3_2026_preview.txt`（公告 **2026-051**，董事会披露日 **2026-10-13**）：营收 **6.5–7.0 亿元**（同比 +**264.56%–292.60%**）；归母净利 **4.03–4.53 亿元**（+**578.85%–659.70%**）；扣非净利 **4.0–4.5 亿元**（+**678.44%–775.74%**）。上年同期营收 1.783 亿元 / 净利 0.596 亿元。主因：**数据中心业务 / CW 出货持续增长**；毛利率高位+费用率下降。未经审计。另落 H1’26 / Q1 / phase2 PDF 于 `/workspace/yuanjie/`。 〔引用：公告 TXT；交叉 sive〕
+- (同上·情景图三张，mtime ~17:17–17:20) ① `cw-dfb-market-demand-scenarios.png`：全球 CW DFB 需求基准约 2025~78M→2029~500M（标准可插拔为主 + 后期 ELS/CPO）；机制=(SiPh 可插拔模组数)×(每模组 CW 颗数)；**不含 EML**；对齐 Mizuho 产能路径作代理。② `yuanjie-cw-dfb-shipment-scenarios.png`：源杰出货熊/基/牛（2029 约 42/95/140M）；方法≈数通收入代理÷假设 ASP~$9→$7；第三方锚 SiPh CW 份额~24%。③ `yuanjie-vs-sive-cw-shipment.png`：同层对比（见 sive）。**全部为重构情景，非公司指引**。可证伪：正式季报分拆颗数/ASP、产能利用率。 〔引用：工作区 PNG〕
+- (社区·Pep LWLG×Foxconn) status/**2116122962692550765**：称 Foxconn 演示含 LWLG EO polymer 的光模块、瞄 200G/400G per lane——Jev optical / water=**yes** / quality≈**1.20**——**仅指针**，须一手核演示/订单，不当硬点。 〔引用：X；Jev〕
+- (日程) AAOI **11/5**；COHR **11/4 AMC**；Agility Robotics 预期 **AGLT** Nasdaq **11/5**（@lyAtomic RT，非光互连主线）。 〔引用：既有周历；X RT〕
+- (交叉) 10/29 MRVL↔LITE / Pep InP100 / 稳懋 2027–28——**不重抄**。 〔交叉〕
+
