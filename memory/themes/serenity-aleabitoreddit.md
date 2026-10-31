@@ -611,3 +611,9 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 
 ## 7as. 增量核对（2026-10-30 对话补录；交叉午夜 §7ar large-cap beta）
 - (2026-10-30，光互连·用户问 Serenity 怎么比源杰/SIVE) 框架：别用「2026 出货颗数」硬比；比产能进短缺窗口 + 认证转化 + 功率档位；源杰≈已放量标准 70/100mW（约 1e7/年），SIVE≈短缺窗口产能期权+定制认证。引用 status/2114030117416755494 等。交叉午夜 §7ar 水文帖一行、不升格。 〔引用：光互连对话 2026-10-30；交叉 `optical` / `sive`〕
+
+
+## 7at. 增量核对（2026-10-31 周六；午夜同步 2026-11-01；交叉不重抄 10/30 high-beta）
+- (2026-10-31 ~01:29 Asia/Shanghai，Serenity) status/**2116221086107111712**（UTC 10/30 17:29）：「Trump: This is Biden’s market」宏观梗——**非** SIVE/激光工业硬点（高互动不当催化）。 〔引用：X get_users_posts；晨报 §3〕
+- (同上·SIVE 窗) 晨报窗自 ~10/30 01:00 UTC：**对 SIVE/Sivers/Glasgow/Jabil/CW/InP/CPO/双上市/估值模型沉默**。记忆中 INTC/MRVL 痛感帖 status/**2116064400381706600** 今日 `get_posts_by_id` **未找到**（或已删）——以 API 实取为准。 〔引用：`/workspace/sive-digest-2026-10-31.md` §3；交叉午夜 §7ar〕
+- (交叉) 10/30 large-cap high-beta 帖——**不重抄**（若仍可见见 §7ar）。 〔交叉〕
