@@ -373,3 +373,6 @@
 - (社区·披露 vs 叙事) 前 CEO Storm 钉「订单金额/客户名/Jabil qual PR」可观察门槛；Pep 以已公告 LiDAR + JBL Q4 beta 时间表反驳——**机制张力可记**，双方皆非新 IR。Matrix AVGO 包产能属叙事。详见 `sive-investment`。 〔引用：X；晨报；交叉 sive〕
 - (日程) AAOI **11/5**；COHR **11/4 AMC**；SIVE Q3（估）**11/26**；Agility AGLT **11/5**（非主线）。周末无新公司光互连 PR。 〔引用：既有周历；晨报〕
 - (交叉) 源杰 Q3 正式数字 / vs SIVE 出货情景——**不重抄**（`983754a`/`a6feae6`）。 〔交叉〕
+
+## 2026-10-31 对话补录（交叉午夜披露张力；补 dizaq1/Matrix 续）
+- (2026-10-31，SIVE·社区旁证) dizaq1：半导抛售理由不足以卖 photonics（点名 AAOI/SIVE）status/**2116169145326903482**——情绪一笔。Matrix AVGO 锁 Glasgow 续帖 **2116269124913713394**（Jev 水文，不当硬点）。Storm/Pep 全链见 sive 补录。周末无新公司光互连 PR。 〔引用：SIVE 对话 2026-10-31；交叉午夜 `89d6ab2` / `sive-investment`〕

@@ -617,3 +617,6 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (2026-10-31 ~01:29 Asia/Shanghai，Serenity) status/**2116221086107111712**（UTC 10/30 17:29）：「Trump: This is Biden’s market」宏观梗——**非** SIVE/激光工业硬点（高互动不当催化）。 〔引用：X get_users_posts；晨报 §3〕
 - (同上·SIVE 窗) 晨报窗自 ~10/30 01:00 UTC：**对 SIVE/Sivers/Glasgow/Jabil/CW/InP/CPO/双上市/估值模型沉默**。记忆中 INTC/MRVL 痛感帖 status/**2116064400381706600** 今日 `get_posts_by_id` **未找到**（或已删）——以 API 实取为准。 〔引用：`/workspace/sive-digest-2026-10-31.md` §3；交叉午夜 §7ar〕
 - (交叉) 10/30 large-cap high-beta 帖——**不重抄**（若仍可见见 §7ar）。 〔交叉〕
+
+## 7au. 增量核对（2026-10-31 对话补录；交叉午夜 §7at）
+- (2026-10-31 晨，SIVE·digest) Alea 对 SIVE 题材继续沉默；窗内非题材 Biden’s market **2116221086107111712** + LWLG「it's all over」**2116043028695781658**——交叉午夜 §7at，不升格。INTC/MRVL 痛感帖 **2116064400381706600** `get_posts_by_id` 未找到（或已删）——对话侧再确认。 〔引用：SIVE 对话 2026-10-31；交叉午夜 `89d6ab2` §7at〕
