@@ -636,3 +636,7 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 ## 7ax. 增量核对（2026-11-03；Counterpoint→SIVE + 旁支；补同步）
 - (2026-11-03 ~09:31 UTC) status/**2117550199895896490**：Counterpoint on MRVL/LITE——引「每个与 Marvell 竞争的买方要第二个独立光源」；点名 **$SIVE / Scintil** 为新 CW/ELS 产能、**$CRDO** 为潜在伙伴；对比 AAOI 2026 末激光产能目标 ~**24M**/年；二阶：模组厂上溯（JBL vs 合并实体；SMTC M&A 扩激光）。称 AI 估值崩盘≠光学个股强弱。引用 Counterpoint 文「Marvell Buys Lumentum to Climb the AI Laser Wall」（Sofigoodboy **2117486332117422128** 亦摘 SIVE 三点）。**卖方/社区指针**；可证伪=无出货/无认证/交割黄。 〔引用：X note_tweet；Counterpoint URL via Sofigoodboy〕
 - (旁支，非 SIVE 主线) **2117493886100918684** ESMT 内存高利润率+净现金；**2117539121434591711** POET 市值贴近净现金/账面；**2117634458778247210** Agility 合并批准→**AGLT** 预期 **11/5** 交易；**2117556261378298059** 答 CIEN 激光瓶颈+万联点名供应商分散。 〔引用：X〕
+
+
+## 7ay. 增量核对（2026-11-03 对话补录；Serenity 破沉默全链 URL；交叉午夜 §7aw/§7ax）
+- (2026-11-03 ~21:07，SIVE·digest) 对话钉全链补午夜摘要：主帖 https://x.com/aleabitoreddit/status/2117255303301612014 （Jev≈2.0）；Counterpoint https://x.com/aleabitoreddit/status/2117550199895896490 （Jev≈2.2；**非**新产能÷ASP）；CIEN https://x.com/aleabitoreddit/status/2117556261378298059 （q≈1.4）；辅 **2117228754489807320** / **2117232605146034649** / **2117296667108278605**。11/01–11/02 窗仍对 SIVE 沉默至并购日串——交叉 §7av/§7aw。 〔引用：SIVE 对话 2026-11-03；交叉午夜 `2f119dd`〕

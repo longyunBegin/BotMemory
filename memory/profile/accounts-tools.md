@@ -159,3 +159,8 @@
 ## 2026-11-01–11/03（工具·TileProto；补同步 2026-11-04）
 - (TileProto) `longyunBegin/TileProto`：自 `2c13cb7`（2026-10-30）至本同步时点 **无**新 commit；**无**新 Release（仍 **v0.1.1**）。 〔引用：`gh` commits〕
 - (交叉) 10/30 Dock/fold——**不重抄**（`a6feae6`）。 〔交叉〕
+
+
+## 2026-11-03 对话补录（flyint DNS + TileProto 交叉午夜）
+- (2026-11-03 ~23:03，工具) flyint.conf 唯一调整：`*.bestvmr.com` Host DNS **`47.110.75.65:8053` → `140.235.98.102:8053`**。已推 [shadowrocket-sync](https://github.com/longyunBegin/shadowrocket-sync) **`6de8ce4`**；Gist flyint.conf/yaml Host 同步。AI/Apple 规则未变。用量 Premium 本周约 **1.7%**。凭据/订阅密钥不入库。 〔引用：工具对话 2026-11-03〕
+- (交叉) TileProto 11/01–03 无新 commit（仍 `2c13cb7`/v0.1.1）——已在午夜 `2f119dd`，不重抄。 〔交叉〕

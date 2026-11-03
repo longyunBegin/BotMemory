@@ -389,3 +389,8 @@
 ## 2026-11-03（Counterpoint / Nomura 指针；补同步）
 - (Counterpoint) 文题转述「Marvell Buys Lumentum to Climb the AI Laser Wall」：独立高功率 CW/ELS 更战略；SIVE/Scintil/Tower 等 merchant；放量时钟约 **2027**——见 Serenity **2117550199895896490** / Sofigoodboy **2117486332117422128**。URL 指针：counterpointresearch.com/…/marvell-buys-lumentum-to-climb-the-ai-laser-wall。**非**出货硬数。 〔引用：X；交叉 sive〕
 - (Nomura·Storm RT) @pequityresearch **2117031402038276294**（Storm **2117583390564032713** RT）：激光芯片出货 2026F **4.80亿**→2027F **9.66亿**→2028F >**15亿**颗；CW 增量最大（2026F 1.71亿→2027F 5.73亿）。卖方预测——可证伪=实际出货/ASP。 〔引用：X〕
+
+
+## 2026-11-03 对话补录（交叉午夜 MRVL×LITE/`$50B`；补可证伪框架 + SIVE 旁证 URL）
+- (2026-11-03 ~21:04，光互连·晚间) 交付一手并购 + LITE FY27Q1 NPO/CPO 采购承诺超 **$50 亿**（CEO）——交叉午夜一行，**勿重抄**换股/EV。对话强调电光共设计 + **独立第二激光源**可证伪（交割破裂/无认证转化/SIVE 无出货）。 〔引用：光互连对话 2026-11-03；交叉 `2f119dd`〕
+- (交叉·SIVE 旁证) dizaq1 200mW NPO **2116603127927656563**；AheadOfTmrw laser thesis **2116158561684165119**（LiDAR $53–138M=情景）；Serenity/Counterpoint 全链见 sive/serenity——≠公司 IR。 〔交叉〕
