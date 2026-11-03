@@ -620,3 +620,19 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 
 ## 7au. 增量核对（2026-10-31 对话补录；交叉午夜 §7at）
 - (2026-10-31 晨，SIVE·digest) Alea 对 SIVE 题材继续沉默；窗内非题材 Biden’s market **2116221086107111712** + LWLG「it's all over」**2116043028695781658**——交叉午夜 §7at，不升格。INTC/MRVL 痛感帖 **2116064400381706600** `get_posts_by_id` 未找到（或已删）——对话侧再确认。 〔引用：SIVE 对话 2026-10-31；交叉午夜 `89d6ab2` §7at〕
+
+
+## 7av. 增量核对（2026-11-01 周日；补同步；薄）
+- (2026-11-01，Serenity) 本窗无单独拉取到以 SIVE 为主的新长帖；宏观/其他票不升格。 〔引用：X get_users_posts 窗；交叉 episode〕
+
+
+## 7aw. 增量核对（2026-11-02；MRVL×LITE 坐实串；补同步）
+- (2026-11-02 ~12:17 UTC) status/**2117229519178498541**：「$MRVL actually did it and bought $LITE」——引用其 10/29 「final stages」帖 **2115624832947917083**（§7ap）。一手 PR 已确认（见 optical）——**传闻→坐实**。高互动。 〔引用：X；Marvell PR〕
+- (同上 ~12:14 / ~12:29 / ~13:59 UTC) **2117228754489807320**：LITE sold out→2029 被吞后，AAOI/SIVE/COHR「更战略」；**2117232605146034649**：曾以为 MRVL 会买 SIVE（更小市值）却买了 LITE，故 SIVE/AAOI「更战略」；**2117255303301612014**（likes≈1463 / RT≈108 / bookmarks≈517）：独立西方激光 AAOI/COHR/SIVE 战略价值↑；点名 MTSI/SMTC 为 2027 新兴激光。回复中国粉丝：东山精密×索尔思等类比、对中际旭创/新易盛战略影响「不会太大」。另 **2117296667108278605**：LITE 单独或因新 **$5B** CPO/NPO（非 NVDA）上；Greensboro  alone ~$5B 收入/年叙事——**须对一手 LITE 稿**。 〔引用：X note_tweet〕
+- (同上 ~11:43 UTC) status/**2117220957622255727**：10 月 HF de-grossing 为近 10 年最高（转述摩根士丹利）——宏观情绪层，非 SIVE 硬点。 〔引用：X〕
+- (交叉) 条款/溢价/交割年——以 Marvell PR / 8-K 为准，见 optical；不把「更战略」写成已发生订单。 〔交叉〕
+
+
+## 7ax. 增量核对（2026-11-03；Counterpoint→SIVE + 旁支；补同步）
+- (2026-11-03 ~09:31 UTC) status/**2117550199895896490**：Counterpoint on MRVL/LITE——引「每个与 Marvell 竞争的买方要第二个独立光源」；点名 **$SIVE / Scintil** 为新 CW/ELS 产能、**$CRDO** 为潜在伙伴；对比 AAOI 2026 末激光产能目标 ~**24M**/年；二阶：模组厂上溯（JBL vs 合并实体；SMTC M&A 扩激光）。称 AI 估值崩盘≠光学个股强弱。引用 Counterpoint 文「Marvell Buys Lumentum to Climb the AI Laser Wall」（Sofigoodboy **2117486332117422128** 亦摘 SIVE 三点）。**卖方/社区指针**；可证伪=无出货/无认证/交割黄。 〔引用：X note_tweet；Counterpoint URL via Sofigoodboy〕
+- (旁支，非 SIVE 主线) **2117493886100918684** ESMT 内存高利润率+净现金；**2117539121434591711** POET 市值贴近净现金/账面；**2117634458778247210** Agility 合并批准→**AGLT** 预期 **11/5** 交易；**2117556261378298059** 答 CIEN 激光瓶颈+万联点名供应商分散。 〔引用：X〕

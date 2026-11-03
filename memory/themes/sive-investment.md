@@ -573,3 +573,20 @@
 - (2026-10-31 ~09:18，SIVE·晨报) 覆盖盘面 **10/30**（非 10/31）：close **20.90/−9.60%**；OHLC 21.44/21.80/20.46/20.90；量 Yahoo~2.46M / SA~2.51M；IR×close ≈ **74.6 亿 SEK**。FI **6.06%@10/29**（Two Sigma **0.73%**/AQR 0.59%/Arrowstreet 0.59%）——与 10/30 补录 **6.18%@10/28** 口径差；现网 404。Cision 自 10/20 LiDAR / 10/22 EGM 无新稿。交叉午夜定盘/FI 一行，不重抄收盘表。 〔引用：SIVE 对话 2026-10-31；交叉午夜 `89d6ab2`〕
 - (同上·Storm×Pep URL 补全) 午夜已摘要；对话钉全链：Storm **2116127168270872680** / **2116123832633172072** / **2116163070409974202**；Pep **2116126381851435050** / **2116128174169899198** / 民调 **2116129636304499110**；dizaq1 photonics 不必跟 semis 卖 **2116169145326903482**（情绪）；Matrix AVGO/Glasgow **2116173660893384732** + 续 **2116269124913713394**（Jev 水文）。立场≠公司 IR。 〔引用：同上；交叉午夜〕
 - (同上·草稿/可证伪) 双语草稿已交、**未发帖**（钉 20.90/−9.6% + Storm 门槛 + 11/26）。可证伪：11/26 Q3；任何 Jabil/客户 qual PR；周一是否跟 semis 杀或缩量稳 20–21。 〔引用：同上；交叉 `x-content-output`〕
+
+
+## 2026-11-01（周日；补同步 2026-11-04；周末静盘）
+- (2026-11-01，价格·周末) 斯德哥尔摩**无交易**；无新 ST 收盘。无新公司 IR（新闻室未检出新商业稿）。 〔引用：Yahoo 无 11/01 bar；交叉 `2026-11-02-midnight-sync`〕
+- (社区指针) @lyAtomic RT dizaq1 Innolight/Eptolight 财报→$SIVE 学习帖（status/**2116759313931018350** RT of **2116603127927656563**）——**第三方读法**，须对一手中文模组厂稿；不当催化。 〔引用：X；交叉 x-content〕
+
+
+## 2026-11-02（周一；MRVL×LITE 坐实 + SIVE 放量再挫；补同步）
+- (2026-11-02，价格) Yahoo 定盘：**O 20.52 / H 22.14 / L 19.14 / C 20.04（−4.11% vs 10/30 20.90）**；量约 **9,806,755**（显著放量 vs 10/30 ~2.5M）。IR 股本 **356,740,332** × 20.04 ≈ **71.5 亿 SEK**。无新 Sivers 商业 PR。 〔引用：`/workspace/yahoo_bars_20261103_catchup.json`；交叉 optical MRVL/LITE〕
+- (FI·live ODS) 现网 blankningsregister 聚合表可下（`fi_em_20261103.ods`）：**Sivers Semiconductors AB** 合计净空头 **6,31%**，持仓日 **2026-11-02**（vs 10/31 晨报缓存 **6.06%@10/29**）——**升**。未拆 aktuella 具名（本 ODS 为合计表）。 〔引用：FI ODS 行解析〕
+- (交叉·并购) MRVL 全股票收购 LITE 一手条款见 `optical-interconnect-learning` / episode——独立激光叙事升温（Serenity/Counterpoint/Sofigoodboy）**≠** SIVE 订单或被收购；可证伪：交割破裂；SIVE 无认证转化/无出货；空头续升。 〔交叉〕
+- (社区·Reddit 邮件) Gmail Reddit digest 主题含 r/siverssemiconductors「Marvell buying Lumentum for $115B… good news for Sive…」（帖 id 路径 `t3_1xlwdte`，作者 Difficult_Goal_9160）——**社区二手**；EV 数字与一手 PR 一致但论证非 IR。 〔引用：Gmail thread `1a19c641b1c1cce0`〕
+
+
+## 2026-11-03（周二；再收弱 + 盘中深砸；补同步）
+- (2026-11-03，价格) Yahoo 定盘：**O 18.43 / H 20.18 / L 17.29 / C 19.80（−1.20% vs 11/02）**；量约 **9,429,599**。IR×close ≈ **70.6 亿 SEK**。盘中低 **17.29** ≈ −**13.7%** vs 11/02 收——波动大于收盘跌幅。无新 IR。FI 持仓日仍 **11/02 / 6.31%**（本日 ODS 未显示更新日）。 〔引用：Yahoo catchup JSON；FI ODS〕
+- (社区·Counterpoint 点名) Serenity status/**2117550199895896490** + Sofigoodboy「Laser Roulette」串：独立 CW/ELS / SIVE+Scintil / CRDO 潜在伙伴等——见 serenity / x-content。**非公司确认**。 〔交叉〕

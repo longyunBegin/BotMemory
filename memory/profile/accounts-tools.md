@@ -154,3 +154,8 @@
 
 ## 2026-10-31 对话补录（交叉午夜 TileProto 无新 commit）
 - (2026-10-31，工具) 日历日无新用户实质；TileProto 无 10/31 commit（仍 `2c13cb7` / v0.1.1）已在午夜 `89d6ab2`。最新用户实质停在 10/28 QA/AGENT-FIX-BRIEF（`dd1f510`），不重抄。 〔引用：交叉午夜 / episode `2026-11-01-transcript-catchup`〕
+
+
+## 2026-11-01–11/03（工具·TileProto；补同步 2026-11-04）
+- (TileProto) `longyunBegin/TileProto`：自 `2c13cb7`（2026-10-30）至本同步时点 **无**新 commit；**无**新 Release（仍 **v0.1.1**）。 〔引用：`gh` commits〕
+- (交叉) 10/30 Dock/fold——**不重抄**（`a6feae6`）。 〔交叉〕

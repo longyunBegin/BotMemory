@@ -376,3 +376,16 @@
 
 ## 2026-10-31 对话补录（交叉午夜披露张力；补 dizaq1/Matrix 续）
 - (2026-10-31，SIVE·社区旁证) dizaq1：半导抛售理由不足以卖 photonics（点名 AAOI/SIVE）status/**2116169145326903482**——情绪一笔。Matrix AVGO 锁 Glasgow 续帖 **2116269124913713394**（Jev 水文，不当硬点）。Storm/Pep 全链见 sive 补录。周末无新公司光互连 PR。 〔引用：SIVE 对话 2026-10-31；交叉午夜 `89d6ab2` / `sive-investment`〕
+
+
+## 2026-11-02（MRVL×LITE 一手坐实 + LITE 财报；补同步）
+- (2026-11-02，一手·Marvell PR) [Marvell and Lumentum to Combine…](https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity)（公告日 **2026-11-02**）：全股票；LITE 股东每股换 **4.500** 股 MRVL；隐含 LITE **enterprise value ~$115B**、约 **$1,132**/股、相对各公司 **2026-10-28** 未受影响收盘溢价约 **23.9%**；交割后 MRVL 股东约 **67%** / LITE 约 **33%**（fully diluted）；Matt Murphy 续任主席兼 CEO；LITE 三名董事（含 CEO Michael Hurlston）入 MRVL 董事会；目标交割 **2028 日历年上半年**（双方股东批准+监管+惯常条件）。8-K：Merger Agreement 签署日 **2026-11-01**（Java Merger Sub 结构）。 〔引用：Marvell IR PR；SEC 8-K `0001193125-26-442717`〕
+- (机制读法) 固定换股→LITE 股价跟 MRVL 波动；公告日 LITE **−18.6%**、MRVL **−12.7%**（vs 10/30）≠「打印差」单因。二级效应叙事（独立激光更稀缺）见 Serenity/Counterpoint——**须订单/认证落地才升格**。 〔引用：Yahoo；交叉 serenity〕
+- (LITE FY27Q1，社区汇总须对一手) @lyAtomic **2117240639377354818** / @StormDirac **2117368638957048048**：营收 **$1.263B**（+~136% y/y）、non-GAAP EPS **$4.57**；Q2 指引 **$1.575–1.625B**、EPS **$5.90–6.20**、op margin ~45–46%；Storm 另记第二笔重大 NPO/CPO、>**$5B** purchase commitments。Serenity 另提 ~$5B CPO/NPO（非 NVDA）与 Greensboro 产能叙事——**对 LITE IR/电话会**。 〔引用：X note_tweet〕
+- (日程) COHR **11/4 AMC**；AAOI **11/5**；交割路径盯 **2028 H1** 与监管。 〔引用：既有周历；PR〕
+- (交叉) 10/29「final stages」传闻 §7ap——**坐实**；不重抄传闻段。 〔交叉〕
+
+
+## 2026-11-03（Counterpoint / Nomura 指针；补同步）
+- (Counterpoint) 文题转述「Marvell Buys Lumentum to Climb the AI Laser Wall」：独立高功率 CW/ELS 更战略；SIVE/Scintil/Tower 等 merchant；放量时钟约 **2027**——见 Serenity **2117550199895896490** / Sofigoodboy **2117486332117422128**。URL 指针：counterpointresearch.com/…/marvell-buys-lumentum-to-climb-the-ai-laser-wall。**非**出货硬数。 〔引用：X；交叉 sive〕
+- (Nomura·Storm RT) @pequityresearch **2117031402038276294**（Storm **2117583390564032713** RT）：激光芯片出货 2026F **4.80亿**→2027F **9.66亿**→2028F >**15亿**颗；CW 增量最大（2026F 1.71亿→2027F 5.73亿）。卖方预测——可证伪=实际出货/ASP。 〔引用：X〕
