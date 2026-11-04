@@ -604,3 +604,9 @@
 - (FI) 现网 issuer/ODS 本轮 **404**；仍以 `/workspace/fi_em_20261103.ods`：**Sum 6,31%**、持仓日 **2026-11-02**（非 live 刷新）。 〔引用：FI ODS；本轮抓取失败〕
 - (社区·@lyAtomic) status/**2117962668195901921**（~12:50 UTC）：$GFS Q3 CI&D **$316M（+81% YoY）**→SiPh/SiGe 代工层；转 Counterpoint——$SIVE/Scintil「新 CW/ELS 产能」、量自 **2027**、目标 **>100M CW DFB/年**（ops ~**Q4’27**）；对照 AAOI 2026 末激光产能目标 ~**24M**/年。**社区/卖方指针≠公司指引**；可证伪：无认证/无出货/目标下修；GFS 数字须对一手稿。Jev theme optical、质量偏薄（水文 uncertain）。另 **2117994229888950293**「no shortage of light」玩笑帖（Jev 水文 yes）——不入库为硬点。 〔引用：X note_tweet；Jev triage `/workspace/x-findings-2026-11-04/`〕
 - (官号) @SiversSemicond **2117674015578087523**（~17:43 UTC 11/03＝上海 11/04 窗）：TheFastMode 2026 Satellite Solution Provider – Terminal Technology Pioneer——**SATCOM 奖项**，非光子 IR。 〔引用：X〕
+
+
+## 2026-11-04 对话补录（晨报钉 11/3 + dizaq1 NPO 刹车；交叉午夜 `4f0daf1` 不重抄 17.34）
+- (2026-11-04 ~09:18，SIVE·晨报) 钉 **11/3 收 19.41（−3.14%）**、IR×close≈**69.2 亿 SEK**、FI **6.31%@11/02**（GSA **0.52%** 新上 ≥0.5）；Cision 自 10/20–10/22 无新稿；Q3 **11/26**。勿与午夜 **11/04 收 17.34** 混。 〔引用：SIVE 对话；交叉 `4f0daf1`〕
+- (同上·张力) 「独立西方 CW」vs @dizaq1 **NPO 刹车**：公开尚无可用 NPO，仅 **200mW** 送样；Innolight NPO 器件代工选 **TSEM**（**2117657487898001585** / **2117663634273046552**）；中立商用激光 **2117668613767508361**。旁证：Pep ENAFF **2117544721883033645**；Storm LITE FY27Q1（未点名 SIVE）**2117368638957048048**；AuraConvexity Counterpoint **2117674607763239251**；官号 FastMode **2117674015578087523**（奖≠订单）。自 11/3 Serenity 后无新点名 SIVE；双语草稿**未发**。 〔引用：同上；交叉 serenity/x-content/optical〕
+- (薄交叉·Research) GFS CI&D **$316M/+81%** 前瞻草稿未发——已发 @lyAtomic 见午夜，不重抄。 〔交叉 `4f0daf1` / Research〕

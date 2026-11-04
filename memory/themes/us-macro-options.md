@@ -236,3 +236,8 @@
 ## 2026-11-04（AMD 强指引旁证；美股未定盘；午夜同步）
 - (Storm·AMD Q3) 营收 **$13.4B/+45%**、DC **+97%**、Q4 ~**$17B**（~+27% q/q）——大算力需求仍在「分配」而非「希望」读法（作者口径）。与近期 semis 杀估值并行——**不等于**光学个股已定价激光瓶颈。详见 optical。 〔引用：X **2117729518236361051**〕
 - (节奏) 上海午夜时点美股 11/04 **未定盘**；COHR AMC / AAOI 11/5 盯梢。Serenity「safe quality rotation」盘中帖（DUOL vs MU）不作宏观定论。 〔引用：时区；serenity〕
+
+
+## 2026-11-04 对话补录（内存定价旁证 + 光板块盘前回吐；交叉午夜 AMD/未定盘）
+- (2026-11-04，内存→宏观) TrendForce 现货 DDR4 微跌 / 消费 NAND 弱 vs 服务器 DRAM 合约紧；环球晶圆×美光 **$5 亿** 可转债+十年 LTA——供给锁定读法。详见 holdings。 〔引用：内存对话；交叉 holdings〕
+- (Research·盘前) 光互连 ~7:50 ET 回吐（CRDO/LITE/AAOI/COHR/MRVL −3～−5%），QQQ/SPY 偏强；叙事偏中期后民主党控两院→AI DC/监管税政 + MRVL×LITE 余波，GFS 非引擎。Storm AMD Q3 已在午夜，不重抄。 〔引用：Research 对话；交叉 `4f0daf1`〕

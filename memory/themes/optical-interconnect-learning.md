@@ -401,3 +401,10 @@
 - (Serenity·AAOI×云南锗业) **$194.4M/年 × 5 年 ≈ $970M** InP 衬底采购叙事——见 serenity §7az；读穿 AXTI/LITE/COHR。**非** SIVE 订单。 〔交叉 serenity〕
 - (Storm·AMD 旁支) status/**2117729518236361051**：AMD Q3 营收 **$13.4B（+45% y/y）**、non-GAAP EPS **$2.09**、Data Center **+97%**；Q4 指引 ~**$17B** vs Street ~$16.2B（~**+27% q/q**）；Helios rack-scale →「interconnect becomes the product」/铜墙叙事。**AMD 财报硬点**；光互连为作者延伸，≠ SIVE IR。 〔引用：X note_tweet；Jev semiconductor q≈2.8〕
 - (交叉) MRVL×LITE 一手条款与 LITE NPO/CPO **>$50B**——**不重抄**（`2f119dd`）。COHR **11/4 AMC** 待定盘后稿。 〔交叉〕
+
+
+## 2026-11-04 对话补录（ANET 电话会 + AAOI InP 对话链 + SemiAnalysis mSAP；交叉午夜 GFS/AAOI）
+- (2026-11-04 ~21:05，光互连·ANET 11/3 电话会) Ullal「能铜就铜」；押可插拔；推 **open CPO**（插座式+pigtail）；上市约 **2028–2030**，「not imminent」；「long live pluggable optics」；scale-up 2027 试/2028 量产、2027 无实质 scale-up 收入 → 近两年主战场仍可插拔。出处 Arista IR + stockanalysis transcript **723971**。 〔引用：光互连对话 2026-11-04〕
+- (同上·AAOI/云南锗业) 2027–2031 每年约 **18 万片** 4" N 型；**2027 合同约 $1.944 亿**（税前）；须出口许可——EqualOcean/第一财经英文链。交叉午夜 Serenity $970M 五年合计一行，不重抄。MRVL 本窗无新 IR。 〔引用：同上；交叉 `4f0daf1`〕
+- (Research·盘前回吐 + SemiAnalysis) 11/04 ~7:50 ET：CRDO −5.4%/LITE −4.0%/AAOI −3.8%/COHR −3.7%/MRVL −3.3%；QQQ/SPY 偏强；主因更像中期后监管/税政担忧 + MRVL×LITE 余波，GFS 非引擎（Investing.com）。SemiAnalysis mSAP PCB 交期约 **6 个月**、供应差高个位数 %——缺过公差认证板非电镀线（**2117998060261237070** 4 连帖）；与激光/SIVE 不同层。 〔引用：Research 对话 2026-11-04〕
+- (交叉·dizaq1 NPO) 公开无可用 NPO、仅 200mW 送样；Innolight NPO→TSEM——见 sive 补录。 〔交叉 sive〕
