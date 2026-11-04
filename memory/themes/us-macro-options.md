@@ -231,3 +231,8 @@
 
 ## 2026-11-03 对话补录（Apple/Kioxia 内存定价；交叉 holdings）
 - (2026-11-03，内存→宏观) Apple FY2026Q4：CEO 称 memory pricing **unprecedented**；库存 **$14.54B/+154% YoY**；制造采购义务 Jun→Sep **+$33B**；12 月季 GM **45–46%**——需求侧仍愿囤/锁价 vs 成本抬升并存。Kioxia Q2 指引 ASP 涨幅自 ~+70% 收至 **mid-20%**、bit 平、营收 ~¥2.5T——短缺时钟未破但涨价斜率放缓读法。详见 `trading-holdings`。 〔引用：内存对话 2026-11-03；交叉 holdings〕
+
+
+## 2026-11-04（AMD 强指引旁证；美股未定盘；午夜同步）
+- (Storm·AMD Q3) 营收 **$13.4B/+45%**、DC **+97%**、Q4 ~**$17B**（~+27% q/q）——大算力需求仍在「分配」而非「希望」读法（作者口径）。与近期 semis 杀估值并行——**不等于**光学个股已定价激光瓶颈。详见 optical。 〔引用：X **2117729518236361051**〕
+- (节奏) 上海午夜时点美股 11/04 **未定盘**；COHR AMC / AAOI 11/5 盯梢。Serenity「safe quality rotation」盘中帖（DUOL vs MU）不作宏观定论。 〔引用：时区；serenity〕

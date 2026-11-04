@@ -459,3 +459,10 @@
 - (2026-11-03 ~21:14，内存·Kioxia FY2027Q2) 10–12 月指引（**2026-10-30** 盘后）：ASP 约 **+mid-20%**（上季约 +70%）；指引 ASP「小幅上升」、bit 大致持平；营收约 **¥2.5 万亿（+0.8% QoQ）**。读穿 SNDK。出处 JPX PDF / Kioxia IR / Japan Times。 〔引用：内存对话 2026-11-03〕
 - (同上·Apple FY2026Q4 法说 **2026-11-02**) CEO「memory pricing unprecedented」；库存约 **$14.54B（YoY +154%）**；制造采购义务 Jun→Sep **+$33B**；12 月季 GM 指引 **45–46%**。读穿 MU/SNDK。出处 TechCrunch / AppleInsider。 〔引用：同上〕
 - (同上) MU/SNDK 自身 IR **10/31–11/03 无新硬稿**。收盘数字交叉午夜，不重抄。 〔交叉 `2f119dd`〕
+
+
+## 2026-11-04（观察池钉 11/03 结算 + SIVE 再杀；美股 11/04 未定盘；午夜同步）
+- (更正·11/03) 以观察池邮件/scan.md 结算为准（对昨夜 catchup 快照）：MU **855.10**；SNDK **1126.52**；NVDA **206.69**；MSFT **520.99**；MRVL **171.97**；IBKR **77.46**；AAOI **63.97**；DRAM **47.64**；GOOGL **280.03**；SIVE.ST **19.41**（作废 19.80）。昨夜 episode 所记 MU 858.50 / NVDA 208.37 等为未完全结算快照——**以本段为准**。LITE/SOXX 观察池未列；现网 Yahoo 11/03 LITE **680.16** / SOXX **465.00**（备查）。 〔引用：scan.md；yahoo_bars_20261104_sync.json〕
+- (SIVE 11/04) **C 17.34（−10.66%）** / L **17.30** / 量 ~7.74M——见 sive。FI 仍 **6.31%@11/02**（非 live）。 〔交叉 sive〕
+- (美股 11/04) 上海午夜同步时点 ≈ 美东仍开盘——**未定盘**；Yahoo 盘中 last 仅作快照不入库为收盘：MU ~797 / SNDK ~1024 / NVDA ~202.5 / MSFT ~552 / MRVL ~156 / AAOI ~58 / LITE ~604 / SOXX ~445（量明显低于全日，勿当定盘）。COHR **11/4 AMC** 待盘后；AAOI **11/5**；SIVE Q3 **11/26**；MRVL/LITE 交割 **2028 H1**。 〔引用：Yahoo mid-session；日历〕
+- (交叉·Serenity AAOI) 云南锗业/InP 衬底长约叙事——见 optical/serenity；**社区读法**，须对一手合同/公告。 〔交叉〕

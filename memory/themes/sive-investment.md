@@ -596,3 +596,11 @@
 - (2026-11-01 周日·晨报) 仍钉周五 **10/30 收 20.90/−9.60%**、FI **6.06%@10/29**、IR×close≈**74.6 亿**；Cision 自 10/20–10/22 无新稿；Alea 沉默。勿与午夜 **11/02 收 20.04 / 11/03 收 19.80** 混。旁证：dizaq1 200mW NPO https://x.com/dizaq1/status/2116603127927656563 ；AheadOfTmrw laser thesis https://x.com/AheadOfTmrw/status/2116158561684165119 （LiDAR $53–138M=情景非已披露订单）。双语草稿**未发**。 〔引用：SIVE 对话 2026-11-01；交叉 `2f119dd` / `1492bfe`〕
 - (例程缺口) **11/02** 晨报因 usage 失败**未送达**——对话仅 11/01 周日报 + 11/03 Serenity 通知。 〔引用：覆盖表〕
 - (2026-11-03 ~21:07·Serenity 破沉默全链) 主帖 **2117255303301612014**（SMTC/JBL 1.6T；Jev≈2.0）；Counterpoint **2117550199895896490**（SIVE/Scintil/CRDO/~100M lasers；Jev≈2.2；**非**产能÷ASP）；CIEN **2117556261378298059**（q≈1.4）；辅帖 **2117228754489807320** / **2117232605146034649** / **2117296667108278605**。≠公司 IR。交叉午夜 §7aw/§7ax 一行，不重抄收盘。 〔引用：SIVE 对话 2026-11-03；交叉 `serenity` / `x-content` / `optical`〕
+
+
+## 2026-11-04（周三；再杀至近低；午夜同步 2026-11-05）
+- (更正·11/03 定盘) 昨夜补同步记 Yahoo catchup **C 19.80**；次日观察池例程 + 现网 Yahoo chart 结算为 **C 19.41**（O 18.43 / H 20.18 / L **17.29** / 量约 **10,292,159**）。以 **19.41** 为准，**作废** 19.80 作定盘。 〔引用：`/workspace/trade/scan.md` 数据日 11/03；`/workspace/yahoo_bars_20261104_sync.json`；交叉 trade-ideas〕
+- (2026-11-04，价格) Yahoo：**O 19.50 / H 20.10 / L 17.30 / C 17.34（−10.66% vs 更正后 11/03 19.41）**；量约 **7,743,712**（仍偏高 vs 10/30 ~2.5M，低于 11/02–03 ~9–10M）。IR 股本 **356,740,332** × 17.34 ≈ **61.9 亿 SEK**。相对 10/30 20.90 累跌约 **−17.0%**；收盘贴近 11/03 盘中低 17.29。无新 Sivers 商业 PR（新闻室本轮 403）；官号仅 SATCOM 奖项帖（见下）——**≠**光子商业订单。 〔引用：Yahoo sync JSON；交叉 x-content〕
+- (FI) 现网 issuer/ODS 本轮 **404**；仍以 `/workspace/fi_em_20261103.ods`：**Sum 6,31%**、持仓日 **2026-11-02**（非 live 刷新）。 〔引用：FI ODS；本轮抓取失败〕
+- (社区·@lyAtomic) status/**2117962668195901921**（~12:50 UTC）：$GFS Q3 CI&D **$316M（+81% YoY）**→SiPh/SiGe 代工层；转 Counterpoint——$SIVE/Scintil「新 CW/ELS 产能」、量自 **2027**、目标 **>100M CW DFB/年**（ops ~**Q4’27**）；对照 AAOI 2026 末激光产能目标 ~**24M**/年。**社区/卖方指针≠公司指引**；可证伪：无认证/无出货/目标下修；GFS 数字须对一手稿。Jev theme optical、质量偏薄（水文 uncertain）。另 **2117994229888950293**「no shortage of light」玩笑帖（Jev 水文 yes）——不入库为硬点。 〔引用：X note_tweet；Jev triage `/workspace/x-findings-2026-11-04/`〕
+- (官号) @SiversSemicond **2117674015578087523**（~17:43 UTC 11/03＝上海 11/04 窗）：TheFastMode 2026 Satellite Solution Provider – Terminal Technology Pioneer——**SATCOM 奖项**，非光子 IR。 〔引用：X〕

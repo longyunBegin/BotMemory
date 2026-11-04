@@ -394,3 +394,10 @@
 ## 2026-11-03 对话补录（交叉午夜 MRVL×LITE/`$50B`；补可证伪框架 + SIVE 旁证 URL）
 - (2026-11-03 ~21:04，光互连·晚间) 交付一手并购 + LITE FY27Q1 NPO/CPO 采购承诺超 **$50 亿**（CEO）——交叉午夜一行，**勿重抄**换股/EV。对话强调电光共设计 + **独立第二激光源**可证伪（交割破裂/无认证转化/SIVE 无出货）。 〔引用：光互连对话 2026-11-03；交叉 `2f119dd`〕
 - (交叉·SIVE 旁证) dizaq1 200mW NPO **2116603127927656563**；AheadOfTmrw laser thesis **2116158561684165119**（LiDAR $53–138M=情景）；Serenity/Counterpoint 全链见 sive/serenity——≠公司 IR。 〔交叉〕
+
+
+## 2026-11-04（GFS SiPh 代工层 + AAOI InP 长约指针；午夜同步）
+- (2026-11-04，@lyAtomic·GFS) status/**2117962668195901921**：GlobalFoundries Q3 **CI&D $316M（+81% YoY）**、连续第 8 个双位数季；材料强调 silicon photonics + SiGe for AI optics——**代工层**在拉。激光在上一层；转 Counterpoint：MRVL/LITE 后独立 CW/ELS（$SIVE/Scintil）量自 2027、目标 **>100M CW DFB/年**（ops ~Q4’27）；溢流给有 merchant 产能者；对照 AAOI 2026 末 ~**24M**/年。**须对 GFS 一手 deck/PR**；SIVE 产能数字=卖方/社区情景。 〔引用：X note_tweet；交叉 sive/x-content〕
+- (Serenity·AAOI×云南锗业) **$194.4M/年 × 5 年 ≈ $970M** InP 衬底采购叙事——见 serenity §7az；读穿 AXTI/LITE/COHR。**非** SIVE 订单。 〔交叉 serenity〕
+- (Storm·AMD 旁支) status/**2117729518236361051**：AMD Q3 营收 **$13.4B（+45% y/y）**、non-GAAP EPS **$2.09**、Data Center **+97%**；Q4 指引 ~**$17B** vs Street ~$16.2B（~**+27% q/q**）；Helios rack-scale →「interconnect becomes the product」/铜墙叙事。**AMD 财报硬点**；光互连为作者延伸，≠ SIVE IR。 〔引用：X note_tweet；Jev semiconductor q≈2.8〕
+- (交叉) MRVL×LITE 一手条款与 LITE NPO/CPO **>$50B**——**不重抄**（`2f119dd`）。COHR **11/4 AMC** 待定盘后稿。 〔交叉〕
