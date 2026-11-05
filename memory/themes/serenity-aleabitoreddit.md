@@ -649,3 +649,11 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 
 ## 2026-11-04 对话补录（晨报旁证；无新点名 SIVE；交叉午夜 AAOI InP）
 - (2026-11-04，SIVE·晨报窗) 自 11/3 Serenity 盯梢后**无新点名 SIVE**；AuraConvexity Counterpoint 旁证 **2117674607763239251**（≠公司 IR）。AAOI×云南锗业 InP 摘要已在午夜 `4f0daf1` / §7az——交叉一行，勿重抄 $970M。 〔引用：SIVE/光互连对话；交叉 `4f0daf1`〕
+
+## 7ba. 增量核对（2026-11-05 上海窗；COHR TLDR + SIVE/AAOI + Citadel；午夜同步）
+- (2026-11-04 ~17:40 UTC＝上海 11/05 窗) status/**2118035778253283768**：$SIVE/$AAOI 激光供需失衡深，假想 DC −20–30% 也难消短缺；点 NVDA 15× CPO 光学、LITE **$5B** UHP；区分高规格激光 vs 800G/1.6T 成品/70–100mW；AAOI 垂直 300–400mW、SIVE pure-play 200mW+ 多波长——**社区框架≠IR**。高互动。Jev optical、水文 no、质量偏薄。 〔引用：X note_tweet；Jev〕
+- (2026-11-05 ~04:36 UTC) **2118200689453314341**：$COHR earnings transcript TLDR——独立供应商机会、无 2028 过剩、自用 InP、**$20B** 5Y LTA、CW for CPO、预付融资等；详见 optical。须对一手。 〔交叉 optical〕
+- (同日 ~04:58 UTC) **2118206374689853853**（答 ThePivotDad）：AAOI InP 大单不全是模组激光；自认有近 COHR/LITE UHP 能力；SIVE「主要认证」+ foundry/扩产；MRVL×LITE 窗口 + CRDO/Innolight 等——**投机语气**；「本月财报或有新伙伴」待证伪。 〔引用：X note_tweet〕
+- (同日 ~07:41 UTC) **2118247436733055110**：呼吁 AI 公司在 X 设代表反击错误叙事（融资/估值）——宏观沟通层，非工业硬点。 〔引用：X〕
+- (同日 ~09:19 UTC) **2118272043288547413**：Citadel 10 月 AI 泡沫叙事 vs 11 月「The setup has improved」（Scott Rubner，2026-11-04）；配 Citadel Securities 页截图（Research 附件 `serenity-citadel-*.jpg`）。Jev theme macro、水文 no、质量 ~2.3。 〔引用：X；附件〕
+- (薄·同窗) INTC CEO 买股 **2118049698733064433**；deleveraging rant **2118015527440515458**（CIFR/AAOI 价 vs 订单）——情绪/估值层。 〔引用：X〕

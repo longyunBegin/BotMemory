@@ -459,3 +459,8 @@
 ## 2026-11-04 对话补录（草稿未发；交叉午夜 @lyAtomic 已发帖）
 - (2026-11-04，SIVE·晨报) 双语推文草稿**未发**（钉 11/3 19.41 + dizaq1/Pep/Storm/Counterpoint/FastMode 旁证语境）。 〔引用：SIVE 对话〕
 - (同上·Research) 用户要 GFS→SIVE 前瞻（CI&D **$316M/+81%**，GlobeNewswire 2026-11-04）后改 Serenity 口吻多头稿——草稿**未发**。已发 @lyAtomic **2117962668195901921** 见午夜，不重抄。 〔引用：Research 对话；交叉 `4f0daf1`〕
+
+## 2026-11-05（@lyAtomic COHR→$SIVE；午夜同步）
+- (2026-11-05 ~02:05 UTC) status/**2118162750790914093**：COHR Anderson 三句硬引（需求未衰减 / 2027 booked / 无 2028 过剩）+ InP 自用不夠 → merchant InP CW / $SIVE（Glasgow >100M、MRVL×LITE dual-source）。配三张摘录图（工作区 `cohr-quote-*.png`）。印象约 **1.0k**、likes **14**、RT **5**——低互动。Jev optical、水文 no、质量偏薄指针。**社区读法**；数字原话须对 COHR call。 〔引用：X note_tweet；Jev；交叉 optical/sive〕
+- (官号) @SiversSemicond 本窗 **0 帖**。 〔引用：X〕
+- (缺口) 对话是否另有未发草稿属 transcript 不可读。 〔引用：对话缺口〕

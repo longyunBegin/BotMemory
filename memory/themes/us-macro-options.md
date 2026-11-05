@@ -241,3 +241,9 @@
 ## 2026-11-04 对话补录（内存定价旁证 + 光板块盘前回吐；交叉午夜 AMD/未定盘）
 - (2026-11-04，内存→宏观) TrendForce 现货 DDR4 微跌 / 消费 NAND 弱 vs 服务器 DRAM 合约紧；环球晶圆×美光 **$5 亿** 可转债+十年 LTA——供给锁定读法。详见 holdings。 〔引用：内存对话；交叉 holdings〕
 - (Research·盘前) 光互连 ~7:50 ET 回吐（CRDO/LITE/AAOI/COHR/MRVL −3～−5%），QQQ/SPY 偏强；叙事偏中期后民主党控两院→AI DC/监管税政 + MRVL×LITE 余波，GFS 非引擎。Storm AMD Q3 已在午夜，不重抄。 〔引用：Research 对话；交叉 `4f0daf1`〕
+
+## 2026-11-05（估值压缩 vs 盈利；Citadel「setup improves」；午夜同步）
+- (价格) 美股 11/05 半导体/光模块续杀（MU/SNDK/AAOI/COHR/LITE/AMD 多在 **−12%～−18%**；MSFT/GOOGL 相对抗跌）——与 COHR 盘后 beat 叙事并存：盈利上修≠估值止跌。详见 holdings。 〔引用：Yahoo；交叉 holdings〕
+- (Serenity·Citadel) status/**2118272043288547413**：Citadel Securities「November: The Setup Improves」（Scott Rubner，2026-11-04）vs 10 月泡沫叙事——**宏观沟通/仓位框架指针**，非工业出货硬证据。 〔引用：X；`serenity-citadel-*.jpg`〕
+- (Serenity·叙事战) **2118247436733055110** 呼吁公司在 X 反击错误供给/延期叙事——融资反射层。 〔引用：X〕
+- (交叉) Storm UBS/Arcuri HBM 结构变化 RT——内存供给侧，见 holdings。不重抄 AMD Q3。 〔交叉〕
