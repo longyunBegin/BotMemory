@@ -415,3 +415,10 @@
 - (Research/图证·Anderson 原话摘) 工作区 `cohr-anderson-quotes-highlight.png`（及 A/B/C 分图）：Prepared「no signs of attenuation in demand」；Barclays Q&A「2027 basically booked out」「booking out calendar 2028」「no oversupply risk through calendar 2028」；Loop Capital「don’t even produce enough… for our own products」（InP）。出处标注 Coherent FY2027 Q1 conference call。 〔引用：Research 附件 2026-11-05；交叉 lyAtomic **2118162750790914093**〕
 - (2028 市场规模 brief) `/home/box/sand-data/briefs/optical-interconnect-2028-market-size-2026-11-05.md`（截止 2026-11-05）：**① 可插拔** 熊 40–50 / 基 **60–75** / 牛 90–120 $B；**② CPO/NPO/ELS** 0.5–1.5 / **3–7** / 15–30；**③ 激光芯片** 5–8 / **8–15** / 18–25；**④ OCS** 1.5–2.5 / **4–7** / 8–12；**⑤ InP 衬底** 0.25–0.35 / 0.35–0.55 / 0.6–0.9。客户侧①+②+④ 基 ~**67–89**；刻意不含③⑤防双重计算。锚：LC Ethernet 2025 ~$18B→2026E ~$40B；ANET open CPO **2028–2030** / long live pluggable；LITE NPO/CPO 承诺 **>$5B**≠单年收入；GS **$154B/CPO $91B** = 机会 TAM。证伪清单见原文 §5。 〔引用：brief；交叉 ANET 11/04 补录〕
 - (交叉·merchant/$SIVE) lyAtomic/Serenity 把 COHR 自用 InP 售罄 + MRVL×LITE 独立源需求接到 $SIVE——**社区情景**；可证伪链见 sive。不重抄 GFS/云南锗业。 〔交叉 sive/serenity〕
+
+
+## 2026-11-05 对话补录（COHR≈HBM 类比 + MU 2025 回撤 + GFS SiPh 细；交叉午夜 $B/COHR 不重抄）
+- (2026-11-05 日间，光互连) 2028 情景表+证伪已在对话交付——$B 区间交叉午夜一行，勿重抄。 〔交叉 `68a693a`〕
+- (同上·COHR vs 内存) **部分是**：COHR 激光≈ HBM 2024H2–2025（售罄+多年 LTA+产能滞后+定价权），**≠** 商品 DRAM 崩。对话侧 call 细：InP YoY 2×、CY27 末再 >2×、PhotonLink ~$20B/5yr LTA（收入自 ~CY2028）、CY2027 booked、D&C $19.52B/$23.70B（+79%）。证伪：交期 / PhotonLink >$100M Mar-q / >$250M/q YE27 / 中国 UHP / ASP。交叉午夜社区 digest 一行。 〔引用：光互连对话〕
+- (同上·MU 2025) 7 月亚季定价恐惧（日~−4.75%/月峰谷~−10%，HBM 仍锁）；11 月估值松绑（日~−11%/周~−16%）——短缺叙事可与价格脱钩。 〔引用：同上〕
+- (2026-11-05 ~21:12·GFS SiPh) 2026~$500M 指引 → YE2027 **~$1B 年化**（提前约 1 年）；产能 2027 **~3×**；>50 客户含 top-10 模组 7 家；Comm/DC $316M/+81%；MRVL 多年 SiGe Burlington。证伪：PhotonLink Mar-q；GFS 3×；MRVL optics 时间线。 〔引用：同上〕

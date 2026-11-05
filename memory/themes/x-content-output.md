@@ -464,3 +464,8 @@
 - (2026-11-05 ~02:05 UTC) status/**2118162750790914093**：COHR Anderson 三句硬引（需求未衰减 / 2027 booked / 无 2028 过剩）+ InP 自用不夠 → merchant InP CW / $SIVE（Glasgow >100M、MRVL×LITE dual-source）。配三张摘录图（工作区 `cohr-quote-*.png`）。印象约 **1.0k**、likes **14**、RT **5**——低互动。Jev optical、水文 no、质量偏薄指针。**社区读法**；数字原话须对 COHR call。 〔引用：X note_tweet；Jev；交叉 optical/sive〕
 - (官号) @SiversSemicond 本窗 **0 帖**。 〔引用：X〕
 - (缺口) 对话是否另有未发草稿属 transcript 不可读。 〔引用：对话缺口〕
+
+
+## 2026-11-05 对话补录（草稿未发；交叉午夜 @lyAtomic COHR→$SIVE）
+- (2026-11-05，SIVE·晨报) 双语推文草稿**未发**（钉 11/4 17.68 + Alea/Pep/Sofi 旁证语境）。 〔引用：SIVE 对话〕
+- (薄交叉) 已发 @lyAtomic COHR→$SIVE **2118162750790914093** 见午夜，不重抄。 〔交叉 `68a693a`〕

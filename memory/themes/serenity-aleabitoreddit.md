@@ -657,3 +657,9 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (同日 ~07:41 UTC) **2118247436733055110**：呼吁 AI 公司在 X 设代表反击错误叙事（融资/估值）——宏观沟通层，非工业硬点。 〔引用：X〕
 - (同日 ~09:19 UTC) **2118272043288547413**：Citadel 10 月 AI 泡沫叙事 vs 11 月「The setup has improved」（Scott Rubner，2026-11-04）；配 Citadel Securities 页截图（Research 附件 `serenity-citadel-*.jpg`）。Jev theme macro、水文 no、质量 ~2.3。 〔引用：X；附件〕
 - (薄·同窗) INTC CEO 买股 **2118049698733064433**；deleveraging rant **2118015527440515458**（CIFR/AAOI 价 vs 订单）——情绪/估值层。 〔引用：X〕
+
+
+## 2026-11-05 对话补录（SIVE 再点名 + 认证回复 + Citadel 拆解；交叉午夜 §7ba 不重抄）
+- (2026-11-05，SIVE·晨报窗) Alea **2118035778253283768** 再点 $SIVE/$AAOI（短缺框架；Jev~1.68）——交叉午夜 §7ba 一行，勿重抄全文。旁证 Sofi **2118127853028212786**（COHR InP→$SIVE）。 〔引用：SIVE 对话；交叉 `68a693a`〕
+- (同上·晚间) **2118206374689853853** 认证/foundry 瓶颈 + 投机市值比较——对话侧钉「非 IR/无模型更新」。COHR TLDR **2118200689453314341** 交叉午夜。 〔引用：同上〕
+- (Research ~17:42) 拆 **2118272043288547413** Citadel Advisors vs Securities；Rubner CTA −3.3σ / 零售 22 日买 / EPS↑~30% vs 倍数压 35–50%；「谁在卖」= cohort 非具名基金。交叉午夜 Citadel 一行。 〔引用：Research 对话；交叉 us-macro〕

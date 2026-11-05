@@ -617,3 +617,10 @@
 - (FI) 现网 blankning/issuer 本轮仍失败（404 / SSL EOF）；仍以 `/workspace/fi_em_20261103.ods`：**Sum 6,31%**、持仓日 **2026-11-02**（非 live）。 〔引用：FI ODS；本轮抓取失败〕
 - (社区·@lyAtomic) status/**2118162750790914093**（~02:05 UTC）：摘 COHR CEO「no signs of attenuation」「2027 basically booked out」「no oversupply risk through calendar 2028」+ 自用 InP 不够 → 接 merchant InP CW / $SIVE（Glasgow >100M lasers/yr、MRVL×LITE 后 dual-source 槽）。**社区读法≠公司订单/指引**；可证伪：无认证转化/无出货/目标下修；COHR 原话须对一手 call。Jev theme optical、水文 no、质量偏薄指针（~2.5）。 〔引用：X note_tweet；Jev `/workspace/x-findings-2026-11-05/`〕
 - (社区·Serenity) **2118035778253283768**（上海 11/05 窗起点 UTC 17:40 11/04）：$SIVE/$AAOI 激光供需失衡深，即便 DC 需求假想 −20–30% 也未必消短缺——**框架非 IR**。**2118206374689853853** 回复：SIVE「主要是认证」+ foundry/扩产叙事；tiny MC——社区投机，见 serenity。 〔交叉 serenity〕
+
+
+## 2026-11-05 对话补录（晨报钉 11/4 17.68 + FI 6.27%@11/03 + Serenity 认证；交叉午夜 `68a693a` 不重抄 14.80）
+- (2026-11-05 ~09:19，SIVE·晨报) 钉 **11/4 收 17.68（−8.91%）**、IR×close≈**63.07 亿 SEK**；FI **6.27%@11/03**（Two Sigma 0.80% / AQR 0.59% / Arrowstreet 0.59% / GSA 0.52%；较 6.31%@11/02 略降）；Cision 自 10/23 EGM 无新稿；Q3 **11/26**。勿与午夜 **11/05 收 14.80** 混。读法：−8.9%+空头略降≈流动性；下一证伪仍 11/26。双语草稿**未发**。 〔引用：SIVE 对话；交叉 `68a693a`〕
+- (同上·旁证) Alea **2118035778253283768**（短缺/200mW+ pure play；Jev~1.68）；Pep **2117889598596526248**；Sofi COHR InP→$SIVE **2118127853028212786**；dizaq1 Innolight→TSEM 已在前日——勿混 GFS 激光层。 〔引用：同上〕
+- (2026-11-05 ~21:02·Serenity) **2118206374689853853**：瓶颈=**认证**/foundry/扩产；MRVL×LITE 独立源窗口；「2028 收入或超 mcap」投机（~$600m vs AAOI ~$4.9B）**≠IR**。COHR TLDR **2118200689453314341**——交叉午夜 $20B 一行。 〔引用：同上；交叉 serenity/optical〕
+- (薄交叉·Trade) 盘中支撑 **17.16–17.30**（~16:55）后被定盘 **14.80** 击穿——以午夜为准。 〔交叉 trade-ideas〕

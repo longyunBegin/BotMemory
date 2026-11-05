@@ -247,3 +247,8 @@
 - (Serenity·Citadel) status/**2118272043288547413**：Citadel Securities「November: The Setup Improves」（Scott Rubner，2026-11-04）vs 10 月泡沫叙事——**宏观沟通/仓位框架指针**，非工业出货硬证据。 〔引用：X；`serenity-citadel-*.jpg`〕
 - (Serenity·叙事战) **2118247436733055110** 呼吁公司在 X 反击错误供给/延期叙事——融资反射层。 〔引用：X〕
 - (交叉) Storm UBS/Arcuri HBM 结构变化 RT——内存供给侧，见 holdings。不重抄 AMD Q3。 〔交叉〕
+
+
+## 2026-11-05 对话补录（Citadel 拆解 + Fab11E/现货旁证；交叉午夜杀跌/Citadel 不重抄）
+- (2026-11-05 ~17:42，Research) Serenity Citadel「Setup Improves」：拆 Advisors vs Securities；Rubner CTA ~−3.3σ、零售 ~22 日买、semis/AI EPS↑~30% vs 倍数压 35–50%；卖出 cohort=CTA/系统化+HF（GS prime semis+装备~57% 净卖），非具名基金；13F 过滞；SOXL 为买方。交叉午夜 Citadel 一行。 〔引用：Research 对话；交叉 serenity/`68a693a`〕
+- (内存→宏观) Fab 11E 2028 增量节奏风险 + TrendForce NAND 现货下压/DDR4 微跌——详见 holdings。11/05 续杀表交叉午夜。 〔交叉 holdings/`68a693a`〕
