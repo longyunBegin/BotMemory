@@ -663,3 +663,10 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (2026-11-05，SIVE·晨报窗) Alea **2118035778253283768** 再点 $SIVE/$AAOI（短缺框架；Jev~1.68）——交叉午夜 §7ba 一行，勿重抄全文。旁证 Sofi **2118127853028212786**（COHR InP→$SIVE）。 〔引用：SIVE 对话；交叉 `68a693a`〕
 - (同上·晚间) **2118206374689853853** 认证/foundry 瓶颈 + 投机市值比较——对话侧钉「非 IR/无模型更新」。COHR TLDR **2118200689453314341** 交叉午夜。 〔引用：同上〕
 - (Research ~17:42) 拆 **2118272043288547413** Citadel Advisors vs Securities；Rubner CTA −3.3σ / 零售 22 日买 / EPS↑~30% vs 倍数压 35–50%；「谁在卖」= cohort 非具名基金。交叉午夜 Citadel 一行。 〔引用：Research 对话；交叉 us-macro〕
+
+
+## 2026-11-06（午夜同步；AAOI LTA + SIVE moonshot + 亚太稳市）
+- (2026-11-06 ~05:00 UTC) status/**2118569237128286343**：$AAOI——LTA#1 **$1–1.5B** hyperscaler；第 2 份 LTA 收尾、约 **5×（$5–7.5B）且明确含激光**（merchant UHP）；需求「exceptional/unprecedented」、仅能满足 ~80%；产能 $471m/mo 推至 **H2’27**（电气/施工）；Q4 **$385–420M**（DSP）；CPO UHP eval **4–5**、GM>60%。TLDR：累计 LTA 可见度估 **$6–9B**；进 merchant CPO 激光（vs LITE/COHR）。**社区读法**；数字须对一手 call。配图见帖。 〔引用：X note_tweet；`/workspace/x-findings-2026-11-06/Serenity-AAOI-earnings.txt`；交叉 optical〕
+- (同日 ~07:24 UTC) **2118605467459199016**：$SIVE「moonshot potential to be the next $LITE」（并列 RKLB/NBIS）；称仍 long、用波动期最大化敞口——**个人仓位叙事 ≠ IR**。 〔引用：X；交叉 sive〕
+- (同日 ~12:33 UTC) **2118683089383874576**：台借券空单量限制 **30%→3%**（11/9 生效）+ 保证金抵押 **90%→130%** + **$15.3B** 稳市基金；韩 3 个月豁免 140% 维持保证金（11/9）；中 PBOC **$15B** 互换 + 回购贷款利率 **1.25%→1%**——**政策机制指针**，非工业出货。 〔引用：X note_tweet；交叉 us-macro〕
+- (薄·同窗) ASTS 自研火箭 **2118726497129423273**；Anthropic RR **$80B**（10 月末）**2118584259619520787**；IREN 90% GPU 预付回复 **2118570510783246410**——情绪/融资层。 〔引用：X〕

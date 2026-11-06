@@ -252,3 +252,9 @@
 ## 2026-11-05 对话补录（Citadel 拆解 + Fab11E/现货旁证；交叉午夜杀跌/Citadel 不重抄）
 - (2026-11-05 ~17:42，Research) Serenity Citadel「Setup Improves」：拆 Advisors vs Securities；Rubner CTA ~−3.3σ、零售 ~22 日买、semis/AI EPS↑~30% vs 倍数压 35–50%；卖出 cohort=CTA/系统化+HF（GS prime semis+装备~57% 净卖），非具名基金；13F 过滞；SOXL 为买方。交叉午夜 Citadel 一行。 〔引用：Research 对话；交叉 serenity/`68a693a`〕
 - (内存→宏观) Fab 11E 2028 增量节奏风险 + TrendForce NAND 现货下压/DDR4 微跌——详见 holdings。11/05 续杀表交叉午夜。 〔交叉 holdings/`68a693a`〕
+
+
+## 2026-11-06（午夜同步；亚太空头限制/稳市包；美股半反弹）
+- (Serenity·亚太稳市 **2118683089383874576**) 台借券空 **30%→3%**（11/9）+ 抵押 **90%→130%** + **$15.3B** 基金；韩保证金宽限 3 月；中 PBOC **$15B** 互换 + 回购利率下调——**政策机制**，方向仍不确定。 〔引用：X；交叉 serenity〕
+- (交叉·11/06 盘面) 半导/光模块自 11/05 大杀后部分反弹（holdings 表）；叙事仍「AI 泡沫/选举」对抗「需求>供给」（Storm 选举/战争理论回复属情绪，不入库为事实）。 〔交叉 holdings〕
+- (不重抄) Citadel「Setup Improves」见 11/05。 〔交叉 `68a693a`〕
