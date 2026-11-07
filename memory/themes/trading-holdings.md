@@ -497,3 +497,11 @@
 - (同上·TrendForce 11/06 18:10) DDR4 8Gb 3200 **$45.607（−0.93%）**；DDR5 16Gb **$60.167（−0.82%）**；NAND 晶圆页仍卡 10/26。 〔引用：同上〕
 - (同上·YMTC) 武汉第 4 NAND 厂：国产设备最高 ~**70%**、>300 层、DC/AI、预期 **2027** 开工；仅洽谈**无正式订单**——SNDK 中期竞争路径。Reuters。 〔引用：同上〕
 - (同上·TSMC 3D DRAM) The Information 独家：两源称 TSMC 应 NVIDIA 草拟真 3D DRAM；无量产表、无同日确认。≠已出货 HBM bits；≠仅 base die on 3nm 报道。近端几乎不动 MU 供给/定价/LTA；中长期仅当 TSMC 成 bit foundry（皆缺）。证伪：官方否认 / 财报点 memory-wafer 资本开支。 〔引用：同上〕
+
+
+## 2026-11-07（周末静盘；更正 11/06 定盘表；午夜同步）
+- (周末) 2026-11-07 周六——美股/ST **无新收盘**。 〔引用：日历〕
+- (更正·11/06 SIVE) 以观察池/Yahoo 为准：**SIVE.ST C 16.20（+7.28%）**（作废昨夜 **15.94**）。 〔交叉 sive / trade-ideas〕
+- (更正·11/06 美股定盘) 昨夜午夜多为近收/盘中快照——**以本轮 Yahoo chart + 观察池为准**：MU **690.00**；SNDK **835.06**；NVDA **186.64**；MSFT **530.61**；MRVL **141.20**；IBKR **75.82**；AAOI **50.13**；DRAM **39.29**；GOOGL **284.78**；LITE **538.59**；COHR **192.81**；SOXX **136.53**。作废昨夜 MU 683.44 / AAOI 49.08 / LITE 525.85 等近收值。 〔引用：`yahoo_bars_20261107_sync.json`；交叉 trade-ideas〕
+- (薄交叉·Storm) RT KawzInvests：$LITE CEO 谈 ~45% 抛售——demand book vs 市价「massive disconnect」（**2119036741050871872** RT of **2118868031912948011**）——情绪旁证，非持仓指令。 〔引用：X〕
+- (日历) SIVE Q3 **11/26**；NVDA **11/17**。 〔交叉〕

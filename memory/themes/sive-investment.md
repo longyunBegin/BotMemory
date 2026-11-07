@@ -639,3 +639,14 @@
 - (2026-11-06 ~21:53·Serenity moonshot) **2118605467459199016**「next $LITE」+ 逢低加——投机≠合同；Jev q≈0.97 / sive≈1.88；不改写 2028/$10B。同日 AAOI 帖未点 SIVE。交叉午夜 moonshot 一行。 〔引用：同上；交叉 serenity〕
 - (薄交叉·Trade) 近撑 **17.16–17.30** 已失败；货架 **15 / 12.0–12.1**；量能钉 11/05 **15.10/−14.59%/2.52×**。勿重抄 11/06 反弹。 〔交叉 trade-ideas〕
 - (薄交叉·光互连/Research) Apr 28 供给图复盘 + 3 月开仓时间线（$140M→next LITE→Jabil LRO→Celestial 预期）+「为何 next LITE」角色映射——见 optical/serenity；≠IR。 〔交叉〕
+
+
+## 2026-11-07（午夜同步；周末静盘；更正 11/06→16.20；FI live 6.32%@11/06；EE Times）
+- (周末静盘) 2026-11-07 周六——SIVE.ST **无新收盘**；钉周五 11/06 并更正。 〔引用：日历；Yahoo chart〕
+- (更正·11/06 定盘) 昨夜午夜记 **C 15.94（+5.56%）**/量 ~14.44M / 市值≈56.9 亿；观察池例程 + 现网 Yahoo：**O 15.01 / H 16.45 / L 14.71 / C 16.20（+7.28% vs 更正后 11/05 15.10）**；量约 **15,417,529**。**以 16.20 为准**，作废 15.94。IR 股本 **356,740,332** × 16.20 ≈ **57.8 亿 SEK**；自 10/30 20.90 累跌约 **−22.5%**。 〔引用：`/workspace/trade/scan.md` 数据日 11/06；`/workspace/yahoo_bars_20261107_sync.json`；交叉 trade-ideas〕
+- (FI·live) 现网 blankning ODS 恢复（昨夜/前夜多为 404）：`/workspace/fi_em_20261107.ods`——**Sivers Semiconductors AB Sum 6,32%**、持仓日 **2026-11-06**、LEI `254900UBKNY2EJ588J53`。相对缓存 **6.31%@11/02** 微升；与对话补录晨报侧 **6.67%@11/5**（含 Marble Bar 0.52% 新上）**冲突——本午夜以 FI 聚合 Sum 6.32%@11/06 为准**，具名拆分未从本 ODS 细表核出。 〔引用：FI ODS 解析；交叉 `cc6d83f`〕
+- (官号·EE Times 播客 **2118801417976807611**) @SiversSemicond（UTC 2026-11-06 20:23 ≈ 上海 11/07）：CEO @VickramVathulya × @sallywf / @eetimes「AI with Sally」——photonics/wireless、技术/制造/商业；链 eetimes.com/podcasts/enabling-ai-at-the-speed-of-light/。印象约 **37k**、likes **375**、RT **36**（抓取时）。**官号推广≠新订单**。 〔引用：X get_users_posts；交叉 x-content/optical〕
+- (社区·@lyAtomic 蒸馏 **2118926501387399588**，~04:40 UTC 11/07) 引述 CEO：小公司不能把农场押在 CPO（「takes an entire world」：技术+架构+供应链）；同时跟进并准备；先出行业现在能吃的——pluggables + LPO/LRO/NPO。集群互连要更快；至 400G（部分 800G）常用 EML，再快则「造光」与「调制」拆分→CW + SiPh。机架内铜仍为主。激光变难：至 400G 约 40–50 mW 够用；更高速率/更多波长→更高功率、更紧波长控制、阵列。产能：旧 fab-light≈Glasgow **~10%** + 伙伴 **4–5×**；现约 **1 自产 : 2–2.5 伙伴**。可核进度：Jabil 已在 **beta builds**（认证耗时、未提终端客户 ramp）；战略 LiDAR 客户 **Q4** Glasgow 爬坡；**GFS = 激光+SiPh 参考设计伙伴，非代工 Sivers 激光**。Jev：theme sive、非水文、质量 ~1.77（useful/thin 之间）。**社区蒸馏≠IR 指引**；一手以播客为准。 〔引用：X note_tweet；Jev `/workspace/x-findings-2026-11-07/`；交叉 optical/x-content〕
+- (社区·Serenity messaging **2118954148398080283**) 技术讨论有用、投资者口径过保守；对标 Jensen 光学量 **15×**、LITE/COHR **$5–$20B** 多年协议；不满未提 Ayar/O-Net/Poet/ELS、话头拐回近端 pluggables；「comms+sensing」愿景无吸引力；不同意自称「small」（100m CW DFB + foundry ≈ 全球激光年产能实质份额）；望下次财报改口径。Jev：theme sive、非水文、~1.56。**个人批评≠公司声明**。 〔引用：X；Jev；交叉 serenity〕
+- (社区·Serenity 仓位 **2119053062644121869**) 仍持 **百万级** 股、称占公司实质比例；对近期 CPO 沟通/披露极挑剔；若披露更多类似 CRDO/Innolight 的认证愿加仓；等财报约 **19d**（相对 Q3 **11/26**）。**个人仓位声明**。 〔引用：X；交叉 serenity〕
+- (不重抄) AAOI Q3/LTA、moonshot→LITE、COHR $20B——见 `a320a1c`/`cc6d83f`。 〔交叉〕

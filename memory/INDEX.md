@@ -122,3 +122,5 @@
 - 日常同步 2026-11-07 00:00 Asia/Shanghai（覆盖 11/06：更正 11/05 SIVE→15.10；11/06 收 15.94；观察池数据日 11/05 已发；AAOI Q3 LTA+激光；Serenity moonshot；美股半反弹；FI 非 live；无新助手 18；对话缺口仍在）：`memory/episodes/2026-11-06-midnight-sync.md`
 
 | 2026-11-07 对话补录（11/06） | memory/episodes/2026-11-07-transcript-catchup.md |
+
+- 日常同步 2026-11-08 00:00 Asia/Shanghai（覆盖 11/07 周六：周末静盘；更正 11/06 SIVE→16.20；观察池数据日 11/06 已发；FI live 6.32%@11/06；EE Times 播客+lyAtomic 蒸馏；Serenity messaging/百万仓；无新助手 18；对话缺口仍在）：`memory/episodes/2026-11-07-midnight-sync.md`

@@ -679,3 +679,13 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (光互连·年初时间线) 实为 **3 月中下旬**开仓（**2033466880661606646** ~$140M mcap next LITE）→ 03-19 Jabil LRO → 03-31 Celestial 预期数学支撑「 someday $10B」；4/28 补配额图。URL 全列 episode。 〔引用：同上〕
 - (Research·next LITE 机制) 角色映射非规模相等：售罄 merchant 激光坑 + 独立二源窗 + 缺认证非 fab + 小 mcap→moonshot。AAOI 另映射「60%+ GM UHP」。 〔引用：Research 对话；交叉 sive/optical〕
 - (Research·AAOI 乘法) 第 2 LTA 她乘 **$5–7.5B**、累计 **$6–9B**——**她的乘法≠已签**；行业覆盖 ~80%。交叉午夜头条。 〔引用：同上〕
+
+
+## 2026-11-07（午夜同步；EE Times messaging 批评 + 百万仓位 + YTD/Neocloud/MU LTA）
+- (对官帖·messaging **2118954148398080283**，~06:30 UTC) 回复 @SiversSemicond EE Times：技术有用、投资者口径「way too conservative」；对标 $NVDA Jensen 光学量 **15×**、$LITE/$COHR **$5–$20B** 3–5 年协议；不满未谈 Ayar/O-Net/Poet/ELS、话头拐回 pluggables；「communications and sensing」愿景无吸引力；不同意把公司说成「small」（100m CW DFB + foundry ≈ 全球激光年产能实质份额）；望下次 earnings 改口径。印象约 **30k**、likes **385**。Jev theme sive、非水文、~1.56。**个人批评**。 〔引用：X note_tweet；Jev；交叉 sive/optical〕
+- (仓位 **2119053062644121869**，~13:03 UTC) 仍持 **百万级** $SIVE（称 material %）；对 CPO 沟通极挑剔；若更多 CRDO/Innolight 级认证披露愿加仓；等财报约 **19d**。Jev 偏 holding_personal / sive 交界、非水文、~1.63。**≠IR**。 〔引用：X；交叉 sive〕
+- (中文 YTD **2119038604819468364**) 「今年收益率仍有 **+594.4%** YTD」+ 2027–2028 光电/存储逻辑被提前一年「交卷」；对比巴菲特规模。高互动（印象 ~306k / likes ~2002）——**个人成绩单**，不作组合建议。 〔引用：X〕
+- (同窗·薄) LITE/MRVL 自收购后各约 −50% 中文回复 **2119056343462203480**；亚洲指数自峰值回撤表 **2119047141746418066**；$POET 近净现金下 −$98M 错位 **2119031172705771860**；高功率 CPO/NPO 激光溢价 vs 可插拔 bridging **2119060297168421251**——社区框架。 〔引用：X〕
+- (MU LTA **2119023086502805730**) 引 Micron：SCA「cannot be unilaterally canceled」「take or pay」「no contractual outs」；对比历史无约束 LTA；GE Vernova CEO 称未见涡轮订单融资中断——反驳「LTA 无意义 / Softbank 违约」叙事。**卖方/管理层引语指针**，须对一手稿。 〔引用：X；交叉 holdings/us-macro〕
+- (Neocloud **2119077473107472729**) 估值杀后对 $NBIS 等主题偏正：SPCX $40B GPU 融资、hyperscaler 加码；门槛=NVDA 配额+已签约产能/许可+对手方资金+融资结构（对比 $CRWV 高息债）；$IREN 90% 预付/旧 H100 重签价升。**主题框架≠荐股**。另：$IREN 基本面转正但仍有 **$2.37B** ATM 剩余 + 管理层薪酬稀释顾虑 **2119085455375503816**；$MSFT 旧 2023 Bing AI 合约未续≠dunk on Oracle **2119087830907666759**。 〔引用：X；交叉 us-macro〕
+- (不重抄) 11/06 moonshot→LITE / 亚太稳市——见 `a320a1c`。 〔交叉〕

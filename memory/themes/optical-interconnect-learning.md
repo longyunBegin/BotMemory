@@ -437,3 +437,11 @@
 - (Research·YE27 高度·无目标价) 官方锚 DC **$471M/mo**≈退出跑率 **$5.65B**（非 FY2027 全年）；+CATV 约公司退出 ~**$6.1B**。已签 LTA 均摊盖不住 $471M。第 2 LTA $5–7.5B 未签名义。Lin 口头「明年年底利润率~20%」→推断 ~$94M/mo / ~$1.13B 年化退出利润（**非指引**）。实录 stockanalysis 726720。 〔引用：同上〕
 - (Research·4–5 quals) 评估 CPO/NPO UHP 激光（NPO 100–200mW / CPO 300–350mW），非已下生产 PO；「另外两家你们很熟」→LITE/COHR；量产更像 **~2028**，难塞 YE27 $471M/mo 收发器跑率。 〔引用：同上〕
 - (薄·两层放量) 可插拔爬坡≠CPO 激光 2026 现金；Serenity 赌可插拔 **2027 Q2+**。见 serenity。 〔交叉〕
+
+
+## 2026-11-07（午夜同步；Sivers EE Times 机制蒸馏 + Serenity messaging；周末无新一手 IR）
+- (机制·@lyAtomic 蒸馏 CEO 播客 **2118926501387399588**) CPO「takes an entire world」→小厂先出 pluggables/LPO/LRO/NPO；>400G：EML→CW+SiPh 分工；机架内铜仍主导；激光功率从 ~40–50 mW@≤400G 上台阶；产能比自产/外协约 **1:2–2.5**；Jabil beta；LiDAR Q4 Glasgow；GFS=参考设计非激光代工。细节与可证伪见 sive。一手=EE Times 播客。 〔引用：X；交叉 sive〕
+- (Serenity·messaging/愿景 **2118954148398080283**) 批评官方未把 CPO/NPO/pluggables 机会与 100m CW 产能讲成「next $40B optical」叙事；对标 LITE/COHR 多年大额协议——**社区沟通批评**，非出货数据。 〔交叉 serenity/sive〕
+- (薄·高功率溢价 **2119060297168421251**) Serenity：CPO/NPO 高功率激光定价/毛利溢价 + 可供应家更少；可插拔激光可 bridge 至 2028 CPO——框架。 〔引用：X〕
+- (薄·LITE CEO) Storm RT：demand book vs 市价 disconnect（~$LITE 大跌语境）——情绪旁证。 〔交叉 holdings〕
+- (不重抄) AAOI Q3 LTA/激光、COHR $20B、光互连 2028 brief——见 11/05–11/06。 〔交叉 `a320a1c`/`68a693a`〕
