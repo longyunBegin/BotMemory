@@ -266,3 +266,9 @@
 - (Serenity·Neocloud **2119077473107472729**) 估值杀后主题框架：配额+许可+对手方+融资结构；$IREN ATM 剩余 **$2.37B** 稀释顾虑并行。 〔交叉 serenity〕
 - (Serenity·亚洲回撤表 **2119047141746418066**) 印尼 −44.7% / 韩 KOSPI −44.5% / 日经 −20.6% / 台 −20.3% / 中 −14.3%（自年内峰值，作者口径）——宏观回撤背景，非个股基本面证伪。 〔引用：X〕
 - (不重抄) 亚太稳市包 / Citadel Setup Improves——见 11/05–11/06。 〔交叉〕
+
+
+## 2026-11-08（周末；Serenity「deleveraging vs 需求毁灭」与管理层供给约束汇编）
+- (Serenity 框架 **2119363124147191823**) 把存储低倍数+价格地板 LTA、部分光学负 EV、与杠杆 Neocloud / AI lab / 私募泡沫拆开；称 2026 更像估值去杠杆而非 AI 需求毁灭。Jev ~**1.96**。**个人框架，不是宏观数据发布。** 〔引用：X；交叉 serenity〕
+- (管理层汇编 **2119458038260318634**) LITE/IREN demand-book 与市价背离；AMD demand&gt;supply；ARM 全球替代建设；QCOM 供给约束；APLD 融资仍在但执行/利率风险；META 政治/许可。分野：需求消失 vs 建设延迟。Jev ~**1.74**；引语未对一手稿逐条核。 〔引用：X〕
+- (薄) Tom's Hardware 转述台积电否认 3D DRAM（交叉 The Information 11/06 报道）；Storm 同意「AI bubble 是 buzzword」并 RT 花旗 CEO「对冲基金去风险」口径。 〔引用：X；交叉 holdings〕

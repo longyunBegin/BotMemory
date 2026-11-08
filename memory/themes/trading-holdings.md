@@ -505,3 +505,9 @@
 - (更正·11/06 美股定盘) 昨夜午夜多为近收/盘中快照——**以本轮 Yahoo chart + 观察池为准**：MU **690.00**；SNDK **835.06**；NVDA **186.64**；MSFT **530.61**；MRVL **141.20**；IBKR **75.82**；AAOI **50.13**；DRAM **39.29**；GOOGL **284.78**；LITE **538.59**；COHR **192.81**；SOXX **136.53**。作废昨夜 MU 683.44 / AAOI 49.08 / LITE 525.85 等近收值。 〔引用：`yahoo_bars_20261107_sync.json`；交叉 trade-ideas〕
 - (薄交叉·Storm) RT KawzInvests：$LITE CEO 谈 ~45% 抛售——demand book vs 市价「massive disconnect」（**2119036741050871872** RT of **2118868031912948011**）——情绪旁证，非持仓指令。 〔引用：X〕
 - (日历) SIVE Q3 **11/26**；NVDA **11/17**。 〔交叉〕
+
+
+## 2026-11-08（周末静盘；无新收盘；FI/内存否认定点旁记）
+- (静盘) 周日无 ST / 美股新收盘；钉周五 11/06 结算表（SIVE **16.20**、MU **690.00**、SNDK **835.06**、NVDA **186.64**、MSFT **530.61**、MRVL **141.20**、IBKR **75.82**、AAOI **50.13**、DRAM **39.29**、GOOGL **284.78**、LITE **538.59**、COHR **192.81**、SOXX **136.53**）——与 `ee8b3a2` 一致，不改价。 〔引用：`/workspace/yahoo_bars_20261108_sync.json`〕
+- (薄交叉·FI) 发行人页 Sum 仍 **6.32**；具名 GSA 0.62 / Marble Bar 0.52 @11/04，Two Sigma 11/05 已 &lt;0.5。详见 sive。 〔交叉 sive〕
+- (薄交叉·内存) Serenity 转述 Tom's Hardware：台积电否认探索 3D DRAM（Jev ~1.08）；她与 @jukan05/@damnang2 继续辩 MU SCA vs 历史 LTA 可协商性（Jev thin）。交叉 `cc6d83f` The Information 原文条目。 〔交叉 serenity/us-macro〕

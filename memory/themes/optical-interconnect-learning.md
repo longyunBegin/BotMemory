@@ -453,3 +453,10 @@
 - (vs SIVE 插座分层) 同做 InP CW DFB。可插拔层重叠（~70–100 mW）。CPO UHP：Nokia 已印 **400 mW**；SIVE Q2 股东信公开语言 70/100 mW 可插拔送样、NPO 200 mW、CPO「多架构支持」——**无** 400 mW。NPO：SIVE 更具体（200 mW）与 Shore 偏 NPO 同向。角色：SIVE=中立 merchant 芯片/阵列；Nokia=系统在位者，若做箱则角色重叠。产能时线：SIVE Glasgow USD 30M→2027 Q4 >100M + 代工 1:2；Nokia=美国本土 InP。商业：SIVE 有 Jabil 书面 Beta→2027 H1/H2；Nokia Fierce 无具名 CPO/NPO 客户。含义：Nokia 现身确认光源紧；近端 SIVE 插座仍是可插拔 70/100 mW+Jabil 节奏；UHP CPO「next Lumentum」映射上 Nokia 400 mW 更直接打 LITE/COHR 档。改写独特性条件：Nokia merchant 规模外售**且**同客户认证。**框架非建议**。 〔引用：同上；交叉 sive〕
 - (播客机制细·相对午夜头条) scale-out 已用光、速率上台阶；≤400G（部分 800G）**EML**→更快 **CW+SiPh**；scale-up 铜仍王、光先替更长铜；至 400G ~**40–50 mW**；更高功率+波长+阵列；Pitch=与 lead 客户谈折中、做覆盖~80% 的 3 件事；产能要新鲜产能；Jabil 已 beta 无终端 ramp；SOA 已有客户；太空 AI 不押农场。一手 transcript：https://www.eetimes.com/podcasts/enabling-ai-at-the-speed-of-light/ 。交叉午夜 `ee8b3a2` 官帖/lyAtomic 头条，勿重抄。 〔引用：SIVE 对话；交叉 sive〕
 - (薄·2027 vs 2028 节点) 可插拔用灯紧在 **现在–2027**（LITE 售罄至 2029、COHR 自用、AAOI 不够、Innolight 谈 2026–27 DFB）；CPO/定制外置激光爬更近 **~2028**。SIVE Jabil LRO 书面节点=**2027**；不独落后于行业 CPO 节奏。 〔引用：光互连对话〕
+
+
+## 2026-11-08（午夜同步；dizaq1 产能算术与 pluggable→NPO→CPO；Serenity 需求口径汇编）
+- (社区·@dizaq1 产能算术 **2119448314609586351**) 讨论「年 100M CW vs 约 $30M 投资 / 刚募约 $70M」对比 $AAOI 模块扩产（Q3 约 **$500M** capex 指向 400G/800G/1.6T 产线，不是激光芯片本身）。4 寸片 **1.0–1.6 万** 颗 → 年 1 亿颗 ≈ 每月不到 **1000** 片；SiPh 可一颗 CW 分多路，故月百万模块对应年激光区间约 **12M–100M**（视 EML 4–8 颗 vs 共享 CW）。作者认为过早扩到认证订单前面只是闲置成本；自陈非工程师。Jev ~**1.92**。**推算≠IR。** 〔引用：X；交叉 sive〕
+- (社区·路径顺序 **2119118673168552356** / **2119121656241377774**) 可插拔订单 → **200mW NPO** 量产创收 → 再 CPO；声称 SIVE 目前做不到 $LITE/$AVGO 档 CPO 激光量产；CPO 研发「possibly」联合 Ayar（未证实）。另称 **6 家客户**处于早期 qual/testing，优先跟认证更新和量产单。Jev 长帖 ~**1.10**、「6 家」~**1.69**。交叉昨夜路径打分（可插拔/Jabil 近端、CPO 远端）——顺序一致之处可记，**数字与 Ayar 仍是社区**。 〔引用：X；交叉 `e62ff27`〕
+- (Serenity 需求口径) **2119458038260318634** 汇编 $LITE CEO（11/06）demand books vs 市价背离，以及 AMD/ARM/QCOM/APLD/META 的供给/建设约束点评；**2119363124147191823** 再次引用 $COHR **$20B** / $LITE **$5B** LTA（不当新签）和 $POET 负 EV。Jev 1.74 / 1.96。交叉 us-macro。 〔引用：X〕
+- (不重抄) EE Times scale-out/up、EML→CW+SiPh、Nokia 75–100/400 mW、11 月路径打分——见 `ee8b3a2`/`e62ff27`。 〔交叉〕
