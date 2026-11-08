@@ -501,3 +501,8 @@
 - (@lyAtomic) 本窗无原创，仅 RT @damnang2 **2119116632606023798**（自己的 RT id **2119293809775493427**，~04:59 UTC）：反驳把内存 LTA 当普通商品合同、假设需求崩溃后客户可轻易取消/推迟；强调定制 HBM/3D stacked DRAM 从联合设计阶段就绑住客户。Jev theme memory_hbm、质量 ~**1.05** thin。 〔引用：X get_users_posts；交叉 holdings〕
 - (@SiversSemicond) 本窗 **0** 帖。 〔引用：X〕
 - (不重抄) 周六 EE Times 蒸馏 **2118926501387399588** 与双语草稿未发——见 `ee8b3a2`/`e62ff27`。 〔交叉〕
+
+## 2026-11-08 对话补录（SIVE 周日双语草稿未发；carrioresearch Q2 路径重述；交叉午夜 lyAtomic 仅 RT / Serenity AI-bubble 不重抄）
+- (草稿·未发) SIVE Watch 周日晨报后写出**两套**双语草稿：中文主帖+2 回复、英文主帖+2 回复；明示「仅草稿，请勿代发」/ “drafts only, do not post”。**未自动发出、用户当日无回复**。内容概括：Serenity 对 EE Times 投资者口径的批评（comms & sensing / 「small」vs 扩建后 100M / CRDO·Innolight 级认证作加仓条件 / 仍持百万股量级）+ dizaq1 可插拔→NPO→CPO 顺序 + **11/26** 为下一核对。**全文不入库**（避免把未发稿当已发）。 〔引用：SIVE 助手对话 2026-11-08 ~09:12；交叉 sive/serenity〕
+- (旁证·carrioresearch **2119077196564508987**) Sofi 转发；重述已披露 Q2 Jabil 1.6T 路径（Q4’26 beta→客户认证→2027H1 生产订单→H2 爬坡；另有样品送其他可插拔客户）。Jev optical_cpo、非水文、q≈**2.59**。数字非新 IR。官号周六后 0 新帖；PhotonCap/Storm 无 SIVE 点名。 〔引用：SIVE 周日晨报；交叉 sive〕
+- (不重抄) 午夜 @lyAtomic 仅 RT damnang2 LTA 内存帖；Serenity AI-bubble / 管理层汇编；dizaq1 100M·$30M / 6 客户——见 `49f12aa`。记忆系统仅通知 `ee8b3a2`/`e62ff27`——不重抄通知文。 〔交叉〕

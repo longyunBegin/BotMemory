@@ -128,3 +128,5 @@
 | 2026-11-08 对话补录（11/07） | memory/episodes/2026-11-08-transcript-catchup.md |
 
 - 日常同步 2026-11-09 00:00 Asia/Shanghai（覆盖 11/08 周日：周末静盘、价格仍 11/06 的 16.20；FI 发行人页核出具名表、Sum 仍 6.32；Serenity AI-bubble/管理层汇编；dizaq1 产能算术与「6 家早期认证」；@lyAtomic 仅 RT；无新助手 18；对话缺口仍在）：`memory/episodes/2026-11-08-midnight-sync.md`
+
+| 2026-11-09 对话补录（11/08） | memory/episodes/2026-11-09-transcript-catchup.md |
