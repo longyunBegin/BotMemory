@@ -468,3 +468,10 @@
 - (InP CW 作 ELS·2026-11 现况) **今日紧的是可插拔里的 EML**（+模块/相关芯片产能），**不是** CPO 外置超高功率 InP CW。两档：~**70–100 mW** 已在硅光可插拔放量且紧（Lumentum 拨日本产能、~20% 自建模块改自有芯片；Coherent 称月出货百万级；云厂锁 EML/CW DFB）；~**200–400 mW** ELS 模块规模量未到（AAOI：NPO 100–200 / CPO 300–350、示 400 mW；Coherent UHP >400 mW@50°C；Cignal：2026 市场刚过 **$100M**、2030>$1.5B；有意义爬坡多指向 **2027H2–2028**）。供应商：LITE UHP 芯片已出货、首 ELS 模块 2027H2、NPO/CPO 承诺 >$5B；COHR 本季确认 PhotonLink（含 400 mW）、~$20B/5yr LTA 收入~2028 初、NPO/CPO 语言 2027H2；AAOI **4–5** 家 CPO 激光认证、预付→量产 18–24 月——**复述**（整段 Q3 见 `cc6d83f`）；源杰 70/100 已爬、更高功率仍验证；Sivers Glasgow 2027Q4 >100M；O-Net/Enablence=2026-03 开发合作非已确认放量；TrendForce 2026-06 大宗产能在 Broadcom/Sumitomo/Coherent/Win 相关。Serenity「下一瓶颈=ELS InP CW」=**2027–28** 功率+认证门槛，非今日 P&L 售罄。证伪「现在就是 ELS 瓶颈」：具名大云厂因 ELS 芯片交期卡货；证伪「以后也不会」：UHP 指引继续上修+交期拉长 / 后进高功率认证大幅滑过 2028。现货价与真实颗数基本不披露。出处：cignal.ai 2026-04/05；TrendForce 2026-06-03；COHR FY27Q1+call 2026-11-05；AAOI Q3 call 2026-11-06；Glasgow PR；O-Net/Enablence ELS PR；源杰调研 2026-10-12。 〔引用：同上〕
 - (Glasgow 2027Q4≠CPO 专线) 近端是 ~70–100 mW 可插拔 CW（Jabil 书面节奏）；公告是通用 **>100M CW DFB/年** AI DC 产能，同一 die 不同功率/封装进 pluggable/NPO/CPO；厂就绪对齐 Jabil H2’27，也可预留更高功率；长期财务模型自 2028≈CPO 放量节点附近。把「2027Q4 投产」读成「开始放量 CPO 激光」不符书面语言。 〔引用：同上；交叉 sive〕
 - (不收) 同线程 11/07 路径打分/双时间线/未具名——已在 `e62ff27`。午夜 dizaq1 产能/6 客户——已在 `49f12aa`。 〔交叉〕
+
+## 2026-11-09（Storm：超大规模 capex 仍铜 scale-up；dizaq1 目标价算术；carrio 时间线复述）
+- (Storm **2119755611529200037**) Wiwynn Q3 营收 YoY **+63%** / QoQ **+56%**、纪录利润、Trainium 3 类 ASIC 机柜；「Big 4」单季 capex **$202B（+108% YoY）** 仍铜做 scale-up；称光学 scale-up 未开始（付费 CTA 不采）。Jev 主题置信低、非水文、q≈**1.79**。数字旁证。 〔引用：X @StormDirac〕
+- (dizaq1 反驳 ~$100 PT) 见 sive 同日——产能/份额/倍数堆叠批评；Jev q≈**2.20**。 〔交叉 sive〕
+- (carrioresearch 时间线) 已披露节点复述；Jev q≈**2.12**。 〔交叉 sive/x-content〕
+- (盘面旁记) 光学名股 11/09 大涨：LITE **+13.15%**、COHR **+17.80%**、AAOI **+6.68%**、AXTI **+9.10%**、MRVL **+10.49%**——与 Serenity honeypot 感想同日，不作因果。 〔交叉 holdings〕
+- (不重抄) 街侧至 2028 / EML vs ELS 瓶颈 / Glasgow≠CPO——见 `6ad1d92`。 〔交叉〕

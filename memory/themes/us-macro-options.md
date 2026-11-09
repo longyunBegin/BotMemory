@@ -272,3 +272,9 @@
 - (Serenity 框架 **2119363124147191823**) 把存储低倍数+价格地板 LTA、部分光学负 EV、与杠杆 Neocloud / AI lab / 私募泡沫拆开；称 2026 更像估值去杠杆而非 AI 需求毁灭。Jev ~**1.96**。**个人框架，不是宏观数据发布。** 〔引用：X；交叉 serenity〕
 - (管理层汇编 **2119458038260318634**) LITE/IREN demand-book 与市价背离；AMD demand&gt;supply；ARM 全球替代建设；QCOM 供给约束；APLD 融资仍在但执行/利率风险；META 政治/许可。分野：需求消失 vs 建设延迟。Jev ~**1.74**；引语未对一手稿逐条核。 〔引用：X〕
 - (薄) Tom's Hardware 转述台积电否认 3D DRAM（交叉 The Information 11/06 报道）；Storm 同意「AI bubble 是 buzzword」并 RT 花旗 CEO「对冲基金去风险」口径。 〔引用：X；交叉 holdings〕
+
+## 2026-11-09（台股大涨旁记；超大规模 capex 数字；参院 AI DC 法案 RT）
+- (台股) Serenity 称 **TAIEX +4.94%**（史上第 2 大单日）+ AI 名股涨停叙事——Jev thin；未对一手指数核。 〔引用：X；交叉 serenity〕
+- (Storm 旁证) 超大规模「Big 4」单季 capex **$202B（+108% YoY）** 仍铜 scale-up——社区数字，待一手核。 〔引用：X @StormDirac；交叉 optical〕
+- (法案旁记) @lyAtomic RT：两党参院法案或加速 AI 数据中心/电力基建（The Verge / Investing.com）——宏观旁证。 〔引用：X〕
+- (盘面) 美股 11/09：SOXX **+7.05%**、光学大涨、**NVDA −5.27%**——见 holdings。 〔交叉 holdings〕

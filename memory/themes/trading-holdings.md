@@ -511,3 +511,7 @@
 - (静盘) 周日无 ST / 美股新收盘；钉周五 11/06 结算表（SIVE **16.20**、MU **690.00**、SNDK **835.06**、NVDA **186.64**、MSFT **530.61**、MRVL **141.20**、IBKR **75.82**、AAOI **50.13**、DRAM **39.29**、GOOGL **284.78**、LITE **538.59**、COHR **192.81**、SOXX **136.53**）——与 `ee8b3a2` 一致，不改价。 〔引用：`/workspace/yahoo_bars_20261108_sync.json`〕
 - (薄交叉·FI) 发行人页 Sum 仍 **6.32**；具名 GSA 0.62 / Marble Bar 0.52 @11/04，Two Sigma 11/05 已 &lt;0.5。详见 sive。 〔交叉 sive〕
 - (薄交叉·内存) Serenity 转述 Tom's Hardware：台积电否认探索 3D DRAM（Jev ~1.08）；她与 @jukan05/@damnang2 继续辩 MU SCA vs 历史 LTA 可协商性（Jev thin）。交叉 `cc6d83f` The Information 原文条目。 〔交叉 serenity/us-macro〕
+
+## 2026-11-09（周一结算表；光学/存储多数大涨、NVDA 独跌）
+- (收盘，Yahoo vs 11/06) SIVE.ST **16.78（+3.58%）**；MU **740.16（+7.27%）**；SNDK **894.61（+7.13%）**；NVDA **176.80（−5.27%）**；MSFT **540.70（+1.90%）**；MRVL **156.01（+10.49%）**；IBKR **78.04（+2.93%）**；AAOI **53.48（+6.68%）**；DRAM **41.78（+6.32%）**；GOOGL **292.60（+2.75%）**；LITE **609.41（+13.15%）**；COHR **227.12（+17.80%）**；SOXX **146.15（+7.05%）**；AXTI **42.42（+9.10%）**。SIVE 市值 ≈ **59.9 亿 SEK**。 〔引用：`/workspace/yahoo_bars_20261109_sync.json`〕
+- (薄交叉·FI) Sum **6.59**；GSA **0.70%@11/06**。详见 sive。 〔交叉 sive〕

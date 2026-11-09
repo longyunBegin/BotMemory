@@ -678,3 +678,11 @@
 - (take) 周末无新公司事实；增量=沟通争议公开化。CEO 近端权重可插拔/LPO/LRO/NPO 与现有送样能力一致；Alea 抬的是披露门槛、非改方向。证伪仍 **11/26**。双语草稿中/英各主帖+2 回复，明示勿代发、**未发**——见 x-content。 〔引用：同上〕
 - (光互连·公司 vs 街侧至 2028) 公司不做前瞻财务预测；「from 2028」=经营野心+产能，非披露 P&L。野心：2027 转型、Q4’26 营收拐点；CFO 现金流打平 ~**$50–55M** 年营收（约 2027 末）；CMD 3–4×2024（~732–976M SEK）近 2028/29；「exceed $2B」=可触达市场非自身营收。街侧约 1 分析师（营收 MSEK）：**2026 ~273.1 / 2027 ~457.8 / 2028 ~620.6**；NI 源冲突——BI 亏~244 vs SA 亏 135（2026）；2028 NI 刚正 ~**18M**、EPS ~0.05–0.10；Redeye 288.9/462.4/626.8 与 NI −243.8/−67.2/+18.1，营业利润=MarketScreener→恐同一模型。已印 1H 营收 **115.6M**。细节与 URL 见 episode。 〔引用：光互连对话 2026-11-08 ~20:24+；交叉 optical〕
 - (光互连·Glasgow≠CPO 专线) 近端布局 ~**70–100 mW** 可插拔 CW（Jabil 1.6T 书面节奏）；**2027Q4** 是通用 CW 产能上线（>100M/年），同一 die 可进 pluggable/NPO/CPO；把该日读成「开始放量 CPO 激光」不符书面语言。 〔引用：同上〕
+
+## 2026-11-09（周一收盘 + FI Sum 6.59；carrioresearch 时间线 RT；dizaq1 反驳 ~$100 PT）
+- (价格，Yahoo) SIVE.ST **2026-11-09**：**O 15.76 / H 16.99 / L 15.48 / C 16.78（+3.58% vs 11/06 16.20）**、量 **7,300,057**（约周五 **0.47×**，缩量）。IR 股本 **356,740,332** × 16.78 ≈ **59.9 亿 SEK**。11/06 收盘价无需再改（仍 16.20）。 〔引用：`/workspace/yahoo_bars_20261109_sync.json`；交叉 holdings〕
+- (FI·发行人页 live) **Sum percent 6.59**（昨夜 6.32 ↑）。aktuella ≥0.5%：GSA **0.70%@持仓日 2026-11-06**（前值 0.62）；Marble Bar **0.52%@2026-11-04**；AQR **0.59%@2026-10-06**；Arrowstreet **0.59%@2026-09-24**。具名合计 ≈**2.40%**。Historic：Two Sigma **&lt;0.5@11/05**。不以 Börsfakta 晨报 6.42% 覆盖现网。 〔引用：FI issuer 页 2026-11-10 ~00:10 Asia/Shanghai；`/workspace/fi_em_20261109_issuer.html`〕
+- (社区·carrioresearch **2119540994240909706**，@lyAtomic RT) 6–11 月已披露节点串成「研发→生产订单」时间线（GFS、ALL SPACE $8.2M、募资 SEK 700M、SemiNex $3.4M、Q2 产品营收 +13%、Tachyon/Jabil、Glasgow $30M/>100M@2027Q4、LiDAR 首批量产、Citi ADR、EY、Growth award；下一 **11/26 Q3**）。**复述非新 IR。** Jev optical_cpo、非水文、q≈**2.12**。 〔引用：X；交叉 x-content〕
+- (社区·dizaq1 **2119486472390897819**) 反驳 @revoAIution 约 **6000% / ~$100 EOY2028**：仅 Glasgow **100M** 产能确认；卖 200M≈行业 ~600M 的 1/3；$10 与 15× 销售属短缺/周期顶假设；管理层「4 年 $100M+」vs 该帖隐含 ~$2B；信息不足难定目标价。Jev optical_cpo、非水文、q≈**2.20**。薄回复「30 per laser?」质疑单价。**≠IR。** 〔引用：X；交叉 optical〕
+- (官号) @SiversSemicond 本窗 0 帖。 〔引用：X get_users_posts〕
+- (不重抄) 11/08 AI-bubble / 6 家早期认证 / 街侧至 2028 / EE Times——见 `49f12aa`/`6ad1d92`。 〔交叉〕
