@@ -511,3 +511,8 @@
 - (@lyAtomic) RT @carrioresearch **2119540994240909706**（SIVE 6–11 月时间线复述，Jev q≈**2.12**）；RT @Investingcom 参院 AI DC/电力基建法案（**2119806006712840487**）。本窗无原创主帖。 〔引用：X get_users_posts；交叉 sive〕
 - (@SiversSemicond) 0 帖。 〔引用：X〕
 - (不重抄) 周日双语草稿未发——见 `6ad1d92`。 〔交叉〕
+
+
+## 2026-11-10 对话补录 / 覆盖 11/09
+- (草稿·未发) SIVE Watch 周一晨报附双语 CN/EN 草稿，明示**勿发**——**未自动发出**。内容侧跟开盘前钉 16.20 / FI 6.32 打印 + 周节点（Q3 11/26、WIN Semi Q3 已过）——**全文不入库**。午夜收盘 16.78 后印，勿把晨报草稿当已发收盘评。 〔引用：SIVE Watch 2026-11-09 ~09:11–09:27；交叉 sive〕
+- (不重抄) 午夜 @lyAtomic 仅 RT carrioresearch/Investingcom；周日双语未发——见 `c5f34af`/`6ad1d92`。 〔交叉〕

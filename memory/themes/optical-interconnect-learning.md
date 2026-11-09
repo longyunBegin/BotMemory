@@ -475,3 +475,9 @@
 - (carrioresearch 时间线) 已披露节点复述；Jev q≈**2.12**。 〔交叉 sive/x-content〕
 - (盘面旁记) 光学名股 11/09 大涨：LITE **+13.15%**、COHR **+17.80%**、AAOI **+6.68%**、AXTI **+9.10%**、MRVL **+10.49%**——与 Serenity honeypot 感想同日，不作因果。 〔交叉 holdings〕
 - (不重抄) 街侧至 2028 / EML vs ELS 瓶颈 / Glasgow≠CPO——见 `6ad1d92`。 〔交叉〕
+
+
+## 2026-11-10 对话补录 / 覆盖 11/09
+- (MRVL 光学一读例程·独有) 用户同意 → 一次性例程 **2026-12-02 08:00 Asia/Shanghai**：读 MRVL FY27Q3 PR + 电话会光学段（CPO/ELS/DSP/pluggable + 任何新 LITE 交易语言），发到光互连聊天后删除。公司确认财报 **2026-12-01** 美东 AMC；电话会 **13:30 PT**=北京 **12/02 ~05:30**——提醒在 PR 之后跑。**框架非建议。** 〔引用：光互连对话 2026-11-09；交叉 Trade〕
+- (周历薄) 本周 Cisco 周四 AMC（USFP 共宣）；SC26 芝加哥周日；本周无 MRVL/LITE/AAOI/COHR/AVGO/CRDO/GLW 财报。Marvell–Lumentum 已知——不重建。 〔引用：同上〕
+- (不重抄) 周日五问（街侧 NI / SIVE→2028 / ELS 市场 / Glasgow≠CPO）——见 `6ad1d92`；午夜 Storm 铜 scale-up / 光学大涨旁记——见 `c5f34af`。 〔交叉〕

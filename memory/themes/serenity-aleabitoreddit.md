@@ -716,3 +716,9 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (NVDA 个人支持 **2119633154629881997**) 公开挺 Jensen「挺过」个人生活审视——非基本面。 〔引用：X〕
 - (honeypot **2119807048204595582**) 「未预期 $LITE→$NBIS 全日反弹 / honeypot catalyst?」。Jev 水文（~0.78）、q≈**0.54**——**不作论据**；仅记她注意到光学/AI 名股跟涨（当日 LITE +13%、COHR +18%、AAOI +7%；NVDA −5%）。 〔引用：X；交叉 holdings〕
 - (不重抄) 11/08 AI-bubble / 管理层汇编 / messaging 加写——见 `49f12aa`/`6ad1d92`。 〔交叉〕
+
+
+## 2026-11-10 对话补录 / 覆盖 11/09
+- (旧论题摘要·SIVE 对话) **2056691097594925522**：核心=AI chip-to-chip 光学需激光、Sivers 或更大尺度供关键部件；Apple/Marvell 映射与 10B 级市值路径=**作者推断非 IR**；价值转折=认证→可持续量产订单。 〔引用：SIVE Watch 2026-11-09；交叉 sive〕
+- (Research·周一 digest 薄交叉) Research ~09:37 交周末 digest——主体重叠午夜 AI-bubble/管理层汇编与 `6ad1d92` EE Times 口径批评；**不重建**那些正文，仅记交付了 digest。 〔交叉 `c5f34af`/`6ad1d92`〕
+- (不重抄) 午夜 honeypot/TAIEX、周日 messaging 加写——见 `c5f34af`/`6ad1d92`。 〔交叉〕
