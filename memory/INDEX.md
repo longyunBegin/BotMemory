@@ -25,6 +25,8 @@
 | 交易想法仓库 · 指标 · 观察池扫描（新想法） | `memory/themes/trade-ideas-indicators.md` |
 | 思考陪练与决策档案 | `memory/themes/thinking-sparring-decisions.md` |
 | 副业接单 / 无流量变现需求调研 | `memory/themes/side-income-freelance.md` |
+| AGLT / Agility Robotics | `memory/themes/aglt-agility-robotics.md` |
+| ASTS / AST SpaceMobile | `memory/themes/asts-spacemobile.md` |
 
 首次批量分类：2026-09-13
 
@@ -136,3 +138,5 @@
 | 2026-11-10 对话补录（11/09） | memory/episodes/2026-11-10-transcript-catchup.md |
 
 - 日常同步 2026-11-11 00:00 Asia/Shanghai（覆盖 11/10 周二：更正 11/09 SIVE→16.38、美股定盘；FI Sum 6.53、Arrowstreet 0.61%@11/09；观察池数据日 11/09 已发；Serenity CW ASP 阶梯；Storm ALL.SPACE/Ayar 2028；11/10 未定盘；无新助手 18；对话缺口仍在）：`memory/episodes/2026-11-10-midnight-sync.md`
+
+| 2026-11-11 对话补录（11/10） | memory/episodes/2026-11-11-transcript-catchup.md |

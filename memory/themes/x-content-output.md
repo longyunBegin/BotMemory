@@ -521,3 +521,8 @@
 - (@lyAtomic) 本窗无原创主帖。RT @aleabitoreddit **2120074819878449605**（CW ASP 阶梯，Jev q≈**2.21**）；RT @TonyRecord1to1M **2120106524534079665**（MS Intl 10 月 11.1M→16.2M，Jev q≈**1.91**；交叉名册、勿读成自营加仓）；RT @HabeshaTechBro **2120034199126122795**（「50 份电话会 / 激光短缺 / AAOI & SIVE」长文，文章链 404，本轮未读正文）；RT @Polymarket（Google CEO 比喻）——不入库为论据。 〔引用：X get_users_posts；交叉 sive/serenity〕
 - (@SiversSemicond) 本窗 **0** 帖。 〔引用：X〕
 - (不重抄) 周一双语草稿未发——见 `52674a4`。 〔交叉〕
+
+
+## 2026-11-11 对话补录 / 覆盖 11/10
+- (草稿·未发) SIVE Watch 周二晨报双语草稿明示**未发**；全文不入库。 〔引用：SIVE Watch 2026-11-10 positions 749–751；交叉 sive〕
+- (不重抄) 午夜 @lyAtomic 仅 RT（含 Habesha 长文链 404、当时未读正文）——正文算术批评见 optical / 本补录 C 节，不把 RT 当已读。 〔交叉 `a9c03d4`〕

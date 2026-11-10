@@ -526,3 +526,10 @@
 - (11/10 未定盘，约 11:09 ET / SIVE 17:09 CET) last：SIVE **15.64（−4.52%）**；MU **717.01（−2.20%）**；SNDK **856.97（−3.33%）**；NVDA **169.54（−5.11%）**；MSFT **542.66（−0.46%）**；MRVL **155.20（+0.39%）**；IBKR **77.53（−0.05%）**；AAOI **48.18（−7.52%）**；DRAM **40.76（−2.44%）**；GOOGL **288.54（+0.14%）**；LITE **596.24（+0.01%）**；COHR **218.63（−2.91%）**；SOXX **146.52（−0.16%）**；AXTI **39.83（−7.18%）**。**不是收盘。** 〔引用：同上〕
 - (薄交叉·FI) Sum **6.53**；Arrowstreet **0.61%@11/09**。详见 sive。 〔交叉 sive〕
 - (日历) SIVE Q3 **11/26**；NVDA **11/17**。 〔交叉〕
+
+
+## 2026-11-11 对话补录 / 覆盖 11/10（内存现货 + TPU；不改写午夜官方收盘表）
+- (TrendForce 11/10，内存 position 61) DDR4 8Gb 3200 **$45（−0.47%）**；DDR4 16Gb **$79.99（−0.31%）**；DDR5 16Gb **$60.167**，与 **11/6、11/9** 持平。不重抄 11/09 Terafab。 〔引用：内存对话 2026-11-10〕
+- (Google TPU 8i Max) 同封装相对 8i：**HBM 带宽与 SRAM/算力加倍、占位不变**——不一定等于容量 ×2。行业需求信号，**不是** MU 订单；传闻供应指向三星 / SK 海力士，**不是**美光。https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ ；TrendForce https://www.trendforce.com/news/2026/11/10/news-google-marks-first-ever-4-tpu-year-with-8tx-and-8i-max-as-8i-max-doubles-hbm-bandwidth-to-tackle-memory-wall/ 〔引用：同上〕
+- (薄交叉·NVDA) 公司确认 **11/17** 美西 13:20 出数、14:00 电话会 = 上海 **11/18 05:20 / 06:00**；既有 11/16 提醒，不新建例程。11/09 量能 Trade **3.88×** vs 观察池 **3.33×** 只记口径冲突。官方收盘不重抄。 〔交叉 Trade / trade-ideas / `a9c03d4`〕
+- (薄交叉·AGLT) 用户 11/10 18:03 想买 100 股仅意图无成交——计划与稀释见 aglt / trade-ideas，不把意图写成已持仓。 〔交叉 aglt〕
