@@ -481,3 +481,14 @@
 - (MRVL 光学一读例程·独有) 用户同意 → 一次性例程 **2026-12-02 08:00 Asia/Shanghai**：读 MRVL FY27Q3 PR + 电话会光学段（CPO/ELS/DSP/pluggable + 任何新 LITE 交易语言），发到光互连聊天后删除。公司确认财报 **2026-12-01** 美东 AMC；电话会 **13:30 PT**=北京 **12/02 ~05:30**——提醒在 PR 之后跑。**框架非建议。** 〔引用：光互连对话 2026-11-09；交叉 Trade〕
 - (周历薄) 本周 Cisco 周四 AMC（USFP 共宣）；SC26 芝加哥周日；本周无 MRVL/LITE/AAOI/COHR/AVGO/CRDO/GLW 财报。Marvell–Lumentum 已知——不重建。 〔引用：同上〕
 - (不重抄) 周日五问（街侧 NI / SIVE→2028 / ELS 市场 / Glasgow≠CPO）——见 `6ad1d92`；午夜 Storm 铜 scale-up / 光学大涨旁记——见 `c5f34af`。 〔交叉〕
+
+## 2026-11-10（CW ASP 阶梯；Storm 光学 ~2028 / ALL.SPACE；卖方 1.6T 与 Reuters 转述）
+- (Serenity ASP 阶梯) 见 serenity 同日——70mW~$3–4 至 400mW UHP ~$50–75 的社区价差，以及 ELSFP 2.5× / CPO 毛利 60%+ 的机制陈述。Jev q≈**2.21**。**通道检查≠成交价。** 〔交叉 serenity〕
+- (Storm·Ayar **2119862560044318799**) 转述 Ayar CEO Mark Wade：光学 scale-up 是下一代 AI 重要机会；Storm 同意「单季 capex **$200B** 仍用铜做 scale-up，光学阶段大约 **2028**，仍早」。Jev optical_cpo、非水文、q≈**1.64**。与昨夜 Wiwynn/铜 scale-up 帖同向，本条把时间钉到约 2028。 〔引用：X @StormDirac〕
+- (Storm·Aeva Q3 **2119864257290338468**) 光学：首次数据中心收入；高功率激光芯片组经 JDA 伙伴给一家超大规模 NPO，第二家在谈。LiDAR：出货纪录、Daimler Truck、欧洲前十 OEM 目标 SOP **2028**。「同一批激光，两边都指向 2028 爬坡」。Jev q≈**1.61**。**转述，本轮未对 Aeva 原文逐条核。** 〔引用：X〕
+- (Storm·ALL.SPACE / #SiversInside) 见 sive 同日——海军合计 108 套、合并订单「超过 $25M」；#SiversInside 是其主张不是新 IR。被问 Ayar 爬坡激光来源时称「他们现在不分享谁在做激光」（**2119897376169377878**）。 〔交叉 sive〕
+- (carrio·COHR 阶梯复述 **2120086583886111085**) 引用 Serenity 价差，称 LITE 并入 MRVL 后 COHR 是「最后独立、同时做 InP 激光/模块/光开关」的巨头；复述 PhotonLink ~$20B/5 年、2028 初爬坡、2027 年 3 月季度 &gt;$100M、2027 年底前单季 &gt;$250M 等——**多为已披露复述**。Jev q≈**2.18**（质量置信低）。 〔引用：X note_tweet〕
+- (卖方·Nomura 1.6T **2120159810486480967**) 转述 Nomura：1.6T 光模块出货 **2026 年 25.1M → 2028 年 104.5M**；BofA 2030 光学市场 **$111.1B**；UBS 上修。上游到激光/元件/衬底。Jev q≈**2.22**。**卖方预测，本轮未对原报告核页。** 〔引用：X〕
+- (地缘·InP / 模块限制) carrio **2120146250964115880**：InP 可作中国反制牌，但供应链跨境；举 TSEM 称 Innolight 首款 NPO 已在加州厂进入早期生产（11/3）；LITE 北卡厂预计 2028 年中爬坡。Jev q≈**2.07**。**2120176002248884583** 转述 Reuters 11/10：MSFT 游说暂缓对华光模块限制；报道中的 **3.2T** 门槛、生产爬坡 **2028**、广泛安装 **2029**。Jev q≈**1.99**。**本轮未打开 Reuters 原文。** 〔引用：X；交叉 us-macro〕
+- (社区目标价) @outliercapx **2120129724307443884**：COHR $320–380 / LITE $900–1,100 / AAOI $140–200 / **SIVE 40–70 SEK**（「若兑现已说的话」）。Jev q≈**2.07**。**不是指引。** 〔交叉 sive〕
+- (不重抄) 街侧至 2028 / EML vs ELS / Glasgow≠CPO / 昨夜铜 scale-up——见 `6ad1d92`/`c5f34af`。 〔交叉〕

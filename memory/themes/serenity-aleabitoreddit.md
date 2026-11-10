@@ -722,3 +722,8 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (旧论题摘要·SIVE 对话) **2056691097594925522**：核心=AI chip-to-chip 光学需激光、Sivers 或更大尺度供关键部件；Apple/Marvell 映射与 10B 级市值路径=**作者推断非 IR**；价值转折=认证→可持续量产订单。 〔引用：SIVE Watch 2026-11-09；交叉 sive〕
 - (Research·周一 digest 薄交叉) Research ~09:37 交周末 digest——主体重叠午夜 AI-bubble/管理层汇编与 `6ad1d92` EE Times 口径批评；**不重建**那些正文，仅记交付了 digest。 〔交叉 `c5f34af`/`6ad1d92`〕
 - (不重抄) 午夜 honeypot/TAIEX、周日 messaging 加写——见 `c5f34af`/`6ad1d92`。 〔交叉〕
+
+## 2026-11-10（CW 激光 ASP 阶梯 + 对 COHR/LITE/AAOI/SIVE 的社区读法）
+- (CW ASP **2120074819878449605**，~08:43 UTC) AI 数据中心 CW 激光价差（她写的通道/卖方口径）：70mW ~**$3–4**；100mW ~**$4–6**（Source Photonics channel checks）；可插拔短缺溢价可到 **$7–9**；120–150mW NPO ~**$15–20**；350mW UHP CW ~**$40**（Nomura）；400mW UHP CW for NPO/CPO ~**$50–75**（Mizuho）；旧通讯芯片 20–50 美分。称架构上移毛利走高（CPO 激光 **60%+**），ELSFP 约 **2.5×** 收入含量。景观：COHR「风险调整后最好」、重提已有 **$20B** LTA（**不当新签**）；LITE 有 MRVL 估值阴影、运营仍正面；AAOI「一个季度或 **$6–9B** 新 LTA」但执行不确定、近端偏可插拔且 DSP 为当前瓶颈（上季是 TIA），并称或有 **$5–7B** 晚期讨论 LTA vs 约 **$4.4B** 市值——**社区推测，本轮未对一手核**；SIVE「总产能目标 **300M**」，即使卖 **$3** 的 70mW 给中国可插拔客户相对市值含义也大，但认证缺口+管理层沟通放大不确定性；并称整个 AI 交易仍同涨同跌。印象约 **152k**、likes **576**。Jev theme optical_cpo、非水文（~0.13）、质量 ~**2.21**（review）。**全部是社区/通道检查，不是公司指引。** 〔引用：X note_tweet；Jev `/workspace/x-findings-2026-11-10/`；交叉 sive/optical〕
+- (旁记·不作论据) SoftBank CFO 否认「涡轮订单违约」（**2120106741090370030**，引 11/07 内存+涡轮帖）；Anthropic Fable/Mythos 5.2（**2119874063132995880**）——非光学主链。 〔引用：X〕
+- (不重抄) 11/09 TAIEX/honeypot、11/08 AI-bubble / messaging 加写——见 `c5f34af`/`52674a4`。 〔交叉〕

@@ -695,3 +695,14 @@
 - (Chopra·LITE) 2025 CEO 信称 COO，正文亦「全球运营与质量副总裁」——职称不一致；McCann 曾任 LTC COO 但在 Sivers 管 photonics。用户更正：Chopra **确有** Lumentum 背景（欢迎帖+LinkedIn VP：制造工艺/质量/可靠性/良率/客户问题）；LinkedIn 1999–2018 挂 Lumentum 名而 LITE 2015 分拆——勿读成公司存在全时段。价值=光通信制造→客户验收经验，对齐样品→量产。 〔引用：同上；用户更正〕
 - (奖项分层) 勿一律「入围」。(1) **GSA 2026 Outstanding EMEA**——正式提名（Infineon/Axelera/Fractile），颁奖 **12/10**；(2) **Électrons d’Or 2026**——参与名单、未确认决赛，**12/4 巴黎**，曝光≠认证≠订单（Sofi **2119738297610359181**）；(3) **Fast Mode Awards 2026** Growth——**已获奖**（卫星终端），宣布 **11/3**。严格「当前提名待结果」：**仅 GSA**。 〔引用：同上；GSA/Fast Mode URL〕
 - (薄交叉) Serenity 旧论题 **2056691097594925522**（chip-to-chip 激光+作者推断 10B/Apple·MRVL≠IR）见 serenity；dizaq1/carrioresearch 已在午夜——不重抄。 〔交叉 `c5f34af`/serenity〕
+
+## 2026-11-10（更正 11/09 定盘 16.38；FI Sum 6.53；Serenity CW ASP；Storm ALL.SPACE；11/10 未定盘）
+- (更正·11/09 价格) 昨夜 `c5f34af` 在 STO 未收盘时把 last **16.78** / 量 **7,300,057** / 市值 **59.9 亿** 写成收盘。Yahoo 官方日线：SIVE.ST **2026-11-09 O 15.76 / H 17.00 / L 15.48 / C 16.38（+1.11% vs 11/06 16.20）**、量 **8,805,338**。IR 股本 **356,740,332** × 16.38 ≈ **58.4 亿 SEK**。作废 16.78 / 59.9 亿。 〔引用：`/workspace/yahoo_bars_20261110_sync.json`；交叉 holdings〕
+- (11/10 未定盘) 本午夜 SIVE 末笔 **17:09 CET**（收盘 17:30）：**O 16.53 / H 16.99 / L 15.55 / last 15.64（−4.52%）**、量 **7,055,582**——**不是收盘**，次日再核。 〔引用：同上〕
+- (FI·发行人页 live) **Sum percent 6.53**（昨夜 live 6.59 ↓）。aktuella ≥0.5%：Arrowstreet **0.61%@持仓日 2026-11-09**（前值 0.59）；GSA **0.70%@2026-11-06**；Marble Bar **0.52%@2026-11-04**；AQR **0.59%@2026-10-06**。具名合计 ≈**2.42%**。Historic：Two Sigma 仍 &lt;0.5@11/05。不以 Börsfakta 覆盖现网。 〔引用：FI issuer 页 2026-11-11 ~00:09 Asia/Shanghai；`/workspace/fi_em_20261110_issuer.html`〕
+- (社区·Serenity CW ASP **2120074819878449605**) 70mW ~$3–4；100mW ~$4–6（Source Photonics channel checks）；可插拔短缺溢价 $7–9；120–150mW NPO ~$15–20；350mW UHP CW ~$40（Nomura）；400mW UHP NPO/CPO ~$50–75（Mizuho）。称 SIVE「总产能目标 300M」、即使 $3 的 70mW 卖给中国可插拔客户相对市值含义也大，但认证缺口+沟通放大不确定性。Jev optical_cpo、非水文、q≈**2.21**。**通道/社区，≠IR。** 详见 serenity。 〔引用：X note_tweet；交叉 serenity/optical〕
+- (社区·Tony / @lyAtomic RT) **2120106524534079665**：称 MS & Co Intl 10 月 11.1M→**16.2M**（+5.1M，~46%），并自陈需受益所有权才能确认是否积累。16.2M 与名册 MS Intl **16.20M**（`52674a4`）相符；**不读成自营加仓**（托管≠受益、MS 两席≠自营）。Jev q≈**1.91**。 〔引用：X；交叉 `52674a4`〕
+- (Storm·ALL.SPACE **2119867775896232243**) 配 ALL.SPACE 截图：美海军再订 59 套 Hydra MAX 2 + 既有 49 套 Hydra 2 = **108**，合并订单「超过 $25M」。评「小量但开始动了」+「Allspace no part of York Space $YSS」+ #SiversInside $SIVE。「no part」语义不清，不臆造收购关系；#SiversInside 是其产品嵌入主张，**不是新 IR**。Jev 主题 abstain、非水文、q≈**2.06**。 〔引用：X + 截图；交叉 optical〕
+- (官号) @SiversSemicond 本窗 0 帖。 〔引用：X get_users_posts〕
+- (社区目标价并记) @outliercapx **2120129724307443884** 称若兑现已说的话 SIVE「今日应值 **40–70 SEK**」（carrio 转发称 sharp work）。Jev q≈**2.07**。**不是指引**；与昨夜 dizaq1 反驳 ~$100 EOY2028 并记，均不采为锚。 〔引用：X；交叉 optical〕
+- (不重抄) 股东名册/高管/奖项/双语草稿未发——见 `52674a4`。 〔交叉〕
