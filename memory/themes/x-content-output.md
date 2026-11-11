@@ -526,3 +526,8 @@
 ## 2026-11-11 对话补录 / 覆盖 11/10
 - (草稿·未发) SIVE Watch 周二晨报双语草稿明示**未发**；全文不入库。 〔引用：SIVE Watch 2026-11-10 positions 749–751；交叉 sive〕
 - (不重抄) 午夜 @lyAtomic 仅 RT（含 Habesha 长文链 404、当时未读正文）——正文算术批评见 optical / 本补录 C 节，不把 RT 当已读。 〔交叉 `a9c03d4`〕
+
+## 2026-11-11（@lyAtomic 文晔协议两则；官号静默）
+- (@SiversSemicond) 本窗 **0** 帖。协议稿只出现在官网/Cision，官号未转。 〔引用：X search_posts_all；交叉 sive〕
+- (@lyAtomic) **2120406131684356179**（Jev q≈**1.73**）：看多协议含 CW 激光、第一条激光线；渠道帮触达/design-in/爬坡交付；**明确写不能推出已有未披露订单**；看多点是分销加在产品和产能旁边，不是「NDA 藏大单」。续篇 **2120421707920089334**（q≈**1.33**，薄记）：尤其利好触达亚太模组/设备商；可能已有交谈/送样/design-in ≠ 锁定量产；大客户认证仍多半直销；基准是上架→介绍→送样认证→备货/量产在后，看 **11/26** 与随后几季。另 RT Ayar Labs×TSMC Demo of the Year、RT Minervini、回复 Serenity「haha gogogo」——后两者不入库为论据。 〔引用：X note_tweet；交叉 sive〕
+- (不重抄) 昨夜仅 RT（ASP / Tony MS / Habesha）——见 `a9c03d4`；11/10 双语草稿未发见 `6fcc268`。 〔交叉〕
