@@ -540,3 +540,11 @@
 - (FI) **Sum 6.31**（昨夜 6.53）；具名席位未变，见 sive。 〔交叉 sive〕
 - (日历) SIVE Q3 **11/26**；NVDA **11/17**。 〔交叉〕
 - (不重抄) 11/10 内存现货 / TPU 8i Max / AGLT 意图单——见 `6fcc268`。 〔交叉〕
+
+
+## 2026-11-12 对话补录 / 覆盖 11/11（内存现货 + Anthropic 认购 + CRWV；不改写官方收盘表）
+- (TrendForce 11/11 18:10 GMT+8，内存 position 62) DDR5 16Gb 4800/5600 **$60.233（▲0.11%）** vs 11/10 **$60.167**；DDR4 16Gb 3200 **$79.867（▼0.15%）** vs **$79.99**；DDR4 8Gb 3200 **$44.893（▼0.24%）** vs **$45.00**。NAND 晶圆页仍停 **11/02**（512Gb TLC **$16.152**）。https://www.trendforce.com/price/dram/dram_spot 〔引用：内存对话 2026-11-11〕
+- (Anthropic S-1/A，11/10) IPO 同步私募：美光同意按发行价认购约 **$10 亿** 无投票权 Class N（中枢 **$74** 约 **13,513,513** 股）；交割取决于 IPO 完成及其他条件。是 **6/22** 战略协议后首次公开认购规模，**不是**新供货合同。窗口约 **11/19**。https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm 〔引用：同上〕
+- (CoreWeave Q3，11/10 AMC ≈ 上海 11/11 06:00) 营收 **$3.661B**；FY2026 CapEx 下限 **$350–390B→$370–390B**（部署/交付快于计划）；未来 3 个月预计预付/保证金约 **$9B**；9/30 backlog 约 **$132.5B**；Vera Rubin NVL72 已带生产负载。对 MU 是近端 HBM/服务器 DRAM 需求时点，不是新定价印迹。https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx 〔引用：同上〕
+- (路径/证伪) DDR4 仍缓跌、DDR5 大致持平，锚在合约/服务器；CRWV 前置支持近端需求未松。证伪：DDR5 现货连跌数日，或 neo-cloud 推迟交付/下调 CapEx。Serenity 转述评注见 serenity，不把公司口径当同业审计数据。 〔交叉 serenity〕
+- (不重抄) 11/10 官方收盘、11/11 未定盘 last、观察池邮件——见 `d8d3f36`。 〔交叉〕

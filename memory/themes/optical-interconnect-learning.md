@@ -504,3 +504,10 @@
 - (Storm) 分销建设的是触达；估值要看设计赢、量产单、锁定产能的供货协议、预付款/共同扩产，以及 Ayar 等 AI 光学合作的明确更新。历史 RF/mmWave 分销名单见 sive；「没有分销协议单靠自己拉动过收入」。 〔引用：X **2120399463583781365** q≈**2.02**、**2120433853198209100** q≈**1.81**〕
 - (carrio，刚过门槛) **2120497856167727507**（q≈**1.53**）指出 Future 已有 ams OSRAM VCSEL、ROHM 激光二极管、Source Photonics——与备忘录目录事实同向，不能据此说集团已有 InP CW 数通芯片线。他复述的 10 月 Lightmatter/$FLEX 204.8T CPO 验证平台与 102.4T XPU 原型、Wiwynn×Ayar×GUC、AVGO OCI「一年内」——多为既有产业新闻复述。其「文晔已覆盖从 design-in 到量产整条管道」「模组厂可从同一分销商拿到 DSP/驱动/PIC/激光」（MRVL/MXL/SMTC/STM/MU/MPS 拼图）Jev 低于 1.5，且完整 linecard 未核，**不当论据**。中际旭创 +15%、新易盛 +17% 的声称本轮未核 A 股收盘。 〔引用：X；交叉 sive〕
 - (不重抄) 昨夜 Reuters/MSFT 光模块限制转述、Nomura 1.6T、CW ASP——见 `a9c03d4`。 〔交叉〕
+
+
+## 2026-11-12 对话补录 / 覆盖 11/11
+- (MRVL Form 425，光互连 position 574) Murphy 全员信：https://investor.marvell.com/sec-filings/all-sec-filings/content/0001193125-26-455400/d180177d425.htm 。现在买 Lumentum 的理由：当年 Inphi 买在 scale-out 转换前；现在光学进入 scale-up / scale-in，「客户正在做将决定下一代 AI 基础设施的技术选型」。交割仍预期日历年 **2028H1**，此前独立运营。无新 CPO/ELS 数字或时间线；**11/2** 条款未改。**不是新订单。** 〔引用：光互连对话 2026-11-11〕
+- (Ayar Demo of the Year) https://ayarlabs.com/news/ayar-labs-wins-demo-of-the-year-award-at-2026-tsmc-north-america-technology-symposium/ 。活动是 **4/22** 圣克拉拉参观者投票，不是 11 月新展。稿：与纬颖的可制造机架级参考设计——两颗加速器，各 **8** 个 TeraPHY，每颗 **>100 Tbps**，SuperNova 在标准 ELSFP，引擎在 TSMC-COUPE；官方语言是光互连须把 scale-up 做到「机架之外」。奖项/官方措辞≠新客户或出货数字；最近现场演示仍是 OCP 2026×纬颖、GUC。午夜只记 lyAtomic RT、未对原文逐条核——本条补一手。 〔引用：同上；交叉 `d8d3f36`〕
+- (文晔协议机制薄交叉) 对话读法：渠道扩张≠入账；认证在终端；隐藏订单更像送样/design-in。备忘录来源现确认 SIVE Watch，推断「第一条」=文晔品牌卡上第一条 InP CW/AI 数通线，不是集团第一种激光。详见 sive，不重抄公告裸事实。 〔交叉 sive / `/workspace/wt-laser-line-2026-11-11.md`〕
+- (旁证薄) LWLG Q3 称 EML 短缺加速 CW+SiPh 兴趣但未点 Sivers；Jabil ECOC 文档 Credo+HyperLight 草稿早于 Sivers–Jabil 公告，「同平台」≠联合确认。见 sive。光互连 **573** 属 11/10，不用。 〔交叉 sive〕
