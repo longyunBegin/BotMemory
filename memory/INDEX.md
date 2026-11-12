@@ -145,3 +145,5 @@
 
 | 2026-11-12 对话补录（11/11） | memory/episodes/2026-11-12-transcript-catchup.md |
 - 日常同步 2026-11-13 00:00 Asia/Shanghai（覆盖 11/12 周四：更正 11/11 SIVE→17.40、美股定盘；FI Sum 6.68、GSA 0.81%@11/11；CS 访谈 Glasgow/功率/阵列；NVIDIA CEO 交接；观察池数据日 11/11 已发；11/12 未定盘；无新助手 18；对话缺口仍在）：`memory/episodes/2026-11-12-midnight-sync.md`
+
+| 2026-11-13 对话补录（11/12） | memory/episodes/2026-11-13-transcript-catchup.md |

@@ -301,3 +301,10 @@
 - (IR 一手) NVIDIA 2026-11-12 新闻稿 *NVIDIA Announces CEO Transition*：Jensen Huang 辞去总裁、CEO 及董事，**即时生效**；CFO **Colette Kress** 任临时 CEO 并继续兼 CFO；董事会将搜寻永久继任者（内部+外部）；**Harvey C. Jones** 任公司**首位**董事会主席。稿**未说明原因**，也无 Huang 表态。FY27 Q3 仍 **2026-11-17** 约 13:20 PT 公布 / 14:00 PT 电话会。SEC 8-K 检索显示最早事件日 11/11、签署日 11/12，本轮 8-K HTML 403，不以未打开原文逐句核页。媒体对原因的报道≠公司自述。 〔引用：https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition 〕
 - (价格交叉) 11/11 NVDA 官方收 **173.73（+2.87%）**；11/12 盘中约 **166.32（−4.27%）**、开 150.99 / 低 148.80——**未定盘**，不把缺口写成已定价。完整表见 holdings。 〔交叉 holdings〕
 - (社区) Serenity / Carrio 对 NBIS 季报与 MSFT Vineland 推迟到 2027Q2 的转述，见 serenity；本轮未对 NBIS 官方文件核页。Carrio 早间传闻清单除已被官方坐实的交接外，其余不入库。
+
+
+## 2026-11-13 对话补录 / 覆盖 11/12
+- (桃园工会退出 11/17 协商) 见 holdings 同日条。近端集体争议降温是基准路径，不改「在台营运正常」口径；证伪看是否出席 11/17、停工/大规模拒签，或 Fab 11E 官方进度改口。 〔交叉 holdings〕
+- (TrendForce 11/11 PC OEM 稿) 4Q26–1Q27 部分 PC 采购拟下调；笔记本 3Q26 季减 **15.8%**；4Q26 PC DRAM 合约价季增预估 **13–18%**、client SSD 低于 **5%**。读穿消费/PC 近端涨速，不改 AI/企业级主线。现货 11/12：DDR5 持平、DDR4 续缓跌。见 holdings。 〔交叉 holdings〕
+- (Serenity 日经论坛补记) 瓶颈记为电力和基板；2024–2029 AI 加速器收入年化 mid-to-high-50s，魏哲家 “probably will be higher”——她的转述，非已核论坛原文。见 serenity。 〔交叉 serenity〕
+- (不重抄) NVIDIA 官方 CEO 交接、11/11 定盘、11/12 未定盘、NBIS 社区转述——见 `4d2ee35`。 〔交叉〕
