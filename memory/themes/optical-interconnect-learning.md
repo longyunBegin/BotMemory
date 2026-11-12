@@ -511,3 +511,8 @@
 - (Ayar Demo of the Year) https://ayarlabs.com/news/ayar-labs-wins-demo-of-the-year-award-at-2026-tsmc-north-america-technology-symposium/ 。活动是 **4/22** 圣克拉拉参观者投票，不是 11 月新展。稿：与纬颖的可制造机架级参考设计——两颗加速器，各 **8** 个 TeraPHY，每颗 **>100 Tbps**，SuperNova 在标准 ELSFP，引擎在 TSMC-COUPE；官方语言是光互连须把 scale-up 做到「机架之外」。奖项/官方措辞≠新客户或出货数字；最近现场演示仍是 OCP 2026×纬颖、GUC。午夜只记 lyAtomic RT、未对原文逐条核——本条补一手。 〔引用：同上；交叉 `d8d3f36`〕
 - (文晔协议机制薄交叉) 对话读法：渠道扩张≠入账；认证在终端；隐藏订单更像送样/design-in。备忘录来源现确认 SIVE Watch，推断「第一条」=文晔品牌卡上第一条 InP CW/AI 数通线，不是集团第一种激光。详见 sive，不重抄公告裸事实。 〔交叉 sive / `/workspace/wt-laser-line-2026-11-11.md`〕
 - (旁证薄) LWLG Q3 称 EML 短缺加速 CW+SiPh 兴趣但未点 Sivers；Jabil ECOC 文档 Credo+HyperLight 草稿早于 Sivers–Jabil 公告，「同平台」≠联合确认。见 sive。光互连 **573** 属 11/10，不用。 〔交叉 sive〕
+
+## 2026-11-12（CS 访谈：Glasgow 用途、70/100→200/400 mW、阵列；NVIDIA 交接只交叉）
+- (CS 访谈 2026-11-11，一手媒体 ≠IR) 见 sive 同日条。机制上可复用的句子是：Chopra 的混成制造（Glasgow 前道放量、后道外包）和 $30M 用途（产能/自动化/去瓶颈 + MOCVD）；McCann 的功率阶梯（现 70/100 mW，客户要 200 再 400 mW 的路线图）以及八管阵列「只对外侧两只」的组装逻辑，且称「我们也生产阵列」。衬底「境内外头部厂 + 数量承诺」是访谈转述，不是合同披露。记者明确提醒：不要假设所有已公开代工合作都还在。100M / 2027 年底与既有 IR 同向，本篇补了投资用途。没有新的设计赢、Ayar 或订单。 〔引用：CS 125842；交叉 sive〕
+- (社区边界) dizaq1 用 200/400 mW 去对接 Ayar CPO 缺光源——文章未点名，Jev q≈**1.01**，不入库。Carrio 五点摘要 q≈**2.11**，作对照。 〔引用：X；交叉 sive〕
+- (NVDA) 官方 CEO 交接见 us-macro；光学股价 11/12 为未定盘，不在这里写收盘。 〔交叉〕

@@ -296,3 +296,8 @@
 - (CRWV 官方 + Serenity 转述) 公司 Q3：营收 **$3.661B**、CapEx 下限上修至 **$370–390B**、未来 3 个月预付/保证金约 **$9B**、9/30 backlog **$132.5B**——见 holdings。Serenity **2120391635737649423** / **2120398837689041193** 转述 10× 需求、涨价与预付，并延伸 $NBIS/$IREN；助手提醒这是公司口径不是同业审计数据。午夜薄记不展开处以此为准。 〔交叉 holdings / serenity〕
 - (Anthropic S-1/A 薄) 美光约 **$10 亿** Class N 认购取决于 IPO 完成，不是新供货合同；窗口约 11/19。见 holdings。午夜把 Anthropic IPO 预告帖排除出光学论据——本条只记内存助手读到的 SEC 认购规模。 〔交叉 holdings / `d8d3f36`〕
 - (不重抄) 11/10 官方盘面、11/11 未定盘、Reuters/MSFT 限制转述——见 `d8d3f36` / `a9c03d4`。 〔交叉〕
+
+## 2026-11-12（NVIDIA CEO 交接官方稿；11/11 定盘与 11/12 未定盘交叉；NBIS 社区转述）
+- (IR 一手) NVIDIA 2026-11-12 新闻稿 *NVIDIA Announces CEO Transition*：Jensen Huang 辞去总裁、CEO 及董事，**即时生效**；CFO **Colette Kress** 任临时 CEO 并继续兼 CFO；董事会将搜寻永久继任者（内部+外部）；**Harvey C. Jones** 任公司**首位**董事会主席。稿**未说明原因**，也无 Huang 表态。FY27 Q3 仍 **2026-11-17** 约 13:20 PT 公布 / 14:00 PT 电话会。SEC 8-K 检索显示最早事件日 11/11、签署日 11/12，本轮 8-K HTML 403，不以未打开原文逐句核页。媒体对原因的报道≠公司自述。 〔引用：https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition 〕
+- (价格交叉) 11/11 NVDA 官方收 **173.73（+2.87%）**；11/12 盘中约 **166.32（−4.27%）**、开 150.99 / 低 148.80——**未定盘**，不把缺口写成已定价。完整表见 holdings。 〔交叉 holdings〕
+- (社区) Serenity / Carrio 对 NBIS 季报与 MSFT Vineland 推迟到 2027Q2 的转述，见 serenity；本轮未对 NBIS 官方文件核页。Carrio 早间传闻清单除已被官方坐实的交接外，其余不入库。
