@@ -529,3 +529,8 @@
 - (carrioresearch 结构图) **2121238354339696667**（q≈**1.95**）：硅不能发光；高功率 InP/ELS（SIVE 阵列 + 文晔协议、COHR 自有 6.4T CPO、AAOI 400 mW 样品转量产）、AXTI 衬底、MRVL–LITE 电光合设计、TSEM×COHR 400 Gbps/lane 演示、FORM 晶圆级测试。演示与分销协议≠出货。**2121211319001272346**（q≈**2.30**）只是把已公开的 EE Times 产能比、Glasgow、GFS、Jabil 1.6T 再汇编。Bernstein 供需数字见 us-macro，abstain、未打开原研报。 〔引用：X note_tweet；交叉 sive / us-macro〕
 - (三星/Modine) 冷却并购洽谈是媒体报道、尚未成交；Rockley 专利与 2027–2029 CPO 服务时间表是社区转述。不改变「硅不能发光、激光仍靠 InP」的分工。见 us-macro。 〔交叉〕
 - (不重抄) CS 访谈 Glasgow/功率/阵列一手——见 `4d2ee35`。 〔交叉〕
+
+
+## 2026-11-14 对话补录 / 覆盖 11/13
+- (Serenity 窗口细节，薄交叉) 午夜已记 NPO 200 mW / 400 mW 暗示 / 7 家可插拔含 JBL / 2027H2。对话补：7 家+JBL **须对 IR**；兑现锚在 2027H2、近窗被视为已错过；未改 2028 模型。三星/Modine 正文未点名 SIVE，时间表补为 2027 光学引擎/PIC、2029 CPO 服务。详见 sive / serenity。不重抄 CS 访谈裸事实。 〔交叉 sive / serenity / `45136ba`〕
+- 光互连本窗 0 条。

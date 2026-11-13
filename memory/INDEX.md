@@ -149,3 +149,5 @@
 | 2026-11-13 对话补录（11/12） | memory/episodes/2026-11-13-transcript-catchup.md |
 
 - 日常同步 2026-11-14 00:00 Asia/Shanghai（覆盖 11/13 周五：更正 11/12 SIVE→15.94、美股定盘；FI Sum 6.63；观察池数据日 11/12 已发（0 条）；Serenity SIVE 窗口/三星洽购 Modine；11/13 未定盘；无新助手 18；对话缺口仍在）：`memory/episodes/2026-11-13-midnight-sync.md`
+
+| 2026-11-14 对话补录（11/13） | memory/episodes/2026-11-14-transcript-catchup.md |
