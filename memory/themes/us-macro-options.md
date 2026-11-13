@@ -308,3 +308,10 @@
 - (TrendForce 11/11 PC OEM 稿) 4Q26–1Q27 部分 PC 采购拟下调；笔记本 3Q26 季减 **15.8%**；4Q26 PC DRAM 合约价季增预估 **13–18%**、client SSD 低于 **5%**。读穿消费/PC 近端涨速，不改 AI/企业级主线。现货 11/12：DDR5 持平、DDR4 续缓跌。见 holdings。 〔交叉 holdings〕
 - (Serenity 日经论坛补记) 瓶颈记为电力和基板；2024–2029 AI 加速器收入年化 mid-to-high-50s，魏哲家 “probably will be higher”——她的转述，非已核论坛原文。见 serenity。 〔交叉 serenity〕
 - (不重抄) NVIDIA 官方 CEO 交接、11/11 定盘、11/12 未定盘、NBIS 社区转述——见 `4d2ee35`。 〔交叉〕
+
+
+## 2026-11-13（更正 11/12 定盘；三星洽购 Modine 媒体稿；NVDA 社区判断低于门槛）
+- (价格交叉) 11/12 NVDA 官方收 **166.19（−4.34%）**，日低 **148.80**、量 **7.43 亿**；11/13 盘中约 **159.03（−4.31%）**——**未定盘**。完整表见 holdings。交接事实仍以 11/12 官方稿为准，11/17 财报日程不变。 〔交叉 holdings / `4d2ee35`〕
+- (媒体，不是成交) Bloomberg（2026-11-12；Reuters/CNA 转述）：三星在谈收购 Modine（AI 数据中心冷却）；可能数周内成形，**尚未达成协议，也可能谈崩或出现其他买家**。Modine 周四常规交易收约 **$106.10**、市值约 **$56 亿**，盘后一度涨约 28%。Serenity 同日把此事与 Digitimes 所称 Rockley 硅光专利、以及「2027 光引擎/PIC、2029 CPO 服务」的先前传闻并列——后两段本轮未打开原文。不是 Sivers 新闻。 〔引用：Reuters/CNA 2026-11-12；X **2121221289440665737**；交叉 serenity / optical〕
+- (社区，低于门槛或未核原件) Serenity 对 Kress/Jensen 的个人判断（q≈0.97–1.00）只薄记，不升格。Carrio 转述的 Bernstein InP/Rubin Ultra 数字（q≈1.71 / abstain）与 NVDA 承诺墙汇编（q≈1.12 / abstain）本轮未打开原研报或 10-Q，不当官方表。 〔交叉 serenity〕
+- (不重抄) 11/12 补录的桃园工会、TrendForce PC OEM 稿——见 `f8b898e`。 〔交叉〕

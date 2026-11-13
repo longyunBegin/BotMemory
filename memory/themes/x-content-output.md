@@ -546,3 +546,9 @@
 ## 2026-11-13 对话补录 / 覆盖 11/12
 - (草稿·未发) SIVE Watch 开盘前写出中英双语主帖+两条回复：渠道稿无金额/无订单；FI **6.29%**；Storm 分销建触达 vs Serenity 中长期可能更大、两边时钟不同。明示「仅供复制，勿代发」——**未发出**，全文不入库。 〔引用：SIVE Watch 2026-11-12 positions 780–792；交叉 sive〕
 - (不重抄) 午夜 @lyAtomic 仅 RT、官号 0 帖——见 `4d2ee35`。 〔交叉〕
+
+
+## 2026-11-13（@lyAtomic 仅 RT；官号静默；社区长帖见 sive）
+- @SiversSemicond 本窗 **0** 帖。@StormDirac 本窗 **0** 帖。
+- @lyAtomic：仅 RT @blockchainedbb 一条修订 BTC 买点图（70–72k / 63k）——不入库为论据。无新的 SIVE 机制原帖。
+- 社区可引用长帖已写入 sive / serenity / optical / episode（Serenity 窗口 q≈**1.66**；dizaq1 分销机制 q≈**1.70**；carrio EE Times 汇编 q≈**2.30**、InP 四层 q≈**1.95**；Bernstein q≈**1.71** / abstain）。 〔引用：X 公开接口；交叉 sive〕

@@ -522,3 +522,10 @@
 - (InP 衬底推测，薄) SIVE 对话按「境内外领先厂 + 量的承诺」推测：境内最可能是北京通美（AXTI），境外住友或 JX；鑫耀/先导系是补充。先锐×Coherent ≥**6.01 亿美元** 6 英寸意向（2027–2029）是行业先例，**不能外推到 Sivers**。公司未点名，公开无具名供货关系。**现在写成已是供应商都过了。** 细节与证伪见 sive。 〔引用：SIVE Watch 2026-11-12；交叉 sive〕
 - (Semicon Insider 认证边界) 11/12 转述稿无新订单。分销商可协助送样、沟通和交付，**不能替终端客户完成认证**；「加速认证和批量采购」缺乏文内证据。交叉昨日文晔机制，不重抄公告裸事实。 〔引用：https://www.semiconinsider.com/2026/11/12/sivers-semiconductors-wt-microelectronics-global-distribution-agreement/ ；交叉 sive / `28c89ee`〕
 - (不重抄) CS 访谈 Glasgow/功率/阵列一手——见 `4d2ee35`。光互连本窗 0 条。 〔交叉〕
+
+
+## 2026-11-13（社区：NPO/功率窗口；InP 四层图；三星/Modine 只交叉）
+- (Serenity 窗口，薄) **2121228215939453264**：定制 CPO（Ayar）推到 2028、2025 Q3 才转向可插拔、送样 NPO 200 mW / 暗示 400 mW CPO——社区编年，不是 IR。功率阶梯与 11/11 CS 访谈 McCann 同向，不在此重抄访谈原文。详见 sive。 〔交叉 sive / serenity / `4d2ee35`〕
+- (carrioresearch 结构图) **2121238354339696667**（q≈**1.95**）：硅不能发光；高功率 InP/ELS（SIVE 阵列 + 文晔协议、COHR 自有 6.4T CPO、AAOI 400 mW 样品转量产）、AXTI 衬底、MRVL–LITE 电光合设计、TSEM×COHR 400 Gbps/lane 演示、FORM 晶圆级测试。演示与分销协议≠出货。**2121211319001272346**（q≈**2.30**）只是把已公开的 EE Times 产能比、Glasgow、GFS、Jabil 1.6T 再汇编。Bernstein 供需数字见 us-macro，abstain、未打开原研报。 〔引用：X note_tweet；交叉 sive / us-macro〕
+- (三星/Modine) 冷却并购洽谈是媒体报道、尚未成交；Rockley 专利与 2027–2029 CPO 服务时间表是社区转述。不改变「硅不能发光、激光仍靠 InP」的分工。见 us-macro。 〔交叉〕
+- (不重抄) CS 访谈 Glasgow/功率/阵列一手——见 `4d2ee35`。 〔交叉〕
