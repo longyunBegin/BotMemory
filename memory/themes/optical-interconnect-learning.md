@@ -534,3 +534,11 @@
 ## 2026-11-14 对话补录 / 覆盖 11/13
 - (Serenity 窗口细节，薄交叉) 午夜已记 NPO 200 mW / 400 mW 暗示 / 7 家可插拔含 JBL / 2027H2。对话补：7 家+JBL **须对 IR**；兑现锚在 2027H2、近窗被视为已错过；未改 2028 模型。三星/Modine 正文未点名 SIVE，时间表补为 2027 光学引擎/PIC、2029 CPO 服务。详见 sive / serenity。不重抄 CS 访谈裸事实。 〔交叉 sive / serenity / `45136ba`〕
 - 光互连本窗 0 条。
+
+
+## 2026-11-14（Marvell SC26 官方演示稿；Carrio 汇编须对原件；AAPL 职位只作指针）
+- (官方稿) Marvell 2026-11-13 新闻稿：将参加 SC26（**11/15–20**，芝加哥 McCormick Place，展位 **#4003**），演示包括 **Photonic Fabric memory module**、Structera CXL、合作方 DDR4/DDR5、Teralynx 交换、**1.6T / 800G** 有源电缆等；表述为把内存与互联「scale memory and interconnect as a single system」。Preet Virk 参加 11/18 12:15–1:15 p.m. 光子学 BoF（Room W184bcd）。**演示与日程 ≠ 模块出货或已披露订单。** 〔引用：https://www.marvell.com/company/newsroom/marvell-connectivity-ai-infrastructure-supercomputing-2026.html〕
+- (社区对照官方) carrioresearch **2121519656582160467**（Jev optical_cpo、非水文、q≈**2.02** / act）汇编与官方稿同向。跟帖 **2121541632902250830**（q≈**2.56** / review）：把 10/6 Investor Day（tape-out / bring-up / **2027** 多样本）、8/4 共享内存产品、2025-12-02 SEC 权证与 AMZN 采购挂钩至 2030、2026-03-31 NVLink Fusion + NVDA **$20 亿**、7 月论文仍是仿真待物理验证串在一起——**本轮未打开这些原件**；其中 SC26 一条已对上官方稿。权证 ≠ 已披露出货量。 〔引用：X note_tweet〕
+- (职位指针，未打开原文) **2121490821895823526**（q≈**2.16** / review）：称 Apple 为数据中心 SoC 开了 Silicon Photonics & Optical I/O EPM，职责含硅光引擎、2.5D/3D 与 CPO，从 tape-out 到 HVM。不是产品量产宣布。 〔引用：X〕
+- (低于门槛 / 未核原话) **2121319771040035008**（q≈**1.23** / abstain）汇编所称 Near Margalit 路线图（铜天花板、Optical SerDes+DWDM、ELSFP、OCI-MSA 瞄 2027）——未打开原发言；文中「MRVL 本月 $115B 拿下 LITE」**本轮未核**，不当成交。Storm **2121600207741669708**（q≈**1.26**）以电力约束和 scale-up 光学做机制论述，无新公司数字，只薄记。 〔引用：X note_tweet〕
+- (不重抄) 昨夜 NPO/功率窗口、InP 四层图、三星/Modine——见 `45136ba`。 〔交叉〕

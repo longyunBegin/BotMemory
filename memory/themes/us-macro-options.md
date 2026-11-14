@@ -322,3 +322,10 @@
 - (供给对照，非近端合约) 三星温阳 HBM 封装目标 2028-06、鸿海称 2027 仍供不应求、华硕称 2027 PC 出货或年减 10%–15%、AMAT DRAM 开支占比升至 33%——见 holdings。现货观望不自动等于近季合约松动。 〔交叉 holdings〕
 - (NBIS 转述补) 回收期、每兆瓦价值、5GW、预付款覆盖 2027 capex 75%–85% 与 Bloom 细节见 serenity；整表交叉 `4d2ee35`，不重抄。 〔交叉 serenity〕
 - (不重抄) 11/12 定盘、11/13 未定盘、三星洽购 Modine 媒体摘要、NVDA 社区判断低于门槛——见 `45136ba`。 〔交叉〕
+
+
+## 2026-11-14（更正 11/13 定盘；Altimeter/Atreides 致 NVDA 董事会信；Marvell SC26 只交叉）
+- (更正 11/13 定盘) 见 holdings / sive。指数：SPY **754.37（−0.36%）**、QQQ **679.89（−1.20%）**、DIA **523.15（+0.13%）**。11/14 周末无新收盘。 〔交叉〕
+- (媒体，不是 NVIDIA 官方稿) Altimeter Capital 的 Brad Gerstner 与 Atreides Management 的 Gavin Baker 致信 NVDA 董事会：不要匆忙换 CEO，在近期事件事实澄清前把包括 **Jensen Huang 回归** 在内的选项留在桌上；信中「There are more questions about recent events than answers」；对临时 CEO **Colette Kress** 及其团队表示有信心，同时保留董事会可以决定不让他回归。Gerstner 在 @altcap 称信已送出。Reuters / ET（更新 2026-11-14 12:41 IST）交叉。这不改变 11/12 官方稿（辞职即时生效、Kress 任临时 CEO 兼 CFO、**11/17** 财报不变）。Serenity「Elon 提高回归赔率」低于门槛，见 serenity。 〔引用：https://economictimes.indiatimes.com/news/international/world-news/altimeter-capital-atreides-urge-nvidia-board-not-to-rush-jensen-huang-replacement-seek-to-keep-his-ceo-return-open/articleshow/135825589.cms ；交叉 serenity〕
+- (官方交叉) Marvell 11/13 宣布 SC26（11/15–20）将演示 Photonic Fabric 内存模块等——演示 ≠ 出货，详见 optical。 〔交叉〕
+- (不重抄) 三星洽购 Modine、11/12 定盘、Kress 社区判断——见 `45136ba`。 〔交叉〕
