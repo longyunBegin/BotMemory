@@ -153,3 +153,5 @@
 | 2026-11-14 对话补录（11/13） | memory/episodes/2026-11-14-transcript-catchup.md |
 
 - 日常同步 2026-11-15 00:00 Asia/Shanghai（覆盖 11/14 周六：更正 11/13 SIVE→14.30、美股定盘；FI Sum 6.69；观察池数据日 11/13 已发（2 条）；Marvell SC26 官方演示稿；Altimeter/Atreides 致 NVDA 董事会信；周末无新收盘；无新助手 18；对话缺口仍在）：`memory/episodes/2026-11-14-midnight-sync.md`
+
+| 2026-11-15 对话补录（11/14） | memory/episodes/2026-11-15-transcript-catchup.md |

@@ -329,3 +329,7 @@
 - (媒体，不是 NVIDIA 官方稿) Altimeter Capital 的 Brad Gerstner 与 Atreides Management 的 Gavin Baker 致信 NVDA 董事会：不要匆忙换 CEO，在近期事件事实澄清前把包括 **Jensen Huang 回归** 在内的选项留在桌上；信中「There are more questions about recent events than answers」；对临时 CEO **Colette Kress** 及其团队表示有信心，同时保留董事会可以决定不让他回归。Gerstner 在 @altcap 称信已送出。Reuters / ET（更新 2026-11-14 12:41 IST）交叉。这不改变 11/12 官方稿（辞职即时生效、Kress 任临时 CEO 兼 CFO、**11/17** 财报不变）。Serenity「Elon 提高回归赔率」低于门槛，见 serenity。 〔引用：https://economictimes.indiatimes.com/news/international/world-news/altimeter-capital-atreides-urge-nvidia-board-not-to-rush-jensen-huang-replacement-seek-to-keep-his-ceo-return-open/articleshow/135825589.cms ；交叉 serenity〕
 - (官方交叉) Marvell 11/13 宣布 SC26（11/15–20）将演示 Photonic Fabric 内存模块等——演示 ≠ 出货，详见 optical。 〔交叉〕
 - (不重抄) 三星洽购 Modine、11/12 定盘、Kress 社区判断——见 `45136ba`。 〔交叉〕
+
+## 2026-11-15 对话补录 / 覆盖 11/14
+- (FUNDA CPO 时间点，社区估算) scale-out 交换机 CPO 大规模交付被推到 2027 年底–2028，不改变 scale-up 必须用光、也不改变中高功率光源需求。数字不是台积电或英伟达官方指引。详见 optical。 〔交叉 optical / Research pos 863–865〕
+- (不重抄) 11/13 定盘、Altimeter/Atreides 致 NVDA 董事会信、Marvell SC26 官方演示稿——见 `6071b19`。 〔交叉〕
