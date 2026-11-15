@@ -4,6 +4,7 @@
 
 | slug | 名称 | kind | 创建日 | 最后更新 | 当前版本 | 最后编辑者 | 状态 |
 |------|------|------|--------|----------|----------|------------|------|
-| sive-yan-jiu-kan-ban | SIVE 研究看板 | web_static | 2026-11-15 | 2026-11-15 | v3 | Muse | 在用 |
+| sive-yan-jiu-kan-ban | SIVE 研究看板 | web_static | 2026-11-15 | 2026-11-15 | v4 | Muse | 在用 |
 | aaoi-yan-jiu-kan-ban | AAOI 研究看板 | web_static | 2026-11-15 | 2026-11-15 | v1 | Muse | 在用 |
 | axti-yan-jiu-kan-ban | AXTI 研究看板 | web_static | 2026-11-15 | 2026-11-15 | v1 | Muse | 在用 |
+| mrvl-yan-jiu-kan-ban | MRVL 研究看板 | web_static | 2026-11-15 | 2026-11-15 | v1 | Muse | 在用 |
