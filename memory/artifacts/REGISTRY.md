@@ -8,5 +8,5 @@
 | aaoi-yan-jiu-kan-ban | AAOI 研究看板 | web_static | 2026-11-15 | 2026-11-15 | v1 | Muse | 在用 |
 | axti-yan-jiu-kan-ban | AXTI 研究看板 | web_static | 2026-11-15 | 2026-11-15 | v1 | Muse | 在用 |
 | mrvl-yan-jiu-kan-ban | MRVL 研究看板 | web_static | 2026-11-15 | 2026-11-15 | v1 | Muse | 在用 |
-| eth-yan-jiu-kan-ban | ETH 研究看板 | web_static | 2026-11-15 | 2026-11-15 | v1 | Muse | 在用 |
+| eth-yan-jiu-kan-ban | ETH 研究看板 | web_static | 2026-11-15 | 2026-11-15 | v2 | Muse | 在用 |
 | btc-yan-jiu-kan-ban | BTC 研究看板 | web_static | 2026-11-15 | 2026-11-15 | v1 | Muse | 在用 |
