@@ -44,6 +44,11 @@
 
 - 看板总表：`memory/artifacts/REGISTRY.md`
 - SIVE 研究看板：`memory/artifacts/sive-yan-jiu-kan-ban.md`
+- AAOI 研究看板：`memory/artifacts/aaoi-yan-jiu-kan-ban.md`
+- AXTI 研究看板：`memory/artifacts/axti-yan-jiu-kan-ban.md`
+- MRVL 研究看板：`memory/artifacts/mrvl-yan-jiu-kan-ban.md`
+- ETH 研究看板：`memory/artifacts/eth-yan-jiu-kan-ban.md`
+- BTC 研究看板：`memory/artifacts/btc-yan-jiu-kan-ban.md`
 
 ## 元数据 / 同步 episode
 - 首次来源索引：`memory/episodes/2026-09-13-sources-index.md`

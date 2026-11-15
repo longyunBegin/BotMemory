@@ -548,3 +548,8 @@
 - (PhotonCap 社区规格，不升级官方) **2121302634510610837**（Jev 2.33）列 SC26 Photonic Fabric：最高 8 条 DDR5、72GB HBM cache、7.2Tbps，标明展示计划。Marvell 官方演示稿已在午夜，未列这些数字——只作社区描述。 〔交叉 sive / `6071b19`〕
 - (珠海 InP 新厂，开业≠短缺结束) Schulz **2121210905170174036**（Jev 2.88）：鼎泰芯源（Bojay 子公司）新厂 11/10 开业，规划年加工 20 万片（或至 25 万），引自 11/12 市政府稿与 11/10 投资者记录；作者写明不能证明短缺已缓解。本补录未再打开原件，也不能写成已向 Sivers 供货。 〔交叉 sive〕
 - (Storm HTAA 读法，薄) 不是已经通过；不能从今天再加 14 个月；只针对 CPO 认证。详见 sive。光互连本窗 0 条对话。 〔交叉 sive〕
+
+## 2026-11-15 日常同步（记忆系统；Carrio 五层卡点与 FUNDA 再述，须对原件）
+- (Carrio **2121990338789405182** / **2121982378793169306**，社区汇编，本轮未打开原件) 把 2027 前上游卡点写成五层：Photonics-SOI（Soitec）与 InP 衬底（AXTI、住友）；CW 激光/引擎/OCS（称 MRVL 完成收购 LITE 后，COHR 仍是横跨 6 英寸 InP、400mW CW、模块与 OCS 的美国巨头）；SIVE 向 GFS SCALE 与 Ayar 供 CW DFB/WDM，并提起 11/11 文晔协议（须对已核 IR，不升格口径）；AAOI / 中际旭创 Q3 $4.16B / 源杰 9M 毛利率 81.7% 等**未打开原件**；300mm SiPh 代工（TSM COUPE、GFS）、GLW 光纤、TER/FORM 晶圆级光电测试同理。机制句：NPO/CPO 不会取消光瓶颈，只是把瓶颈集中；硅不能发光，CPO 推向 400mW；称 GLW 10/27 电话会把 scale-out 约 16 纤/GPU、铜 scale-up 为 0、光学 scale-up 跳到 160 纤——未打开纪要。NVDA 2026-03 对 LITE/COHR 各 $20 亿、MRVL 11/02 收购 LITE 约 $115B EV，与昨夜缺口相同，本轮仍未打开原件。 〔引用：`memory/episodes/2026-11-15-midnight-sync.md`〕
+- (FUNDA 再述，不是新官方指引) Carrio **2121904249978110075** 再述 FUNDA 11/13 注：Nvidia Spectrum-X CPO 放量出货推迟到 **2027 年底–2028**（低键合良率、测试供应商未定）；可插拔与 NPO 窗口被拉长。与昨夜补录口径同向，数字不是台积电或英伟达官方指引。 〔引用：同上；交叉 `memory/episodes/2026-11-15-transcript-catchup.md`〕
+- (不重抄) Marvell SC26 官方演示稿、Apple SiPh 职位指针——见昨夜与 Carrio 本窗再发，不作为新事实。 〔交叉 `memory/episodes/2026-11-14-midnight-sync.md`〕
