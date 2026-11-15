@@ -30,6 +30,19 @@
 
 首次批量分类：2026-09-13
 
+## 助手空间（双层结构，2026-11-15 起）
+
+各助手在 `memory/agents/<agent-id>/` 自有空间里写日记与看板变更记录，`memory/themes/` 为精编层。规则见 `memory/profile/standing-policy.md`（双层结构节）。
+
+| 助手 | 空间 |
+|------|------|
+| Muse | `memory/agents/muse/` |
+
+## 看板登记
+
+- 看板总表：`memory/artifacts/REGISTRY.md`
+- SIVE 研究看板：`memory/artifacts/sive-yan-jiu-kan-ban.md`
+
 ## 元数据 / 同步 episode
 - 首次来源索引：`memory/episodes/2026-09-13-sources-index.md`
 - 增量同步 2026-09-14：`memory/episodes/2026-09-14-sync.md`
@@ -155,4 +168,3 @@
 - 日常同步 2026-11-15 00:00 Asia/Shanghai（覆盖 11/14 周六：更正 11/13 SIVE→14.30、美股定盘；FI Sum 6.69；观察池数据日 11/13 已发（2 条）；Marvell SC26 官方演示稿；Altimeter/Atreides 致 NVDA 董事会信；周末无新收盘；无新助手 18；对话缺口仍在）：`memory/episodes/2026-11-14-midnight-sync.md`
 
 | 2026-11-15 对话补录（11/14） | memory/episodes/2026-11-15-transcript-catchup.md |
-| 2026-11-15 Muse 同步（11/15 日间：Sivers 收入模型 + Ayar/Jabil 核实 + NINGI 贸易核查 + 瑞典官方数据 + AXTI + 研究看板） | memory/episodes/2026-11-15-muse-sync.md |

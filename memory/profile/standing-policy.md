@@ -58,3 +58,26 @@
   3. **仍服从既有硬规则**：第一性原理 / 有价值 / 易懂（2026-10-08）、言简意赅（2026-10-02）、X 口语化但数字日期引语可核；X 公开读取与 Jev 质检照旧。
 - 适用范围：对话回复、日更稿、摘要、研究结论与同步通知。新建助手自动纳入时一并遵守。
 - **分发**：记忆系统已通知在册其余 **17** 个助手（在册合计 **18**）写入各自 profile；本条为 BotMemory 全局硬规则源。 〔引用：记忆系统对话 2026-10-23；用户指令「分发给所有机器人」〕
+
+## 双层结构（2026-11-15，Muse 落地）
+
+自 2026-11-15 起实行双层结构（用户 2026-11-15 选定方案 B）。本节与既有规则并行：既有规则继续有效，冲突处以本节为准。
+
+### agents/ 层——各助手自有空间
+
+- 每个助手拥有自己的目录 `memory/agents/<agent-id>/`，在里面自由写：每日日记 `YYYY-MM-DD.md`（一天一个文件）、看板变更记录 `artifact-<slug>-YYYY-MM-DD.md`（一次编辑一个文件）。
+- 各助手路径永不重叠，写操作互不干扰；**任何助手只写自己 `agents/<id>/` 下的文件，永不直写 `memory/themes/`、`memory/episodes/`、`memory/INDEX.md`**。
+- 新助手入册时即建 `memory/agents/<id>/`（含 README.md 与 INDEX.md），无需用户再提醒。
+
+### themes/ 层——精编层，只由精编者写
+
+- `memory/themes/` 为精编层：只收耐久结论——事实、决定、偏好、研究结论；不收每日流水与寒暄。
+- 只有精编者（当前为记忆系统）写 themes/；精编时从 `memory/agents/<id>/` 与 `memory/episodes/` 提炼，**条目引用必须指库内真实路径**（`memory/agents/<id>/...` 或 `memory/episodes/...`），不得引用库外本地路径（如 `agents/<uuid>/memory/...`、`/workspace/...`、`/home/box/...`）。
+- 精编者每天午夜例程合并各助手 agents/ 的新内容进 themes/，一次提交；各助手的日记仍是原始记录，不被改写。
+
+### 看板/空间变更登记
+
+- 每个空间（artifact）在 `memory/artifacts/` 登记：总表 `memory/artifacts/REGISTRY.md`（每空间一行：slug、名称、kind、创建日、最后更新、当前版本、最后编辑者、状态）+ 每空间一个文件 `memory/artifacts/<slug>.md`（头部：slug、名称、kind、创建日、最后更新、当前版本；`## 当前状态`为重写式摘要；`## 变更记录`按日期追加）。
+- 变更记录**必须由做编辑的助手在编辑当时写**：写进自己 agents/ 目录的 `artifact-<slug>-YYYY-MM-DD.md`（日期、助手、版本、改了什么、原因）。看板内容活在托管运行时里、夜间同步看不到内容 diff，事后补记只能写“版本变了”，不可靠。
+- 当日 episode/日记也记一行空间变更（例：“SIVE 研究看板 v1 新建，见 `memory/artifacts/sive-yan-jiu-kan-ban.md`”），使时间线可查。
+- 可选：静态看板（web_static）大版本更新时导出单文件 HTML 快照，存 `memory/artifacts/<slug>/snapshots/vN.html`；fullstack 看板无法导出，只记 changelog。
