@@ -591,3 +591,6 @@
 - (价格) 11/15 周日无新官方收盘；Yahoo 最后一根日线仍是 11/13，与昨夜官方定盘一致（SIVE 14.30、MU 778.31、NVDA 162.85 等），不重写收盘表。 〔引用：`memory/episodes/2026-11-15-midnight-sync.md`；交叉 sive〕
 - (FI) Sum **仍 6.69**，持仓日仍 11/13；List updated 仍 11/14 03:14。具名本轮未重核。 〔交叉 sive〕
 - (日历) NVDA 财报仍 **11/17**；SIVE Q3 仍 **11/26**。 〔交叉 us-macro〕
+
+## 2026-11-16 对话补录 / 覆盖 11/15（不改写官方收盘表）
+- (价格与日历只交叉) 11/15 周日无新官方收盘；SIVE 14.30 / AAOI 49.89 / NBIS 115.88 / AXTI 41.84 / MRVL 156.76 / LITE 596.62 仍对 11/13 定盘。NVDA 循环融资拆表见 us-macro。AAOI / MRVL / LITE 推导模型见 optical；AXTI / NBIS / SIVE 模型见各自主题，**不覆盖 Muse 已写入的事实段或 EV/S 表**。本窗内存无对话。 〔引用：`memory/episodes/2026-11-16-transcript-catchup.md`；交叉 us-macro / optical / `97a18d9`〕
