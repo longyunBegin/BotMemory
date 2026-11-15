@@ -6,3 +6,4 @@
 |------|------|------|--------|----------|----------|------------|------|
 | sive-yan-jiu-kan-ban | SIVE 研究看板 | web_static | 2026-11-15 | 2026-11-15 | v3 | Muse | 在用 |
 | aaoi-yan-jiu-kan-ban | AAOI 研究看板 | web_static | 2026-11-15 | 2026-11-15 | v1 | Muse | 在用 |
+| axti-yan-jiu-kan-ban | AXTI 研究看板 | web_static | 2026-11-15 | 2026-11-15 | v1 | Muse | 在用 |
