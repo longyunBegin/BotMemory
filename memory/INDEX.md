@@ -27,6 +27,8 @@
 | 副业接单 / 无流量变现需求调研 | `memory/themes/side-income-freelance.md` |
 | AGLT / Agility Robotics | `memory/themes/aglt-agility-robotics.md` |
 | ASTS / AST SpaceMobile | `memory/themes/asts-spacemobile.md` |
+| NBIS / Nebius Group | `memory/themes/nbis-nebius.md` |
+| AXTI / AXT | `memory/themes/axti-axt.md` |
 
 首次批量分类：2026-09-13
 
