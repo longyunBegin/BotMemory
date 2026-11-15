@@ -59,25 +59,55 @@
 - 适用范围：对话回复、日更稿、摘要、研究结论与同步通知。新建助手自动纳入时一并遵守。
 - **分发**：记忆系统已通知在册其余 **17** 个助手（在册合计 **18**）写入各自 profile；本条为 BotMemory 全局硬规则源。 〔引用：记忆系统对话 2026-10-23；用户指令「分发给所有机器人」〕
 
-## 双层结构（2026-11-15，Muse 落地）
+## 双层结构与多 Agent 操作规则（2026-11-15，Muse 落地；2026-11-15 修订为多 Agent 通则）
 
-自 2026-11-15 起实行双层结构（用户 2026-11-15 选定方案 B）。本节与既有规则并行：既有规则继续有效，冲突处以本节为准。
+自 2026-11-15 起实行双层结构（用户 2026-11-15 选定方案 B）。本节与既有规则并行：既有规则继续有效，冲突处以本节为准。**本节是所有助手操作 BotMemory 的总规则，后来的助手照此执行，无需再问用户。**
 
-### agents/ 层——各助手自有空间
+### 0. 总原则
+
+- 写路径隔离：每个助手只写自己名下的路径，共享文件只有一个写者或按排班错开写。
+- 只追加、不改写别人的旧行；更正靠追加“更正”条目，不删历史、不改写历史（禁止 force-push 与改写历史）。
+- 引用必须指库内真实路径；密钥、token、密码永不入库（库是公开的）。
+
+### 1. agents/ 层——各助手自有空间
 
 - 每个助手拥有自己的目录 `memory/agents/<agent-id>/`，在里面自由写：每日日记 `YYYY-MM-DD.md`（一天一个文件）、看板变更记录 `artifact-<slug>-YYYY-MM-DD.md`（一次编辑一个文件）。
-- 各助手路径永不重叠，写操作互不干扰；**任何助手只写自己 `agents/<id>/` 下的文件，永不直写 `memory/themes/`、`memory/episodes/`、`memory/INDEX.md`**。
-- 新助手入册时即建 `memory/agents/<id>/`（含 README.md 与 INDEX.md），无需用户再提醒。
+- agent-id 用小写短名（如 `muse`）；系统已有 UUID 的沿用 UUID。
+- 新助手入册时即建 `memory/agents/<id>/`（含 README.md 与 INDEX.md），同时在第 4 节排班表登记自己的同步时段，无需用户再提醒。
+- **任何助手只写自己 `agents/<id>/` 下的文件，永不写其他助手的 `agents/` 目录。**
 
-### themes/ 层——精编层，只由精编者写
+### 2. themes/ 层——精编层
 
 - `memory/themes/` 为精编层：只收耐久结论——事实、决定、偏好、研究结论；不收每日流水与寒暄。
-- 只有精编者（当前为记忆系统）写 themes/；精编时从 `memory/agents/<id>/` 与 `memory/episodes/` 提炼，**条目引用必须指库内真实路径**（`memory/agents/<id>/...` 或 `memory/episodes/...`），不得引用库外本地路径（如 `agents/<uuid>/memory/...`、`/workspace/...`、`/home/box/...`）。
-- 精编者每天午夜例程合并各助手 agents/ 的新内容进 themes/，一次提交；各助手的日记仍是原始记录，不被改写。
+- 精编写入规则：条目带日期，**引用必须指库内真实路径**（`memory/agents/<id>/...` 或 `memory/episodes/...`），不得引用库外本地路径（如 `agents/<uuid>/memory/...`、`/workspace/...`、`/home/box/...`）。更正旧事实时追加一条更正，不改旧行。
+- 谁精编：记忆系统负责在册助手（/home/box）的精编；**不在记忆系统覆盖范围内的助手，由自己在夜间运行里精编自己的内容进 themes/**（自精编），同样只追加、带库内引用。精编者对自己精编的条目负责。
 
-### 看板/空间变更登记
+### 3. episodes/ 与 INDEX.md
+
+- `memory/episodes/` 是记忆系统的每日流水（midnight-sync 与 transcript-catchup）；其他助手不写 episodes/，写自己的 agents/ 日记。
+- 主 `memory/INDEX.md` 只有新增主题文件、新增助手空间或新增看板登记时才改，平时不动；改动同样走第 5 节推送流程。各助手自己的目录索引放在自己 `agents/<id>/INDEX.md` 里。
+
+### 4. 同步排班——各助手错开写
+
+- 每个助手固定自己的夜间同步时段，时段之间至少间隔 10 分钟；入册时登记在下表，后来的助手选空闲时段并登记，不得与已有时段重叠。
+- 当前排班（Asia/Shanghai）：
+
+| 助手 | 时段 | 说明 |
+| --- | --- | --- |
+| 记忆系统 | 00:12、00:17 | 日常同步 + 对话补录 |
+| Muse | 00:30 | 日记 + 自精编 + 看板登记，一次提交 |
+
+- 同步失败或明显延迟：白天尽快 catchup，写出新 episode 或补记日记（沿用 2026-09-17 既有做法）。
+
+### 5. 推送规则
+
+- 每次推送前先读远端最新 tip，再基于该 tip 建提交；提交身份 `user.name=longyunBegin`、`user.email=1653812264@qq.com`；commit message 形如“日常同步 YYYY-MM-DD（<助手名>）：<要点>”。
+- 禁止 force-push 与改写历史。推送失败（tip 已移动）时重读 tip、重建一次；仍失败则留待次日并记一笔，不循环重试。
+- 推送后核对远端 main 的 SHA 与提交一致，才算落库。
+
+### 6. 看板/空间变更登记
 
 - 每个空间（artifact）在 `memory/artifacts/` 登记：总表 `memory/artifacts/REGISTRY.md`（每空间一行：slug、名称、kind、创建日、最后更新、当前版本、最后编辑者、状态）+ 每空间一个文件 `memory/artifacts/<slug>.md`（头部：slug、名称、kind、创建日、最后更新、当前版本；`## 当前状态`为重写式摘要；`## 变更记录`按日期追加）。
 - 变更记录**必须由做编辑的助手在编辑当时写**：写进自己 agents/ 目录的 `artifact-<slug>-YYYY-MM-DD.md`（日期、助手、版本、改了什么、原因）。看板内容活在托管运行时里、夜间同步看不到内容 diff，事后补记只能写“版本变了”，不可靠。
-- 当日 episode/日记也记一行空间变更（例：“SIVE 研究看板 v1 新建，见 `memory/artifacts/sive-yan-jiu-kan-ban.md`”），使时间线可查。
+- 当日日记也记一行空间变更（例：“SIVE 研究看板 v1 新建，见 `memory/artifacts/sive-yan-jiu-kan-ban.md`”），使时间线可查。
 - 可选：静态看板（web_static）大版本更新时导出单文件 HTML 快照，存 `memory/artifacts/<slug>/snapshots/vN.html`；fullstack 看板无法导出，只记 changelog。
