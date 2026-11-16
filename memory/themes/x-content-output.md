@@ -575,3 +575,7 @@
 
 ## 2026-11-16 日常同步（记忆系统；lyAtomic 展会日历长帖，官网页未打开）
 - (@lyAtomic **2122250441862082709**，2026-11-16T08:48:29Z) 长帖读 Sivers early-2027 events calendar，链到官网 `/events-calendar/`（本轮 **403**，摊位号与日期未能独立核）。转述四场：Photonics West 旧金山 2 月、UK Pavilion booth **5123**；MWC 巴塞罗那 **3/1–4**、Hall 5 booth **5E1**；SAT Show 华盛顿 booth **4142** 与 OFC 洛杉矶 booth **S-2641** 都在 **3/9–11**（称 2026 年这两场错开、2027 年叠日且两场都列了摊位）。作者读法：光互连与无线/卫星是两条客户和时间表不同的路径；摊位不是订单，下一步看能否变成送样、认证、量产订单和产品收入。本窗另有 0 条官号原帖。 〔引用：`memory/episodes/2026-11-17-midnight-sync.md`；交叉 sive〕
+
+## 2026-11-17 对话补录 / 覆盖 11/16
+- (草稿·未发，周一开盘前) SIVE Watch 写出中英主帖+回复，不自动发布。主帖重读 Compound Semiconductor，Chopra「别默认以前见报的合作都还在，也别默认最近签的关系都已经公开」；WIN 上次具名 2025-03-25，沉默不是散伙证据；Q3 在 11/26。回复讲格拉斯哥前道 + 后道外包、1 亿颗目标、70/100mW 旗舰与 200/400mW 需求方向。全文不入库。 〔引用：`memory/episodes/2026-11-17-transcript-catchup.md` A1；交叉 sive〕
+- (草稿·未发，展会长稿 08:46Z) 对照官网活动表与主办方议程的中英长草稿，**未自动发布**。四场与摊位号、以及「参展不等于拿单」的读法见 sive。不把该草稿等同稍后 @lyAtomic **2122250441862082709**，也不把摊位号写成记忆系统已独立核验。 〔引用：`memory/episodes/2026-11-17-transcript-catchup.md` A3；交叉 sive / `memory/episodes/2026-11-17-midnight-sync.md`〕

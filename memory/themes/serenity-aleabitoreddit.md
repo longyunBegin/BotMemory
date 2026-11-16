@@ -789,3 +789,6 @@ Serenity 自己抓的最重要更新：**Innolight 渠道核实明确 70–200mW
 - (Serenity **2122306534772519308**) 转述 TrendForce：MLCC 交期拉长、40W「very tight」；并举 AMD MI450 某料用量 +**632%**。她的判断是瓶颈件需求仍可能加速，不要把 2027 年后可能的 capex 降温与单机含量上升混为一谈。**未打开 TrendForce 原件。** 跟帖 **2122310769484398790** 称市场对 GPU/ODM/设备与上游激光、MLCC、基板「一视同仁」地杀估值，是她的分层读法，不是数据。 〔引用：同上〕
 - (Serenity **2122046823934407066**，2026-11-15T19:19:23Z) 引 FT「Jensen Huang discusses comeback as Nvidia CEO」，并配「redemption arc」个人判断。**未打开 FT**。这不是 NVIDIA 官方声明，也不改变 11/12 交接稿与 **11/17** 财报日程。 〔引用：同上；交叉 us-macro〕
 - (不升格) 本轮未跑 Jev。dizaq1 对 WIN 的猜测见 sive，不在此重复为事实。
+
+## 2026-11-17 对话补录 / 覆盖 11/16
+- (Modine / Rockley 与 AXTI 积压，再次蒸馏只补边界) Research pos 878 再次出现 **2121221289440665737** 与 **2121232045947134093**。三星洽购 Modine、Digitimes 所称 Rockley 专利、以及「2027 光引擎/PIC、2029 CPO 服务」，已在 11/13 午夜/补录薄记——不重抄成新发现。前两则应对原文；2027/2029 是 reportedly，不是已落地产能或订单。AXTI 积压与 18.8 倍口径须对照公司披露，见 axti。SIVE 窗口 / Soitec 小卡点只交叉昨夜或午夜。 〔引用：`memory/episodes/2026-11-17-transcript-catchup.md` C；https://x.com/aleabitoreddit/status/2121221289440665737 ；交叉 11/13 段 / axti〕

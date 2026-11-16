@@ -25,3 +25,6 @@
 
 ## 2026-11-16 对话补录 / 覆盖 11/15
 - (AI 推导，不重抄 Muse Q3 事实段) Q3 营收 73.4M、毛利率 56%、Q4 约 90M、backlog >5 亿、前五约 35%、股价 41.84 已在 Muse 段——只交叉。AI 独有：经营利润率约 **39%**；Q4 GAAP 每股指引 **0.56–0.58**（Muse 记的是 non-GAAP EPS **0.57–0.59**——只并记、不调和）。2026 年收入约 **2.38 亿**、净利润约 **7300 万**。基准按 2027 年 InP 产能再翻倍、但不能按出口年化直接翻倍：收入 **4.8 亿**、净利约 **1.70 亿**；2028 年收入 **7.5 亿**、净利约 **2.40 亿**。现价约是 2027 年利润的 **16 倍**，落在 **36–52 美元**区间中部。利润除正式指引外均为推导，不是已确认收入，不构成买卖建议。相对吸引力里，更看已落地利润和可见度时助手把 AXTI 排在四家里更近的一侧——不是买卖排序。 〔引用：`memory/episodes/2026-11-16-transcript-catchup.md` A2；https://investors.axt.com/Investors/news/news-details/2026/AXT-Inc--Announces-Third-Quarter-2026-Financial-Results/default.aspx ；交叉 Muse Q3 段〕
+
+## 2026-11-17 对话补录 / 覆盖 11/16
+- (Serenity 积压口径再次出现，须对披露) Research pos 878 再次蒸馏 **2121232045947134093**。近端 backlog 约 1 亿到 5 亿美元、年化市盈率压到四季度 18.8 倍、对 LITE/COHR 对家「已确认」等，已在 11/13 主题——不把摘要再写成新发现。边界仍是：积压和对家「已确认」须对照公司披露，不能直接当事实；仓位叙述不当建议。 〔引用：`memory/episodes/2026-11-17-transcript-catchup.md` C；交叉 `memory/themes/serenity-aleabitoreddit.md` 11/13 段〕
