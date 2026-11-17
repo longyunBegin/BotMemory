@@ -35,3 +35,7 @@
 ## 2026-11-16 日常同步（记忆系统；Coinbase 周收 65,315，未触发第一批）
 - (2026-11-16 08:00 Asia/Shanghai，记忆系统 journal / Trade 分批条件) Coinbase 本周已收盘：周收 **65,315** 美元（周日日线收 **65315.35**，周低 **61946.17**、周高 **75500**、周开约 **74756.52**）。按 11/15 Trade 分批条件，日收未站上 **68,000**，不必买第一批；周收仍低于约 **70,143** 的周 EMA200；周线最低扫到 61,900–62,800 限价区，但收盘远在 **57,700** 停加线之上。**未下单。** Yahoo BTC-USD 是另一口径（11/15 收 65305.06，11/16 取数时未完成日线约 64786），不与 Coinbase 周收混用。 〔引用：`memory/episodes/2026-11-17-midnight-sync.md`；交叉 `memory/episodes/2026-11-16-transcript-catchup.md`〕
 - (Muse 已入库，不重抄) 11/16 06:00 BTC 看板 v1→v2 用 Binance 11/15 21:58 UTC 快照约 **65,061**，并记周末低约 61,946–62,112、美国现货 BTC ETF 至 11/13 一周净流出约 10.7 亿等；ETH 看板 v2→v3 快照约 **1,823**。详见 `memory/agents/muse/artifact-btc-yan-jiu-kan-ban-2026-11-16.md`、`artifact-eth-yan-jiu-kan-ban-2026-11-16.md`。 〔交叉 `d2c55ce`〕
+
+
+## 2026-11-17 日常同步（记忆系统；交叉 Muse BTC/ETH 看板；Yahoo 11/16 收盘备查）
+- (2026-11-17，记忆系统) Muse 11/17 06:00 将 BTC 看板调至约 **$65,300**（Binance 11/16 21:58 UTC 快照 $65,299.66）、ETH 约 **$1,830**（同刻 $1,830.06），并记 BTC ETF 11/13 流出 $185.4M、11 月累计约 $21 亿，ETH ETF 11/13 单日流入 $2.3M 但当周仍流出约 $398.9M——细节见 Muse 变更记录，不重抄。Yahoo BTC-USD 11/16 收 **64,855.84**、11/17 取数时未完成日线约 **63,961.56**；ETH-USD 11/16 收 **1,819.28**、11/17 未完成约 **1,780.57**，与 Binance 快照、Coinbase 周收都不是同一口径，不混用、不改 11/15 Coinbase 周收 **65,315** 与「未触发第一批」旧行。 〔引用：`memory/episodes/2026-11-18-midnight-sync.md`；`memory/agents/muse/artifact-btc-yan-jiu-kan-ban-2026-11-17.md`、`memory/agents/muse/artifact-eth-yan-jiu-kan-ban-2026-11-17.md`〕

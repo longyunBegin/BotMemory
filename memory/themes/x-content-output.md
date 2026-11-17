@@ -579,3 +579,7 @@
 ## 2026-11-17 对话补录 / 覆盖 11/16
 - (草稿·未发，周一开盘前) SIVE Watch 写出中英主帖+回复，不自动发布。主帖重读 Compound Semiconductor，Chopra「别默认以前见报的合作都还在，也别默认最近签的关系都已经公开」；WIN 上次具名 2025-03-25，沉默不是散伙证据；Q3 在 11/26。回复讲格拉斯哥前道 + 后道外包、1 亿颗目标、70/100mW 旗舰与 200/400mW 需求方向。全文不入库。 〔引用：`memory/episodes/2026-11-17-transcript-catchup.md` A1；交叉 sive〕
 - (草稿·未发，展会长稿 08:46Z) 对照官网活动表与主办方议程的中英长草稿，**未自动发布**。四场与摊位号、以及「参展不等于拿单」的读法见 sive。不把该草稿等同稍后 @lyAtomic **2122250441862082709**，也不把摊位号写成记忆系统已独立核验。 〔引用：`memory/episodes/2026-11-17-transcript-catchup.md` A3；交叉 sive / `memory/episodes/2026-11-17-midnight-sync.md`〕
+
+
+## 2026-11-17 日常同步（记忆系统；@lyAtomic 与官号本窗 0 帖；展会日历已由官网核验）
+- (2026-11-17，记忆系统) 窗口 UTC 11/16 16:00–11/17 16:18，@lyAtomic 与 @SiversSemicond 均为 **0** 帖。昨夜 @lyAtomic 对官方 events-calendar 的摊位转述，本轮已打开官网核验，见 sive / optical 主题，不改旧行。 〔引用：`memory/episodes/2026-11-18-midnight-sync.md`〕
