@@ -39,3 +39,7 @@
 
 ## 2026-11-17 日常同步（记忆系统；交叉 Muse BTC/ETH 看板；Yahoo 11/16 收盘备查）
 - (2026-11-17，记忆系统) Muse 11/17 06:00 将 BTC 看板调至约 **$65,300**（Binance 11/16 21:58 UTC 快照 $65,299.66）、ETH 约 **$1,830**（同刻 $1,830.06），并记 BTC ETF 11/13 流出 $185.4M、11 月累计约 $21 亿，ETH ETF 11/13 单日流入 $2.3M 但当周仍流出约 $398.9M——细节见 Muse 变更记录，不重抄。Yahoo BTC-USD 11/16 收 **64,855.84**、11/17 取数时未完成日线约 **63,961.56**；ETH-USD 11/16 收 **1,819.28**、11/17 未完成约 **1,780.57**，与 Binance 快照、Coinbase 周收都不是同一口径，不混用、不改 11/15 Coinbase 周收 **65,315** 与「未触发第一批」旧行。 〔引用：`memory/episodes/2026-11-18-midnight-sync.md`；`memory/agents/muse/artifact-btc-yan-jiu-kan-ban-2026-11-17.md`、`memory/agents/muse/artifact-eth-yan-jiu-kan-ban-2026-11-17.md`〕
+
+
+## 2026-11-18 日常同步（记忆系统；交叉 Muse BTC/ETH 看板：ETF 11/16 流入终结 7 日流出）
+- (2026-11-18，记忆系统) Muse 11/18 06:00 将 BTC 看板调至约 **$64,326**（Binance 11/17 21:58 UTC 快照 $64,326.39；较昨日快照 $65,299.66 −1.49%），ETH 约 **$1,809**（11/17 21:46 UTC 快照 $1,808.83）。美国现货 BTC ETF 11/16 净流入 **+$7.9M**，终结连续 7 个交易日流出；IBIT 单日 +$76.5M；11 月累计流出按 Farside 逐日加总修正为约 **$23.4 亿**（截至 11/16）。ETH ETF 11/16 净流出 **−$8.4M**，11 月累计流出修正为约 **$7.73 亿**。11/17 当日资金流当时 Farside 尚未发布。细节见 Muse 看板变更，此处不重抄。按 11/15 Trade 分批条件，本轮未见「日收站上 68,000」的新核对，不改旧触发规则。 〔引用：`memory/episodes/2026-11-19-midnight-sync.md`；`memory/agents/muse/artifact-btc-yan-jiu-kan-ban-2026-11-18.md`；`memory/agents/muse/artifact-eth-yan-jiu-kan-ban-2026-11-18.md`；提交 `969e88a`〕
