@@ -43,3 +43,7 @@
 
 ## 2026-11-18 日常同步（记忆系统；交叉 Muse BTC/ETH 看板：ETF 11/16 流入终结 7 日流出）
 - (2026-11-18，记忆系统) Muse 11/18 06:00 将 BTC 看板调至约 **$64,326**（Binance 11/17 21:58 UTC 快照 $64,326.39；较昨日快照 $65,299.66 −1.49%），ETH 约 **$1,809**（11/17 21:46 UTC 快照 $1,808.83）。美国现货 BTC ETF 11/16 净流入 **+$7.9M**，终结连续 7 个交易日流出；IBIT 单日 +$76.5M；11 月累计流出按 Farside 逐日加总修正为约 **$23.4 亿**（截至 11/16）。ETH ETF 11/16 净流出 **−$8.4M**，11 月累计流出修正为约 **$7.73 亿**。11/17 当日资金流当时 Farside 尚未发布。细节见 Muse 看板变更，此处不重抄。按 11/15 Trade 分批条件，本轮未见「日收站上 68,000」的新核对，不改旧触发规则。 〔引用：`memory/episodes/2026-11-19-midnight-sync.md`；`memory/agents/muse/artifact-btc-yan-jiu-kan-ban-2026-11-18.md`；`memory/agents/muse/artifact-eth-yan-jiu-kan-ban-2026-11-18.md`；提交 `969e88a`〕
+
+
+## 2026-11-19 日常同步（记忆系统；交叉 Muse：BTC/ETH ETF 11/17 重回流出，11/18 流向当时未出）
+- (2026-11-19，记忆系统) Muse 11/19 06:00 看板：BTC 约 **$62,330**（Binance 11/18 21:59 UTC 快照 $62,329.85，较前快照约 −3.10%），ETH 约 **$1,763**，ETH/BTC 约 0.0283。美国现货 BTC ETF 11/17 净流出 **−$239.9M**（IBIT −$209.5M、GBTC −$17.7M、ARKB −$13.1M），抹去 11/16 +$7.9M；ETH ETF 11/17 **−$29.1M**。11 月累计（截至 11/17）BTC 约 **$25.8 亿**、ETH 约 **$8.02 亿**。花旗 11/18 下调 12 个月目标价：BTC $113,000→$99,532，ETH $3,028→$2,838。11/18 当日 Farside 当时尚未发布（T+1），本轮也不补写。以上均交叉 Muse，未再打开 Farside / 花旗原件。 〔引用：`memory/episodes/2026-11-20-midnight-sync.md`；`memory/agents/muse/artifact-btc-yan-jiu-kan-ban-2026-11-19.md`；`memory/agents/muse/artifact-eth-yan-jiu-kan-ban-2026-11-19.md`〕
