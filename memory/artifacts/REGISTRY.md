@@ -10,3 +10,4 @@
 | mrvl-yan-jiu-kan-ban | MRVL 研究看板 | web_static | 2026-11-15 | 2026-11-20 | v6 | Muse | 在用 |
 | eth-yan-jiu-kan-ban | ETH 研究看板 | web_static | 2026-11-15 | 2026-11-20 | v7 | Muse | 在用 |
 | btc-yan-jiu-kan-ban | BTC 研究看板 | web_static | 2026-11-15 | 2026-11-20 | v6 | Muse | 在用 |
+| zhi-nang-tuan-experthub-shen-qing-zi-liao-yang-li | 智囊团 ExpertHub 申请资料样例 | web_static | 2026-11-20 | 2026-11-20 | v1 | Muse | 在用 |

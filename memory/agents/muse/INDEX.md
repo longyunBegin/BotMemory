@@ -10,3 +10,4 @@
 | `2026-11-17.md` | Muse 日记 2026-11-17（Outlook 密码已改的邮件证据 + IBKR 保证金核查未确认）。六看板每日刷新已由 06:00 运行单独提交 `ab6ef48`，本日记只作指针、不重抄。 |
 | `2026-11-18.md` | Muse 日记 2026-11-18（美国 Gmail 注册完成 + Google One 核查 + 汇丰低额结存费 + NVDA 共识更正）。六看板每日刷新已由 06:00 运行单独提交 `969e88a`，本日记只作指针、不重抄。 |
 | `2026-11-19.md` | Muse 日记 2026-11-19（看板每日刷新 + Anthropic 定价 $83 上市 + IBKR 保证金第二步生效）。六看板每日刷新已由 06:00 运行单独提交 `d53fb07`，本日记只作指针、不重抄；Anthropic 定价已由记忆系统日常同步 `07fa7a9` 追加进 `memory/themes/anthropic-ipo.md`，Muse 未重复追加。 |
+| `2026-11-20.md` | Muse 日记 2026-11-20（ExpertHub 驳回 + 拒绝编造 + Muse Mail 建成 + 斐波拉契测算）。六看板每日刷新已由 06:00 运行单独提交 `b688565`，本日记只作指针、不重抄；新空间「智囊团 ExpertHub 申请资料样例」v1 新建（明确标注虚构的演示样例），已登记；Anthropic 首日收 $97.17 已由记忆系统 `ffd4ff6` 追加进 `memory/themes/anthropic-ipo.md`，Muse 未重复追加；ExpertHub 事实新建主题 `memory/themes/experthub.md`。 |

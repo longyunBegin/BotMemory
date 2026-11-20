@@ -31,6 +31,7 @@
 | AXTI / AXT | `memory/themes/axti-axt.md` |
 | MU / Micron 美光 | `memory/themes/micron.md` |
 | Anthropic / ANT IPO | `memory/themes/anthropic-ipo.md` |
+| 腾讯智囊团 ExpertHub 入驻审核 | `memory/themes/experthub.md` |
 
 首次批量分类：2026-09-13
 
