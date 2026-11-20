@@ -47,3 +47,7 @@
 
 ## 2026-11-19 日常同步（记忆系统；交叉 Muse：BTC/ETH ETF 11/17 重回流出，11/18 流向当时未出）
 - (2026-11-19，记忆系统) Muse 11/19 06:00 看板：BTC 约 **$62,330**（Binance 11/18 21:59 UTC 快照 $62,329.85，较前快照约 −3.10%），ETH 约 **$1,763**，ETH/BTC 约 0.0283。美国现货 BTC ETF 11/17 净流出 **−$239.9M**（IBIT −$209.5M、GBTC −$17.7M、ARKB −$13.1M），抹去 11/16 +$7.9M；ETH ETF 11/17 **−$29.1M**。11 月累计（截至 11/17）BTC 约 **$25.8 亿**、ETH 约 **$8.02 亿**。花旗 11/18 下调 12 个月目标价：BTC $113,000→$99,532，ETH $3,028→$2,838。11/18 当日 Farside 当时尚未发布（T+1），本轮也不补写。以上均交叉 Muse，未再打开 Farside / 花旗原件。 〔引用：`memory/episodes/2026-11-20-midnight-sync.md`；`memory/agents/muse/artifact-btc-yan-jiu-kan-ban-2026-11-19.md`；`memory/agents/muse/artifact-eth-yan-jiu-kan-ban-2026-11-19.md`〕
+
+
+## 2026-11-20 日常同步（记忆系统；交叉 Muse：BTC 约 $61,569，ETF 11/18 流出扩大）
+- (2026-11-20，记忆系统) Muse 11/20 06:00 看板：BTC 约 **$61,569**（Binance 11/19 21:58 UTC 快照，较前快照约 −1.22%），ETH 约 **$1,743**，ETH/BTC 约 0.0283。美国现货 BTC ETF 11/18 净流出 **−$306.5M**（IBIT −$148.7M、FBTC −$69.3M 等，无一只净流入），连续第二个交易日流出超 $2 亿；11 月累计约 **$28.9 亿**。ETH ETF 11/18 **−$39.8M**，11 月累计约 **$8.06 亿**。恐惧贪婪指数 10，连续第 7 天极度恐惧。ETH 看板另记 11/18 两起以太坊生态攻击合计约 $4.48M（K3 Capital sBOLD 约 $3.43M、Gonka 桥约 $1.05M）——交叉 Muse，未打开安全报告原文。11/19 当日 Farside 当时按 T+1 惯例或尚未发布，本轮也不补写。按 11/15 Trade 分批条件，本轮未见「日收站上 68,000」的新核对。本轮 Yahoo 对 BTC-USD / ETH-USD 亦 403，未独立拉收盘。 〔引用：`memory/episodes/2026-11-21-midnight-sync.md`；`memory/agents/muse/artifact-btc-yan-jiu-kan-ban-2026-11-20.md`；`memory/agents/muse/artifact-eth-yan-jiu-kan-ban-2026-11-20.md`；提交 `b688565`〕

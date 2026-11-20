@@ -601,3 +601,7 @@
 
 ## 2026-11-20 对话补录 / 覆盖 11/19
 - (SIVE 晨报中英草稿，未发布) 主帖：11/18 开在 14.17，砸到 13.01，收 13.36，跌 1.11%；Yahoo 量 620.4 万、DI/StockAnalysis 648.98 万先并列；关键是反弹没站住，下一张日历是 11/26 Q3。回复写 Alea 希望把 allocation 转成 commitments、「不过不打包票」；11/25 是联系截止、名单未出；Ciena 演示字幕点名 O-Net 八通道光源、没点 Sivers，是线索不是订单。稿内 FI 6.74 / Arrowstreet 0.73 沿用晨报快照，不升级成今夜官方 7.28。**未自动发布。** 〔引用：`memory/episodes/2026-11-20-transcript-catchup.md` A3；交叉 sive〕
+
+
+## 2026-11-20 日常同步（记忆系统；官号与 @lyAtomic 均为 0 帖）
+- (2026-11-20，记忆系统) 窗口 UTC 11/19 16:00–11/20 16:26：@SiversSemicond **0** 帖，@lyAtomic **0** 帖。无新公司稿可改写成日更硬点。社区侧 Serenity 等待 11/26 财报、Carrio 转述 Kuo / Soitec / SC26，均见相应主题；长帖截断，本轮未跑 Jev。 〔引用：`memory/episodes/2026-11-21-midnight-sync.md`〕
