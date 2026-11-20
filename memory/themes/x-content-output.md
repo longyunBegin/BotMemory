@@ -605,3 +605,6 @@
 
 ## 2026-11-20 日常同步（记忆系统；官号与 @lyAtomic 均为 0 帖）
 - (2026-11-20，记忆系统) 窗口 UTC 11/19 16:00–11/20 16:26：@SiversSemicond **0** 帖，@lyAtomic **0** 帖。无新公司稿可改写成日更硬点。社区侧 Serenity 等待 11/26 财报、Carrio 转述 Kuo / Soitec / SC26，均见相应主题；长帖截断，本轮未跑 Jev。 〔引用：`memory/episodes/2026-11-21-midnight-sync.md`〕
+
+## 2026-11-21 对话补录 / 覆盖 11/20
+- (SIVE 晨报中英草稿，未发布) 主帖：连跌五天后 11/19 收阳 13.69、+2.47%，开 13.80、高 14.46、低 13.57 没破前收，但高点没站住；Yahoo 量 495 万、DI / StockAnalysis 501 万先并列。回复写 Alea 未再点名、Soitec 12 亿是多年预留、Coherent 最多 20 亿美元回购是同行情绪；Pep 预览与 CRDO 5/10 中期选项都不是订单。稿内 FI 7.28 沿用晨报快照。**未自动发布。** 〔引用：`memory/episodes/2026-11-21-transcript-catchup.md` A1；交叉 sive〕
