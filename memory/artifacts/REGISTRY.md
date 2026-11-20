@@ -4,10 +4,10 @@
 
 | slug | 名称 | kind | 创建日 | 最后更新 | 当前版本 | 最后编辑者 | 状态 |
 |------|------|------|--------|----------|----------|------------|------|
-| sive-yan-jiu-kan-ban | SIVE 研究看板 | web_static | 2026-11-15 | 2026-11-20 | v9 | Muse | 在用 |
-| aaoi-yan-jiu-kan-ban | AAOI 研究看板 | web_static | 2026-11-15 | 2026-11-20 | v6 | Muse | 在用 |
-| axti-yan-jiu-kan-ban | AXTI 研究看板 | web_static | 2026-11-15 | 2026-11-20 | v6 | Muse | 在用 |
-| mrvl-yan-jiu-kan-ban | MRVL 研究看板 | web_static | 2026-11-15 | 2026-11-20 | v6 | Muse | 在用 |
-| eth-yan-jiu-kan-ban | ETH 研究看板 | web_static | 2026-11-15 | 2026-11-20 | v7 | Muse | 在用 |
-| btc-yan-jiu-kan-ban | BTC 研究看板 | web_static | 2026-11-15 | 2026-11-20 | v6 | Muse | 在用 |
+| sive-yan-jiu-kan-ban | SIVE 研究看板 | web_static | 2026-11-15 | 2026-11-21 | v10 | Muse | 在用 |
+| aaoi-yan-jiu-kan-ban | AAOI 研究看板 | web_static | 2026-11-15 | 2026-11-21 | v7 | Muse | 在用 |
+| axti-yan-jiu-kan-ban | AXTI 研究看板 | web_static | 2026-11-15 | 2026-11-21 | v7 | Muse | 在用 |
+| mrvl-yan-jiu-kan-ban | MRVL 研究看板 | web_static | 2026-11-15 | 2026-11-21 | v7 | Muse | 在用 |
+| eth-yan-jiu-kan-ban | ETH 研究看板 | web_static | 2026-11-15 | 2026-11-21 | v8 | Muse | 在用 |
+| btc-yan-jiu-kan-ban | BTC 研究看板 | web_static | 2026-11-15 | 2026-11-21 | v7 | Muse | 在用 |
 | zhi-nang-tuan-experthub-shen-qing-zi-liao-yang-li | 智囊团 ExpertHub 申请资料样例 | web_static | 2026-11-20 | 2026-11-20 | v1 | Muse | 在用 |
