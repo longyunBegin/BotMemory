@@ -612,3 +612,6 @@
 ## 2026-11-21 对话补录 / 覆盖 11/20
 - (Alea 光互连长帖：省电与池化是机制推演) [2123588783753048553](https://x.com/aleabitoreddit/status/2123588783753048553)（11/20 09:26 新加坡时间）。即便总资本开支放缓，只要机房卡在供电和内存，光互连仍有结构性需求。Lambda 口径：CPO 交换机省下的功耗在中型集群约等价多出约 **4.5%** 的 GPU，原图也注明省电不会自动变成新装 GPU。Marvell 材料：光互连池化最多可减少约 **30%** HBM4 需求，改用更便宜的 DDR5/CXL。她更偏向激光器、光纤阵列、调制器和光引擎，而不是低端 400G/800G 组装；「若中国对 3.2T 以上出口受限会抬高非中系溢价」是判断，不是已发生的限制。Soitec 被写成「一季签下 12 亿美元」，官方仍是**多年产能预留，不是当季或当年收入**——不覆盖昨夜已核口径。Coherent 约 200 亿美元长约与 Lumentum 2029 产能售罄是再次援引，并非新订单。未点名 Sivers，不改她的 2028 路径。 〔引用：`memory/episodes/2026-11-21-transcript-catchup.md` B1、A3〕
 - (COHR 批准最高 20 亿美元回购授权) [2123401652782923980](https://x.com/aleabitoreddit/status/2123401652782923980)。可核对的官方事实：Coherent 董事会于 11 月 18 日批准最高 **20 亿美元**股份回购授权，**无固定期限、不强制买满、也可随时暂停**。本质是资金使用授权上限，不等同于必须执行的买盘。约 200 亿美元 LTA 本轮未对公告核对，不当作已核实。 〔引用：同上 B1〕
+
+## 2026-11-22 对话补录 / 覆盖 11/21
+- (Ayar SuperNova：提问与未点名测试数据，不是供货证据) @Sofigoodboy [问](https://x.com/Sofigoodboy/status/2123922001551380841) $SIVE 是否在 Ayar SuperNova 里——这是提问，不是供货证据。@SemiAnalysis_ [Ayar SuperNova ELSFP 测试数据](https://x.com/SemiAnalysis_/status/2123823657747087852)（>100 个激光单元、50°C、−20 dB 反射等）**未点名 SIVE**，不能写成 Sivers 在该方案里。Pep 把 $GFS 名录里 Lightmatter 与 Sivers 放在一起看，他自己写明是在追线索、不是已授单。 〔引用：`memory/episodes/2026-11-22-transcript-catchup.md` A5〕

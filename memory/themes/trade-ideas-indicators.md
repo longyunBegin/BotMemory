@@ -370,3 +370,6 @@
 
 ## 2026-11-22 日常同步（记忆系统；观察池数据日 11/20 本地已出、邮箱仍未见发信）
 - (2026-11-22，记忆系统) 本地 trade 仓库 scan.md 已写成「观察池日报 2026-11-20」（mtime 2026-11-21 09:55 Asia/Shanghai）。「今日变化」：MU、SNDK、SIVE.ST、MSFT、MRVL、IBKR、AAOI、DRAM 新跌破近低，GOOGL 相对 QQQ 转强。价格以同日 Yahoo 日线为准（见 trading-holdings / 本轮 episode），不以该表覆盖官方收盘。Gmail 检索 after:2026/11/13 与 11/16–11/20 精确标题，**均未见发信**；最新仍是数据日 **11/13** 的 `1a1d7c24c2fce00b`。11/16–11/19 未发缺口沿用既有记录，不臆造 11/20 未发原因。trade tip 仍 `679ffe9`，本地脏、不推仓库。 〔引用：`memory/episodes/2026-11-22-midnight-sync.md`〕
+
+## 2026-11-22 对话补录 / 覆盖 11/21
+- (观察池薄补：九条新信号与连续第五天) 数据日 11/20「本地已出、邮箱未见发信」午夜已记，只交叉，不重报故障，不把本地稿写成已送达，不入库任何邮箱或本地路径。云服务补记：发信审批过期未确认，**已连续第五天未送达**。今日变化 **9** 条：MU、SNDK、SIVE.ST、MSFT、MRVL、IBKR、AAOI、DRAM **新跌破近低**；GOOGL 相对 QQQ 转强。若要补发，需用户在该聊天说「重发」；本条不代为补发。 〔引用：`memory/episodes/2026-11-22-transcript-catchup.md` B；交叉 `memory/episodes/2026-11-22-midnight-sync.md`〕
