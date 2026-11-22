@@ -615,3 +615,7 @@
 
 ## 2026-11-22 对话补录 / 覆盖 11/21
 - (Ayar SuperNova：提问与未点名测试数据，不是供货证据) @Sofigoodboy [问](https://x.com/Sofigoodboy/status/2123922001551380841) $SIVE 是否在 Ayar SuperNova 里——这是提问，不是供货证据。@SemiAnalysis_ [Ayar SuperNova ELSFP 测试数据](https://x.com/SemiAnalysis_/status/2123823657747087852)（>100 个激光单元、50°C、−20 dB 反射等）**未点名 SIVE**，不能写成 Sivers 在该方案里。Pep 把 $GFS 名录里 Lightmatter 与 Sivers 放在一起看，他自己写明是在追线索、不是已授单。 〔引用：`memory/episodes/2026-11-22-transcript-catchup.md` A5〕
+
+## 2026-11-23 对话补录 / 覆盖 11/22
+- (8 通道阵列规格书与 Q2 送样口述并行) @StormDirac 出示的已刊 **8 Channel DFB Array** 规格：典型光功率 **100 mW**（Tsub 45–55°C，If 300–350 mA），LW 最大 10 MHz，RIN 典型 −150 dB/Hz；他说对不上流传的 200 mW / LW 数据。[2124125461949059230](https://x.com/StormDirac/status/2124125461949059230)。同日他又贴出 Q2 纪要：需求是 200 mW 单管或 100 mW 阵列，**both of which we are sampling as we speak**。[2124216687939473470](https://x.com/StormDirac/status/2124216687939473470)。公开规格停在典型 100 mW，200 mW 单管当时被说成正在送样，两条机制可并存；不能用规格书否定送样口述，也不能用口述当成已量产。这是已刊规格与已有纪要的重贴，不是新订单。语境里的 Ayar SuperNova ELSFP 测试帖仍未点名 Sivers，不能写成 Sivers 在该方案里（交叉昨夜补录）。 〔引用：`memory/episodes/2026-11-23-transcript-catchup.md` A2〕
+- (Ciena Vesta 200 官方字幕仍是 O-Net 八通道) @dizaq1 的「西方大客户综述」配图是 Ciena 11/13 演示 1:08 处「external laser source from O-Net, with eight channels」，以及没有名单的问句海报；作者随后写明没有任何确认。与 11/18 已核口径一致，不能写成 Sivers 已供货。[2124221960712605788](https://x.com/dizaq1/status/2124221960712605788)。 〔引用：同上 A3〕
