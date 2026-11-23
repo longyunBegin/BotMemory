@@ -619,3 +619,8 @@
 ## 2026-11-23 对话补录 / 覆盖 11/22
 - (8 通道阵列规格书与 Q2 送样口述并行) @StormDirac 出示的已刊 **8 Channel DFB Array** 规格：典型光功率 **100 mW**（Tsub 45–55°C，If 300–350 mA），LW 最大 10 MHz，RIN 典型 −150 dB/Hz；他说对不上流传的 200 mW / LW 数据。[2124125461949059230](https://x.com/StormDirac/status/2124125461949059230)。同日他又贴出 Q2 纪要：需求是 200 mW 单管或 100 mW 阵列，**both of which we are sampling as we speak**。[2124216687939473470](https://x.com/StormDirac/status/2124216687939473470)。公开规格停在典型 100 mW，200 mW 单管当时被说成正在送样，两条机制可并存；不能用规格书否定送样口述，也不能用口述当成已量产。这是已刊规格与已有纪要的重贴，不是新订单。语境里的 Ayar SuperNova ELSFP 测试帖仍未点名 Sivers，不能写成 Sivers 在该方案里（交叉昨夜补录）。 〔引用：`memory/episodes/2026-11-23-transcript-catchup.md` A2〕
 - (Ciena Vesta 200 官方字幕仍是 O-Net 八通道) @dizaq1 的「西方大客户综述」配图是 Ciena 11/13 演示 1:08 处「external laser source from O-Net, with eight channels」，以及没有名单的问句海报；作者随后写明没有任何确认。与 11/18 已核口径一致，不能写成 Sivers 已供货。[2124221960712605788](https://x.com/dizaq1/status/2124221960712605788)。 〔引用：同上 A3〕
+
+
+## 2026-11-23 Muse 日记（CPO 大周期时间轴；Ayar 进度对照）
+- (2026-11-23，Muse) **CPO 大周期时间轴（检索核实）**：TrendForce 称 2026 为 CPO 量产元年、2027–2028 为大规模采购窗口、更有意义的放量在 2028–2029；Wells Fargo OFC'26 总结称 2028 才是更广泛 CPO 采用、2027 重点为 NPO/XPO 与 Vera Rubin Ultra 初期 scale-up CPO；Lumentum/Coherent 口径为 scale-out 收入 2026H2 起、scale-up 大批量激光出货 2027H2 对应 2028 部署，Lumentum 已获首个 ELS 模块订单、2027H2 交货。 〔引用：`memory/agents/muse/2026-11-23.md`〕
+- (2026-11-23，Muse) **Ayar 进度与周期对照**：Ayar 2025-08 完成 EVT、仍在 DVT，量产认证目标 2027 年底，客户爬坡 2028–2029（CEO Wade 对 Reuters 称须 2027 年底前完成量产认证以赶上客户 2028–2029 增产计划）。按行业日历未出局、卡在点上，但比其 2024-12 合作公告暗示的 18–24 个月爬坡窗口（2026 年中至年底）已晚，容错为零——2027 年底认证若再拖一季将直撞 2028 部署窗口，且 2028 亦是 MACOM 以 merchant 身份进入 CW 激光器市场的目标年。Jabil 赛道是 1.6T 可插拔/LRO 而非纯 CPO，Beta Q4 2026→订单 H1 2027→爬坡 H2 2027 卡在 1.6T 窗口内，拖 6 个月即错过头班车。 〔引用：同上〕
